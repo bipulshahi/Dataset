@@ -1,1501 +1,1501 @@
 Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
-B-25681,1096,658,7,Electronics,Electronic Games,COD
-B-26055,5729,64,14,Furniture,Chairs,EMI
-B-25955,2927,146,8,Furniture,Bookcases,EMI
-B-26093,2847,712,8,Electronics,Printers,Credit Card
-B-25602,2617,1151,4,Electronics,Phones,Credit Card
-B-25881,2244,247,4,Clothing,Trousers,Credit Card
-B-25696,275,-275,4,Clothing,Saree,COD
-B-25687,387,-213,5,Clothing,Saree,UPI
-B-25643,50,-44,2,Clothing,Hankerchief,UPI
-B-25851,135,-54,5,Clothing,Kurti,COD
-B-25703,231,-190,9,Clothing,Hankerchief,COD
-B-25887,2125,-234,6,Electronics,Printers,EMI
-B-25923,3873,-891,6,Electronics,Phones,Credit Card
-B-25756,729,-492,5,Furniture,Bookcases,UPI
-B-25761,2188,1050,5,Furniture,Bookcases,Credit Card
-B-25655,6,-3,1,Clothing,Hankerchief,UPI
-B-25786,1854,433,5,Furniture,Bookcases,Credit Card
-B-26095,6,1,1,Clothing,Kurti,UPI
-B-25853,2093,721,5,Furniture,Chairs,Credit Card
-B-25735,7,-1,2,Clothing,Skirt,UPI
-B-25910,1622,-624,5,Furniture,Tables,Credit Card
-B-25950,1622,95,5,Electronics,Printers,Credit Card
-B-25744,373,254,6,Electronics,Printers,UPI
-B-25845,82,-33,4,Clothing,Kurti,COD
-B-26001,8,2,2,Clothing,Skirt,UPI
-B-25830,1954,782,3,Electronics,Phones,Credit Card
-B-25842,1543,370,8,Electronics,Printers,Credit Card
-B-25778,1506,-266,6,Electronics,Printers,Credit Card
-B-25686,1829,-56,6,Furniture,Tables,Credit Card
-B-25754,9,-1,3,Clothing,Skirt,UPI
-B-26048,1461,202,5,Furniture,Tables,EMI
-B-25816,391,113,8,Clothing,Stole,COD
-B-26022,1824,1303,8,Electronics,Phones,Credit Card
-B-25883,16,-15,4,Clothing,Hankerchief,UPI
-B-26003,1745,122,2,Furniture,Tables,Credit Card
-B-26097,663,-212,5,Electronics,Printers,UPI
-B-25710,10,-1,1,Clothing,Leggings,UPI
-B-25797,1630,802,5,Furniture,Tables,EMI
-B-25618,12,0,2,Clothing,Hankerchief,UPI
-B-25723,12,-7,2,Clothing,Leggings,UPI
-B-25755,1709,564,3,Clothing,Trousers,Credit Card
-B-25788,12,3,1,Clothing,Stole,UPI
-B-25681,1625,-77,3,Electronics,Phones,EMI
-B-25991,13,5,2,Clothing,Hankerchief,UPI
-B-25779,1361,980,3,Furniture,Tables,COD
-B-25909,1622,-448,3,Electronics,Phones,EMI
-B-25943,1547,340,6,Electronics,Accessories,EMI
-B-25935,1657,460,4,Furniture,Chairs,Credit Card
-B-25613,1603,0,9,Clothing,Saree,Credit Card
-B-25729,1549,-439,4,Electronics,Phones,Credit Card
-B-25772,1183,106,4,Electronics,Printers,EMI
-B-25655,74,-123,8,Clothing,Skirt,UPI
-B-25640,1499,239,13,Clothing,Saree,Credit Card
-B-25810,1120,199,6,Clothing,Saree,EMI
-B-25801,15,-2,1,Clothing,T-shirt,Debit Card
-B-26085,1487,624,3,Clothing,Trousers,Credit Card
-B-25868,1118,206,2,Furniture,Tables,Credit Card
-B-25714,11,-5,2,Clothing,Hankerchief,COD
-B-25784,15,4,1,Clothing,Hankerchief,Debit Card
-B-25608,1364,1864,5,Furniture,Tables,Credit Card
-B-26051,1337,147,7,Electronics,Printers,Credit Card
-B-25900,15,2,1,Clothing,Leggings,Debit Card
-B-25760,322,-193,5,Electronics,Printers,UPI
-B-25762,1316,527,7,Electronics,Electronic Games,Credit Card
-B-25995,1314,342,3,Furniture,Bookcases,Credit Card
-B-25965,17,7,3,Clothing,Hankerchief,Debit Card
-B-25967,17,2,2,Clothing,Skirt,Debit Card
-B-25674,17,-12,5,Clothing,Skirt,Debit Card
-B-25929,1308,536,3,Furniture,Bookcases,Credit Card
-B-25777,1076,-38,4,Electronics,Printers,Credit Card
-B-26006,1301,573,5,Electronics,Accessories,Credit Card
-B-25697,1300,-16,8,Electronics,Printers,Credit Card
-B-25667,11,-2,4,Clothing,Hankerchief,COD
-B-25836,1298,65,9,Electronics,Printers,EMI
-B-25984,304,97,6,Clothing,Stole,UPI
-B-25728,1055,264,4,Electronics,Printers,EMI
-B-25757,17,-13,4,Clothing,Skirt,Debit Card
-B-25957,147,73,3,Clothing,Stole,COD
-B-26061,965,-68,3,Electronics,Printers,COD
-B-25735,12,-2,3,Clothing,Hankerchief,COD
-B-25616,14,-2,3,Clothing,Hankerchief,UPI
-B-25666,934,-916,7,Electronics,Electronic Games,COD
-B-25675,929,-93,9,Clothing,Saree,COD
-B-26079,18,3,2,Clothing,Hankerchief,Debit Card
-B-25850,916,192,11,Electronics,Phones,COD
-B-25693,76,-72,9,Clothing,Hankerchief,COD
-B-25852,869,67,4,Furniture,Tables,COD
-B-25860,112,24,3,Clothing,Kurti,COD
-B-25853,39,16,6,Clothing,Skirt,UPI
-B-25898,857,-274,2,Furniture,Tables,COD
-B-26100,828,230,2,Furniture,Chairs,COD
-B-25653,1279,-640,8,Electronics,Printers,EMI
-B-25839,1250,486,7,Clothing,Saree,EMI
-B-25651,823,-18,7,Furniture,Chairs,COD
-B-25957,1157,-13,9,Furniture,Bookcases,Credit Card
-B-25704,126,-63,3,Electronics,Accessories,UPI
-B-25730,1145,-706,3,Electronics,Phones,Credit Card
-B-26052,774,170,3,Electronics,Accessories,COD
-B-25656,24,-1,2,Clothing,Hankerchief,COD
-B-26033,774,170,3,Electronics,Accessories,COD
-B-25850,93,-1,2,Clothing,Hankerchief,COD
-B-25945,765,-36,3,Electronics,Electronic Games,COD
-B-26086,762,101,6,Electronics,Printers,COD
-B-25752,761,266,9,Electronics,Electronic Games,COD
-B-26098,96,-48,5,Clothing,Leggings,UPI
-B-26067,1137,-14,7,Electronics,Printers,EMI
-B-25730,18,8,2,Clothing,Hankerchief,Debit Card
-B-25986,749,-307,7,Furniture,Furnishings,COD
-B-26067,1120,199,6,Clothing,Saree,EMI
-B-25953,744,119,6,Electronics,Printers,COD
-B-25952,14,0,4,Clothing,Hankerchief,UPI
-B-25903,19,8,2,Clothing,Hankerchief,Debit Card
-B-25650,512,-225,5,Clothing,Saree,COD
-B-25970,742,198,2,Furniture,Bookcases,COD
-B-26062,44,-40,3,Clothing,Stole,COD
-B-25643,1061,-36,8,Furniture,Bookcases,EMI
-B-25632,19,-2,2,Clothing,Leggings,Debit Card
-B-25821,17,0,1,Clothing,Hankerchief,COD
-B-25878,741,267,5,Furniture,Bookcases,COD
-B-25752,735,-235,6,Electronics,Printers,COD
-B-25750,19,-1,1,Clothing,Shirt,Debit Card
-B-25657,1021,-48,4,Electronics,Electronic Games,EMI
-B-25787,556,-209,7,Clothing,Saree,COD
-B-25808,63,-17,6,Clothing,Leggings,COD
-B-25885,734,248,2,Furniture,Chairs,COD
-B-25778,933,166,5,Clothing,Saree,Credit Card
-B-25759,20,-9,6,Clothing,Hankerchief,Debit Card
-B-25747,877,395,2,Furniture,Bookcases,Credit Card
-B-25878,719,303,6,Furniture,Chairs,COD
-B-25603,12,1,2,Clothing,Hankerchief,COD
-B-25691,714,56,4,Clothing,Saree,COD
-B-25607,50,-15,4,Clothing,Leggings,COD
-B-25708,709,-100,5,Electronics,Phones,COD
-B-26021,21,-12,3,Clothing,Hankerchief,Debit Card
-B-25831,693,254,6,Clothing,Saree,COD
-B-25850,24,1,4,Clothing,Hankerchief,COD
-B-25670,24,1,2,Clothing,Hankerchief,UPI
-B-25852,24,1,2,Clothing,Hankerchief,COD
-B-26029,21,10,1,Clothing,T-shirt,Debit Card
-B-25959,681,259,4,Furniture,Chairs,COD
-B-25676,674,-187,2,Furniture,Tables,COD
-B-26097,671,-309,5,Electronics,Electronic Games,COD
-B-25888,646,-213,3,Electronics,Electronic Games,COD
-B-25911,40,15,1,Clothing,Kurti,COD
-B-25662,24,-2,2,Clothing,T-shirt,COD
-B-25950,644,167,2,Electronics,Printers,COD
-B-25847,643,225,2,Electronics,Printers,COD
-B-25796,632,-316,6,Clothing,Saree,COD
-B-25693,632,316,6,Clothing,Saree,COD
-B-25993,610,208,3,Electronics,Printers,COD
-B-26052,78,-28,6,Clothing,Kurti,UPI
-B-25930,595,119,4,Furniture,Bookcases,COD
-B-25785,595,292,3,Clothing,Saree,COD
-B-26093,852,51,5,Furniture,Bookcases,Credit Card
-B-26053,594,89,3,Furniture,Bookcases,COD
-B-26019,585,175,13,Clothing,T-shirt,COD
-B-26070,582,262,5,Furniture,Furnishings,COD
-B-25870,845,84,7,Clothing,Saree,Credit Card
-B-25855,829,19,4,Electronics,Printers,Credit Card
-B-25602,561,212,3,Clothing,Saree,COD
-B-25728,771,-424,2,Electronics,Phones,Credit Card
-B-25803,765,8,6,Clothing,Saree,EMI
-B-25996,31,2,2,Clothing,Hankerchief,COD
-B-26078,557,-111,2,Electronics,Electronic Games,COD
-B-25803,757,371,2,Electronics,Printers,Credit Card
-B-25682,545,-73,11,Electronics,Phones,COD
-B-25749,1052,-82,3,Furniture,Bookcases,UPI
-B-25962,544,-152,3,Furniture,Bookcases,COD
-B-25899,22,9,2,Clothing,Leggings,Debit Card
-B-25845,757,371,2,Electronics,Printers,Credit Card
-B-25951,742,198,2,Furniture,Bookcases,Credit Card
-B-25828,537,107,3,Clothing,Saree,COD
-B-25803,536,91,1,Clothing,Trousers,COD
-B-25656,6,3,1,Clothing,Hankerchief,COD
-B-25681,523,204,7,Clothing,Trousers,COD
-B-25658,27,9,2,Clothing,T-shirt,UPI
-B-25698,516,392,8,Furniture,Chairs,COD
-B-25832,504,116,3,Furniture,Bookcases,COD
-B-25886,502,84,4,Electronics,Phones,COD
-B-25897,734,213,6,Electronics,Electronic Games,Credit Card
-B-25873,42,12,2,Clothing,Kurti,COD
-B-25858,29,11,4,Clothing,Skirt,COD
-B-25867,240,12,6,Clothing,Kurti,UPI
-B-25633,496,-79,2,Clothing,Trousers,COD
-B-25609,485,29,4,Electronics,Electronic Games,COD
-B-25896,31,-11,3,Clothing,Skirt,UPI
-B-26000,676,151,3,Electronics,Printers,Credit Card
-B-25959,23,8,2,Clothing,Hankerchief,Debit Card
-B-25940,13,3,2,Clothing,Hankerchief,COD
-B-26087,180,0,8,Clothing,Stole,COD
-B-26055,671,114,9,Electronics,Phones,Credit Card
-B-25980,22,11,3,Clothing,Kurti,COD
-B-25653,668,-31,3,Electronics,Printers,Credit Card
-B-26052,145,0,3,Clothing,Saree,UPI
-B-25877,24,8,2,Clothing,Skirt,Debit Card
-B-25608,476,0,3,Furniture,Chairs,COD
-B-25897,24,11,5,Clothing,Hankerchief,Debit Card
-B-25881,37,3,3,Clothing,Hankerchief,COD
-B-25905,152,50,6,Clothing,Stole,UPI
-B-25818,32,11,2,Clothing,Leggings,UPI
-B-25835,52,11,5,Clothing,Leggings,COD
-B-26081,24,11,3,Clothing,Hankerchief,Debit Card
-B-25730,473,42,4,Furniture,Chairs,COD
-B-25837,263,50,5,Clothing,Stole,COD
-B-25893,61,11,3,Clothing,Kurti,COD
-B-25689,469,-459,3,Electronics,Electronic Games,COD
-B-26028,1272,547,2,Electronics,Phones,COD
-B-26081,169,0,3,Electronics,Accessories,COD
-B-25903,25,11,3,Clothing,Leggings,Debit Card
-B-25651,457,-41,4,Clothing,Saree,COD
-B-25903,455,77,8,Electronics,Accessories,COD
-B-26086,25,2,2,Clothing,Hankerchief,Debit Card
-B-25654,450,-90,3,Electronics,Printers,COD
-B-25720,30,-35,1,Furniture,Chairs,COD
-B-26057,659,-37,2,Furniture,Bookcases,Credit Card
-B-25798,448,148,2,Electronics,Printers,COD
-B-25961,446,53,3,Electronics,Printers,COD
-B-25701,98,-45,2,Furniture,Chairs,UPI
-B-26055,443,11,1,Clothing,Saree,COD
-B-25653,427,-50,7,Electronics,Phones,COD
-B-25670,656,-36,2,Furniture,Bookcases,Credit Card
-B-26056,424,161,2,Clothing,Saree,COD
-B-26061,27,8,2,Clothing,T-shirt,Debit Card
-B-25602,424,-272,5,Electronics,Phones,COD
-B-26016,202,4,4,Clothing,Hankerchief,COD
-B-25873,1275,357,2,Electronics,Phones,UPI
-B-25761,418,70,7,Electronics,Phones,COD
-B-25819,417,49,3,Electronics,Electronic Games,COD
-B-25853,199,48,4,Clothing,Stole,UPI
-B-25662,385,-77,11,Furniture,Furnishings,UPI
-B-25993,414,199,3,Electronics,Phones,COD
-B-25703,97,-45,4,Clothing,Saree,COD
-B-25848,648,50,6,Electronics,Electronic Games,Credit Card
-B-25678,27,-25,2,Clothing,Shirt,Debit Card
-B-25925,27,12,1,Clothing,Stole,Debit Card
-B-25977,27,1,1,Clothing,Stole,UPI
-B-25797,413,-314,9,Furniture,Chairs,COD
-B-26067,53,2,4,Clothing,Hankerchief,COD
-B-25810,29,8,5,Clothing,Hankerchief,UPI
-B-25648,30,13,1,Clothing,T-shirt,UPI
-B-25933,412,412,6,Clothing,Saree,COD
-B-25942,646,-23,2,Electronics,Printers,Credit Card
-B-25656,30,-5,5,Clothing,Stole,UPI
-B-26067,618,27,4,Furniture,Bookcases,Credit Card
-B-25673,143,-124,5,Clothing,Saree,UPI
-B-25797,31,1,2,Clothing,Hankerchief,UPI
-B-26098,409,86,3,Clothing,Saree,COD
-B-25656,406,126,2,Clothing,Saree,COD
-B-25791,565,66,7,Clothing,Saree,Credit Card
-B-26053,85,2,6,Clothing,Stole,COD
-B-25983,561,118,5,Furniture,Bookcases,Credit Card
-B-25743,503,-56,2,Clothing,Trousers,COD
-B-25867,31,14,3,Clothing,Stole,UPI
-B-25973,398,111,8,Clothing,Hankerchief,COD
-B-25895,388,93,2,Furniture,Bookcases,COD
-B-26003,498,-116,4,Clothing,Saree,UPI
-B-25717,561,212,3,Clothing,Saree,Credit Card
-B-26064,61,3,4,Clothing,Hankerchief,COD
-B-25630,34,-22,4,Clothing,T-shirt,COD
-B-26050,32,6,3,Clothing,Shirt,UPI
-B-25786,623,-192,3,Furniture,Tables,UPI
-B-26035,520,151,3,Electronics,Phones,Credit Card
-B-25693,32,-16,6,Clothing,Saree,UPI
-B-25703,32,-5,5,Clothing,Hankerchief,UPI
-B-25966,510,234,6,Electronics,Electronic Games,EMI
-B-26060,382,68,3,Clothing,Saree,COD
-B-25898,33,13,3,Clothing,Leggings,UPI
-B-25686,381,-13,2,Clothing,Saree,COD
-B-26051,490,88,2,Electronics,Accessories,EMI
-B-25854,381,144,2,Clothing,Saree,COD
-B-26050,487,143,4,Electronics,Phones,EMI
-B-25961,366,84,3,Furniture,Bookcases,COD
-B-25701,33,-29,3,Clothing,Shirt,UPI
-B-25970,365,107,3,Electronics,Phones,COD
-B-25933,207,-100,2,Clothing,Saree,UPI
-B-26081,359,-338,5,Furniture,Bookcases,COD
-B-25650,351,-47,8,Electronics,Phones,COD
-B-25850,485,199,4,Clothing,Saree,EMI
-B-25643,37,-23,4,Clothing,Shirt,UPI
-B-26100,34,10,2,Clothing,T-shirt,Debit Card
-B-25964,346,108,3,Furniture,Chairs,COD
-B-25676,342,-103,4,Electronics,Electronic Games,COD
-B-25628,35,-8,2,Furniture,Furnishings,Debit Card
-B-25891,121,41,4,Clothing,Stole,UPI
-B-25903,336,57,2,Electronics,Phones,COD
-B-25851,336,71,3,Furniture,Bookcases,COD
-B-26089,27,4,1,Clothing,Hankerchief,COD
-B-25996,333,50,2,Electronics,Phones,COD
-B-25881,36,7,3,Clothing,Leggings,Debit Card
-B-25621,333,-15,3,Electronics,Phones,COD
-B-25727,327,114,4,Clothing,Trousers,COD
-B-25843,18,6,3,Clothing,Hankerchief,UPI
-B-26050,325,32,7,Clothing,T-shirt,COD
-B-25741,482,-6,7,Electronics,Electronic Games,EMI
-B-25756,465,-33,4,Electronics,Phones,EMI
-B-25787,40,-12,3,Clothing,Shirt,COD
-B-25603,107,36,6,Clothing,Stole,COD
-B-25655,312,-312,7,Furniture,Chairs,COD
-B-26096,451,25,3,Electronics,Phones,EMI
-B-25962,312,62,1,Electronics,Electronic Games,COD
-B-26007,311,72,2,Furniture,Bookcases,COD
-B-26088,11,5,2,Clothing,Hankerchief,UPI
-B-25673,37,-5,3,Clothing,T-shirt,Debit Card
-B-25664,444,-200,4,Electronics,Phones,EMI
-B-25642,434,26,11,Clothing,Shirt,Credit Card
-B-25987,299,0,6,Clothing,Stole,COD
-B-25903,37,17,3,Clothing,Hankerchief,Debit Card
-B-25770,299,113,2,Furniture,Bookcases,COD
-B-25840,298,74,2,Furniture,Bookcases,COD
-B-25846,94,7,7,Clothing,Leggings,UPI
-B-25745,296,225,11,Clothing,Saree,COD
-B-26073,37,17,3,Clothing,Hankerchief,Debit Card
-B-26030,291,93,2,Electronics,Printers,COD
-B-25678,327,-39,1,Electronics,Phones,COD
-B-26035,291,119,11,Clothing,Saree,COD
-B-25896,287,-66,6,Clothing,Kurti,COD
-B-25989,42,15,1,Electronics,Accessories,UPI
-B-26016,429,61,3,Electronics,Electronic Games,Credit Card
-B-26009,285,128,2,Electronics,Printers,COD
-B-25915,277,3,1,Electronics,Electronic Games,COD
-B-25845,274,-7,4,Electronics,Phones,COD
-B-25645,273,-87,4,Electronics,Phones,COD
-B-25803,269,91,1,Electronics,Electronic Games,COD
-B-26030,11,5,1,Clothing,Skirt,COD
-B-25955,39,2,2,Clothing,Saree,Debit Card
-B-26096,264,-26,3,Clothing,Trousers,COD
-B-25635,40,16,3,Clothing,Hankerchief,Debit Card
-B-26038,41,19,2,Clothing,T-shirt,Debit Card
-B-25791,253,-63,2,Clothing,Saree,UPI
-B-26014,406,97,7,Furniture,Chairs,Credit Card
-B-25751,32,7,3,Clothing,Hankerchief,COD
-B-25962,260,68,2,Electronics,Printers,COD
-B-26025,41,19,5,Clothing,Hankerchief,Debit Card
-B-26048,401,13,6,Furniture,Chairs,Credit Card
-B-25635,382,30,3,Clothing,Saree,Credit Card
-B-25981,867,251,5,Electronics,Phones,COD
-B-25610,43,0,3,Clothing,Saree,Debit Card
-B-25733,43,-43,7,Clothing,Stole,Debit Card
-B-25977,74,29,3,Clothing,Stole,COD
-B-25655,44,-26,3,Clothing,Hankerchief,Debit Card
-B-25612,259,-55,2,Furniture,Chairs,COD
-B-25608,257,23,5,Clothing,Hankerchief,COD
-B-25752,76,27,5,Clothing,Stole,COD
-B-25700,44,-32,3,Clothing,Stole,Debit Card
-B-25856,257,3,2,Clothing,Saree,COD
-B-26026,255,76,9,Clothing,Hankerchief,COD
-B-25861,44,14,3,Clothing,Hankerchief,Debit Card
-B-25673,45,-2,4,Clothing,Shirt,COD
-B-25681,44,-3,1,Clothing,Saree,Debit Card
-B-26051,382,119,2,Clothing,Saree,Credit Card
-B-25951,250,100,3,Clothing,Trousers,COD
-B-25799,45,-15,2,Furniture,Chairs,COD
-B-26053,246,61,2,Furniture,Bookcases,COD
-B-26030,50,25,5,Clothing,Stole,COD
-B-26054,246,98,5,Clothing,Hankerchief,COD
-B-25696,44,99,3,Clothing,Kurti,Debit Card
-B-25660,245,-78,3,Clothing,Saree,COD
-B-25858,245,30,2,Clothing,Saree,COD
-B-26045,376,0,7,Clothing,Stole,Credit Card
-B-25850,45,1,3,Clothing,T-shirt,Debit Card
-B-25781,45,-28,2,Clothing,Stole,Debit Card
-B-25918,244,-122,5,Furniture,Furnishings,COD
-B-25971,244,83,2,Furniture,Bookcases,COD
-B-25870,10,4,1,Clothing,Kurti,UPI
-B-25770,375,180,3,Furniture,Bookcases,Credit Card
-B-25757,46,14,5,Clothing,Skirt,Debit Card
-B-25699,49,-31,2,Clothing,Stole,UPI
-B-25776,47,-20,2,Clothing,Kurti,Debit Card
-B-25893,355,-114,7,Clothing,Stole,Credit Card
-B-25985,32,8,5,Clothing,Hankerchief,UPI
-B-25681,243,-14,2,Furniture,Chairs,COD
-B-26063,241,-77,4,Electronics,Electronic Games,COD
-B-26032,47,15,5,Clothing,Saree,Debit Card
-B-26001,50,-10,6,Clothing,Skirt,Debit Card
-B-26056,15,6,2,Clothing,Hankerchief,COD
-B-25850,148,24,3,Clothing,Stole,COD
-B-25767,299,-28,3,Electronics,Electronic Games,UPI
-B-25693,68,-30,1,Electronics,Phones,UPI
-B-25850,52,18,5,Clothing,Leggings,Debit Card
-B-25796,239,-162,5,Furniture,Chairs,COD
-B-26053,27,6,3,Clothing,Skirt,COD
-B-25650,238,20,2,Clothing,Saree,COD
-B-25961,48,16,3,Clothing,Shirt,COD
-B-26023,66,22,3,Clothing,Stole,UPI
-B-25809,53,24,1,Clothing,Hankerchief,Debit Card
-B-25621,233,-10,5,Electronics,Electronic Games,COD
-B-25854,53,-2,3,Clothing,Saree,Debit Card
-B-26057,54,8,4,Clothing,T-shirt,Debit Card
-B-25688,352,-345,5,Clothing,Saree,Credit Card
-B-25885,349,0,7,Clothing,Stole,Credit Card
-B-25753,341,-85,6,Clothing,Trousers,Credit Card
-B-25981,54,12,3,Clothing,Saree,Debit Card
-B-26055,57,7,2,Clothing,Shirt,UPI
-B-25714,340,20,7,Clothing,Shirt,Credit Card
-B-26055,227,48,5,Clothing,Stole,COD
-B-25989,330,81,1,Furniture,Bookcases,Credit Card
-B-25710,216,-38,6,Furniture,Furnishings,UPI
-B-25773,224,-143,3,Furniture,Chairs,COD
-B-25661,55,-33,2,Furniture,Chairs,Debit Card
-B-26021,49,21,1,Clothing,Stole,UPI
-B-26057,224,87,3,Clothing,Trousers,COD
-B-25858,223,27,2,Furniture,Bookcases,COD
-B-25857,324,39,8,Electronics,Accessories,Credit Card
-B-25656,56,18,2,Clothing,Hankerchief,Debit Card
-B-25999,223,62,7,Clothing,Shirt,COD
-B-25856,10,2,2,Clothing,Skirt,COD
-B-25926,57,6,5,Clothing,Leggings,Debit Card
-B-25728,322,-113,4,Clothing,Saree,Credit Card
-B-26076,219,4,2,Clothing,Saree,COD
-B-25913,103,21,7,Clothing,Stole,UPI
-B-25703,47,-27,4,Clothing,Saree,COD
-B-25858,219,0,1,Clothing,Saree,COD
-B-25727,57,-48,6,Clothing,Leggings,Debit Card
-B-26020,319,102,6,Electronics,Accessories,Credit Card
-B-26003,315,-8,3,Furniture,Chairs,Credit Card
-B-25925,314,-41,3,Electronics,Electronic Games,Credit Card
-B-26087,311,40,1,Electronics,Electronic Games,EMI
-B-25810,307,74,3,Electronics,Accessories,EMI
-B-25858,294,109,7,Electronics,Accessories,EMI
-B-25861,216,-83,3,Electronics,Electronic Games,COD
-B-25661,58,-42,2,Furniture,Chairs,Debit Card
-B-25943,48,20,4,Clothing,Stole,UPI
-B-25955,54,14,3,Clothing,T-shirt,UPI
-B-26051,216,50,4,Clothing,Stole,COD
-B-25999,215,-30,2,Clothing,Saree,COD
-B-26083,43,8,3,Clothing,Leggings,COD
-B-25950,136,-33,5,Clothing,Saree,COD
-B-25625,59,-30,3,Clothing,Leggings,Debit Card
-B-26055,213,4,14,Clothing,Shirt,COD
-B-26023,59,21,2,Clothing,Stole,Debit Card
-B-26010,55,3,3,Clothing,T-shirt,COD
-B-25955,294,62,9,Clothing,T-shirt,EMI
-B-25900,210,62,2,Electronics,Phones,COD
-B-26089,59,24,6,Clothing,Kurti,Debit Card
-B-25655,396,-31,9,Clothing,Saree,COD
-B-25979,284,45,2,Furniture,Bookcases,EMI
-B-26002,276,52,5,Clothing,Saree,EMI
-B-25635,23,2,2,Clothing,Skirt,UPI
-B-26084,209,-63,4,Electronics,Electronic Games,COD
-B-25998,50,-28,5,Furniture,Furnishings,COD
-B-25872,57,27,2,Clothing,Shirt,COD
-B-25795,276,-21,2,Electronics,Phones,EMI
-B-25902,268,6,2,Furniture,Bookcases,UPI
-B-25650,269,111,3,Clothing,Trousers,EMI
-B-25957,209,2,1,Clothing,Saree,COD
-B-25793,60,-12,4,Clothing,Hankerchief,Debit Card
-B-25654,269,-86,2,Electronics,Electronic Games,EMI
-B-25750,208,-25,2,Clothing,Saree,COD
-B-25835,27,2,2,Clothing,Leggings,UPI
-B-25652,206,-206,3,Clothing,Saree,COD
-B-26018,61,8,4,Clothing,Hankerchief,Debit Card
-B-25750,212,-24,2,Furniture,Chairs,COD
-B-25840,262,64,6,Clothing,Saree,EMI
-B-25756,204,276,3,Furniture,Bookcases,COD
-B-25777,59,-46,7,Clothing,T-shirt,UPI
-B-25750,199,-18,2,Clothing,Saree,COD
-B-25823,59,6,1,Electronics,Accessories,UPI
-B-26096,45,9,3,Clothing,Leggings,UPI
-B-25757,211,19,8,Clothing,Stole,COD
-B-25698,65,-16,2,Electronics,Phones,Debit Card
-B-25710,25,0,4,Clothing,Skirt,UPI
-B-25994,196,-7,5,Electronics,Phones,COD
-B-25950,261,13,6,Clothing,Shirt,Credit Card
-B-25653,195,-117,5,Electronics,Phones,COD
-B-25785,192,-146,3,Clothing,Saree,COD
-B-25863,189,87,7,Clothing,Stole,COD
-B-25959,32,2,2,Clothing,Kurti,UPI
-B-25991,188,13,7,Clothing,Shirt,COD
-B-25680,73,-25,3,Clothing,Saree,COD
-B-25910,259,47,5,Clothing,Hankerchief,Credit Card
-B-25737,187,-15,3,Clothing,Trousers,COD
-B-25853,26,11,2,Clothing,Hankerchief,UPI
-B-26097,185,-26,6,Furniture,Chairs,COD
-B-25875,248,8,2,Clothing,Saree,Credit Card
-B-26031,67,9,4,Clothing,Leggings,Debit Card
-B-25773,248,-70,3,Furniture,Chairs,Credit Card
-B-25840,246,61,2,Furniture,Bookcases,Credit Card
-B-25908,179,-25,5,Clothing,Kurti,COD
-B-26041,176,-28,5,Furniture,Furnishings,COD
-B-26010,176,-13,5,Furniture,Furnishings,COD
-B-25640,68,-62,2,Clothing,Trousers,Debit Card
-B-25794,176,37,6,Electronics,Accessories,COD
-B-25987,88,11,7,Clothing,Hankerchief,UPI
-B-25615,68,20,5,Clothing,Hankerchief,Debit Card
-B-25997,231,99,2,Electronics,Electronic Games,Credit Card
-B-25981,62,8,2,Clothing,T-shirt,UPI
-B-25791,175,77,3,Clothing,Saree,COD
-B-25986,71,4,5,Clothing,Leggings,Debit Card
-B-25652,174,-70,3,Electronics,Accessories,COD
-B-25952,173,69,3,Furniture,Chairs,COD
-B-25898,171,2,2,Electronics,Electronic Games,COD
-B-25785,268,-25,3,Clothing,Saree,COD
-B-25990,71,32,3,Clothing,Saree,Debit Card
-B-26091,29,10,4,Clothing,Hankerchief,UPI
-B-25604,65,17,2,Clothing,T-shirt,UPI
-B-25754,72,-46,7,Clothing,Kurti,Debit Card
-B-25724,168,-51,2,Furniture,Bookcases,COD
-B-25757,165,30,3,Clothing,Stole,COD
-B-25767,74,-59,2,Electronics,Accessories,Debit Card
-B-25886,89,17,2,Clothing,Stole,UPI
-B-25621,228,63,3,Electronics,Electronic Games,Credit Card
-B-25967,119,-24,4,Furniture,Furnishings,COD
-B-25691,75,-25,3,Clothing,Stole,UPI
-B-25953,67,20,4,Clothing,T-shirt,UPI
-B-25651,7,0,1,Clothing,Leggings,COD
-B-25828,222,35,5,Clothing,Saree,Credit Card
-B-25628,219,-9,4,Clothing,Saree,Credit Card
-B-25703,42,-23,2,Furniture,Furnishings,UPI
-B-25929,216,-135,3,Furniture,Chairs,Credit Card
-B-25748,47,-21,2,Electronics,Electronic Games,COD
-B-25610,68,-55,5,Electronics,Accessories,UPI
-B-25903,74,33,2,Clothing,Shirt,Debit Card
-B-25878,165,46,3,Furniture,Furnishings,COD
-B-26056,101,11,2,Clothing,Hankerchief,UPI
-B-26004,162,73,2,Electronics,Electronic Games,COD
-B-25699,20,-22,1,Furniture,Furnishings,UPI
-B-26053,162,55,3,Clothing,Stole,COD
-B-25654,229,-23,2,Clothing,Saree,UPI
-B-25954,27,0,2,Clothing,Leggings,COD
-B-25910,685,7,7,Clothing,Trousers,UPI
-B-26064,75,2,5,Clothing,Leggings,Debit Card
-B-25983,161,-229,8,Furniture,Furnishings,COD
-B-26002,71,19,3,Clothing,T-shirt,COD
-B-25650,211,-105,2,Clothing,Saree,Credit Card
-B-26043,79,5,6,Clothing,Hankerchief,Debit Card
-B-25657,32,-22,5,Clothing,Saree,UPI
-B-25838,161,40,3,Clothing,Stole,COD
-B-25651,159,4,1,Clothing,Saree,COD
-B-25808,210,-50,4,Clothing,Hankerchief,Credit Card
-B-25973,79,39,2,Clothing,Shirt,Debit Card
-B-25698,207,153,3,Clothing,Saree,Credit Card
-B-25818,36,0,4,Clothing,Kurti,COD
-B-26061,206,12,1,Electronics,Printers,Credit Card
-B-25878,46,0,4,Clothing,Leggings,COD
-B-26054,156,23,3,Clothing,Stole,COD
-B-25809,154,54,3,Clothing,Hankerchief,COD
-B-26042,36,15,3,Clothing,Stole,UPI
-B-26008,206,51,4,Clothing,Hankerchief,Credit Card
-B-25927,200,7,4,Electronics,Electronic Games,Credit Card
-B-26008,199,-1,1,Clothing,Saree,Credit Card
-B-25753,154,22,7,Clothing,T-shirt,COD
-B-25948,152,23,3,Furniture,Furnishings,COD
-B-26094,152,50,6,Clothing,Stole,COD
-B-25654,122,-21,3,Furniture,Furnishings,UPI
-B-25854,149,48,6,Clothing,Stole,COD
-B-25623,149,-87,4,Clothing,Saree,COD
-B-25985,197,20,4,Clothing,Kurti,Credit Card
-B-25723,76,-54,3,Electronics,Electronic Games,COD
-B-25751,221,-15,2,Electronics,Electronic Games,COD
-B-26050,79,32,3,Clothing,Saree,Debit Card
-B-25800,45,12,7,Clothing,Hankerchief,UPI
-B-25673,149,-1,1,Clothing,Saree,COD
-B-26002,80,22,3,Clothing,Stole,Debit Card
-B-26009,195,12,9,Clothing,Shirt,Credit Card
-B-25754,19,0,3,Clothing,Skirt,UPI
-B-25953,81,41,3,Clothing,Stole,Debit Card
-B-26039,83,34,5,Clothing,Shirt,Debit Card
-B-26001,149,17,4,Furniture,Furnishings,COD
-B-25620,193,46,1,Electronics,Printers,Credit Card
-B-26051,85,24,10,Clothing,Hankerchief,Debit Card
-B-25673,44,-17,5,Clothing,Saree,UPI
-B-25721,149,-40,2,Electronics,Phones,COD
-B-25764,26,0,2,Clothing,Kurti,COD
-B-25645,86,0,4,Clothing,T-shirt,Debit Card
-B-26066,86,22,2,Clothing,Saree,Debit Card
-B-26003,79,16,3,Clothing,T-shirt,COD
-B-25712,193,-275,3,Electronics,Phones,Credit Card
-B-25796,148,0,3,Clothing,Saree,COD
-B-25738,70,-14,2,Furniture,Furnishings,UPI
-B-25771,148,59,3,Clothing,Hankerchief,COD
-B-25950,190,19,9,Furniture,Furnishings,Credit Card
-B-26038,52,14,2,Clothing,Stole,COD
-B-26004,147,44,3,Clothing,Saree,COD
-B-25896,190,68,8,Clothing,T-shirt,Credit Card
-B-25601,80,-56,4,Electronics,Electronic Games,UPI
-B-25952,147,48,3,Clothing,Saree,COD
-B-25873,66,12,3,Clothing,Stole,COD
-B-25844,86,8,2,Clothing,Saree,Debit Card
-B-26054,88,19,2,Clothing,Shirt,Debit Card
-B-25953,188,-193,2,Electronics,Electronic Games,Credit Card
-B-25951,89,29,2,Clothing,Stole,UPI
-B-26065,146,19,5,Clothing,Stole,COD
-B-26033,143,32,1,Furniture,Bookcases,COD
-B-25781,25,-1,4,Clothing,Kurti,COD
-B-26043,30,12,3,Clothing,Skirt,UPI
-B-25787,140,-58,4,Furniture,Furnishings,COD
-B-25664,83,-48,1,Furniture,Bookcases,UPI
-B-25825,140,6,5,Clothing,Saree,COD
-B-25818,28,14,4,Clothing,Hankerchief,COD
-B-25765,139,14,3,Clothing,Stole,COD
-B-25853,30,14,3,Clothing,Hankerchief,UPI
-B-26030,89,36,3,Clothing,Shirt,UPI
-B-25730,187,30,4,Electronics,Accessories,Credit Card
-B-26054,139,21,3,Electronics,Accessories,COD
-B-25773,437,-14,2,Clothing,Saree,UPI
-B-25717,138,-3,5,Clothing,Saree,COD
-B-26010,85,13,2,Clothing,Shirt,UPI
-B-25893,83,12,3,Clothing,Stole,UPI
-B-26076,91,22,2,Clothing,Stole,UPI
-B-25803,137,5,5,Clothing,Shirt,COD
-B-25709,33,-12,7,Clothing,Saree,UPI
-B-25755,134,-34,2,Furniture,Chairs,COD
-B-25684,134,42,2,Furniture,Chairs,COD
-B-25739,133,-56,2,Furniture,Chairs,COD
-B-26081,93,-84,3,Clothing,Saree,UPI
-B-25662,86,-21,1,Electronics,Electronic Games,UPI
-B-25845,132,54,5,Clothing,Stole,COD
-B-26085,132,-10,3,Clothing,Saree,COD
-B-25745,132,-79,5,Furniture,Furnishings,COD
-B-25999,93,-65,4,Clothing,Stole,UPI
-B-26082,95,5,2,Clothing,Stole,UPI
-B-26097,97,12,2,Clothing,Hankerchief,UPI
-B-25731,131,-154,8,Furniture,Furnishings,COD
-B-25625,97,29,2,Clothing,Hankerchief,UPI
-B-25853,128,4,3,Clothing,Saree,COD
-B-25703,186,241,9,Clothing,Shirt,Credit Card
-B-26003,128,47,4,Clothing,Hankerchief,COD
-B-25803,185,48,4,Clothing,Stole,Credit Card
-B-25719,29,10,2,Clothing,Stole,COD
-B-25883,127,29,3,Furniture,Furnishings,COD
-B-25891,97,36,7,Clothing,Hankerchief,UPI
-B-25821,125,0,3,Electronics,Accessories,COD
-B-25646,299,-8,2,Clothing,Saree,COD
-B-25874,124,54,5,Clothing,T-shirt,COD
-B-25717,90,17,3,Clothing,Shirt,COD
-B-26073,122,11,4,Clothing,Hankerchief,COD
-B-25800,122,-66,9,Electronics,Accessories,COD
-B-25991,90,30,2,Furniture,Chairs,UPI
-B-25638,182,-11,3,Furniture,Bookcases,Credit Card
-B-26021,122,59,7,Furniture,Furnishings,COD
-B-25882,121,19,4,Clothing,Stole,COD
-B-26053,120,1,1,Furniture,Chairs,COD
-B-25951,120,23,5,Clothing,Stole,COD
-B-25757,34,-11,5,Clothing,T-shirt,COD
-B-25777,117,17,6,Clothing,Kurti,COD
-B-26040,38,9,2,Clothing,Stole,COD
-B-25696,117,-6,3,Electronics,Phones,COD
-B-25977,180,54,4,Clothing,T-shirt,Credit Card
-B-25743,99,-5,1,Clothing,Saree,UPI
-B-25651,172,-103,3,Furniture,Chairs,EMI
-B-25603,116,16,4,Clothing,Stole,COD
-B-25696,116,-4,1,Clothing,Saree,COD
-B-26037,171,68,7,Clothing,Stole,EMI
-B-26098,46,14,5,Clothing,Skirt,COD
-B-25697,115,-39,3,Clothing,Trousers,COD
-B-25920,100,7,2,Clothing,T-shirt,UPI
-B-25993,44,8,2,Clothing,Stole,COD
-B-26089,139,14,3,Clothing,Kurti,COD
-B-25960,171,-140,2,Furniture,Bookcases,EMI
-B-25917,100,12,2,Clothing,T-shirt,UPI
-B-25825,115,25,6,Clothing,Stole,COD
-B-25696,168,-9,3,Clothing,Saree,COD
-B-25972,115,47,2,Electronics,Accessories,COD
-B-25602,168,-111,2,Electronics,Phones,EMI
-B-25736,31,-7,5,Clothing,Skirt,UPI
-B-26003,114,41,6,Furniture,Furnishings,COD
-B-25970,111,9,4,Clothing,Stole,COD
-B-25742,11,-8,2,Clothing,Skirt,UPI
-B-25770,110,35,1,Furniture,Furnishings,COD
-B-26098,59,15,2,Clothing,T-shirt,UPI
-B-26050,166,27,2,Electronics,Accessories,EMI
-B-25778,109,-6,6,Clothing,Saree,COD
-B-25652,34,-6,4,Clothing,Leggings,COD
-B-25999,109,40,1,Furniture,Furnishings,COD
-B-25909,108,22,3,Electronics,Accessories,COD
-B-25823,103,50,2,Furniture,Furnishings,UPI
-B-25701,10,-8,2,Clothing,Skirt,COD
-B-25855,90,17,3,Clothing,Hankerchief,COD
-B-25654,105,46,2,Clothing,Stole,UPI
-B-25623,105,20,2,Clothing,Stole,Debit Card
-B-25641,22,-6,1,Furniture,Furnishings,COD
-B-25852,105,-33,5,Clothing,Kurti,COD
-B-25958,105,25,2,Clothing,Hankerchief,EMI
-B-25802,25,-7,5,Clothing,Saree,UPI
-B-25823,104,2,2,Furniture,Furnishings,COD
-B-25834,16,5,1,Clothing,Stole,UPI
-B-25678,64,-7,3,Clothing,Saree,COD
-B-25774,38,-6,2,Furniture,Furnishings,UPI
-B-25904,83,12,2,Furniture,Chairs,COD
-B-25896,103,36,2,Clothing,Hankerchief,COD
-B-25796,37,-6,1,Clothing,Saree,UPI
-B-25934,105,33,6,Clothing,Saree,EMI
-B-25750,78,-6,2,Furniture,Furnishings,UPI
-B-25761,102,-90,1,Clothing,Saree,COD
-B-25912,102,11,6,Clothing,T-shirt,COD
-B-25751,10,-8,1,Clothing,Kurti,UPI
-B-25656,101,18,9,Clothing,Skirt,COD
-B-25647,42,-6,4,Clothing,Saree,UPI
-B-25861,56,18,2,Clothing,Hankerchief,UPI
-B-25802,95,5,2,Clothing,Stole,COD
-B-25901,159,2,3,Furniture,Furnishings,EMI
-B-25623,158,69,3,Clothing,Stole,EMI
-B-25751,106,0,2,Electronics,Phones,EMI
-B-26052,101,16,4,Clothing,T-shirt,COD
-B-25886,107,37,3,Clothing,Shirt,COD
-B-25804,156,36,5,Clothing,T-shirt,EMI
-B-25734,108,-19,3,Electronics,Electronic Games,UPI
-B-25610,107,-54,4,Clothing,Stole,EMI
-B-25711,100,-58,4,Clothing,Hankerchief,COD
-B-25985,108,26,4,Clothing,Shirt,UPI
-B-25864,100,6,4,Clothing,Stole,COD
-B-25648,100,-23,1,Electronics,Phones,COD
-B-26086,43,17,2,Clothing,T-shirt,UPI
-B-25835,155,26,3,Clothing,Stole,EMI
-B-25949,151,9,3,Clothing,Hankerchief,EMI
-B-25930,151,29,5,Clothing,Hankerchief,EMI
-B-25655,110,-68,4,Clothing,Saree,EMI
-B-25757,98,9,2,Furniture,Furnishings,COD
-B-25655,97,-62,2,Clothing,Trousers,COD
-B-26033,111,35,5,Clothing,Shirt,COD
-B-26083,45,17,1,Electronics,Accessories,COD
-B-25805,112,15,2,Furniture,Chairs,COD
-B-25955,110,20,5,Clothing,Stole,Debit Card
-B-25762,98,-5,2,Clothing,Saree,UPI
-B-25919,110,12,7,Clothing,Stole,Debit Card
-B-25853,95,11,4,Furniture,Furnishings,COD
-B-25925,1228,14,3,Furniture,Chairs,UPI
-B-26023,29,0,3,Furniture,Furnishings,COD
-B-26055,94,27,2,Clothing,T-shirt,COD
-B-25653,115,25,1,Electronics,Accessories,COD
-B-25893,149,15,3,Clothing,Saree,EMI
-B-26052,148,23,4,Clothing,Kurti,EMI
-B-25830,93,15,2,Electronics,Accessories,COD
-B-26040,113,24,4,Clothing,Hankerchief,Debit Card
-B-25981,48,2,3,Clothing,Stole,COD
-B-25954,148,9,1,Electronics,Electronic Games,UPI
-B-25889,114,11,4,Clothing,T-shirt,Debit Card
-B-25810,92,42,2,Clothing,Stole,COD
-B-25637,117,14,3,Clothing,Shirt,UPI
-B-25801,21,-10,4,Clothing,Leggings,COD
-B-25783,33,-10,6,Clothing,Leggings,UPI
-B-25697,114,8,3,Electronics,Accessories,Debit Card
-B-26028,115,0,1,Electronics,Accessories,Debit Card
-B-25851,90,29,5,Clothing,T-shirt,COD
-B-25938,61,1,2,Furniture,Furnishings,COD
-B-25820,119,1,1,Furniture,Chairs,COD
-B-25850,117,36,2,Clothing,Trousers,Debit Card
-B-25924,148,54,2,Furniture,Chairs,UPI
-B-25609,249,-5,4,Clothing,Saree,COD
-B-25898,147,73,3,Clothing,Stole,UPI
-B-25814,118,35,7,Clothing,T-shirt,EMI
-B-26087,119,56,7,Clothing,Saree,EMI
-B-25901,90,27,2,Clothing,T-shirt,COD
-B-26025,32,1,2,Clothing,Stole,COD
-B-25631,89,-89,2,Furniture,Furnishings,COD
-B-25954,146,66,1,Electronics,Phones,UPI
-B-25956,89,-37,4,Clothing,Shirt,COD
-B-26096,88,11,3,Electronics,Accessories,COD
-B-25862,121,41,4,Clothing,Stole,EMI
-B-26054,88,20,2,Clothing,Saree,COD
-B-25698,87,-83,5,Clothing,Kurti,COD
-B-25606,87,4,2,Clothing,Shirt,COD
-B-25928,122,15,3,Electronics,Accessories,EMI
-B-26005,87,10,3,Clothing,Stole,COD
-B-25963,53,8,3,Furniture,Furnishings,UPI
-B-25952,87,-32,9,Clothing,Skirt,COD
-B-25683,86,-55,6,Clothing,Saree,COD
-B-25914,125,22,3,Clothing,Stole,EMI
-B-25828,128,-3,3,Clothing,Saree,Debit Card
-B-25743,143,-124,5,Clothing,Saree,UPI
-B-26085,86,22,2,Clothing,Saree,COD
-B-25869,86,9,3,Clothing,Saree,COD
-B-25773,85,-9,4,Clothing,Saree,COD
-B-25700,129,-75,5,Clothing,Shirt,Debit Card
-B-25921,84,-42,2,Electronics,Accessories,COD
-B-25730,83,-81,3,Furniture,Chairs,COD
-B-26083,143,6,2,Electronics,Accessories,UPI
-B-25849,336,123,3,Electronics,Phones,UPI
-B-25909,323,122,5,Electronics,Phones,UPI
-B-26038,130,61,3,Clothing,Shirt,Debit Card
-B-25999,152,-3,5,Clothing,Saree,COD
-B-25928,25,10,1,Furniture,Furnishings,UPI
-B-25878,140,15,5,Clothing,Stole,UPI
-B-25843,45,0,2,Clothing,Stole,UPI
-B-25959,132,49,3,Clothing,Shirt,COD
-B-25630,133,12,5,Clothing,Stole,Debit Card
-B-25858,82,13,2,Clothing,Shirt,COD
-B-26096,140,56,4,Clothing,Shirt,UPI
-B-25838,81,19,7,Clothing,Hankerchief,COD
-B-25943,137,38,5,Clothing,Hankerchief,Debit Card
-B-25780,137,-41,3,Electronics,Phones,Debit Card
-B-25949,140,57,2,Clothing,Trousers,Debit Card
-B-25892,139,30,3,Clothing,Shirt,UPI
-B-26054,138,11,5,Clothing,Stole,UPI
-B-25988,79,-124,9,Clothing,Skirt,COD
-B-25939,136,41,3,Electronics,Accessories,UPI
-B-26083,145,16,3,Clothing,T-shirt,Debit Card
-B-26078,44,20,2,Clothing,T-shirt,UPI
-B-25902,79,6,7,Clothing,Saree,COD
-B-25676,79,36,4,Clothing,Shirt,COD
-B-26016,134,-13,3,Electronics,Electronic Games,UPI
-B-25950,133,5,5,Clothing,Stole,UPI
-B-26056,47,20,7,Clothing,Hankerchief,UPI
-B-25645,133,-42,1,Electronics,Printers,UPI
-B-25906,78,27,3,Clothing,Stole,COD
-B-26017,78,7,1,Furniture,Chairs,COD
-B-25644,76,-92,8,Furniture,Furnishings,COD
-B-25679,76,-50,1,Clothing,Saree,COD
-B-25854,76,19,3,Clothing,Hankerchief,COD
-B-25670,74,29,3,Clothing,Stole,COD
-B-25792,74,-25,3,Clothing,Stole,COD
-B-25808,146,-63,3,Electronics,Electronic Games,Debit Card
-B-25750,73,-31,1,Furniture,Bookcases,COD
-B-26051,80,22,3,Clothing,Stole,UPI
-B-26076,133,46,5,Clothing,Shirt,EMI
-B-25946,146,7,2,Electronics,Phones,Debit Card
-B-25648,130,-41,4,Clothing,Saree,EMI
-B-25992,141,41,3,Clothing,Shirt,UPI
-B-25848,147,21,3,Furniture,Furnishings,Debit Card
-B-25697,73,-7,1,Electronics,Phones,COD
-B-25659,148,72,7,Clothing,T-shirt,Debit Card
-B-25716,58,0,4,Clothing,Saree,UPI
-B-25652,21,-13,3,Clothing,Leggings,UPI
-B-26093,148,25,3,Clothing,Saree,Debit Card
-B-25725,144,-7,4,Electronics,Electronic Games,COD
-B-25661,145,-104,5,Furniture,Chairs,UPI
-B-25693,72,-49,1,Electronics,Phones,COD
-B-25910,125,15,5,Clothing,Shirt,EMI
-B-25943,149,15,3,Clothing,Saree,Debit Card
-B-26100,72,16,2,Clothing,Shirt,COD
-B-25830,71,0,8,Clothing,Skirt,COD
-B-25932,71,-14,4,Furniture,Furnishings,COD
-B-25929,154,-85,3,Furniture,Chairs,EMI
-B-25708,191,13,8,Furniture,Furnishings,COD
-B-25921,170,19,5,Clothing,T-shirt,UPI
-B-25755,47,-3,2,Clothing,Stole,UPI
-B-25640,122,-47,4,Clothing,Saree,EMI
-B-25838,70,26,5,Clothing,Hankerchief,COD
-B-26025,155,5,3,Clothing,Stole,EMI
-B-25789,67,-86,9,Furniture,Furnishings,COD
-B-25697,67,-42,3,Clothing,Stole,COD
-B-25797,148,-101,2,Furniture,Bookcases,UPI
-B-26064,122,38,6,Clothing,T-shirt,Credit Card
-B-25732,16,-5,2,Clothing,Stole,UPI
-B-25654,121,-17,3,Furniture,Furnishings,Credit Card
-B-25750,42,-15,12,Clothing,Skirt,UPI
-B-25751,65,-4,6,Clothing,Hankerchief,COD
-B-25889,119,-43,7,Clothing,Kurti,Credit Card
-B-25683,155,56,3,Furniture,Furnishings,EMI
-B-25602,119,-5,8,Clothing,Saree,Credit Card
-B-25871,118,25,4,Clothing,Hankerchief,Credit Card
-B-25953,116,22,1,Electronics,Accessories,Credit Card
-B-25950,158,-29,10,Clothing,Hankerchief,EMI
-B-26091,158,69,3,Clothing,Stole,EMI
-B-25753,65,-52,3,Electronics,Accessories,COD
-B-25611,160,-59,2,Clothing,Saree,EMI
-B-25935,162,20,3,Furniture,Chairs,EMI
-B-25886,63,1,4,Clothing,T-shirt,COD
-B-25833,64,27,5,Clothing,Hankerchief,UPI
-B-25665,166,-113,4,Electronics,Accessories,EMI
-B-25694,167,43,7,Clothing,T-shirt,EMI
-B-25668,123,17,3,Furniture,Furnishings,COD
-B-25945,63,14,2,Clothing,Shirt,COD
-B-25954,891,0,5,Clothing,Saree,COD
-B-25818,75,28,9,Clothing,Hankerchief,UPI
-B-25861,62,6,5,Clothing,Hankerchief,COD
-B-25721,29,-18,7,Clothing,Skirt,UPI
-B-26024,168,18,6,Clothing,Stole,Debit Card
-B-26056,70,24,3,Clothing,Stole,UPI
-B-26050,169,55,4,Clothing,Saree,Debit Card
-B-25708,32,-8,2,Clothing,Stole,COD
-B-25651,44,-8,3,Clothing,Stole,UPI
-B-25616,116,-56,5,Clothing,Stole,Credit Card
-B-25827,156,21,3,Furniture,Chairs,COD
-B-25996,62,6,6,Clothing,Skirt,COD
-B-25830,54,1,2,Clothing,Saree,UPI
-B-25951,111,11,9,Clothing,Hankerchief,Credit Card
-B-25713,158,-63,4,Furniture,Chairs,UPI
-B-25678,7,-3,2,Clothing,Skirt,UPI
-B-25901,61,28,2,Clothing,Hankerchief,UPI
-B-25798,61,-50,4,Clothing,Hankerchief,COD
-B-25902,154,26,4,Electronics,Accessories,COD
-B-25851,62,1,3,Clothing,Saree,COD
-B-25944,169,38,3,Clothing,Saree,Debit Card
-B-25939,61,18,2,Electronics,Accessories,COD
-B-25656,61,-23,2,Clothing,Saree,COD
-B-25695,171,14,9,Clothing,Shirt,Debit Card
-B-25781,60,-49,8,Clothing,Hankerchief,COD
-B-25783,25,-11,1,Clothing,Stole,UPI
-B-25867,163,26,4,Clothing,Shirt,COD
-B-25993,173,86,1,Electronics,Printers,Debit Card
-B-25755,257,-3,2,Furniture,Bookcases,UPI
-B-25880,108,37,2,Clothing,Stole,Credit Card
-B-25941,177,41,4,Clothing,Shirt,Debit Card
-B-25757,106,15,7,Clothing,Hankerchief,Credit Card
-B-25754,41,-14,5,Clothing,Leggings,UPI
-B-25653,168,-10,3,Electronics,Accessories,UPI
-B-25821,60,21,4,Clothing,Stole,COD
-B-25706,31,-11,4,Clothing,Stole,COD
-B-26064,179,0,2,Clothing,Saree,Debit Card
-B-25803,106,12,3,Clothing,Trousers,Credit Card
-B-26076,60,13,2,Clothing,T-shirt,COD
-B-25603,180,5,3,Clothing,Trousers,Debit Card
-B-25903,60,-10,2,Furniture,Furnishings,COD
-B-25938,59,25,3,Clothing,Stole,COD
-B-25868,170,73,2,Electronics,Accessories,UPI
-B-25956,59,10,2,Clothing,Hankerchief,COD
-B-25652,24,-21,7,Clothing,Skirt,COD
-B-25883,105,-26,8,Clothing,Leggings,Credit Card
-B-26096,103,46,2,Clothing,Saree,Credit Card
-B-25969,171,17,6,Clothing,T-shirt,UPI
-B-25951,102,13,2,Clothing,Stole,Credit Card
-B-25855,98,12,2,Clothing,Hankerchief,Credit Card
-B-26091,59,10,4,Clothing,Leggings,COD
-B-25954,189,60,4,Furniture,Furnishings,Debit Card
-B-25763,58,-52,3,Furniture,Chairs,COD
-B-25945,60,3,3,Clothing,Saree,UPI
-B-25740,58,-8,2,Clothing,Saree,COD
-B-25818,94,20,2,Furniture,Furnishings,UPI
-B-25603,193,-166,3,Clothing,Saree,EMI
-B-25964,199,0,4,Clothing,Stole,EMI
-B-25930,202,89,9,Clothing,T-shirt,EMI
-B-25930,58,17,2,Clothing,Hankerchief,COD
-B-25879,57,-28,2,Clothing,Kurti,COD
-B-25903,204,-94,4,Clothing,Hankerchief,EMI
-B-25614,98,-12,2,Electronics,Electronic Games,Credit Card
-B-25750,22,-12,3,Clothing,Stole,COD
-B-25852,97,17,2,Clothing,Stole,Credit Card
-B-26008,57,24,5,Clothing,Leggings,COD
-B-26092,97,14,2,Clothing,T-shirt,Credit Card
-B-25689,97,17,2,Clothing,Stole,Credit Card
-B-25730,96,22,5,Clothing,Stole,Credit Card
-B-25885,94,27,2,Clothing,Shirt,Credit Card
-B-25999,26,-17,1,Clothing,Stole,COD
-B-26011,93,44,2,Clothing,Stole,Credit Card
-B-25754,93,-65,4,Clothing,Stole,Credit Card
-B-26030,92,5,6,Clothing,Hankerchief,Credit Card
-B-25851,57,27,2,Clothing,T-shirt,COD
-B-25870,57,7,3,Furniture,Furnishings,COD
-B-26074,57,21,4,Clothing,Leggings,COD
-B-25861,128,4,3,Clothing,Saree,COD
-B-25797,89,-4,5,Clothing,Saree,Credit Card
-B-25993,221,26,7,Furniture,Furnishings,COD
-B-25799,205,-119,3,Clothing,Saree,Debit Card
-B-25721,191,51,5,Clothing,Shirt,UPI
-B-26056,206,18,4,Clothing,Hankerchief,Debit Card
-B-25743,56,0,4,Clothing,Hankerchief,COD
-B-25854,88,16,4,Clothing,Stole,Credit Card
-B-25748,224,58,3,Electronics,Phones,UPI
-B-25976,193,8,4,Clothing,T-shirt,UPI
-B-25953,87,36,5,Clothing,Stole,Credit Card
-B-25996,189,4,1,Clothing,Saree,UPI
-B-25717,55,-33,2,Furniture,Chairs,COD
-B-25865,85,-1,3,Clothing,Saree,Credit Card
-B-25959,252,56,2,Electronics,Phones,UPI
-B-25855,197,73,1,Furniture,Bookcases,COD
-B-25703,17,-3,2,Clothing,Stole,UPI
-B-26049,100,28,2,Clothing,Hankerchief,UPI
-B-25755,80,-19,5,Clothing,Stole,UPI
-B-26070,75,29,1,Clothing,Trousers,UPI
-B-25755,26,4,2,Clothing,Saree,UPI
-B-26047,55,12,5,Clothing,Skirt,COD
-B-25604,157,5,9,Clothing,Saree,UPI
-B-25651,200,-60,4,Furniture,Bookcases,UPI
-B-25983,230,5,2,Clothing,Saree,UPI
-B-26056,213,-145,3,Furniture,Bookcases,Debit Card
-B-25940,55,4,2,Clothing,Stole,COD
-B-25766,220,-19,2,Clothing,Saree,Debit Card
-B-25935,150,32,3,Clothing,Hankerchief,COD
-B-25970,203,84,2,Electronics,Printers,UPI
-B-26053,93,31,3,Electronics,Accessories,UPI
-B-25947,290,35,6,Clothing,Hankerchief,COD
-B-25856,48,6,1,Clothing,Saree,COD
-B-26030,221,35,4,Electronics,Accessories,Debit Card
-B-26069,55,18,2,Clothing,Kurti,COD
-B-25653,227,102,8,Electronics,Accessories,Debit Card
-B-25627,55,-39,4,Clothing,Stole,COD
-B-25947,207,33,2,Electronics,Accessories,UPI
-B-25801,64,6,4,Clothing,Saree,COD
-B-25964,89,6,5,Clothing,Saree,COD
-B-25950,54,27,2,Clothing,Stole,COD
-B-25878,84,41,3,Clothing,T-shirt,Credit Card
-B-25773,209,-21,2,Electronics,Electronic Games,UPI
-B-26081,79,33,4,Clothing,Stole,UPI
-B-26027,54,8,4,Clothing,T-shirt,COD
-B-25967,229,59,9,Clothing,Saree,Debit Card
-B-25901,158,38,3,Clothing,Hankerchief,UPI
-B-25951,248,105,2,Electronics,Phones,Debit Card
-B-25853,199,6,2,Clothing,Saree,UPI
-B-25923,253,-11,1,Clothing,Trousers,Debit Card
-B-25793,257,-252,4,Clothing,Saree,Debit Card
-B-26068,193,33,5,Electronics,Accessories,COD
-B-26080,109,35,6,Clothing,T-shirt,COD
-B-25843,214,30,3,Electronics,Accessories,COD
-B-26002,141,7,7,Clothing,Saree,COD
-B-25993,201,32,4,Furniture,Furnishings,UPI
-B-26070,54,12,4,Clothing,Shirt,COD
-B-25887,83,6,6,Clothing,Shirt,EMI
-B-25654,54,-3,3,Clothing,Saree,COD
-B-25898,53,5,3,Clothing,T-shirt,COD
-B-25664,258,-27,2,Electronics,Phones,Debit Card
-B-26012,199,8,2,Clothing,Saree,COD
-B-25979,82,-27,3,Clothing,Kurti,EMI
-B-26054,139,36,3,Clothing,Stole,COD
-B-25757,53,15,2,Clothing,Stole,COD
-B-25623,53,1,4,Clothing,Stole,COD
-B-25824,101,38,2,Furniture,Furnishings,COD
-B-25754,262,215,2,Electronics,Printers,Debit Card
-B-25693,82,-39,5,Clothing,T-shirt,EMI
-B-25638,154,39,3,Clothing,Hankerchief,COD
-B-25922,52,18,2,Clothing,Stole,COD
-B-25919,1599,37,6,Electronics,Electronic Games,UPI
-B-25989,338,41,7,Clothing,Hankerchief,UPI
-B-25999,51,-49,2,Electronics,Electronic Games,COD
-B-25661,224,-81,3,Furniture,Chairs,COD
-B-26099,207,37,4,Clothing,Hankerchief,COD
-B-25866,51,14,2,Clothing,Stole,COD
-B-26098,82,8,3,Electronics,Accessories,EMI
-B-26062,50,-17,2,Clothing,Stole,COD
-B-25761,263,-31,9,Electronics,Electronic Games,Debit Card
-B-25843,50,7,6,Clothing,Skirt,COD
-B-25683,245,-3,4,Electronics,Phones,UPI
-B-25959,82,24,6,Clothing,Hankerchief,EMI
-B-25787,229,-41,8,Electronics,Accessories,COD
-B-25951,50,14,1,Electronics,Electronic Games,COD
-B-26056,220,40,2,Electronics,Accessories,COD
-B-25643,263,-63,2,Electronics,Electronic Games,Debit Card
-B-26093,81,-41,5,Clothing,Leggings,EMI
-B-25775,50,-17,2,Clothing,Stole,COD
-B-26093,49,5,4,Clothing,Hankerchief,COD
-B-25851,237,47,9,Clothing,T-shirt,UPI
-B-25685,264,-30,3,Furniture,Furnishings,Debit Card
-B-25651,49,3,1,Clothing,Shirt,COD
-B-25793,63,-24,6,Clothing,Kurti,COD
-B-25708,81,-51,7,Clothing,Stole,EMI
-B-25847,264,71,10,Furniture,Furnishings,Debit Card
-B-25954,48,11,2,Clothing,Shirt,COD
-B-25997,48,15,1,Clothing,Hankerchief,COD
-B-25650,245,-78,2,Electronics,Printers,UPI
-B-25883,146,42,5,Clothing,Hankerchief,UPI
-B-25945,245,10,2,Furniture,Bookcases,COD
-B-25981,245,91,2,Furniture,Bookcases,UPI
-B-25862,80,3,3,Clothing,Stole,EMI
-B-25877,269,33,5,Furniture,Chairs,Debit Card
-B-26090,80,22,3,Clothing,Stole,EMI
-B-26050,284,44,6,Clothing,Hankerchief,COD
-B-26072,313,44,3,Electronics,Electronic Games,COD
-B-25916,80,-26,9,Clothing,Skirt,EMI
-B-25722,48,-8,8,Clothing,Stole,COD
-B-25746,87,16,2,Clothing,Saree,UPI
-B-25753,47,-114,5,Furniture,Furnishings,COD
-B-25956,140,28,2,Electronics,Phones,COD
-B-25996,47,1,2,Clothing,Stole,COD
-B-25896,79,-2,2,Furniture,Furnishings,EMI
-B-25796,78,-64,7,Clothing,Stole,EMI
-B-25798,47,-3,2,Clothing,Stole,COD
-B-26043,185,48,4,Clothing,Stole,UPI
-B-26028,77,36,2,Clothing,Shirt,EMI
-B-25812,259,47,5,Clothing,Hankerchief,UPI
-B-25605,75,0,7,Clothing,Saree,EMI
-B-25702,75,0,3,Clothing,Shirt,EMI
-B-25940,46,0,4,Clothing,Leggings,COD
-B-26087,46,13,3,Clothing,Hankerchief,COD
-B-25955,200,13,5,Electronics,Phones,COD
-B-25626,46,-14,1,Electronics,Phones,COD
-B-25811,126,52,4,Clothing,Hankerchief,UPI
-B-25856,74,29,3,Clothing,Stole,EMI
-B-25628,45,13,4,Clothing,Skirt,COD
-B-26016,74,9,3,Clothing,Shirt,UPI
-B-25999,129,11,2,Electronics,Phones,UPI
-B-26043,122,50,7,Clothing,Stole,UPI
-B-25743,74,-51,3,Clothing,Stole,UPI
-B-26014,278,39,5,Furniture,Chairs,Debit Card
-B-25876,282,14,4,Clothing,Trousers,Debit Card
-B-25785,45,0,2,Clothing,T-shirt,COD
-B-25810,45,6,3,Clothing,Shirt,COD
-B-25833,45,16,3,Clothing,Stole,COD
-B-25931,73,-36,3,Furniture,Chairs,UPI
-B-25852,45,12,4,Clothing,Hankerchief,COD
-B-25738,72,-6,3,Clothing,Saree,UPI
-B-25921,71,-44,5,Electronics,Accessories,UPI
-B-25685,45,-2,4,Clothing,Shirt,COD
-B-25996,286,140,6,Clothing,Shirt,Debit Card
-B-25663,294,138,2,Electronics,Printers,Debit Card
-B-25888,223,4,3,Electronics,Phones,COD
-B-25677,20,-2,1,Electronics,Accessories,UPI
-B-26045,302,75,6,Furniture,Furnishings,Debit Card
-B-26002,113,28,2,Clothing,Saree,UPI
-B-25953,44,2,3,Clothing,Hankerchief,COD
-B-25617,305,-270,5,Electronics,Electronic Games,Debit Card
-B-25702,306,-147,3,Clothing,Saree,Debit Card
-B-25799,70,-64,5,Clothing,Stole,UPI
-B-25985,44,11,4,Clothing,Stole,COD
-B-25952,44,14,3,Clothing,Hankerchief,COD
-B-25754,319,312,5,Clothing,Saree,Debit Card
-B-25770,287,-280,12,Furniture,Chairs,UPI
-B-25954,44,10,3,Clothing,Stole,COD
-B-25657,288,-180,4,Furniture,Chairs,COD
-B-25801,49,-31,2,Clothing,Stole,COD
-B-26000,43,-10,4,Clothing,Skirt,COD
-B-25897,43,5,3,Clothing,Stole,COD
-B-25681,68,-27,3,Electronics,Accessories,UPI
-B-25852,320,144,1,Electronics,Printers,Debit Card
-B-26067,67,2,4,Clothing,T-shirt,UPI
-B-25601,66,-12,5,Clothing,Stole,UPI
-B-25804,321,26,3,Electronics,Printers,Debit Card
-B-25751,43,-5,2,Clothing,Saree,COD
-B-25630,114,-39,5,Clothing,Kurti,COD
-B-25899,43,17,1,Clothing,Saree,COD
-B-25751,43,21,3,Clothing,Shirt,COD
-B-26081,637,50,5,Clothing,Saree,COD
-B-25851,300,42,2,Electronics,Printers,COD
-B-26036,341,44,7,Furniture,Furnishings,UPI
-B-25704,102,0,3,Electronics,Phones,COD
-B-25761,328,-15,3,Electronics,Electronic Games,Debit Card
-B-25978,341,160,7,Clothing,Stole,Debit Card
-B-26077,62,11,7,Clothing,Hankerchief,UPI
-B-25981,42,13,3,Clothing,Leggings,COD
-B-26043,62,28,5,Clothing,Hankerchief,UPI
-B-25896,42,7,2,Clothing,Kurti,COD
-B-25790,42,-3,1,Electronics,Electronic Games,COD
-B-25789,313,-13,5,Furniture,Bookcases,UPI
-B-26061,109,52,2,Clothing,Stole,UPI
-B-25923,226,58,3,Electronics,Accessories,COD
-B-25868,62,-1,1,Electronics,Phones,UPI
-B-25777,61,-25,4,Electronics,Accessories,UPI
-B-25999,222,74,5,Clothing,Hankerchief,COD
-B-25854,342,-154,7,Furniture,Furnishings,Debit Card
-B-25667,344,-34,3,Clothing,Saree,Debit Card
-B-25829,345,38,7,Clothing,Hankerchief,Debit Card
-B-25705,46,0,2,Electronics,Electronic Games,COD
-B-25843,255,74,5,Clothing,Hankerchief,COD
-B-25958,360,32,3,Clothing,Saree,UPI
-B-25893,372,59,3,Electronics,Printers,UPI
-B-25855,61,30,2,Clothing,Hankerchief,UPI
-B-25616,42,12,5,Clothing,Hankerchief,COD
-B-25630,42,-26,2,Clothing,Kurti,COD
-B-25936,61,25,4,Clothing,Saree,UPI
-B-25830,41,11,6,Clothing,Hankerchief,COD
-B-25930,40,13,3,Clothing,T-shirt,COD
-B-25808,59,21,2,Clothing,Stole,UPI
-B-25979,57,27,2,Clothing,Shirt,UPI
-B-25687,17,6,1,Clothing,Stole,UPI
-B-26087,40,10,2,Clothing,Stole,COD
-B-25764,349,-24,2,Clothing,Saree,Debit Card
-B-25782,335,-22,7,Furniture,Chairs,UPI
-B-25854,40,16,3,Clothing,Hankerchief,COD
-B-26085,40,17,2,Clothing,Stole,COD
-B-25630,40,-7,3,Clothing,Stole,COD
-B-25999,352,74,8,Clothing,Stole,Debit Card
-B-25648,55,-26,4,Clothing,Saree,UPI
-B-25952,352,18,5,Clothing,Trousers,Debit Card
-B-25710,53,-18,4,Clothing,T-shirt,UPI
-B-25685,51,7,2,Furniture,Furnishings,UPI
-B-25740,40,-37,3,Clothing,Stole,COD
-B-25973,39,14,5,Clothing,Leggings,COD
-B-25769,355,-4,2,Clothing,Saree,Debit Card
-B-25687,357,139,2,Clothing,Saree,Debit Card
-B-25603,38,18,1,Clothing,Kurti,COD
-B-26050,38,9,2,Clothing,Stole,COD
-B-25748,141,10,4,Clothing,Shirt,UPI
-B-25833,36,4,9,Clothing,Hankerchief,COD
-B-25930,351,-94,5,Electronics,Electronic Games,COD
-B-26035,369,15,3,Electronics,Electronic Games,Debit Card
-B-25851,53,24,6,Clothing,Hankerchief,EMI
-B-25718,371,115,1,Furniture,Bookcases,Debit Card
-B-25898,499,33,4,Clothing,Saree,COD
-B-25893,223,62,7,Clothing,Shirt,COD
-B-25983,50,-4,6,Clothing,T-shirt,EMI
-B-26056,391,90,6,Electronics,Phones,Debit Card
-B-25715,416,137,3,Electronics,Phones,Debit Card
-B-25702,424,-17,9,Furniture,Chairs,Debit Card
-B-25618,362,127,1,Furniture,Bookcases,COD
-B-25643,36,-7,1,Electronics,Electronic Games,COD
-B-25961,34,-10,3,Clothing,Skirt,COD
-B-25873,367,73,3,Electronics,Electronic Games,UPI
-B-26053,425,208,7,Clothing,Saree,Debit Card
-B-25683,433,26,3,Electronics,Printers,Debit Card
-B-25718,460,31,3,Furniture,Bookcases,Debit Card
-B-25753,62,-56,5,Clothing,Kurti,COD
-B-25852,50,16,1,Clothing,Stole,EMI
-B-25914,460,-143,3,Furniture,Chairs,Debit Card
-B-26083,34,3,3,Clothing,Saree,COD
-B-25857,227,59,2,Furniture,Furnishings,UPI
-B-25939,469,33,4,Electronics,Electronic Games,Debit Card
-B-25851,103,46,2,Clothing,Saree,UPI
-B-25699,34,-13,5,Clothing,Leggings,COD
-B-26078,137,63,3,Clothing,Stole,COD
-B-26075,34,12,2,Clothing,Stole,COD
-B-25956,474,56,4,Electronics,Phones,Debit Card
-B-25861,50,3,2,Clothing,Stole,EMI
-B-25777,69,-67,4,Clothing,Kurti,UPI
-B-25634,389,-83,3,Furniture,Chairs,UPI
-B-25753,77,-43,8,Clothing,Stole,COD
-B-25687,51,21,3,Clothing,T-shirt,COD
-B-25885,394,146,2,Furniture,Bookcases,UPI
-B-25767,48,-22,2,Clothing,Saree,EMI
-B-25961,34,-12,5,Clothing,Leggings,COD
-B-25923,484,28,3,Electronics,Printers,Debit Card
-B-25799,47,-27,4,Clothing,Saree,EMI
-B-25955,45,8,4,Clothing,Skirt,EMI
-B-26015,128,55,1,Clothing,Saree,COD
-B-26051,669,74,5,Furniture,Bookcases,COD
-B-25822,34,13,2,Clothing,Saree,COD
-B-25989,44,14,3,Clothing,Hankerchief,Credit Card
-B-25910,33,1,2,Clothing,Shirt,COD
-B-25956,33,10,3,Clothing,Hankerchief,COD
-B-25986,487,-23,3,Electronics,Printers,Debit Card
-B-26098,497,179,3,Furniture,Chairs,Debit Card
-B-26061,508,203,2,Electronics,Accessories,Debit Card
-B-25954,524,-25,2,Electronics,Electronic Games,Debit Card
-B-26034,425,183,5,Electronics,Accessories,UPI
-B-25909,168,56,3,Clothing,Saree,COD
-B-25692,141,28,7,Furniture,Furnishings,UPI
-B-25959,429,17,3,Furniture,Chairs,UPI
-B-25745,44,-8,3,Clothing,Stole,Credit Card
-B-25689,149,136,3,Clothing,Stole,UPI
-B-25786,44,-34,3,Clothing,Stole,Credit Card
-B-25897,33,10,3,Clothing,Hankerchief,COD
-B-26056,33,9,2,Clothing,Hankerchief,COD
-B-25855,442,31,2,Electronics,Electronic Games,UPI
-B-25667,41,6,5,Clothing,Skirt,Credit Card
-B-25701,33,-12,5,Clothing,Hankerchief,COD
-B-26046,32,3,8,Clothing,Hankerchief,COD
-B-25676,32,6,3,Clothing,Shirt,COD
-B-26045,179,77,1,Clothing,Saree,UPI
-B-25889,31,10,1,Clothing,Kurti,COD
-B-25900,140,68,5,Clothing,T-shirt,COD
-B-25685,529,137,3,Electronics,Phones,Debit Card
-B-25622,534,0,3,Clothing,Saree,Debit Card
-B-25709,41,-6,1,Furniture,Chairs,Credit Card
-B-25798,379,63,2,Clothing,Saree,COD
-B-25933,81,-44,3,Clothing,Stole,COD
-B-25793,40,-33,5,Clothing,Hankerchief,Credit Card
-B-25951,40,18,1,Electronics,Accessories,Credit Card
-B-25656,534,0,3,Clothing,Saree,Debit Card
-B-26056,31,9,2,Clothing,Hankerchief,COD
-B-25870,473,-113,9,Clothing,Hankerchief,UPI
-B-25690,31,-10,3,Clothing,Skirt,COD
-B-25702,31,-3,4,Clothing,Saree,COD
-B-25752,91,15,6,Clothing,T-shirt,UPI
-B-25781,30,-25,2,Clothing,T-shirt,COD
-B-26038,30,6,1,Clothing,T-shirt,COD
-B-25761,40,0,3,Clothing,Saree,Credit Card
-B-25751,534,5,2,Electronics,Electronic Games,Debit Card
-B-25750,539,-146,7,Furniture,Furnishings,Debit Card
-B-25726,490,-128,8,Furniture,Bookcases,UPI
-B-26048,163,81,2,Electronics,Accessories,COD
-B-26051,184,85,6,Clothing,T-shirt,UPI
-B-25614,494,54,4,Furniture,Bookcases,COD
-B-25907,30,11,5,Clothing,Hankerchief,COD
-B-25789,30,0,1,Clothing,Kurti,COD
-B-26097,39,-18,2,Clothing,Leggings,Credit Card
-B-25902,1700,85,3,Clothing,Trousers,COD
-B-25657,332,-43,6,Electronics,Phones,UPI
-B-25854,436,131,9,Clothing,Hankerchief,UPI
-B-25610,30,-5,2,Furniture,Furnishings,COD
-B-25733,30,-10,2,Clothing,Stole,COD
-B-25798,38,-13,3,Clothing,Stole,Credit Card
-B-25803,511,194,3,Furniture,Chairs,UPI
-B-25755,37,-53,3,Clothing,Saree,Credit Card
-B-25850,513,215,2,Electronics,Accessories,COD
-B-25667,516,69,4,Furniture,Bookcases,UPI
-B-25796,559,-19,2,Clothing,Trousers,Debit Card
-B-26013,29,-10,3,Clothing,Skirt,COD
-B-25683,148,52,5,Clothing,Stole,UPI
-B-26054,559,-174,2,Electronics,Electronic Games,Debit Card
-B-26010,527,26,3,Electronics,Electronic Games,COD
-B-25979,560,44,3,Clothing,Saree,Debit Card
-B-25973,571,108,12,Clothing,Stole,Debit Card
-B-25975,29,2,3,Clothing,Skirt,COD
-B-26010,29,3,2,Clothing,Stole,COD
-B-25767,29,-3,3,Clothing,Saree,COD
-B-25815,35,14,2,Clothing,Stole,Credit Card
-B-25853,579,139,3,Electronics,Printers,Debit Card
-B-25756,29,-24,4,Clothing,Leggings,COD
-B-25755,593,213,4,Furniture,Bookcases,Debit Card
-B-25996,217,72,2,Furniture,Furnishings,COD
-B-25619,353,90,8,Clothing,Saree,COD
-B-26050,382,92,2,Electronics,Printers,COD
-B-26000,597,93,4,Furniture,Chairs,Debit Card
-B-26058,212,97,7,Clothing,Hankerchief,COD
-B-25856,689,90,5,Clothing,Saree,COD
-B-26044,28,-10,3,Clothing,Skirt,COD
-B-25654,34,12,3,Clothing,Hankerchief,Credit Card
-B-26051,600,-102,5,Electronics,Electronic Games,Debit Card
-B-25636,637,113,5,Clothing,Saree,UPI
-B-25710,616,-69,7,Furniture,Furnishings,Debit Card
-B-25656,624,37,2,Electronics,Electronic Games,Debit Card
-B-25919,28,4,1,Clothing,T-shirt,COD
-B-25781,584,-444,7,Electronics,Printers,UPI
-B-25899,28,6,4,Clothing,Skirt,COD
-B-26093,33,-1,1,Clothing,Saree,Credit Card
-B-25753,27,-20,2,Clothing,Hankerchief,COD
-B-25858,27,5,2,Clothing,Skirt,COD
-B-25762,27,4,3,Clothing,Skirt,COD
-B-25625,635,-349,5,Clothing,Saree,Debit Card
-B-25857,598,166,4,Furniture,Bookcases,UPI
-B-25919,636,-204,2,Electronics,Printers,Debit Card
-B-25864,27,9,2,Clothing,Hankerchief,COD
-B-25698,27,-6,4,Clothing,Hankerchief,COD
-B-25959,637,212,8,Electronics,Phones,Debit Card
-B-26073,290,110,9,Clothing,Stole,UPI
-B-25649,27,-25,2,Clothing,Stole,COD
-B-25806,632,-114,4,Furniture,Tables,UPI
-B-25756,643,-45,2,Electronics,Printers,Debit Card
-B-26003,652,13,6,Furniture,Furnishings,Debit Card
-B-25752,33,-27,1,Furniture,Chairs,Credit Card
-B-25783,26,2,2,Clothing,Hankerchief,COD
-B-25802,633,-633,11,Electronics,Accessories,UPI
-B-25881,26,9,2,Clothing,Leggings,COD
-B-25898,191,93,4,Clothing,Shirt,UPI
-B-25696,887,80,3,Electronics,Printers,UPI
-B-25826,637,261,2,Electronics,Printers,COD
-B-25745,670,15,5,Furniture,Bookcases,Debit Card
-B-25943,26,7,4,Clothing,Hankerchief,COD
-B-26051,676,195,5,Furniture,Bookcases,Debit Card
-B-25624,26,12,3,Clothing,Hankerchief,COD
-B-25723,26,-24,1,Clothing,Stole,COD
-B-26052,25,7,2,Clothing,Stole,COD
-B-25603,24,-30,1,Furniture,Chairs,COD
-B-25983,32,-12,1,Furniture,Chairs,Credit Card
-B-25650,31,-2,2,Clothing,Saree,Credit Card
-B-25656,651,169,5,Electronics,Printers,COD
-B-26018,326,107,3,Furniture,Furnishings,UPI
-B-25783,30,-6,2,Clothing,Hankerchief,UPI
-B-25951,30,5,2,Clothing,Kurti,UPI
-B-25974,662,240,2,Furniture,Bookcases,COD
-B-25754,30,-23,2,Clothing,Saree,UPI
-B-26073,29,9,3,Clothing,Saree,UPI
-B-25796,28,1,1,Electronics,Accessories,UPI
-B-25653,28,-3,2,Clothing,Saree,UPI
-B-25884,24,2,4,Clothing,Hankerchief,COD
-B-25650,28,-26,2,Clothing,Stole,UPI
-B-26045,27,5,1,Clothing,Stole,UPI
-B-25672,27,-15,1,Clothing,Stole,UPI
-B-25949,24,11,3,Clothing,Hankerchief,COD
-B-25733,23,-6,4,Clothing,Hankerchief,COD
-B-25697,322,193,5,Electronics,Printers,COD
-B-25893,688,-103,6,Electronics,Accessories,Debit Card
-B-25802,23,-3,1,Clothing,Shirt,COD
-B-25961,26,3,3,Clothing,Skirt,UPI
-B-25751,68,-56,2,Electronics,Phones,COD
-B-25814,462,169,4,Clothing,Saree,COD
-B-25702,941,203,3,Furniture,Tables,UPI
-B-25896,23,4,2,Clothing,Skirt,COD
-B-25969,720,43,2,Electronics,Printers,UPI
-B-25778,724,-447,4,Electronics,Electronic Games,UPI
-B-25859,724,253,2,Furniture,Bookcases,UPI
-B-25810,26,10,4,Clothing,Hankerchief,UPI
-B-25616,22,-2,3,Clothing,Hankerchief,COD
-B-25633,711,-8,4,Clothing,Saree,Debit Card
-B-25753,107,31,5,Clothing,T-shirt,COD
-B-25764,765,-153,2,Electronics,Phones,Debit Card
-B-25864,22,8,2,Clothing,Leggings,COD
-B-25725,26,-5,2,Clothing,Stole,UPI
-B-25858,22,8,3,Clothing,Hankerchief,COD
-B-25817,743,89,5,Electronics,Printers,UPI
-B-25703,22,-15,4,Clothing,Kurti,COD
-B-25610,781,594,6,Electronics,Printers,Debit Card
-B-25652,25,-2,5,Clothing,Hankerchief,UPI
-B-25891,25,2,2,Clothing,Hankerchief,UPI
-B-25764,119,43,5,Clothing,T-shirt,COD
-B-25664,785,52,2,Electronics,Phones,Debit Card
-B-25645,183,-66,5,Electronics,Phones,UPI
-B-26008,22,4,1,Clothing,Stole,COD
-B-26061,642,180,5,Clothing,Saree,COD
-B-25781,767,-353,5,Clothing,Trousers,COD
-B-25999,770,323,3,Electronics,Accessories,COD
-B-25783,21,-17,3,Clothing,Shirt,COD
-B-25800,21,-6,3,Clothing,Leggings,COD
-B-26093,492,187,2,Electronics,Accessories,UPI
-B-25638,816,-96,3,Electronics,Printers,Debit Card
-B-26026,25,2,3,Clothing,Kurti,Credit Card
-B-25902,802,120,7,Electronics,Accessories,COD
-B-25968,811,154,7,Electronics,Accessories,UPI
-B-26099,835,267,5,Electronics,Phones,Debit Card
-B-25699,21,-5,1,Electronics,Accessories,COD
-B-26076,450,-190,4,Furniture,Bookcases,COD
-B-25793,24,-1,4,Clothing,Skirt,Credit Card
-B-25671,832,0,3,Clothing,Trousers,UPI
-B-26040,833,93,3,Clothing,Trousers,UPI
-B-26059,20,6,1,Clothing,T-shirt,COD
-B-25725,23,-5,7,Clothing,Hankerchief,Credit Card
-B-25855,550,-242,5,Furniture,Furnishings,UPI
-B-25738,148,-91,2,Electronics,Phones,COD
-B-25899,846,9,2,Furniture,Chairs,Debit Card
-B-25608,856,385,6,Electronics,Printers,COD
-B-25904,871,131,2,Furniture,Bookcases,UPI
-B-26056,19,-18,4,Clothing,Kurti,COD
-B-25669,610,-66,2,Furniture,Tables,COD
-B-25638,880,97,8,Furniture,Furnishings,Debit Card
-B-25953,22,-8,4,Clothing,Hankerchief,Credit Card
-B-25841,22,11,2,Clothing,Skirt,Credit Card
-B-26071,21,4,3,Clothing,Hankerchief,Credit Card
-B-25793,18,1,3,Clothing,Hankerchief,COD
-B-25813,911,202,7,Furniture,Chairs,COD
-B-26010,18,2,3,Clothing,Hankerchief,COD
-B-25825,911,355,5,Electronics,Phones,Debit Card
-B-25630,143,-129,2,Electronics,Phones,COD
-B-25986,918,22,9,Electronics,Electronic Games,COD
-B-25650,925,-447,5,Electronics,Electronic Games,COD
-B-26078,17,8,2,Clothing,Skirt,COD
-B-25890,465,207,9,Clothing,Saree,COD
-B-25691,17,-9,3,Clothing,Stole,COD
-B-25952,935,114,4,Electronics,Electronic Games,UPI
-B-25651,16,-10,2,Clothing,T-shirt,COD
-B-25955,954,95,3,Electronics,Printers,UPI
-B-25898,915,-99,3,Furniture,Tables,Debit Card
-B-25838,955,305,3,Electronics,Printers,Debit Card
-B-25797,976,293,4,Electronics,Accessories,COD
-B-25738,1069,0,6,Clothing,Saree,EMI
-B-25661,19,-15,3,Clothing,Hankerchief,Credit Card
-B-25997,16,6,3,Clothing,Hankerchief,COD
-B-25667,1030,206,8,Electronics,Printers,UPI
-B-25753,620,82,6,Electronics,Accessories,COD
-B-25848,16,8,2,Clothing,Hankerchief,COD
-B-26097,19,8,2,Clothing,Hankerchief,Credit Card
-B-25633,249,-130,4,Electronics,Phones,UPI
-B-25807,16,6,1,Clothing,Stole,COD
-B-25752,1361,197,9,Furniture,Bookcases,COD
-B-26052,15,1,1,Clothing,Shirt,COD
-B-25610,1076,-38,4,Electronics,Printers,COD
-B-25888,18,2,3,Clothing,Hankerchief,Credit Card
-B-25937,1101,352,3,Furniture,Bookcases,UPI
-B-25828,15,2,1,Clothing,Leggings,COD
-B-26048,1104,209,4,Clothing,Trousers,UPI
-B-25670,14,2,1,Clothing,Hankerchief,COD
-B-25757,14,5,1,Clothing,Hankerchief,COD
-B-25751,14,-3,2,Clothing,Leggings,COD
-B-25687,14,-1,4,Clothing,Kurti,COD
-B-25710,13,-8,1,Clothing,T-shirt,COD
-B-25656,13,-1,3,Clothing,Hankerchief,COD
-B-25601,1275,1148,7,Furniture,Bookcases,EMI
-B-26053,17,1,2,Clothing,Skirt,Credit Card
-B-26001,13,0,2,Clothing,Hankerchief,COD
-B-25964,1270,546,11,Electronics,Electronic Games,EMI
-B-26062,13,-2,1,Clothing,Stole,COD
-B-25982,13,3,1,Clothing,Leggings,COD
-B-25864,17,5,1,Clothing,Hankerchief,UPI
-B-25693,13,-13,2,Clothing,Skirt,COD
-B-25802,13,-9,2,Clothing,Skirt,COD
-B-25676,1263,-56,5,Clothing,Trousers,EMI
-B-25639,1629,-153,3,Electronics,Phones,COD
-B-25757,17,7,3,Clothing,Hankerchief,UPI
-B-26003,17,2,2,Clothing,Skirt,UPI
-B-26055,1250,-12,2,Electronics,Printers,EMI
-B-25786,17,-11,3,Clothing,Skirt,UPI
-B-25919,977,-244,7,Electronics,Phones,COD
-B-25894,1246,62,3,Furniture,Bookcases,EMI
-B-25979,12,1,2,Clothing,Hankerchief,COD
-B-25651,11,-4,2,Clothing,Skirt,COD
-B-25653,1327,318,8,Furniture,Chairs,EMI
-B-25855,1319,567,5,Electronics,Printers,COD
-B-25793,1402,109,11,Clothing,Saree,EMI
-B-26073,1514,742,4,Electronics,Printers,EMI
-B-25881,1351,111,6,Electronics,Electronic Games,COD
-B-25603,1355,-60,5,Clothing,Trousers,COD
-B-25851,10,2,2,Clothing,Hankerchief,COD
-B-25883,10,-2,2,Clothing,Leggings,COD
-B-25768,1582,-443,6,Clothing,Trousers,EMI
-B-25953,1218,352,9,Furniture,Bookcases,EMI
-B-25755,321,315,5,Clothing,Saree,UPI
-B-26057,736,346,5,Electronics,Printers,COD
-B-26055,1218,-420,8,Furniture,Bookcases,COD
-B-25855,1027,441,8,Clothing,Saree,COD
-B-25989,10,5,1,Clothing,Stole,COD
-B-26099,2366,552,5,Clothing,Trousers,UPI
-B-25652,9,-6,2,Clothing,Hankerchief,COD
-B-25723,16,-12,2,Clothing,Stole,UPI
-B-26099,9,3,1,Clothing,Skirt,COD
-B-25629,1560,421,3,Clothing,Trousers,COD
-B-25877,1137,568,2,Clothing,Trousers,EMI
-B-25767,9,-9,2,Clothing,Kurti,COD
-B-25735,15,-7,1,Clothing,Hankerchief,UPI
-B-26097,14,5,1,Clothing,Hankerchief,UPI
-B-26070,14,7,2,Clothing,Hankerchief,UPI
-B-25752,8,-2,2,Clothing,Hankerchief,COD
-B-25656,1389,680,7,Clothing,Saree,COD
-B-25748,8,-1,2,Clothing,Leggings,COD
-B-25758,8,-2,1,Clothing,Stole,COD
-B-25950,13,4,1,Clothing,Leggings,UPI
-B-25707,8,-6,1,Clothing,Stole,COD
-B-25909,12,2,2,Clothing,Skirt,Credit Card
-B-25955,1716,309,7,Electronics,Accessories,COD
-B-26023,1117,447,10,Furniture,Bookcases,EMI
-B-25655,9,-6,2,Clothing,Skirt,Credit Card
-B-25686,332,503,3,Electronics,Printers,COD
-B-25655,7,-4,3,Clothing,Hankerchief,COD
-B-25601,8,-2,3,Clothing,Hankerchief,Credit Card
-B-25862,2061,701,5,Furniture,Bookcases,UPI
-B-25626,1103,276,3,Furniture,Chairs,EMI
-B-25823,2103,322,8,Electronics,Electronic Games,UPI
-B-25881,2115,23,5,Furniture,Chairs,COD
-B-25910,850,-289,5,Electronics,Electronic Games,COD
-B-25830,1063,64,7,Electronics,Phones,EMI
-B-25978,1063,-175,4,Electronics,Electronic Games,EMI
-B-25997,2292,127,7,Furniture,Bookcases,COD
-B-25661,7,-1,2,Clothing,Hankerchief,Credit Card
-B-25969,2452,191,7,Furniture,Bookcases,UPI
-B-25858,2457,665,11,Electronics,Electronic Games,EMI
-B-25697,4,-3,1,Clothing,Skirt,Credit Card
-B-25798,2830,-1981,13,Furniture,Bookcases,EMI
-B-25873,7,1,1,Clothing,Hankerchief,COD
-B-25740,7,0,2,Clothing,Skirt,COD
-B-25700,7,-3,2,Clothing,Hankerchief,COD
-B-25757,3151,-35,7,Clothing,Trousers,EMI
-B-25973,4141,1698,13,Electronics,Printers,COD
-B-25698,7,-2,1,Clothing,Hankerchief,COD
-B-25993,4363,305,5,Furniture,Tables,EMI
+X-25681,1096,658,7,Food,Pizza,COD
+X-26055,5729,64,14,Gym,Treadmill,EMI
+X-25955,2927,146,8,Home Decor,Lamps,EMI
+X-26093,2847,712,8,Food,Burgers,Credit Card
+X-25602,2617,1151,4,Gym,Yoga Mat,Credit Card
+X-25881,2244,247,4,Home Decor,Paintings,Credit Card
+X-25696,275,-275,4,Food,Pasta,COD
+X-25687,387,-213,5,Home Decor,Vases,UPI
+X-25643,50,-44,2,Gym,Weight Bench,UPI
+X-25851,135,-54,5,Home Decor,Curtains,COD
+X-25703,231,-190,9,Food,Sandwich,COD
+X-25887,2125,-234,6,Gym,Exercise Bike,EMI
+X-25923,3873,-891,6,Home Decor,Wall Clocks,Credit Card
+X-25756,729,-492,5,Food,Salad,UPI
+X-25761,2188,1050,5,Gym,Dumbbells,Credit Card
+X-25655,6,-3,1,Home Decor,Cushions,UPI
+X-25786,1854,433,5,Food,Sushi,Credit Card
+X-26095,6,1,1,Gym,Jumping Rope,UPI
+X-25853,1389,654,7,Home Decor,Photo Frames,COD
+X-25735,2473,-279,3,Food,Coffee,COD
+X-25910,359,140,2,Gym,Resistance Bands,UPI
+X-25950,1912,278,4,Home Decor,Decorative Mirrors,Credit Card
+X-25744,882,-123,3,Food,Smoothie,COD
+X-25845,1399,392,5,Gym,Exercise Ball,Credit Card
+X-26001,604,-105,3,Home Decor,Rugs,COD
+X-25830,305,-49,1,Food,Dessert,COD
+X-25842,1734,649,6,Gym,Rowing Machine,EMI
+X-25778,262,87,3,Home Decor,Table Lamps,UPI
+X-25686,713,-112,2,Food,Sandwich,UPI
+X-25754,1207,529,5,Gym,Home Gym Set,Credit Card
+X-26048,485,-56,2,Home Decor,Wall Art,COD
+X-25816,1100,498,5,Food,BBQ,Credit Card
+X-26022,1689,254,3,Gym,Exercise Mat,EMI
+X-25883,444,-77,2,Home Decor,Throw Pillows,UPI
+X-26003,798,132,3,Food,Burrito,COD
+X-26097,1582,374,4,Gym,Punching Bag,Credit Card
+X-25710,517,-71,2,Home Decor,Bookends,COD
+X-25797,963,387,4,Food,Pancakes,EMI
+X-25618,1033,129,3,Gym,Resistance Bands,UPI
+X-25723,336,-59,1,Home Decor,Wall Decor,COD
+X-25755,651,288,3,Food,Pizza,Credit Card
+X-25788,1849,732,7,Gym,Exercise Bike,EMI
+X-25681,488,-95,2,Home Decor,Planters,UPI
+X-25991,1189,481,5,Food,Burger,COD
+X-25779,1699,235,4,Gym,Skipping Rope,Credit Card
+X-25909,225,-67,1,Home Decor,Candles,COD
+X-25943,1011,308,3,Food,Tacos,EMI
+X-25935,796,312,3,Gym,Weight Plates,UPI
+X-25613,333,-74,1,Home Decor,Floor Lamps,COD
+X-25729,572,128,2,Food,Sushi,Credit Card
+X-25772,1299,642,5,Gym,Exercise Bench,EMI
+X-25655,397,-82,2,Home Decor,Curtains,UPI
+X-25640,917,372,4,Food,Salad,COD
+X-25810,1782,674,6,Gym,Treadmill,Credit Card
+X-25801,263,-49,1,Home Decor,Throw Blankets,COD
+X-26085,697,251,3,Food,Burrito,EMI
+X-25868,1337,564,6,Gym,Yoga Mat,UPI
+X-25714,374,-86,2,Home Decor,Artificial Plants,COD
+X-25784,1002,432,4,Food,Smoothie,Credit Card
+X-25608,1693,647,7,Gym,Dumbbells,EMI
+X-26051,502,-63,2,Home Decor,Photo Frames,UPI
+X-25900,217,94,1,Food,Dessert,COD
+X-25760,1094,453,4,Gym,Exercise Ball,Credit Card
+X-25762,485,-56,2,Home Decor,Rugs,COD
+X-25995,305,-49,1,Food,Salad,COD
+X-25965,1734,649,6,Gym,Rowing Machine,EMI
+X-25967,262,87,3,Home Decor,Table Lamps,UPI
+X-25674,713,-112,2,Food,Sandwich,UPI
+X-25929,1207,529,5,Gym,Home Gym Set,Credit Card
+X-25777,485,-56,2,Home Decor,Wall Art,COD
+X-26006,1100,498,5,Food,BBQ,Credit Card
+X-25697,1689,254,3,Gym,Exercise Mat,EMI
+X-25667,444,-77,2,Home Decor,Throw Pillows,UPI
+X-25836,798,132,3,Food,Burrito,COD
+X-25984,1582,374,4,Gym,Punching Bag,Credit Card
+X-25728,517,-71,2,Home Decor,Bookends,COD
+X-25757,963,387,4,Food,Pancakes,EMI
+X-25957,1033,129,3,Gym,Resistance Bands,UPI
+X-26061,336,-59,1,Home Decor,Wall Decor,COD
+X-25735,651,288,3,Food,Pizza,Credit Card
+X-25616,1849,732,7,Gym,Exercise Bike,EMI
+X-25666,488,-95,2,Home Decor,Planters,UPI
+X-25675,1189,481,5,Food,Burger,COD
+X-26079,1699,235,4,Gym,Skipping Rope,Credit Card
+X-25850,225,-67,1,Home Decor,Candles,COD
+X-25693,1011,308,3,Food,Tacos,EMI
+X-25852,796,312,3,Gym,Weight Plates,UPI
+X-25860,333,-74,1,Home Decor,Floor Lamps,COD
+X-25853,572,128,2,Food,Sushi,Credit Card
+X-25898,1299,642,5,Gym,Exercise Bench,EMI
+X-26100,397,-82,2,Home Decor,Curtains,UPI
+X-25653,917,372,4,Food,Salad,COD
+X-25839,1782,674,6,Gym,Treadmill,Credit Card
+X-25651,263,-49,1,Home Decor,Throw Blankets,COD
+X-25957,697,251,3,Food,Burrito,EMI
+X-25704,1337,564,6,Gym,Yoga Mat,UPI
+X-25730,374,-86,2,Home Decor,Artificial Plants,COD
+X-26052,1002,432,4,Food,Smoothie,Credit Card
+X-25656,1693,647,7,Gym,Dumbbells,EMI
+X-26033,502,-63,2,Home Decor,Photo Frames,UPI
+X-25850,217,94,1,Food,Dessert,COD
+X-25945,1094,453,4,Gym,Exercise Ball,Credit Card
+X-26086,485,-56,2,Home Decor,Rugs,COD
+X-25752,305,-49,1,Food,Salad,COD
+X-26098,1734,649,6,Gym,Rowing Machine,EMI
+X-26067,262,87,3,Home Decor,Table Lamps,UPI
+X-25730,713,-112,2,Food,Sandwich,UPI
+X-25986,1207,529,5,Gym,Home Gym Set,Credit Card
+X-26067,485,-56,2,Home Decor,Wall Art,COD
+X-25953,1100,498,5,Food,BBQ,Credit Card
+X-25952,1689,254,3,Gym,Exercise Mat,EMI
+X-25903,444,-77,2,Home Decor,Throw Pillows,UPI
+X-25650,798,132,3,Food,Burrito,COD
+X-25970,1582,374,4,Gym,Punching Bag,Credit Card
+X-26062,517,-71,2,Home Decor,Bookends,COD
+X-25643,963,387,4,Food,Pancakes,EMI
+X-25632,1033,129,3,Gym,Resistance Bands,UPI
+X-25821,336,-59,1,Home Decor,Wall Decor,COD
+X-25878,651,288,3,Food,Pizza,Credit Card
+X-25752,1849,732,7,Gym,Exercise Bike,EMI
+X-25750,488,-95,2,Home Decor,Planters,UPI
+X-25657,1189,481,5,Food,Burger,COD
+X-25787,1699,235,4,Gym,Skipping Rope,Credit Card
+X-25808,225,-67,1,Home Decor,Candles,COD
+X-25885,1011,308,3,Food,Tacos,EMI
+X-25778,796,312,3,Gym,Weight Plates,UPI
+X-25759,333,-74,1,Home Decor,Floor Lamps,COD
+X-25747,572,128,2,Food,Sushi,Credit Card
+X-25878,1299,642,5,Gym,Exercise Bench,EMI
+X-25603,397,-82,2,Home Decor,Curtains,UPI
+X-25691,917,372,4,Food,Salad,COD
+X-25607,1782,674,6,Gym,Treadmill,Credit Card
+X-25708,263,-49,1,Home Decor,Throw Blankets,COD
+X-26021,697,251,3,Food,Burrito,EMI
+X-25831,1337,564,6,Gym,Yoga Mat,UPI
+X-25850,374,-86,2,Home Decor,Artificial Plants,COD
+X-25670,1002,432,4,Food,Smoothie,Credit Card
+X-25852,1693,647,7,Gym,Dumbbells,EMI
+X-26029,502,-63,2,Home Decor,Photo Frames,UPI
+X-25959,217,94,1,Food,Dessert,COD
+X-25676,1094,453,4,Gym,Exercise Ball,Credit Card
+X-26097,485,-56,2,Home Decor,Rugs,COD
+X-25888,305,-49,1,Food,Salad,COD
+X-25911,1734,649,6,Gym,Rowing Machine,EMI
+X-25662,262,87,3,Home Decor,Table Lamps,UPI
+X-25950,713,-112,2,Food,Sandwich,UPI
+X-25847,1207,529,5,Gym,Home Gym Set,Credit Card
+X-25796,485,-56,2,Home Decor,Wall Art,COD
+X-25693,1100,498,5,Food,BBQ,Credit Card
+X-25993,1689,254,3,Gym,Exercise Mat,EMI
+X-26052,444,-77,2,Home Decor,Throw Pillows,UPI
+X-25930,798,132,3,Food,Burrito,COD
+X-25785,1582,374,4,Gym,Punching Bag,Credit Card
+X-26093,517,-71,2,Home Decor,Bookends,COD
+X-26053,963,387,4,Food,Pancakes,EMI
+X-26019,1033,129,3,Gym,Resistance Bands,UPI
+X-26070,336,-59,1,Home Decor,Wall Decor,COD
+X-25870,651,288,3,Food,Pizza,Credit Card
+X-25855,1849,732,7,Gym,Exercise Bike,EMI
+X-25602,488,-95,2,Home Decor,Planters,UPI
+X-25728,1189,481,5,Food,Burger,COD
+X-25803,1699,235,4,Gym,Skipping Rope,Credit Card
+X-25996,225,-67,1,Home Decor,Candles,COD
+X-26078,1011,308,3,Food,Tacos,EMI
+X-25803,796,312,3,Gym,Weight Plates,UPI
+X-25682,333,-74,1,Home Decor,Floor Lamps,COD
+X-25749,572,128,2,Food,Sushi,Credit Card
+X-25962,1299,642,5,Gym,Exercise Bench,EMI
+X-25899,397,-82,2,Home Decor,Curtains,UPI
+X-25845,917,372,4,Food,Salad,COD
+X-25951,1782,674,6,Gym,Treadmill,Credit Card
+X-25828,263,-49,1,Home Decor,Throw Blankets,COD
+X-25803,697,251,3,Food,Burrito,EMI
+X-25656,1337,564,6,Gym,Yoga Mat,UPI
+X-25681,374,-86,2,Home Decor,Artificial Plants,COD
+X-25658,1002,432,4,Food,Smoothie,Credit Card
+X-25698,1693,647,7,Gym,Dumbbells,EMI
+X-25832,502,-63,2,Home Decor,Photo Frames,UPI
+X-25886,217,94,1,Food,Dessert,COD
+X-25897,1094,453,4,Gym,Exercise Ball,Credit Card
+X-25873,485,-56,2,Home Decor,Rugs,COD
+X-25858,305,-49,1,Food,Salad,COD
+X-25867,1734,649,6,Gym,Rowing Machine,EMI
+X-25633,262,87,3,Home Decor,Table Lamps,UPI
+X-25609,713,-112,2,Food,Sandwich,UPI
+X-25896,1207,529,5,Gym,Home Gym Set,Credit Card
+X-26000,485,-56,2,Home Decor,Wall Art,COD
+X-25959,1100,498,5,Food,BBQ,Credit Card
+X-25940,1689,254,3,Gym,Exercise Mat,EMI
+X-26087,444,-77,2,Home Decor,Throw Pillows,UPI
+X-26055,798,132,3,Food,Burrito,COD
+X-25980,1582,374,4,Gym,Punching Bag,Credit Card
+X-25653,517,-71,2,Home Decor,Bookends,COD
+X-26052,963,387,4,Food,Pancakes,EMI
+X-25877,1033,129,3,Gym,Resistance Bands,UPI
+X-25608,336,-59,1,Home Decor,Wall Decor,COD
+X-25897,651,288,3,Food,Pizza,Credit Card
+X-25881,1849,732,7,Gym,Exercise Bike,EMI
+X-25905,488,-95,2,Home Decor,Planters,UPI
+X-25818,1189,481,5,Food,Burger,COD
+X-25835,1699,235,4,Gym,Skipping Rope,Credit Card
+X-26081,225,-67,1,Home Decor,Candles,COD
+X-25730,1011,308,3,Food,Tacos,EMI
+X-25837,796,312,3,Gym,Weight Plates,UPI
+X-25893,333,-74,1,Home Decor,Floor Lamps,COD
+X-25689,572,128,2,Food,Sushi,Credit Card
+X-26028,1299,642,5,Gym,Exercise Bench,EMI
+X-26081,397,-82,2,Home Decor,Curtains,UPI
+X-25903,917,372,4,Food,Salad,COD
+X-25651,1782,674,6,Gym,Treadmill,Credit Card
+X-25903,263,-49,1,Home Decor,Throw Blankets,COD
+X-26086,697,251,3,Food,Burrito,EMI
+X-25654,1337,564,6,Gym,Yoga Mat,UPI
+X-25720,374,-86,2,Home Decor,Artificial Plants,COD
+X-26057,1002,432,4,Food,Smoothie,Credit Card
+X-25798,1693,647,7,Gym,Dumbbells,EMI
+X-25961,502,-63,2,Home Decor,Photo Frames,UPI
+X-25701,217,94,1,Food,Dessert,COD
+X-26055,1094,453,4,Gym,Exercise Ball,Credit Card
+X-25653,485,-56,2,Home Decor,Rugs,COD
+X-25670,305,-49,1,Food,Salad,COD
+X-26056,1734,649,6,Gym,Rowing Machine,EMI
+X-26061,262,87,3,Home Decor,Table Lamps,UPI
+X-25602,713,-112,2,Food,Sandwich,UPI
+X-26016,1207,529,5,Gym,Home Gym Set,Credit Card
+X-25873,485,-56,2,Home Decor,Wall Art,COD
+X-25761,1100,498,5,Food,BBQ,Credit Card
+X-25819,1689,254,3,Gym,Exercise Mat,EMI
+X-25853,444,-77,2,Home Decor,Throw Pillows,UPI
+X-25662,798,132,3,Food,Burrito,COD
+X-25993,1582,374,4,Gym,Punching Bag,Credit Card
+X-25703,517,-71,2,Home Decor,Bookends,COD
+X-25848,963,387,4,Food,Pancakes,EMI
+X-25678,1033,129,3,Gym,Resistance Bands,UPI
+X-25925,336,-59,1,Home Decor,Wall Decor,COD
+X-25977,651,288,3,Food,Pizza,Credit Card
+X-25797,1849,732,7,Gym,Exercise Bike,EMI
+X-26067,488,-95,2,Home Decor,Planters,UPI
+X-25810,1189,481,5,Food,Burger,COD
+X-25648,1699,235,4,Gym,Skipping Rope,Credit Card
+X-25933,225,-67,1,Home Decor,Candles,COD
+X-25942,1011,308,3,Food,Tacos,EMI
+X-25656,796,312,3,Gym,Weight Plates,UPI
+X-26067,333,-74,1,Home Decor,Floor Lamps,COD
+X-25673,572,128,2,Food,Sushi,Credit Card
+X-25797,1299,642,5,Gym,Exercise Bench,EMI
+X-26098,397,-82,2,Home Decor,Curtains,UPI
+X-25656,917,372,4,Food,Salad,COD
+X-25791,1782,674,6,Gym,Treadmill,Credit Card
+X-26053,263,-49,1,Home Decor,Throw Blankets,COD
+X-25983,697,251,3,Food,Burrito,EMI
+X-25743,1337,564,6,Gym,Yoga Mat,UPI
+X-25867,374,-86,2,Home Decor,Artificial Plants,COD
+X-25973,1002,432,4,Food,Smoothie,Credit Card
+X-25895,1693,647,7,Gym,Dumbbells,EMI
+X-26003,502,-63,2,Home Decor,Photo Frames,UPI
+X-25717,217,94,1,Food,Dessert,COD
+X-26064,1094,453,4,Gym,Exercise Ball,Credit Card
+X-25630,485,-56,2,Home Decor,Rugs,COD
+X-26050,305,-49,1,Food,Salad,COD
+X-25786,1734,649,6,Gym,Rowing Machine,EMI
+X-26035,262,87,3,Home Decor,Table Lamps,UPI
+X-25693,713,-112,2,Food,Sandwich,UPI
+X-25703,1207,529,5,Gym,Home Gym Set,Credit Card
+X-25966,485,-56,2,Home Decor,Wall Art,COD
+X-26060,1100,498,5,Food,BBQ,Credit Card
+X-25898,1689,254,3,Gym,Exercise Mat,EMI
+X-25686,444,-77,2,Home Decor,Throw Pillows,UPI
+X-26051,798,132,3,Food,Burrito,COD
+X-25854,1582,374,4,Gym,Punching Bag,Credit Card
+X-26050,517,-71,2,Home Decor,Bookends,COD
+X-25961,963,387,4,Food,Pancakes,EMI
+X-25701,1033,129,3,Gym,Resistance Bands,UPI
+X-25970,336,-59,1,Home Decor,Wall Decor,COD
+X-25933,651,288,3,Food,Pizza,Credit Card
+X-26081,1849,732,7,Gym,Exercise Bike,EMI
+X-25650,488,-95,2,Home Decor,Planters,UPI
+X-25850,1189,481,5,Food,Burger,COD
+X-25643,1699,235,4,Gym,Skipping Rope,Credit Card
+X-26100,225,-67,1,Home Decor,Candles,COD
+X-25964,1011,308,3,Food,Tacos,EMI
+X-25676,796,312,3,Gym,Weight Plates,UPI
+X-25628,333,-74,1,Home Decor,Floor Lamps,COD
+X-25891,572,128,2,Food,Sushi,Credit Card
+X-25903,1299,642,5,Gym,Exercise Bench,EMI
+X-25851,397,-82,2,Home Decor,Curtains,UPI
+X-26089,917,372,4,Food,Salad,COD
+X-25996,1782,674,6,Gym,Treadmill,Credit Card
+X-25881,263,-49,1,Home Decor,Throw Blankets,COD
+X-25621,697,251,3,Food,Burrito,EMI
+X-25727,1337,564,6,Gym,Yoga Mat,UPI
+X-25843,374,-86,2,Home Decor,Artificial Plants,COD
+X-26050,1002,432,4,Food,Smoothie,Credit Card
+X-25741,1693,647,7,Gym,Dumbbells,EMI
+X-25756,502,-63,2,Home Decor,Photo Frames,UPI
+X-25787,217,94,1,Food,Dessert,COD
+X-25603,1094,453,4,Gym,Exercise Ball,Credit Card
+X-25655,485,-56,2,Home Decor,Rugs,COD
+X-26096,305,-49,1,Food,Salad,COD
+X-25962,1734,649,6,Gym,Rowing Machine,EMI
+X-26007,262,87,3,Home Decor,Table Lamps,UPI
+X-26088,713,-112,2,Food,Sandwich,UPI
+X-25673,1207,529,5,Gym,Home Gym Set,Credit Card
+X-25664,485,-56,2,Home Decor,Wall Art,COD
+X-25642,1100,498,5,Food,BBQ,Credit Card
+X-25987,1689,254,3,Gym,Exercise Mat,EMI
+X-25903,444,-77,2,Home Decor,Throw Pillows,UPI
+X-25770,798,132,3,Food,Burrito,COD
+X-25840,1582,374,4,Gym,Punching Bag,Credit Card
+X-25846,517,-71,2,Home Decor,Bookends,COD
+X-25745,963,387,4,Food,Pancakes,EMI
+X-26073,1033,129,3,Gym,Resistance Bands,UPI
+X-26030,336,-59,1,Home Decor,Wall Decor,COD
+X-25678,651,288,3,Food,Pizza,Credit Card
+X-26035,1849,732,7,Gym,Exercise Bike,EMI
+X-25896,488,-95,2,Home Decor,Planters,UPI
+X-25989,1189,481,5,Food,Burger,COD
+X-26016,1699,235,4,Gym,Skipping Rope,Credit Card
+X-26009,225,-67,1,Home Decor,Candles,COD
+X-25915,1011,308,3,Food,Tacos,EMI
+X-25845,796,312,3,Gym,Weight Plates,UPI
+X-25645,333,-74,1,Home Decor,Floor Lamps,COD
+X-25803,572,128,2,Food,Sushi,Credit Card
+X-26030,1299,642,5,Gym,Exercise Bench,EMI
+X-25955,397,-82,2,Home Decor,Curtains,UPI
+X-26096,917,372,4,Food,Salad,COD
+X-25635,1782,674,6,Gym,Treadmill,Credit Card
+X-26038,263,-49,1,Home Decor,Throw Blankets,COD
+X-25791,697,251,3,Food,Burrito,EMI
+X-26014,1337,564,6,Gym,Yoga Mat,UPI
+X-25751,374,-86,2,Home Decor,Artificial Plants,COD
+X-25962,1002,432,4,Food,Smoothie,Credit Card
+X-26025,1693,647,7,Gym,Dumbbells,EMI
+X-26048,502,-63,2,Home Decor,Photo Frames,UPI
+X-25635,217,94,1,Food,Dessert,COD
+X-25981,1094,453,4,Gym,Exercise Ball,Credit Card
+X-25610,485,-56,2,Home Decor,Rugs,COD
+X-25733,305,-49,1,Food,Salad,COD
+X-25977,1734,649,6,Gym,Rowing Machine,EMI
+X-25655,262,87,3,Home Decor,Table Lamps,UPI
+X-25612,713,-112,2,Food,Sandwich,UPI
+X-25608,1207,529,5,Gym,Home Gym Set,Credit Card
+X-25752,485,-56,2,Home Decor,Wall Art,COD
+X-25700,1100,498,5,Food,BBQ,Credit Card
+X-25856,1689,254,3,Gym,Exercise Mat,EMI
+X-26026,444,-77,2,Home Decor,Throw Pillows,UPI
+X-25861,798,132,3,Food,Burrito,COD
+X-25673,1582,374,4,Gym,Punching Bag,Credit Card
+X-25681,517,-71,2,Home Decor,Bookends,COD
+X-26051,963,387,4,Food,Pancakes,EMI
+X-25951,1033,129,3,Gym,Resistance Bands,UPI
+X-25799,336,-59,1,Home Decor,Wall Decor,COD
+X-26053,651,288,3,Food,Pizza,Credit Card
+X-26030,1849,732,7,Gym,Exercise Bike,EMI
+X-26054,488,-95,2,Home Decor,Planters,UPI
+X-25696,1189,481,5,Food,Burger,COD
+X-25660,1699,235,4,Gym,Skipping Rope,Credit Card
+X-25858,225,-67,1,Home Decor,Candles,COD
+X-26045,1011,308,3,Food,Tacos,EMI
+X-25850,796,312,3,Gym,Weight Plates,UPI
+X-25781,333,-74,1,Home Decor,Floor Lamps,COD
+X-25918,572,128,2,Food,Sushi,Credit Card
+X-25971,1299,642,5,Gym,Exercise Bench,EMI
+X-25870,397,-82,2,Home Decor,Curtains,UPI
+X-25770,917,372,4,Food,Salad,COD
+X-25757,1782,674,6,Gym,Treadmill,Credit Card
+X-25699,263,-49,1,Home Decor,Throw Blankets,COD
+X-25776,697,251,3,Food,Burrito,EMI
+X-25893,1337,564,6,Gym,Yoga Mat,UPI
+X-25985,374,-86,2,Home Decor,Artificial Plants,COD
+X-25681,1002,432,4,Food,Smoothie,Credit Card
+X-26063,1693,647,7,Gym,Dumbbells,EMI
+X-26032,502,-63,2,Home Decor,Photo Frames,UPI
+X-26001,217,94,1,Food,Dessert,COD
+X-26056,1094,453,4,Gym,Exercise Ball,Credit Card
+X-25850,485,-56,2,Home Decor,Rugs,COD
+X-25767,305,-49,1,Food,Salad,COD
+X-25693,1734,649,6,Gym,Rowing Machine,EMI
+X-25850,262,87,3,Home Decor,Table Lamps,UPI
+X-25796,713,-112,2,Food,Sandwich,UPI
+X-26053,1207,529,5,Gym,Home Gym Set,Credit Card
+X-25650,485,-56,2,Home Decor,Wall Art,COD
+X-25961,1100,498,5,Food,BBQ,Credit Card
+X-26023,1689,254,3,Gym,Exercise Mat,EMI
+X-25809,444,-77,2,Home Decor,Throw Pillows,UPI
+X-25621,798,132,3,Food,Burrito,COD
+X-25854,1582,374,4,Gym,Punching Bag,Credit Card
+X-26057,517,-71,2,Home Decor,Bookends,COD
+X-25688,963,387,4,Food,Pancakes,EMI
+X-25885,1033,129,3,Gym,Resistance Bands,UPI
+X-25753,336,-59,1,Home Decor,Wall Decor,COD
+X-25981,651,288,3,Food,Pizza,Credit Card
+X-26055,1849,732,7,Gym,Exercise Bike,EMI
+X-25714,488,-95,2,Home Decor,Planters,UPI
+X-26055,1189,481,5,Food,Burger,COD
+X-25989,1699,235,4,Gym,Skipping Rope,Credit Card
+X-25710,225,-67,1,Home Decor,Candles,COD
+X-25773,1011,308,3,Food,Tacos,EMI
+X-25661,796,312,3,Gym,Weight Plates,UPI
+X-26021,333,-74,1,Home Decor,Floor Lamps,COD
+X-26057,572,128,2,Food,Sushi,Credit Card
+X-25858,1299,642,5,Gym,Exercise Bench,EMI
+X-25857,397,-82,2,Home Decor,Curtains,UPI
+X-25656,917,372,4,Food,Salad,COD
+X-25999,1782,674,6,Gym,Treadmill,Credit Card
+X-25856,263,-49,1,Home Decor,Throw Blankets,COD
+X-25926,697,251,3,Food,Burrito,EMI
+X-25728,1337,564,6,Gym,Yoga Mat,UPI
+X-26076,374,-86,2,Home Decor,Artificial Plants,COD
+X-25913,1002,432,4,Food,Smoothie,Credit Card
+X-25703,1693,647,7,Gym,Dumbbells,EMI
+X-25858,502,-63,2,Home Decor,Photo Frames,UPI
+X-25727,217,94,1,Food,Dessert,COD
+X-26020,1094,453,4,Gym,Exercise Ball,Credit Card
+X-26003,485,-56,2,Home Decor,Rugs,COD
+X-25925,305,-49,1,Food,Salad,COD
+X-26087,1734,649,6,Gym,Rowing Machine,EMI
+X-25810,262,87,3,Home Decor,Table Lamps,UPI
+X-25858,713,-112,2,Food,Sandwich,UPI
+X-25861,1207,529,5,Gym,Home Gym Set,Credit Card
+X-25661,485,-56,2,Home Decor,Wall Art,COD
+X-25943,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+X-25955,2031,254,5,Food,Meat,EMI
+X-26051,1945,408,7,Gym,Yoga Mat,COD
+X-25999,3863,972,9,Home Decor,Rugs,EMI
+X-26083,239,37,8,Books,Non-Fiction,EMI
+X-25950,1506,604,10,Office Supplies,Pens,EMI
+X-25625,1849,642,9,Electronics,Headphones,Credit Card
+X-26055,2935,1398,5,Food,Seafood,COD
+X-26023,259,32,6,Gym,Exercise Bands,COD
+X-26010,379,84,2,Home Decor,Wall Art,EMI
+X-25955,2001,521,7,Books,Mystery,COD
+X-25900,2116,843,10,Office Supplies,Labels,EMI
+X-26089,366,92,4,Electronics,Batteries,Credit Card
+X-25655,1451,498,8,Food,Dairy,COD
+X-25979,2733,1091,10,Gym,Weights,COD
+X-26002,421,74,5,Home Decor,Lighting,EMI
+X-25635,1551,457,10,Books,Science Fiction,COD
+X-26084,1868,799,10,Office Supplies,Scissors,EMI
+X-25998,2316,1102,9,Electronics,Smart Home Devices,Credit Card
+X-25872,1382,585,3,Food,Beverages,COD
+X-25795,3948,1056,9,Gym,Exercise Machines,COD
+X-25902,450,78,3,Home Decor,Decorative Pillows,EMI
+X-25650,265,34,6,Books,Children's Books,EMI
+X-25957,1283,534,8,Office Supplies,Notebooks,EMI
+X-25793,1727,633,9,Electronics,Tablets,Credit Card
+X-25654,1778,737,7,Food,Fruits,COD
+X-25750,3475,1182,8,Gym,Cardio Equipment,COD
+X-25835,389,72,1,Home Decor,Home Fragrance,EMI
+X-25652,245,40,3,Books,History,COD
+X-26018,1832,729,7,Office Supplies,Binders,EMI
+X-25750,292,38,5,Electronics,Accessories,Credit Card
+X-25840,1653,678,9,Food,Bakery,COD
+X-25756,2104,946,4,Gym,Exercise Bikes,COD
+X-25777,334,56,2,Home Decor,Curtains,EMI
+X-25750,1499,472,9,Books,Art,COD
+X-25823,1574,605,8,Office Supplies,Desk Organizers,EMI
+X-26096,2799,1136,7,Electronics,Cameras,Credit Card
+X-25757,1197,394,2,Food,Snacks,COD
+X-25698,4236,1345,10,Gym,Gym Machines,COD
+X-25710,416,67,2,Home Decor,Clocks,EMI
+X-25994,244,33,5,Books,Literature,EMI
+X-25950,1395,569,8,Office Supplies,Staplers,EMI
+X-25653,1987,826,7,Electronics,Wearable Technology,Credit Card
+X-25785,1526,612,5,Food,Condiments,COD
+X-25863,3624,1228,9,Gym,Exercise Mats,COD
+X-25959,384,71,3,Home Decor,Throws,EMI
+X-25991,176,28,3,Books,Poetry,COD
+X-25680,1724,728,8,Office Supplies,Calculators,EMI
+X-25910,2975,1201,7,Electronics,Monitors,Credit Card
+X-25737,1295,538,4,Food,Canned Goods,COD
+X-25853,3274,1093,9,Gym,Rowing Machines,COD
+X-26097,341,60,2,Home Decor,Vases,EMI
+X-25875,268,36,5,Books,Biography,COD
+X-26031,1076,439,7,Office Supplies,Markers,EMI
+X-25773,2298,1012,6,Electronics,Printers,Credit Card
+X-25840,1665,693,3,Food,Meat,COD
+X-25908,3104,1209,9,Gym,Treadmills,COD
+X-26041,361,65,3,Home Decor,Wall Decor,EMI
+X-26010,231,31,5,Books,Travel,COD
+X-25640,1403,573,8,Office Supplies,Paper,EMI
+X-25794,2491,989,7,Electronics,Speakers,Credit Card
+X-25987,1376,557,4,Food,Seafood,COD
+X-25615,3298,1167,8,Gym,Exercise Benches,COD
+X-25997,316,54,2,Home Decor,Mirrors,EMI
+X-25981,139,21,3,Books,Self-Help,COD
+X-25791,1783,762,8,Office Supplies,Folders,EMI
+X-25986,2722,1053,6,Electronics,Smart Home Devices,Credit Card
+X-25652,1446,604,5,Food,Dairy,COD
+X-25952,2467,1035,9,Gym,Exercise Bands,COD
+X-25898,443,77,4,Home Decor,Lighting,EMI
+X-25785,180,29,6,Books,Philosophy,COD
+X-25990,1362,582,8,Office Supplies,Scissors,EMI
+X-26091,2307,1001,7,Electronics,Headphones,Credit Card
+X-25604,1235,520,4,Food,Beverages,COD
+X-25754,3691,1254,9,Gym,Exercise Machines,COD
+X-25724,395,79,2,Home Decor,Decorative Pillows,EMI
+X-25757,245,36,5,Books,Art,COD
+X-25767,1512,640,8,Office Supplies,Notebooks,EMI
+X-25886,2194,954,6,Electronics,Batteries,Credit Card
+X-25621,1408,588,3,Food,Fruits,COD
+X-25967,3357,1145,8,Gym,Cardio Equipment,COD
+X-25691,438,76,3,Home Decor,Home Fragrance,EMI
+X-25953,219,30,3,Books,History,COD
+X-25651,1674,701,8,Office Supplies,Binders,EMI
+X-25828,258,35,5,Electronics,Accessories,Credit Card
+X-25628,1593,655,5,Food,Bakery,COD
+X-25703,2025,863,4,Gym,Exercise Bikes,COD
+X-25929,381,70,2,Home Decor,Curtains,EMI
+X-25748,1783,755,9,Books,Science Fiction,COD
+X-25610,1756,743,8,Office Supplies,Desk Organizers,EMI
+X-25903,2999,1187,7,Electronics,Cameras,Credit Card
+X-25878,1284,517,2,Food,Snacks,COD
+X-26056,4278,1376,10,Gym,Gym Machines,COD
+X-26004,430,73,2,Home Decor,Clocks,EMI
+X-25699,252,32,5,Books,Literature,EMI
+X-26053,1346,551,8,Office Supplies,Staplers,EMI
+X-25654,1892,805,7,Electronics,Wearable Technology,Credit Card
+X-25954,1465,628,5,Food,Condiments,COD
+X-25910,3597,1204,9,Gym,Exercise Mats,COD
+X-26064,362,63,3,Home Decor,Throws,EMI
+X-25983,188,27,3,Books,Poetry,COD
+X-26002,1825,790,8,Office Supplies,Calculators,EMI
+X-25650,3113,1232,7,Electronics,Monitors,Credit Card
+X-26043,1304,542,4,Food,Canned Goods,COD
+X-25657,3365,1129,9,Gym,Rowing Machines,COD
+X-25838,365,67,2,Home Decor,Vases,EMI
+X-25651,258,34,5,Books,Biography,COD
+X-25808,1045,416,7,Office Supplies,Markers,EMI
+X-25973,2228,1003,6,Electronics,Printers,Credit Card
+X-25698,1725,711,3,Food,Meat,COD
+X-25818,3223,1278,9,Gym,Treadmills,COD
+X-26061,390,75,3,Home Decor,Wall Decor,EMI
+X-25878,258,31,5,Books,Travel,COD
+X-26054,1352,559,8,Office Supplies,Paper,EMI
+X-25809,2394,968,7,Electronics,Speakers,Credit Card
+X-26042,1336,545,4,Food,Seafood,COD
+X-26008,3387,1136,8,Gym,Exercise Benches,COD
+X-25927,326,57,2,Home Decor,Mirrors,EMI
+X-26008,146,22,3,Books,Self-Help,COD
+X-25753,1873,785,8,Office Supplies,Folders,EMI
+X-25948,2794,1097,6,Electronics,Smart Home Devices,Credit Card
+X-26094,1405,585,5,Food,Dairy,COD
+X-25654,2463,1042,9,Gym,Exercise Bands,COD
+X-25854,465,81,4,Home Decor,Lighting,EMI
+X-25623,179,28,6,Books,Philosophy,COD
+X-25985,1765,739,8,Office Supplies,Scissors,EMI
+X-25723,2354,1012,7,Electronics,Headphones,Credit Card
+X-25751,1185,510,4,Food,Beverages,COD
+X-26050,3722,1259,9,Gym,Exercise Machines,COD
+X-25800,398,80,2,Home Decor,Decorative Pillows,EMI
+X-25673,223,32,5,Books,Art,COD
+X-26002,1582,652,8,Office Supplies,Notebooks,EMI
+X-26009,2295,1004,6,Electronics,Batteries,Credit Card
+X-25754,1421,597,3,Food,Fruits,COD
+X-25953,3198,1178,8,Gym,Cardio Equipment,COD
+X-26039,464,75,3,Home Decor,Home Fragrance,EMI
+X-26001,226,29,3,Books,History,COD
+X-25620,1732,716,8,Office Supplies,Binders,EMI
+X-26051,267,33,5,Electronics,Accessories,Credit Card
+X-25673,1635,688,5,Food,Bakery,COD
+X-25721,2177,911,4,Gym,Exercise Bikes,COD
+X-25764,398,68,2,Home Decor,Curtains,EMI
+X-25645,1875,807,9,Books,Science Fiction,COD
+X-26066,1836,781,8,Office Supplies,Desk Organizers,EMI
+X-26003,3055,1205,7,Electronics,Cameras,Credit Card
+X-25712,1228,524,2,Food,Snacks,COD
+X-25796,4136,1342,10,Gym,Gym Machines,COD
+X-25738,422,74,2,Home Decor,Clocks,EMI
+X-25771,265,34,5,Books,Literature,EMI
+X-25950,1374,563,8,Office Supplies,Staplers,EMI
+X-26038,1932,816,7,Electronics,Wearable Technology,Credit Card
+X-26004,1495,612,5,Food,Condiments,COD
+X-25896,3675,1189,9,Gym,Exercise Mats,COD
+X-25601,387,70,3,Home Decor,Throws,EMI
+X-25952,188,27,3,Books,Poetry,COD
+X-25873,1775,740,8,Office Supplies,Calculators,EMI
+X-25844,3095,1223,7,Electronics,Monitors,Credit Card
+X-26054,1256,537,4,Food,Canned Goods,COD
+X-25953,3395,1128,9,Gym,Rowing Machines,COD
+X-25951,398,68,2,Home Decor,Vases,EMI
+X-26065,256,33,5,Books,Biography,COD
+X-26033,1023,408,7,Office Supplies,Markers,EMI
+X-25781,2178,999,6,Electronics,Printers,Credit Card
+X-26043,1685,698,3,Food,Meat,COD
+X-25787,3321,1294,9,Gym,Treadmills,COD
+X-25664,377,71,3,Home Decor,Wall Decor,EMI
+X-25825,254,32,5,Books,Travel,COD
+X-25818,1342,550,8,Office Supplies,Paper,EMI
+X-25765,2384,978,7,Electronics,Speakers,Credit Card
+X-25853,1316,525,4,Food,Seafood,COD
+X-26030,3197,1097,8,Gym,Exercise Benches,COD
+X-25730,306,54,2,Home Decor,Mirrors,EMI
+X-26054,126,21,3,Books,Self-Help,COD
+X-25773,1816,764,8,Office Supplies,Folders,EMI
+X-25717,2753,1086,6,Electronics,Smart Home Devices,Credit Card
+X-26010,1425,593,5,Food,Dairy,COD
+X-25893,2467,1042,9,Gym,Exercise Bands,COD
+X-26076,481,82,4,Home Decor,Lighting,EMI
+X-25803,172,29,6,Books,Philosophy,COD
+X-25709,1753,718,8,Office Supplies,Scissors,EMI
+X-25755,2315,1011,7,Electronics,Headphones,Credit Card
+X-25684,1198,516,4,Food,Beverages,COD
+X-25739,3771,1245,9,Gym,Exercise Machines,COD
+X-26081,410,76,2,Home Decor,Decorative Pillows,EMI
+X-25662,223,32,5,Books,Art,COD
+X-25845,1596,652,8,Office Supplies,Notebooks,EMI
+X-26085,2325,1004,6,Electronics,Batteries,Credit Card
+X-25745,1412,591,3,Food,Fruits,COD
+X-25999,3256,1112,8,Gym,Cardio Equipment,COD
+X-26082,440,76,3,Home Decor,Home Fragrance,EMI
+X-26097,245,34,5,Books,History,COD
+X-25731,1522,636,8,Office Supplies,Binders,EMI
+X-25625,277,34,5,Electronics,Accessories,Credit Card
+X-25853,1635,688,5,Food,Bakery,COD
+X-25703,2167,909,4,Gym,Exercise Bikes,COD
+X-26003,398,68,2,Home Decor,Curtains,EMI
+X-25803,1825,790,8,Books,Science Fiction,COD
+X-25719,1896,808,8,Office Supplies,Desk Organizers,EMI
+X-25883,3053,1195,7,Electronics,Cameras,Credit Card
+X-25891,1228,524,2,Food,Snacks,COD
+X-25821,4236,1376,10,Gym,Gym Machines,COD
+X-25646,462,74,2,Home Decor,Clocks,EMI
+X-25874,265,34,5,Books,Literature,EMI
+X-25717,1374,563,8,Office Supplies,Staplers,EMI
+X-26073,1913,802,7,Electronics,Wearable Technology,Credit Card
+X-25800,1495,612,5,Food,Condiments,COD
+X-25991,3685,1185,9,Gym,Exercise Mats,COD
+X-25638,397,73,3,Home Decor,Throws,EMI
+X-26021,178,26,3,Books,Poetry,COD
+X-25882,1795,748,8,Office Supplies,Calculators,EMI
+X-26053,3085,1221,7,Electronics,Monitors,Credit Card
+X-25951,1265,540,4,Food,Canned Goods,COD
+X-25757,3335,1125,9,Gym,Rowing Machines,COD
+X-25777,395,68,2,Home Decor,Vases,EMI
+X-26040,256,33,5,Books,Biography,COD
+X-25696,1065,422,7,Office Supplies,Markers,EMI
+X-25977,2178,999,6,Electronics,Printers,Credit Card
+X-25743,1725,711,3,Food,Meat,COD
+X-25651,3273,1291,9,Gym,Treadmills,COD
+X-25603,394,74,3,Home Decor,Wall Decor,EMI
+X-25696,252,32,5,Books,Travel,COD
+X-26037,1362,557,8,Office Supplies,Paper,EMI
+X-26098,2384,978,7,Electronics,Speakers,Credit Card
+X-25697,1296,526,4,Food,Seafood,COD
+X-25920,3197,1097,8,Gym,Exercise Benches,COD
+X-25993,306,54,2,Home Decor,Mirrors,EMI
+X-26089,126,21,3,Books,Self-Help,COD
+X-25960,1815,765,8,Office Supplies,Folders,EMI
+X-25917,2725,1081,6,Electronics,Smart Home Devices,Credit Card
+X-25825,1425,593,5,Food,Dairy,COD
+X-25696,2465,1042,9,Gym,Exercise Bands,COD
+X-25972,482,82,4,Home Decor,Lighting,EMI
+X-25602,176,28,6,Books,Philosophy,COD
+X-25736,1752,717,8,Office Supplies,Scissors,EMI
+X-26003,2315,1011,7,Electronics,Headphones,Credit Card
+X-25970,1185,510,4,Food,Beverages,COD
+X-25742,3775,1249,9,Gym,Exercise Machines,COD
+X-25770,416,76,2,Home Decor,Decorative Pillows,EMI
+X-26098,223,32,5,Books,Art,COD
+X-26050,1583,652,8,Office Supplies,Notebooks,EMI
+X-25778,2315,1011,7,Electronics,Batteries,Credit Card
+X-25652,1412,591,3,Food,Fruits,COD
+X-25999,3266,1112,8,Gym,Cardio Equipment,COD
+X-25909,442,77,3,Home Decor,Home Fragrance,EMI
+X-25823,245,34,5,Books,History,COD
+X-25701,1523,636,8,Office Supplies,Binders,EMI
+X-25855,277,34,5,Electronics,Accessories,Credit Card
+X-25654,1635,688,5,Food,Bakery,COD
+X-25623,2167,909,4,Gym,Exercise Bikes,COD
+X-25641,398,68,2,Home Decor,Curtains,EMI
+X-25852,1825,790,8,Books,Science Fiction,COD
+X-25958,1897,808,8,Office Supplies,Desk Organizers,EMI
+X-25802,3053,1195,7,Electronics,Cameras,Credit Card
+X-25823,1228,524,2,Food,Snacks,COD
+X-25834,4237,1376,10,Gym,Gym Machines,COD
+X-25678,462,74,2,Home Decor,Clocks,EMI
+X-25774,265,34,5,Books,Literature,EMI
+X-25904,1375,563,8,Office Supplies,Staplers,EMI
+X-25896,1913,802,7,Electronics,Wearable Technology,Credit Card
+X-25796,1496,612,5,Food,Condiments,COD
+X-25934,3685,1185,9,Gym,Exercise Mats,COD
+X-25750,397,73,3,Home Decor,Throws,EMI
+X-25761,178,26,3,Books,Poetry,COD
+X-25912,1795,748,8,Office Supplies,Calculators,EMI
+X-25751,3085,1221,7,Electronics,Monitors,Credit Card
+X-25656,1265,540,4,Food,Canned Goods,COD
+X-25647,3335,1125,9,Gym,Rowing Machines,COD
+X-25861,395,68,2,Home Decor,Vases,EMI
+X-25802,256,33,5,Books,Biography,COD
+X-25901,1065,422,7,Office Supplies,Markers,EMI
+X-25623,2178,999,6,Electronics,Printers,Credit Card
+X-25751,1725,711,3,Food,Meat,COD
+X-26052,3273,1291,9,Gym,Treadmills,COD
+X-25886,394,74,3,Home Decor,Wall Decor,EMI
+X-25804,252,32,5,Books,Travel,COD
+X-25734,1362,557,8,Office Supplies,Paper,EMI
+X-25610,2384,978,7,Electronics,Speakers,Credit Card
+X-25711,1296,526,4,Food,Seafood,COD
+X-25985,3197,1097,8,Gym,Exercise Benches,COD
+X-25864,306,54,2,Home Decor,Mirrors,EMI
+X-25648,126,21,3,Books,Self-Help,COD
+X-26086,1815,765,8,Office Supplies,Folders,EMI
+X-25835,2725,1081,6,Electronics,Smart Home Devices,Credit Card
+X-25949,1425,593,5,Food,Dairy,COD
+X-25930,2465,1042,9,Gym,Exercise Bands,COD
+X-25655,482,82,4,Home Decor,Lighting,EMI
+X-25757,176,28,6,Books,Philosophy,COD
+X-25655,1752,717,8,Office Supplies,Scissors,EMI
+X-26033,2315,1011,7,Electronics,Headphones,Credit Card
+X-26083,1185,510,4,Food,Beverages,COD
+X-25805,3775,1249,9,Gym,Exercise Machines,COD
+X-25955,416,76,2,Home Decor,Decorative Pillows,EMI
+X-25762,223,32,5,Books,Art,COD
+X-25919,1583,652,8,Office Supplies,Notebooks,EMI
+X-25853,2315,1011,7,Electronics,Batteries,Credit Card
+X-25925,1412,591,3,Food,Fruits,COD
+X-26023,3266,1112,8,Gym,Cardio Equipment,COD
+X-26055,442,77,3,Home Decor,Home Fragrance,EMI
+X-25653,245,34,5,Books,History,COD
+X-25893,1523,636,8,Office Supplies,Binders,EMI
+X-26052,277,34,5,Electronics,Accessories,Credit Card
+X-25830,1635,688,5,Food,Bakery,COD
+X-26040,2167,909,4,Gym,Exercise Bikes,COD
+X-25981,398,68,2,Home Decor,Curtains,EMI
+X-25954,1825,790,8,Books,Science Fiction,COD
+X-25889,1897,808,8,Office Supplies,Desk Organizers,EMI
+X-25810,3053,1195,7,Electronics,Cameras,Credit Card
+X-25637,1228,524,2,Food,Snacks,COD
+X-25801,4237,1376,10,Gym,Gym Machines,COD
+X-25783,462,74,2,Home Decor,Clocks,EMI
+X-25697,265,34,5,Books,Literature,EMI
+X-26028,1375,563,8,Office Supplies,Staplers,EMI
+X-25851,1913,802,7,Electronics,Wearable Technology,Credit Card
+X-25938,1496,612,5,Food,Condiments,COD
+X-25820,3685,1185,9,Gym,Exercise Mats,COD
+X-25850,397,73,3,Home Decor,Throws,EMI
+X-25924,178,26,3,Books,Poetry,COD
+X-25609,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+X-25898,218,28,5,Food,Seafood,COD
+X-25814,541,73,7,Furniture,Tables,EMI
+X-26087,104,12,3,Food,Fruits,Credit Card
+X-25901,397,45,6,Gym,Treadmills,Credit Card
+X-26025,805,159,9,Home Decor,Curtains,UPI
+X-25631,625,128,7,Food,Dairy Products,COD
+X-25954,334,61,4,Office Supplies,Pens,COD
+X-25956,718,145,8,Gym,Weights,EMI
+X-26096,926,216,10,Home Decor,Wall Art,COD
+X-25862,236,27,3,Food,Beverages,EMI
+X-26054,469,83,5,Home Decor,Lamps,COD
+X-25698,113,14,2,Office Supplies,Notebooks,Credit Card
+X-25606,648,128,6,Gym,Exercise Bikes,EMI
+X-25928,509,72,7,Home Decor,Rugs,COD
+X-26005,392,66,5,Food,Snacks,COD
+X-25963,171,28,3,Office Supplies,Staplers,UPI
+X-25952,285,49,4,Home Decor,Decorative Pillows,COD
+X-25683,573,112,6,Gym,Yoga Mats,COD
+X-25914,862,197,9,Home Decor,Clocks,EMI
+X-25828,418,81,5,Food,Canned Goods,EMI
+X-25743,194,39,3,Office Supplies,File Folders,Credit Card
+X-26085,754,145,8,Home Decor,Mirrors,COD
+X-25869,363,56,4,Food,Bakery,UPI
+X-25773,295,52,4,Office Supplies,Desk Organizers,COD
+X-25700,659,126,7,Gym,Gym Bags,COD
+X-25921,874,183,9,Home Decor,Throws,EMI
+X-25730,422,77,5,Food,Produce,COD
+X-26083,132,23,2,Office Supplies,Binders,Credit Card
+X-25849,581,115,6,Gym,Resistance Bands,EMI
+X-25909,963,224,10,Home Decor,Planters,COD
+X-26038,195,38,3,Food,Condiments,EMI
+X-25999,689,132,7,Office Supplies,Scissors,COD
+X-25928,324,47,4,Gym,Exercise Mats,UPI
+X-25878,539,102,6,Home Decor,Candles,COD
+X-25843,281,54,4,Food,Meat,COD
+X-25959,167,29,3,Office Supplies,Tape,Credit Card
+X-25630,717,140,8,Home Decor,Vases,EMI
+X-25858,416,77,5,Food,Frozen Foods,COD
+X-26096,121,19,2,Office Supplies,Markers,UPI
+X-25838,628,120,7,Gym,Jump Ropes,COD
+X-25943,955,218,10,Home Decor,Pillows,EMI
+X-25780,429,82,5,Food,Grains,COD
+X-25949,109,17,2,Office Supplies,Highlighters,Credit Card
+X-25892,584,110,6,Gym,Hand Grips,EMI
+X-26054,906,209,9,Home Decor,Statues,COD
+X-25988,289,50,4,Food,Sauces,COD
+X-25939,136,26,3,Office Supplies,Note Pads,Credit Card
+X-26083,735,139,8,Home Decor,Photo Frames,EMI
+X-26078,347,64,5,Food,Snacks,UPI
+X-25902,198,34,3,Office Supplies,Calculators,COD
+X-25676,683,131,7,Gym,Exercise Bands,COD
+X-26016,308,59,4,Home Decor,Shelves,COD
+X-25950,572,108,6,Food,Desserts,EMI
+X-26056,114,18,2,Office Supplies,Glue Sticks,Credit Card
+X-25645,616,118,7,Gym,Exercise Balls,COD
+X-25906,948,214,10,Home Decor,Frames,EMI
+X-26017,413,74,5,Food,Seafood,COD
+X-25644,123,20,2,Office Supplies,Scotch Tape,Credit Card
+X-25679,693,135,7,Gym,Weightlifting Belts,COD
+X-25854,354,67,5,Home Decor,Cushions,COD
+X-25670,185,31,3,Food,Nuts,COD
+X-25792,842,193,9,Office Supplies,Desk Chairs,EMI
+X-25808,239,41,4,Gym,Exercise Gloves,COD
+X-25750,498,89,6,Home Decor,Curtains,EMI
+X-26051,173,30,3,Food,Organic Foods,COD
+X-26076,745,142,8,Office Supplies,Desk Lamps,EMI
+X-25946,371,69,5,Gym,Water Bottles,COD
+X-25648,210,35,3,Home Decor,Wall Decor,COD
+X-25992,804,155,9,Food,Dairy Products,EMI
+X-25848,275,48,4,Office Supplies,Printer Paper,COD
+X-25697,589,112,6,Gym,Exercise Mats,COD
+X-25659,137,25,3,Home Decor,Artificial Plants,COD
+X-25716,629,121,7,Food,Beverages,COD
+X-25652,109,16,2,Office Supplies,Binders,Credit Card
+X-26093,711,134,8,Gym,Resistance Bands,EMI
+X-25725,324,60,5,Home Decor,Lamps,COD
+X-25661,597,114,6,Food,Snacks,EMI
+X-25693,124,21,2,Office Supplies,File Folders,Credit Card
+X-25910,698,133,7,Gym,Gym Bags,COD
+X-25943,352,66,5,Home Decor,Rugs,COD
+X-26100,194,33,3,Food,Canned Goods,COD
+X-25830,865,197,9,Office Supplies,Staplers,EMI
+X-25932,227,40,4,Gym,Exercise Bikes,COD
+X-25929,479,87,6,Home Decor,Throws,EMI
+X-25708,162,27,3,Food,Bakery,COD
+X-25921,795,154,8,Office Supplies,Notebooks,EMI
+X-25755,313,58,5,Gym,Yoga Mats,COD
+X-25640,568,107,6,Home Decor,Clocks,COD
+X-25838,128,22,2,Food,Produce,Credit Card
+X-26025,713,136,8,Office Supplies,Scissors,EMI
+X-25789,339,63,5,Gym,Exercise Mats,COD
+X-25697,216,36,3,Home Decor,Candles,COD
+X-25797,861,196,9,Food,Meat,EMI
+X-26064,248,43,4,Office Supplies,Binders,COD
+X-25732,574,109,6,Gym,Gym Bags,EMI
+X-25654,104,15,2,Home Decor,Throws,Credit Card
+X-25750,681,130,7,Food,Condiments,COD
+X-25751,302,56,5,Office Supplies,Desk Organizers,COD
+X-25889,655,126,7,Gym,Weights,EMI
+X-25683,138,24,3,Home Decor,Wall Art,COD
+X-25602,798,151,8,Food,Seafood,EMI
+X-25871,346,65,5,Office Supplies,Pens,COD
+X-25953,198,32,3,Gym,Treadmills,COD
+X-25950,937,212,10,Home Decor,Wall Art,EMI
+X-26091,442,79,5,Food,Fruits,COD
+X-25753,153,26,3,Office Supplies,Markers,Credit Card
+X-25611,722,138,8,Gym,Exercise Bands,EMI
+X-25935,383,72,5,Home Decor,Decorative Pillows,COD
+X-25886,185,32,3,Food,Dairy Products,COD
+X-25833,832,191,9,Office Supplies,File Folders,EMI
+X-25665,295,53,4,Gym,Exercise Gloves,COD
+X-25694,509,93,6,Home Decor,Planters,EMI
+X-25668,167,31,3,Food,Canned Goods,COD
+X-25945,759,145,8,Office Supplies,Desk Chairs,EMI
+X-25954,374,70,5,Gym,Water Bottles,COD
+X-25818,220,38,4,Home Decor,Wall Decor,COD
+X-25861,604,115,6,Food,Beverages,EMI
+X-25721,119,20,2,Office Supplies,Glue Sticks,Credit Card
+X-26024,673,128,7,Gym,Jump Ropes,COD
+X-26056,336,61,5,Home Decor,Frames,COD
+X-26050,197,34,3,Food,Snacks,COD
+X-25708,814,157,9,Office Supplies,Desk Lamps,EMI
+X-25651,289,52,4,Gym,Exercise Mats,COD
+X-25616,568,108,6,Home Decor,Shelves,COD
+X-25827,126,23,2,Food,Desserts,Credit Card
+X-25996,721,135,8,Office Supplies,Tape,EMI
+X-25830,347,64,5,Gym,Hand Grips,COD
+X-25951,184,31,3,Home Decor,Artificial Plants,COD
+X-25713,853,195,9,Food,Organic Foods,EMI
+X-25678,232,41,4,Office Supplies,Printer Paper,COD
+X-25901,478,86,6,Gym,Exercise Balls,EMI
+X-25798,173,29,3,Home Decor,Curtains,COD
+X-25902,145,25,2,Food,Nuts,Credit Card
+X-25851,798,152,8,Office Supplies,Desk Chairs,EMI
+X-25944,339,62,5,Gym,Exercise Gloves,COD
+X-25939,196,33,3,Home Decor,Curtains,COD
+X-25656,615,117,7,Food,Seafood,EMI
+X-25695,102,18,2,Office Supplies,Markers,Credit Card
+X-25781,693,134,7,Gym,Resistance Bands,COD
+X-25783,361,68,5,Home Decor,Decorative Pillows,COD
+X-25867,212,37,4,Food,Beverages,COD
+X-25993,849,194,9,Office Supplies,File Folders,EMI
+X-25755,246,44,4,Gym,Exercise Bikes,COD
+X-25880,569,110,6,Home Decor,Lamps,COD
+X-25941,129,22,2,Food,Snacks,Credit Card
+X-25757,781,149,8,Office Supplies,Pens,EMI
+X-25754,331,60,5,Gym,Yoga Mats,COD
+X-25653,199,34,3,Home Decor,Wall Art,COD
+X-25821,664,127,7,Food,Dairy Products,EMI
+X-25706,128,22,2,Office Supplies,Binders,Credit Card
+X-26064,732,139,8,Gym,Weights,EMI
+X-25803,356,66,5,Home Decor,Planters,COD
+X-26076,192,33,3,Food,Condiments,COD
+X-25603,875,200,9,Office Supplies,Desk Organizers,EMI
+X-25903,235,42,4,Gym,Gym Bags,COD
+X-25938,493,89,6,Home Decor,Curtains,EMI
+X-25868,179,31,3,Food,Produce,COD
+X-25956,735,140,8,Office Supplies,Note Pads,EMI
+X-25652,347,64,5,Gym,Exercise Mats,COD
+X-25883,207,35,3,Home Decor,Candles,COD
+X-26096,862,197,9,Food,Meat,EMI
+X-25969,283,49,4,Office Supplies,Binders,COD
+X-25951,576,110,6,Gym,Gym Bags,EMI
+X-25855,107,16,2,Home Decor,Throws,Credit Card
+X-26091,681,129,7,Food,Seafood,COD
+X-25954,302,57,5,Office Supplies,Scissors,COD
+X-25763,646,124,7,Gym,Exercise Bands,COD
+X-25945,313,59,4,Home Decor,Decorative Pillows,COD
+X-25740,184,31,3,Food,Canned Goods,COD
+X-25818,815,156,9,Office Supplies,Staplers,EMI
+X-25603,289,52,4,Gym,Exercise Gloves,COD
+X-25964,568,108,6,Home Decor,Planters,COD
+X-25930,126,22,2,Food,Snacks,Credit Card
+X-25930,719,137,8,Office Supplies,Desk Chairs,EMI
+X-25879,349,65,5,Gym,Water Bottles,COD
+X-25903,218,36,3,Home Decor,Wall Decor,COD
+X-25614,604,116,6,Food,Beverages,EMI
+X-25750,119,19,2,Office Supplies,Glue Sticks,Credit Card
+X-25852,679,131,7,Gym,Jump Ropes,COD
+X-26008,336,61,5,Home Decor,Frames,COD
+X-26092,197,33,3,Food,Desserts,COD
+X-25689,814,156,9,Office Supplies,Desk Lamps,EMI
+X-25730,289,52,4,Gym,Exercise Mats,COD
+X-25885,568,108,6,Home Decor,Shelves,COD
+X-25999,126,22,2,Food,Organic Foods,Credit Card
+X-26011,721,137,8,Office Supplies,Tape,EMI
+X-25754,347,64,5,Gym,Hand Grips,COD
+X-26030,184,31,3,Home Decor,Artificial Plants,COD
+X-25851,853,195,9,Food,Bakery,EMI
+X-25870,232,41,4,Office Supplies,Printer Paper,COD
+X-26074,478,86,6,Gym,Exercise Balls,EMI
+X-25861,173,29,3,Home Decor,Curtains,COD
+X-25797,145,25,2,Food,Nuts,Credit Card
+X-25993,798,152,8,Office Supplies,Desk Chairs,EMI
+X-25799,339,62,5,Gym,Exercise Gloves,COD
+X-25721,196,33,3,Home Decor,Decorative Pillows,COD
+X-26056,615,117,7,Food,Seafood,EMI
+X-25743,102,18,2,Office Supplies,Markers,Credit Card
+X-25854,693,134,7,Gym,Resistance Bands,COD
+X-25748,361,68,5,Home Decor,Candles,COD
+X-25976,212,37,4,Food,Beverages,COD
+X-25953,849,194,9,Office Supplies,File Folders,EMI
+X-25996,246,44,4,Gym,Exercise Bikes,COD
+X-25717,569,110,6,Home Decor,Lamps,COD
+X-25865,129,22,2,Food,Snacks,Credit Card
+X-25959,781,149,8,Office Supplies,Pens,EMI
+X-25855,331,60,5,Gym,Yoga Mats,COD
+X-25703,199,34,3,Home Decor,Wall Art,COD
+X-26049,664,127,7,Food,Dairy Products,EMI
+X-25755,128,22,2,Office Supplies,Binders,Credit Card
+X-26070,732,139,8,Gym,Weights,EMI
+X-25755,356,66,5,Home Decor,Planters,COD
+X-26047,192,33,3,Food,Condiments,COD
+X-25604,875,200,9,Office Supplies,Desk Organizers,EMI
+X-25651,235,42,4,Gym,Gym Bags,COD
+X-25983,493,89,6,Home Decor,Curtains,EMI
+X-26056,179,31,3,Food,Produce,COD
+X-25940,735,140,8,Office Supplies,Note Pads,EMI
+X-25766,347,64,5,Gym,Exercise Mats,COD
+X-25935,207,35,3,Home Decor,Candles,COD
+X-25970,862,197,9,Food,Meat,EMI
+X-26053,283,49,4,Office Supplies,Binders,COD
+X-25947,576,110,6,Gym,Gym Bags,EMI
+X-25856,107,16,2,Home Decor,Throws,Credit Card
+X-26030,681,129,7,Food,Seafood,COD
+X-26069,302,57,5,Office Supplies,Scissors,COD
+X-25653,646,124,7,Gym,Exercise Bands,COD
+X-25627,313,59,4,Home Decor,Decorative Pillows,COD
+X-25947,184,31,3,Food,Canned Goods,COD
+X-25801,815,156,9,Office Supplies,Staplers,EMI
+X-25964,289,52,4,Gym,Exercise Gloves,COD
+X-25950,568,108,6,Home Decor,Planters,COD
+X-25878,126,22,2,Food,Snacks,Credit Card
+X-25773,719,137,8,Office Supplies,Desk Chairs,EMI
+X-26081,349,65,5,Gym,Water Bottles,COD
+X-26027,218,36,3,Home Decor,Wall Decor,COD
+X-25967,604,116,6,Food,Beverages,EMI
+X-25901,119,19,2,Office Supplies,Glue Sticks,Credit Card
+X-25951,679,131,7,Gym,Jump Ropes,COD
+X-25853,336,61,5,Home Decor,Frames,COD
+X-25923,197,33,3,Food,Desserts,COD
+X-25793,814,156,9,Office Supplies,Desk Lamps,EMI
+X-26068,289,52,4,Gym,Exercise Mats,COD
+X-26080,568,108,6,Home Decor,Shelves,COD
+X-25843,126,22,2,Food,Organic Foods,Credit Card
+X-26002,721,137,8,Office Supplies,Tape,EMI
+X-25993,347,64,5,Gym,Hand Grips,COD
+X-26070,184,31,3,Home Decor,Artificial Plants,COD
+X-25887,853,195,9,Food,Bakery,EMI
+X-25654,232,41,4,Office Supplies,Printer Paper,COD
+X-25898,478,86,6,Gym,Exercise Balls,EMI
+X-25664,173,29,3,Home Decor,Curtains,COD
+X-26012,145,25,2,Food,Nuts,Credit Card
+X-25979,798,152,8,Office Supplies,Desk Chairs,EMI
+X-26054,339,62,5,Gym,Exercise Gloves,COD
+X-25757,196,33,3,Home Decor,Decorative Pillows,COD
+X-25623,615,117,7,Food,Seafood,EMI
+X-25824,102,18,2,Office Supplies,Markers,Credit Card
+X-25754,693,134,7,Gym,Resistance Bands,COD
+X-25693,361,68,5,Home Decor,Candles,COD
+X-25638,212,37,4,Food,Beverages,COD
+X-25922,849,194,9,Office Supplies,File Folders,EMI
+X-25919,246,44,4,Gym,Exercise Bikes,COD
+X-25989,569,110,6,Home Decor,Lamps,COD
+X-25999,129,22,2,Food,Snacks,Credit Card
+X-25661,781,149,8,Office Supplies,Pens,EMI
+X-26099,331,60,5,Gym,Yoga Mats,COD
+X-25866,199,34,3,Home Decor,Wall Art,COD
+X-26098,664,127,7,Food,Dairy Products,EMI
+X-26062,128,22,2,Office Supplies,Binders,Credit Card
+X-25761,732,139,8,Gym,Weights,EMI
+X-25843,356,66,5,Home Decor,Planters,COD
+X-25683,192,33,3,Food,Condiments,COD
+X-25959,875,200,9,Office Supplies,Desk Organizers,EMI
+X-25787,235,42,4,Gym,Gym Bags,COD
+X-25951,493,89,6,Home Decor,Curtains,EMI
+X-26056,179,31,3,Food,Produce,COD
+X-25643,735,140,8,Office Supplies,Note Pads,EMI
+X-26093,347,64,5,Gym,Exercise Mats,COD
+X-25775,207,35,3,Home Decor,Candles,COD
+X-26093,862,197,9,Food,Meat,EMI
+X-25851,283,49,4,Office Supplies,Binders,COD
+X-25685,576,110,6,Gym,Gym Bags,EMI
+X-25651,107,16,2,Home Decor,Throws,Credit Card
+X-25793,681,129,7,Food,Seafood,COD
+X-25708,302,57,5,Office Supplies,Scissors,COD
+X-25847,646,124,7,Gym,Exercise Bands,COD
+X-25954,313,59,4,Home Decor,Decorative Pillows,COD
+X-25997,184,31,3,Food,Canned Goods,COD
+X-25650,815,156,9,Office Supplies,Staplers,EMI
+X-25883,289,52,4,Gym,Exercise Gloves,COD
+X-25945,568,108,6,Home Decor,Planters,COD
+X-25981,126,22,2,Food,Snacks,Credit Card
+X-25862,719,137,8,Office Supplies,Desk Chairs,EMI
+X-25877,349,65,5,Gym,Water Bottles,COD
+X-26090,218,36,3,Home Decor,Wall Decor,COD
+X-26050,604,116,6,Food,Beverages,EMI
+X-26072,119,19,2,Office Supplies,Glue Sticks,Credit Card
+X-25916,679,131,7,Gym,Jump Ropes,COD
+X-25722,336,61,5,Home Decor,Frames,COD
+X-25746,197,33,3,Food,Desserts,COD
+X-25753,814,156,9,Office Supplies,Desk Lamps,EMI
+X-25956,289,52,4,Gym,Exercise Mats,COD
+X-25996,568,108,6,Home Decor,Shelves,COD
+X-25896,126,22,2,Food,Organic Foods,Credit Card
+X-25796,721,137,8,Office Supplies,Tape,EMI
+X-25798,347,64,5,Gym,Hand Grips,COD
+X-26043,184,31,3,Home Decor,Artificial Plants,COD
+X-26028,853,195,9,Food,Bakery,EMI
+X-25812,232,41,4,Office Supplies,Printer Paper,COD
+X-25605,478,86,6,Gym,Exercise Balls,EMI
+X-25702,173,29,3,Home Decor,Curtains,COD
+X-25940,145,25,2,Food,Nuts,Credit Card
+X-26087,798,152,8,Office Supplies,Desk Chairs,EMI
+X-25955,339,62,5,Gym,Exercise Gloves,COD
+X-25626,196,33,3,Home Decor,Decorative Pillows,COD
+X-25811,615,117,7,Food,Seafood,EMI
+X-25856,102,18,2,Office Supplies,Markers,Credit Card
+X-25628,693,134,7,Gym,Resistance Bands,COD
+X-26016,361,68,5,Home Decor,Candles,COD
+X-25999,212,37,4,Food,Beverages,COD
+X-26043,849,194,9,Office Supplies,File Folders,EMI
+X-25743,246,44,4,Gym,Exercise Bikes,COD
+X-26014,569,110,6,Home Decor,Lamps,COD
+X-25876,129,22,2,Food,Snacks,Credit Card
+X-25785,781,149,8,Office Supplies,Pens,EMI
+X-25810,331,60,5,Gym,Yoga Mats,COD
+X-25833,199,34,3,Home Decor,Wall Art,COD
+X-25931,664,127,7,Food,Dairy Products,EMI
+X-25852,128,22,2,Office Supplies,Binders,Credit Card
+X-25738,732,139,8,Gym,Weights,EMI
+X-25921,356,66,5,Home Decor,Planters,COD
+X-25685,192,33,3,Food,Condiments,COD
+X-25996,875,200,9,Office Supplies,Desk Organizers,EMI
+X-25663,235,42,4,Gym,Gym Bags,COD
+X-25888,493,89,6,Home Decor,Curtains,EMI
+X-25677,179,31,3,Food,Produce,COD
+X-26045,735,140,8,Office Supplies,Note Pads,EMI
+X-26002,347,64,5,Gym,Exercise Mats,COD
+X-25953,207,35,3,Home Decor,Candles,COD
+X-25617,862,197,9,Food,Meat,EMI
+X-25702,283,49,4,Office Supplies,Binders,COD
+X-25799,576,110,6,Gym,Gym Bags,EMI
+X-25985,107,16,2,Home Decor,Throws,Credit Card
+X-25952,681,129,7,Food,Seafood,COD
+X-25754,302,57,5,Office Supplies,Scissors,COD
+X-25770,646,124,7,Gym,Exercise Bands,COD
+X-25954,313,59,4,Home Decor,Decorative Pillows,COD
+X-25657,184,31,3,Food,Canned Goods,COD
+X-25801,815,156,9,Office Supplies,Staplers,EMI
+X-26000,289,52,4,Gym,Exercise Gloves,COD
+X-25897,568,108,6,Home Decor,Planters,COD
+X-25681,126,22,2,Food,Snacks,Credit Card
+X-25852,719,137,8,Office Supplies,Desk Chairs,EMI
+X-26067,349,65,5,Gym,Water Bottles,COD
+X-25601,218,36,3,Home Decor,Wall Decor,COD
+X-25804,604,116,6,Food,Beverages,EMI
+X-25751,119,19,2,Office Supplies,Glue Sticks,Credit Card
+X-25630,679,131,7,Gym,Jump Ropes,COD
+X-25899,336,61,5,Home Decor,Frames,COD
+X-25751,197,33,3,Food,Desserts,COD
+X-26081,814,156,9,Office Supplies,Desk Lamps,EMI
+X-25851,289,52,4,Gym,Exercise Mats,COD
+X-26036,568,108,6,Home Decor,Shelves,COD
+X-25704,126,22,2,Food,Organic Foods,Credit Card
+X-25761,721,137,8,Office Supplies,Tape,EMI
+X-25978,347,64,5,Gym,Hand Grips,COD
+X-26077,184,31,3,Home Decor,Artificial Plants,COD
+X-25981,853,195,9,Food,Bakery,EMI
+X-26043,232,41,4,Office Supplies,Printer Paper,COD
+X-25896,478,86,6,Gym,Exercise Balls,EMI
+X-25790,173,29,3,Home Decor,Curtains,COD
+X-25789,145,25,2,Food,Nuts,Credit Card
+X-26061,798,152,8,Office Supplies,Desk Chairs,EMI
+X-25923,339,62,5,Gym,Exercise Gloves,COD
+X-25868,196,33,3,Home Decor,Decorative Pillows,COD
+X-25777,615,117,7,Food,Seafood,EMI
+X-25999,102,18,2,Office Supplies,Markers,Credit Card
+X-25854,693,134,7,Gym,Resistance Bands,COD
+X-25667,361,68,5,Home Decor,Candles,COD
+X-25829,212,37,4,Food,Beverages,COD
+X-25705,849,194,9,Office Supplies,File Folders,EMI
+X-25843,246,44,4,Gym,Exercise Bikes,COD
+X-25958,569,110,6,Home Decor,Lamps,COD
+X-25893,129,22,2,Food,Snacks,Credit Card
+X-25855,781,149,8,Office Supplies,Pens,EMI
+X-25616,331,60,5,Gym,Yoga Mats,COD
+X-25630,199,34,3,Home Decor,Wall Art,COD
+X-25936,664,127,7,Food,Dairy Products,EMI
+X-25830,128,22,2,Office Supplies,Binders,Credit Card
+X-25930,732,139,8,Gym,Weights,EMI
+X-25808,356,66,5,Home Decor,Planters,COD
+X-25979,192,33,3,Food,Condiments,COD
+X-25687,875,200,9,Office Supplies,Desk Organizers,EMI
+X-26087,235,42,4,Gym,Gym Bags,COD
+X-25764,493,89,6,Home Decor,Curtains,EMI
+X-25782,179,31,3,Food,Produce,COD
+X-25854,735,140,8,Office Supplies,Note Pads,EMI
+X-26085,347,64,5,Gym,Exercise Mats,COD
+X-25630,207,35,3,Home Decor,Candles,COD
+X-25999,862,197,9,Food,Meat,EMI
+X-25648,283,49,4,Office Supplies,Binders,COD
+X-25952,576,110,6,Gym,Gym Bags,EMI
+X-25710,107,16,2,Home Decor,Throws,Credit Card
+X-25685,681,129,7,Food,Seafood,COD
+X-25740,302,57,5,Office Supplies,Scissors,COD
+X-25973,646,124,7,Gym,Exercise Bands,COD
+X-25769,313,59,4,Home Decor,Decorative Pillows,COD
+X-25687,184,31,3,Food,Canned Goods,COD
+X-25603,815,156,9,Office Supplies,Staplers,EMI
+X-26050,289,52,4,Gym,Exercise Gloves,COD
+X-25748,568,108,6,Home Decor,Planters,COD
+X-25833,126,22,2,Food,Snacks,Credit Card
+X-25930,719,137,8,Office Supplies,Desk Chairs,EMI
+X-26035,349,65,5,Gym,Water Bottles,COD
+X-25851,218,36,3,Home Decor,Wall Decor,COD
+X-25718,604,116,6,Food,Beverages,EMI
+X-25898,119,19,2,Office Supplies,Glue Sticks,Credit Card
+X-25893,679,131,7,Gym,Jump Ropes,COD
+X-25983,336,61,5,Home Decor,Frames,COD
+X-26056,197,33,3,Food,Desserts,COD
+X-25715,814,156,9,Office Supplies,Desk Lamps,EMI
+X-25702,289,52,4,Gym,Exercise Mats,COD
+X-25618,568,108,6,Home Decor,Shelves,COD
+X-25643,126,22,2,Food,Organic Foods,Credit Card
+X-25961,721,137,8,Office Supplies,Tape,EMI
+X-25873,347,64,5,Gym,Hand Grips,COD
+X-26053,184,31,3,Home Decor,Artificial Plants,COD
+X-25683,853,195,9,Food,Bakery,EMI
+X-25718,232,41,4,Office Supplies,Printer Paper,COD
+X-25753,478,86,6,Gym,Exercise Balls,EMI
+X-25852,173,29,3,Home Decor,Curtains,COD
+X-25914,145,25,2,Food,Nuts,Credit Card
+X-26083,798,152,8,Office Supplies,Desk Chairs,EMI
+X-25857,339,62,5,Gym,Exercise Gloves,COD
+X-25939,196,33,3,Home Decor,Decorative Pillows,COD
+X-25851,615,117,7,Food,Seafood,EMI
+X-25699,102,18,2,Office Supplies,Markers,Credit Card
+X-26078,693,134,7,Gym,Resistance Bands,COD
+X-26075,361,68,5,Home Decor,Candles,COD
+X-25956,212,37,4,Food,Beverages,COD
+X-25861,849,194,9,Office Supplies,File Folders,EMI
+X-25777,246,44,4,Gym,Exercise Bikes,COD
+X-25634,569,110,6,Home Decor,Lamps,COD
+X-25753,129,22,2,Food,Snacks,Credit Card
+X-25687,781,149,8,Office Supplies,Pens,EMI
+X-25885,331,60,5,Gym,Yoga Mats,COD
+X-25767,199,34,3,Home Decor,Wall Art,COD
+X-25961,664,127,7,Food,Dairy Products,EMI
+X-25923,128,22,2,Office Supplies,Binders,Credit Card
+X-25799,732,139,8,Gym,Weights,EMI
+X-25955,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+X-26015,1905,345,5,Furniture,Tables,COD
+X-26051,1274,198,7,Food,Fruits,EMI
+X-25822,1033,305,8,Home Decor,Rugs & Carpets,Credit Card
+X-25989,2955,1173,6,Gym,Dumbbells,COD
+X-25910,1982,384,9,Furniture,Sofas,EMI
+X-25956,1475,624,3,Electronics,Headphones,Credit Card
+X-25986,333,78,5,Food,Snacks,UPI
+X-26098,1798,628,7,Home Decor,Lamps,COD
+X-26061,1266,301,8,Gym,Yoga Mats,Credit Card
+X-25954,2115,843,4,Furniture,Beds,EMI
+X-26034,680,219,9,Electronics,Smartwatches,COD
+X-25909,1240,602,7,Home Decor,Wall Art,Credit Card
+X-25692,945,267,6,Gym,Exercise Bikes,UPI
+X-25959,1133,396,5,Furniture,Office Chairs,COD
+X-25745,515,203,4,Food,Dairy Products,Credit Card
+X-25689,2974,1134,8,Home Decor,Decorative Pillows,EMI
+X-25786,173,62,5,Gym,Resistance Bands,UPI
+X-25897,1892,735,9,Furniture,Dining Tables,COD
+X-26056,2609,1084,6,Electronics,Tablets,Credit Card
+X-25855,752,192,7,Home Decor,Curtains,EMI
+X-25667,394,98,4,Gym,Weight Plates,COD
+X-25701,880,416,5,Furniture,TV Stands,Credit Card
+X-26046,1277,421,6,Food,Canned Goods,EMI
+X-25676,615,253,7,Home Decor,Candles,COD
+X-26045,1123,307,8,Gym,Treadmills,Credit Card
+X-25889,1589,695,9,Furniture,Desks,EMI
+X-25900,416,107,4,Electronics,Earphones,COD
+X-25685,900,322,5,Home Decor,Throws & Blankets,Credit Card
+X-25622,1305,519,6,Gym,Exercise Balls,EMI
+X-25709,704,234,7,Furniture,Outdoor Furniture,COD
+X-25798,219,57,8,Food,Bakery Items,Credit Card
+X-25933,1360,478,9,Home Decor,Planters,EMI
+X-25793,543,132,4,Gym,Fitness Trackers,COD
+X-25951,1078,409,5,Furniture,Storage Cabinets,Credit Card
+X-25656,950,374,6,Electronics,Security Cameras,EMI
+X-26056,371,105,7,Home Decor,Picture Frames,COD
+X-25870,1722,597,8,Gym,Rowing Machines,Credit Card
+X-25690,1044,324,9,Furniture,Recliners,EMI
+X-25702,289,89,4,Electronics,USB Drives,COD
+X-25752,725,236,5,Home Decor,Wall Clocks,Credit Card
+X-25781,1385,571,6,Gym,Home Gyms,EMI
+X-26038,835,272,7,Food,Seafood,COD
+X-25761,1932,814,8,Home Decor,Mirrors,Credit Card
+X-25751,1120,419,9,Gym,Cardio Machines,EMI
+X-25750,405,126,4,Furniture,Bean Bags,COD
+X-25726,710,205,5,Electronics,Bluetooth Speakers,Credit Card
+X-26048,1323,467,6,Home Decor,Vases,EMI
+X-26051,882,301,7,Gym,Exercise Benches,COD
+X-25614,1714,616,8,Furniture,Shoe Racks,Credit Card
+X-25907,960,387,9,Electronics,External Hard Drives,EMI
+X-25789,348,104,4,Home Decor,Coasters,COD
+X-26097,615,176,5,Gym,Gym Bags,Credit Card
+X-25902,1196,471,6,Furniture,Accent Chairs,EMI
+X-25657,782,287,7,Electronics,Portable Chargers,COD
+X-25854,1357,506,8,Home Decor,Throw Pillows,Credit Card
+X-25610,1025,418,9,Gym,Weight Benches,EMI
+X-25733,260,67,4,Furniture,Folding Chairs,COD
+X-25798,640,199,5,Electronics,Smart Home Devices,Credit Card
+X-25803,1210,469,6,Home Decor,Area Rugs,EMI
+X-25755,975,345,7,Gym,Exercise Mats,COD
+X-25850,1675,724,8,Furniture,Coffee Tables,Credit Card
+X-25667,850,282,9,Electronics,VR Headsets,EMI
+X-25796,392,115,4,Home Decor,Desk Lamps,COD
+X-26013,695,209,5,Gym,Jump Ropes,Credit Card
+X-25683,1335,497,6,Furniture,Console Tables,EMI
+X-26054,720,263,7,Electronics,Power Banks,COD
+X-26010,1425,532,8,Home Decor,Wall Shelves,Credit Card
+X-25979,1090,414,9,Gym,Exercise Bands,EMI
+X-25973,295,92,4,Furniture,Bar Stools,COD
+X-25975,665,218,5,Electronics,Wireless Chargers,Credit Card
+X-26010,1253,493,6,Home Decor,Bookends,EMI
+X-25767,910,336,7,Gym,Hand Grips,COD
+X-25815,1580,621,8,Furniture,Patio Furniture,Credit Card
+X-25853,1050,402,9,Electronics,Drones,EMI
+X-25756,312,88,4,Home Decor,Artificial Plants,COD
+X-25755,725,228,5,Gym,Resistance Bands,Credit Card
+X-25996,1420,547,6,Furniture,Computer Desks,EMI
+X-25619,840,294,7,Electronics,Action Cameras,COD
+X-26050,1295,452,8,Home Decor,Table Lamps,Credit Card
+X-26000,990,385,9,Gym,Exercise Equipment,EMI
+X-26058,275,81,4,Furniture,Side Tables,COD
+X-25856,680,201,5,Electronics,Smart Speakers,Credit Card
+X-26044,1340,536,6,Home Decor,Coffee Mugs,EMI
+X-25654,805,271,7,Gym,Stationary Bikes,COD
+X-26051,1630,702,8,Furniture,Outdoor Dining Sets,Credit Card
+X-25636,1080,429,9,Electronics,Webcams,EMI
+X-25710,331,96,4,Home Decor,Wall Decals,COD
+X-25656,700,208,5,Gym,Fitness Watches,Credit Card
+X-25919,1385,527,6,Furniture,File Cabinets,EMI
+X-25781,880,311,7,Electronics,Soundbars,COD
+X-25899,1270,476,8,Home Decor,Throw Blankets,Credit Card
+X-26093,995,362,9,Gym,Home Exercise Equipment,EMI
+X-25753,298,83,4,Furniture,Plant Stands,COD
+X-25858,635,189,5,Electronics,Computer Monitors,Credit Card
+X-25762,1245,497,6,Home Decor,Decorative Bowls,EMI
+X-25625,820,301,7,Gym,Gym Gloves,COD
+X-25857,1550,628,8,Furniture,Bar Carts,Credit Card
+X-25919,1040,415,9,Electronics,Wireless Earbuds,EMI
+X-25864,310,97,4,Home Decor,Accent Tables,COD
+X-25698,685,204,5,Gym,Exercise Gloves,Credit Card
+X-25959,1355,518,6,Furniture,Living Room Sets,EMI
+X-26073,865,287,7,Electronics,Portable Speakers,COD
+X-25649,1390,495,8,Home Decor,Wall Mirrors,Credit Card
+X-25806,1010,397,9,Gym,Exercise Mats,EMI
+X-25756,321,95,4,Furniture,Chaise Lounges,COD
+X-26003,690,223,5,Electronics,Bluetooth Headphones,Credit Card
+X-25752,1285,463,6,Home Decor,Coat Racks,EMI
+X-25783,880,318,7,Gym,Resistance Bands,COD
+X-25802,1520,612,8,Furniture,Buffet Tables,Credit Card
+X-25881,1020,405,9,Electronics,Gaming Keyboards,EMI
+X-25898,308,86,4,Home Decor,Wall Sconces,COD
+X-25696,660,202,5,Gym,Jump Ropes,Credit Card
+X-25826,1265,488,6,Furniture,Entryway Benches,EMI
+X-25745,805,287,7,Electronics,Tablet Stands,COD
+X-25943,1295,512,8,Home Decor,Desk Organizers,Credit Card
+X-26051,980,379,9,Gym,Weight Plates,EMI
+X-25624,296,84,4,Furniture,Accent Cabinets,COD
+X-25723,645,195,5,Electronics,Smart Plugs,Credit Card
+X-26052,1240,503,6,Home Decor,Barware,EMI
+X-25603,830,292,7,Gym,Exercise Bands,COD
+X-25983,1565,617,8,Furniture,Counter Stools,Credit Card
+X-25650,1085,430,9,Electronics,Bluetooth Earbuds,EMI
+X-25656,333,98,4,Home Decor,Wall Hooks,COD
+X-26018,675,213,5,Gym,Gym Bags,Credit Card
+X-25783,1350,526,6,Furniture,Daybeds,EMI
+X-25951,855,308,7,Electronics,External SSDs,COD
+X-25974,1385,495,8,Home Decor,Throw Pillows,Credit Card
+X-25754,1000,392,9,Gym,Yoga Mats,EMI
+X-26073,313,88,4,Furniture,End Tables,COD
+X-25796,655,198,5,Electronics,Streaming Devices,Credit Card
+X-25653,1270,482,6,Home Decor,Desk Lamps,EMI
+X-25884,810,294,7,Gym,Exercise Mats,COD
+X-25650,1560,615,8,Furniture,Sectional Sofas,Credit Card
+X-26045,1060,425,9,Electronics,Computer Mice,EMI
+X-25672,320,92,4,Home Decor,Throw Blankets,COD
+X-25949,690,211,5,Gym,Resistance Bands,Credit Card
+X-25733,1340,518,6,Furniture,Coffee Tables,EMI
+X-25697,840,289,7,Electronics,Smart Home Devices,COD
+X-25893,1295,458,8,Home Decor,Table Lamps,Credit Card
+X-25802,985,381,9,Gym,Exercise Equipment,EMI
+X-25961,270,79,4,Furniture,Side Tables,COD
+X-25751,670,203,5,Electronics,Smart Speakers,Credit Card
+X-25814,1335,537,6,Home Decor,Coffee Mugs,EMI
+X-25702,800,273,7,Gym,Stationary Bikes,COD
+X-25896,1610,697,8,Furniture,Outdoor Dining Sets,Credit Card
+X-25969,1070,425,9,Electronics,Webcams,EMI
+X-25778,327,94,4,Home Decor,Wall Decals,COD
+X-25859,685,210,5,Gym,Fitness Watches,Credit Card
+X-25810,1375,528,6,Furniture,File Cabinets,EMI
+X-25616,870,316,7,Electronics,Soundbars,COD
+X-25633,1265,483,8,Home Decor,Throw Blankets,Credit Card
+X-25753,1005,368,9,Gym,Home Exercise Equipment,EMI
+X-25764,303,87,4,Furniture,Plant Stands,COD
+X-25864,630,188,5,Electronics,Computer Monitors,Credit Card
+X-25725,1225,489,6,Home Decor,Decorative Bowls,EMI
+X-25858,810,299,7,Gym,Gym Gloves,COD
+X-25817,1530,622,8,Furniture,Bar Carts,Credit Card
+X-25703,1030,412,9,Electronics,Wireless Earbuds,EMI
+X-25610,315,93,4,Home Decor,Accent Tables,COD
+X-25652,690,205,5,Gym,Exercise Gloves,Credit Card
+X-25891,1365,517,6,Furniture,Living Room Sets,EMI
+X-25764,855,283,7,Electronics,Portable Speakers,COD
+X-25664,1380,492,8,Home Decor,Wall Mirrors,Credit Card
+X-25645,1015,396,9,Gym,Exercise Mats,EMI
+X-26008,325,93,4,Furniture,Chaise Lounges,COD
+X-26061,670,219,5,Electronics,Bluetooth Headphones,Credit Card
+X-25781,1275,475,6,Home Decor,Coffee Mugs,EMI
+X-25999,815,290,7,Gym,Jump Ropes,COD
+X-25783,1585,620,8,Furniture,Console Tables,Credit Card
+X-25800,1085,429,9,Electronics,Portable Chargers,EMI
+X-26093,295,90,4,Home Decor,Desk Lamps,COD
+X-25638,615,183,5,Gym,Resistance Bands,Credit Card
+X-26026,1420,543,6,Furniture,Computer Desks,EMI
+X-25902,850,299,7,Electronics,Action Cameras,COD
+X-25968,1290,449,8,Home Decor,Table Lamps,Credit Card
+X-26099,995,386,9,Gym,Exercise Equipment,EMI
+X-25699,280,82,4,Furniture,Side Tables,COD
+X-26076,675,206,5,Electronics,Smart Speakers,Credit Card
+X-25793,1330,533,6,Home Decor,Coffee Mugs,EMI
+X-25671,795,268,7,Gym,Stationary Bikes,COD
+X-26040,1620,699,8,Furniture,Outdoor Dining Sets,Credit Card
+X-26059,1075,426,9,Electronics,Webcams,EMI
+X-25725,333,99,4,Home Decor,Wall Decals,COD
+X-25855,690,214,5,Gym,Fitness Watches,Credit Card
+X-25738,1375,531,6,Furniture,File Cabinets,EMI
+X-25899,875,312,7,Electronics,Soundbars,COD
+X-25608,1270,486,8,Home Decor,Throw Blankets,Credit Card
+X-25904,1005,371,9,Gym,Home Exercise Equipment,EMI
+X-26056,308,85,4,Furniture,Plant Stands,COD
+X-25669,635,192,5,Electronics,Computer Monitors,Credit Card
+X-25638,1240,499,6,Home Decor,Decorative Bowls,EMI
+X-25953,825,298,7,Gym,Gym Gloves,COD
+X-25841,1550,625,8,Furniture,Bar Carts,Credit Card
+X-26071,1040,417,9,Electronics,Wireless Earbuds,EMI
+X-25793,312,91,4,Home Decor,Accent Tables,COD
+X-25813,690,207,5,Gym,Exercise Gloves,Credit Card
+X-26010,1365,520,6,Furniture,Living Room Sets,EMI
+X-25825,865,285,7,Electronics,Portable Speakers,COD
+X-25630,1390,498,8,Home Decor,Wall Mirrors,Credit Card
+X-25986,1010,399,9,Gym,Exercise Mats,EMI
+X-25650,323,92,4,Furniture,Chaise Lounges,COD
+X-26078,660,215,5,Electronics,Bluetooth Headphones,Credit Card
+X-25890,1275,480,6,Home Decor,Coffee Mugs,EMI
+X-25691,810,288,7,Gym,Jump Ropes,COD
+X-25952,1565,623,8,Furniture,Console Tables,Credit Card
+X-25651,1085,434,9,Electronics,Portable Chargers,EMI
+X-25955,300,89,4,Home Decor,Desk Lamps,COD
+X-25898,620,185,5,Gym,Resistance Bands,Credit Card
+X-25838,1440,550,6,Furniture,Computer Desks,EMI
+X-25797,870,306,7,Electronics,Action Cameras,COD
+X-25738,1250,466,8,Home Decor,Table Lamps,Credit Card
+X-25661,1005,389,9,Gym,Exercise Equipment,EMI
+X-25997,283,81,4,Furniture,Side Tables,COD
+X-25667,650,205,5,Electronics,Smart Speakers,Credit Card
+X-25753,1320,526,6,Home Decor,Coffee Mugs,EMI
+X-25848,815,295,7,Gym,Stationary Bikes,COD
+X-26097,1610,695,8,Furniture,Outdoor Dining Sets,Credit Card
+X-25633,1070,430,9,Electronics,Webcams,EMI
+X-25807,330,96,4,Home Decor,Wall Decals,COD
+X-25752,680,208,5,Gym,Fitness Watches,Credit Card
+X-26052,1385,532,6,Furniture,File Cabinets,EMI
+X-25610,880,315,7,Electronics,Soundbars,COD
+X-25888,1265,485,8,Home Decor,Throw Blankets,Credit Card
+X-25937,1005,370,9,Gym,Home Exercise Equipment,EMI
+X-25828,310,87,4,Furniture,Plant Stands,COD
+X-26048,635,190,5,Electronics,Computer Monitors,Credit Card
+X-25670,1240,497,6,Home Decor,Decorative Bowls,EMI
+X-25757,820,300,7,Gym,Gym Gloves,COD
+X-25751,1550,628,8,Furniture,Bar Carts,Credit Card
+X-25687,1040,415,9,Electronics,Wireless Earbuds,EMI
+X-25710,315,90,4,Home Decor,Accent Tables,COD
+X-25656,690,208,5,Gym,Exercise Gloves,Credit Card
+X-25601,1365,518,6,Furniture,Living Room Sets,EMI
+X-26053,865,284,7,Electronics,Portable Speakers,COD
+X-26001,1390,497,8,Home Decor,Wall Mirrors,Credit Card
+X-25964,1010,398,9,Gym,Exercise Mats,EMI
+X-26062,323,91,4,Furniture,Chaise Lounges,COD
+X-25982,660,214,5,Electronics,Bluetooth Headphones,Credit Card
+X-25864,1275,479,6,Home Decor,Coffee Mugs,EMI
+X-25693,810,287,7,Gym,Jump Ropes,COD
+X-25802,1565,622,8,Furniture,Console Tables,Credit Card
+X-25676,1085,433,9,Electronics,Portable Chargers,EMI
+X-25639,300,88,4,Home Decor,Desk Lamps,COD
+X-25757,620,186,5,Gym,Resistance Bands,Credit Card
+X-26003,1440,549,6,Furniture,Computer Desks,EMI
+X-26055,870,305,7,Electronics,Action Cameras,COD
+X-25786,1250,465,8,Home Decor,Table Lamps,Credit Card
+X-25919,1005,388,9,Gym,Exercise Equipment,EMI
+X-25894,283,80,4,Furniture,Side Tables,COD
+X-25979,650,204,5,Electronics,Smart Speakers,Credit Card
+X-25651,1320,525,6,Home Decor,Coffee Mugs,EMI
+X-25653,815,294,7,Gym,Stationary Bikes,COD
+X-25855,1610,694,8,Furniture,Outdoor Dining Sets,Credit Card
+X-25793,1070,429,9,Electronics,Webcams,EMI
+X-26073,330,95,4,Home Decor,Wall Decals,COD
+X-25881,680,207,5,Gym,Fitness Watches,Credit Card
+X-25603,1385,531,6,Furniture,File Cabinets,EMI
+X-25851,880,314,7,Electronics,Soundbars,COD
+X-25883,1265,484,8,Home Decor,Throw Blankets,Credit Card
+X-25768,1005,369,9,Gym,Home Exercise Equipment,EMI
+X-25953,310,86,4,Furniture,Plant Stands,COD
+X-25755,635,189,5,Electronics,Computer Monitors,Credit Card
+X-26057,1240,496,6,Home Decor,Decorative Bowls,EMI
+X-26055,820,299,7,Gym,Gym Gloves,COD
+X-25855,1550,627,8,Furniture,Bar Carts,Credit Card
+X-25989,1040,414,9,Electronics,Wireless Earbuds,EMI
+X-26099,315,89,4,Home Decor,Accent Tables,COD
+X-25652,690,207,5,Gym,Exercise Gloves,Credit Card
+X-25723,1365,517,6,Furniture,Living Room Sets,EMI
+X-26099,865,283,7,Electronics,Portable Speakers,COD
+X-25629,1390,496,8,Home Decor,Wall Mirrors,Credit Card
+X-25877,1010,397,9,Gym,Exercise Mats,EMI
+X-25767,323,90,4,Furniture,Chaise Lounges,COD
+X-25735,660,213,5,Electronics,Bluetooth Headphones,Credit Card
+X-26097,1275,478,6,Home Decor,Coffee Mugs,EMI
+X-26070,810,286,7,Gym,Jump Ropes,COD
+X-25752,1565,621,8,Furniture,Console Tables,Credit Card
+X-25656,1085,432,9,Electronics,Portable Chargers,EMI
+X-25748,300,87,4,Home Decor,Desk Lamps,COD
+X-25758,620,185,5,Gym,Resistance Bands,Credit Card
+X-25950,1440,548,6,Furniture,Computer Desks,EMI
+X-25707,870,304,7,Electronics,Action Cameras,COD
+X-25909,1250,464,8,Home Decor,Table Lamps,Credit Card
+X-25955,1005,387,9,Gym,Exercise Equipment,EMI
+X-26023,283,79,4,Furniture,Side Tables,COD
+X-25655,650,203,5,Electronics,Smart Speakers,Credit Card
+X-25686,1320,524,6,Home Decor,Coffee Mugs,EMI
+X-25655,815,293,7,Gym,Stationary Bikes,COD
+X-25601,1610,693,8,Furniture,Outdoor Dining Sets,Credit Card
+X-25862,1070,428,9,Electronics,Webcams,EMI
+X-25626,330,94,4,Home Decor,Wall Decals,COD
+X-25823,680,206,5,Gym,Fitness Watches,Credit Card
+X-25881,1385,530,6,Furniture,File Cabinets,EMI
+X-25910,880,313,7,Electronics,Soundbars,COD
+X-25830,1265,482,8,Home Decor,Throw Blankets,Credit Card
+X-25978,1005,368,9,Gym,Home Exercise Equipment,EMI
+X-25997,310,85,4,Furniture,Plant Stands,COD
+X-25661,635,188,5,Electronics,Computer Monitors,Credit Card
+X-25969,1240,495,6,Home Decor,Decorative Bowls,EMI
+X-25858,820,298,7,Gym,Gym Gloves,COD
+X-25697,1550,626,8,Furniture,Bar Carts,Credit Card
+X-25798,1040,413,9,Electronics,Wireless Earbuds,EMI
+X-25873,315,88,4,Home Decor,Accent Tables,COD
+X-25740,690,206,5,Gym,Exercise Gloves,Credit Card
+X-25700,1365,516,6,Furniture,Living Room Sets,EMI
+X-25757,865,282,7,Electronics,Portable Speakers,COD
+X-25973,1390,495,8,Home Decor,Wall Mirrors,Credit Card
+X-25698,1010,396,9,Gym,Exercise Mats,EMI
+X-25993,323,89,4,Furniture,Chaise Lounges,COD
