@@ -1,0 +1,1501 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-26464,1096,658,7,Food,Pizza,COD
+B-26465,5729,64,14,Gym,Treadmill,EMI
+B-26466,2927,146,8,Home Decor,Lamps,EMI
+B-26467,2847,712,8,Food,Burgers,Credit Card
+B-26468,2617,1151,4,Gym,Yoga Mat,Credit Card
+B-26469,2244,247,4,Home Decor,Paintings,Credit Card
+B-26470,275,-275,4,Food,Pasta,COD
+B-26471,387,-213,5,Home Decor,Vases,UPI
+B-26472,50,-44,2,Gym,Weight Bench,UPI
+B-26473,135,-54,5,Home Decor,Curtains,COD
+B-26474,231,-190,9,Food,Sandwich,COD
+B-26475,2125,-234,6,Gym,Exercise Bike,EMI
+B-26476,3873,-891,6,Home Decor,Wall Clocks,Credit Card
+B-26477,729,-492,5,Food,Salad,UPI
+B-26478,2188,1050,5,Gym,Dumbbells,Credit Card
+B-26479,6,-3,1,Home Decor,Cushions,UPI
+B-26480,1854,433,5,Food,Sushi,Credit Card
+B-26481,6,1,1,Gym,Jumping Rope,UPI
+B-26482,1389,654,7,Home Decor,Photo Frames,COD
+B-26483,2473,-279,3,Food,Coffee,COD
+B-26484,359,140,2,Gym,Resistance Bands,UPI
+B-26485,1912,278,4,Home Decor,Decorative Mirrors,Credit Card
+B-26486,882,-123,3,Food,Smoothie,COD
+B-26487,1399,392,5,Gym,Exercise Ball,Credit Card
+B-26488,604,-105,3,Home Decor,Rugs,COD
+B-26489,305,-49,1,Food,Dessert,COD
+B-26490,1734,649,6,Gym,Rowing Machine,EMI
+B-26491,262,87,3,Home Decor,Table Lamps,UPI
+B-26492,713,-112,2,Food,Sandwich,UPI
+B-26493,1207,529,5,Gym,Home Gym Set,Credit Card
+B-26494,485,-56,2,Home Decor,Wall Art,COD
+B-26495,1100,498,5,Food,BBQ,Credit Card
+B-26496,1689,254,3,Gym,Exercise Mat,EMI
+B-26497,444,-77,2,Home Decor,Throw Pillows,UPI
+B-26498,798,132,3,Food,Burrito,COD
+B-26499,1582,374,4,Gym,Punching Bag,Credit Card
+B-26500,517,-71,2,Home Decor,Bookends,COD
+B-26501,963,387,4,Food,Pancakes,EMI
+B-26502,1033,129,3,Gym,Resistance Bands,UPI
+B-26503,336,-59,1,Home Decor,Wall Decor,COD
+B-26504,651,288,3,Food,Pizza,Credit Card
+B-26505,1849,732,7,Gym,Exercise Bike,EMI
+B-26506,488,-95,2,Home Decor,Planters,UPI
+B-26507,1189,481,5,Food,Burger,COD
+B-26508,1699,235,4,Gym,Skipping Rope,Credit Card
+B-26509,225,-67,1,Home Decor,Candles,COD
+B-26510,1011,308,3,Food,Tacos,EMI
+B-26511,796,312,3,Gym,Weight Plates,UPI
+B-26512,333,-74,1,Home Decor,Floor Lamps,COD
+B-26513,572,128,2,Food,Sushi,Credit Card
+B-26514,1299,642,5,Gym,Exercise Bench,EMI
+B-26515,397,-82,2,Home Decor,Curtains,UPI
+B-26516,917,372,4,Food,Salad,COD
+B-26517,1782,674,6,Gym,Treadmill,Credit Card
+B-26518,263,-49,1,Home Decor,Throw Blankets,COD
+B-26519,697,251,3,Food,Burrito,EMI
+B-26520,1337,564,6,Gym,Yoga Mat,UPI
+B-26521,374,-86,2,Home Decor,Artificial Plants,COD
+B-26522,1002,432,4,Food,Smoothie,Credit Card
+B-26523,1693,647,7,Gym,Dumbbells,EMI
+B-26524,502,-63,2,Home Decor,Photo Frames,UPI
+B-26525,217,94,1,Food,Dessert,COD
+B-26526,1094,453,4,Gym,Exercise Ball,Credit Card
+B-26527,485,-56,2,Home Decor,Rugs,COD
+B-26528,305,-49,1,Food,Salad,COD
+B-26529,1734,649,6,Gym,Rowing Machine,EMI
+B-26530,262,87,3,Home Decor,Table Lamps,UPI
+B-26531,713,-112,2,Food,Sandwich,UPI
+B-26532,1207,529,5,Gym,Home Gym Set,Credit Card
+B-26533,485,-56,2,Home Decor,Wall Art,COD
+B-26534,1100,498,5,Food,BBQ,Credit Card
+B-26535,1689,254,3,Gym,Exercise Mat,EMI
+B-26536,444,-77,2,Home Decor,Throw Pillows,UPI
+B-26537,798,132,3,Food,Burrito,COD
+B-26538,1582,374,4,Gym,Punching Bag,Credit Card
+B-26539,517,-71,2,Home Decor,Bookends,COD
+B-26540,963,387,4,Food,Pancakes,EMI
+B-26541,1033,129,3,Gym,Resistance Bands,UPI
+B-26542,336,-59,1,Home Decor,Wall Decor,COD
+B-26543,651,288,3,Food,Pizza,Credit Card
+B-26544,1849,732,7,Gym,Exercise Bike,EMI
+B-26545,488,-95,2,Home Decor,Planters,UPI
+B-26546,1189,481,5,Food,Burger,COD
+B-26547,1699,235,4,Gym,Skipping Rope,Credit Card
+B-26548,225,-67,1,Home Decor,Candles,COD
+B-26549,1011,308,3,Food,Tacos,EMI
+B-26550,796,312,3,Gym,Weight Plates,UPI
+B-26551,333,-74,1,Home Decor,Floor Lamps,COD
+B-26552,572,128,2,Food,Sushi,Credit Card
+B-26553,1299,642,5,Gym,Exercise Bench,EMI
+B-26554,397,-82,2,Home Decor,Curtains,UPI
+B-26555,917,372,4,Food,Salad,COD
+B-26556,1782,674,6,Gym,Treadmill,Credit Card
+B-26557,263,-49,1,Home Decor,Throw Blankets,COD
+B-26558,697,251,3,Food,Burrito,EMI
+B-26559,1337,564,6,Gym,Yoga Mat,UPI
+B-26560,374,-86,2,Home Decor,Artificial Plants,COD
+B-26561,1002,432,4,Food,Smoothie,Credit Card
+B-26562,1693,647,7,Gym,Dumbbells,EMI
+B-26563,502,-63,2,Home Decor,Photo Frames,UPI
+B-26564,217,94,1,Food,Dessert,COD
+B-26565,1094,453,4,Gym,Exercise Ball,Credit Card
+B-26566,485,-56,2,Home Decor,Rugs,COD
+B-26567,305,-49,1,Food,Salad,COD
+B-26568,1734,649,6,Gym,Rowing Machine,EMI
+B-26569,262,87,3,Home Decor,Table Lamps,UPI
+B-26570,713,-112,2,Food,Sandwich,UPI
+B-26571,1207,529,5,Gym,Home Gym Set,Credit Card
+B-26572,485,-56,2,Home Decor,Wall Art,COD
+B-26573,1100,498,5,Food,BBQ,Credit Card
+B-26574,1689,254,3,Gym,Exercise Mat,EMI
+B-26575,444,-77,2,Home Decor,Throw Pillows,UPI
+B-26576,798,132,3,Food,Burrito,COD
+B-26577,1582,374,4,Gym,Punching Bag,Credit Card
+B-26578,517,-71,2,Home Decor,Bookends,COD
+B-26579,963,387,4,Food,Pancakes,EMI
+B-26580,1033,129,3,Gym,Resistance Bands,UPI
+B-26581,336,-59,1,Home Decor,Wall Decor,COD
+B-26582,651,288,3,Food,Pizza,Credit Card
+B-26583,1849,732,7,Gym,Exercise Bike,EMI
+B-26584,488,-95,2,Home Decor,Planters,UPI
+B-26585,1189,481,5,Food,Burger,COD
+B-26586,1699,235,4,Gym,Skipping Rope,Credit Card
+B-26587,225,-67,1,Home Decor,Candles,COD
+B-26588,1011,308,3,Food,Tacos,EMI
+B-26589,796,312,3,Gym,Weight Plates,UPI
+B-26590,333,-74,1,Home Decor,Floor Lamps,COD
+B-26591,572,128,2,Food,Sushi,Credit Card
+B-26592,1299,642,5,Gym,Exercise Bench,EMI
+B-26593,397,-82,2,Home Decor,Curtains,UPI
+B-26594,917,372,4,Food,Salad,COD
+B-26595,1782,674,6,Gym,Treadmill,Credit Card
+B-26596,263,-49,1,Home Decor,Throw Blankets,COD
+B-26597,697,251,3,Food,Burrito,EMI
+B-26598,1337,564,6,Gym,Yoga Mat,UPI
+B-26599,374,-86,2,Home Decor,Artificial Plants,COD
+B-26600,1002,432,4,Food,Smoothie,Credit Card
+B-26601,1693,647,7,Gym,Dumbbells,EMI
+B-26602,502,-63,2,Home Decor,Photo Frames,UPI
+B-26603,217,94,1,Food,Dessert,COD
+B-26604,1094,453,4,Gym,Exercise Ball,Credit Card
+B-26605,485,-56,2,Home Decor,Rugs,COD
+B-26606,305,-49,1,Food,Salad,COD
+B-26607,1734,649,6,Gym,Rowing Machine,EMI
+B-26608,262,87,3,Home Decor,Table Lamps,UPI
+B-26609,713,-112,2,Food,Sandwich,UPI
+B-26610,1207,529,5,Gym,Home Gym Set,Credit Card
+B-26611,485,-56,2,Home Decor,Wall Art,COD
+B-26612,1100,498,5,Food,BBQ,Credit Card
+B-26613,1689,254,3,Gym,Exercise Mat,EMI
+B-26614,444,-77,2,Home Decor,Throw Pillows,UPI
+B-26615,798,132,3,Food,Burrito,COD
+B-26616,1582,374,4,Gym,Punching Bag,Credit Card
+B-26617,517,-71,2,Home Decor,Bookends,COD
+B-26618,963,387,4,Food,Pancakes,EMI
+B-26619,1033,129,3,Gym,Resistance Bands,UPI
+B-26620,336,-59,1,Home Decor,Wall Decor,COD
+B-26621,651,288,3,Food,Pizza,Credit Card
+B-26622,1849,732,7,Gym,Exercise Bike,EMI
+B-26623,488,-95,2,Home Decor,Planters,UPI
+B-26624,1189,481,5,Food,Burger,COD
+B-26625,1699,235,4,Gym,Skipping Rope,Credit Card
+B-26626,225,-67,1,Home Decor,Candles,COD
+B-26627,1011,308,3,Food,Tacos,EMI
+B-26628,796,312,3,Gym,Weight Plates,UPI
+B-26629,333,-74,1,Home Decor,Floor Lamps,COD
+B-26630,572,128,2,Food,Sushi,Credit Card
+B-26631,1299,642,5,Gym,Exercise Bench,EMI
+B-26632,397,-82,2,Home Decor,Curtains,UPI
+B-26633,917,372,4,Food,Salad,COD
+B-26634,1782,674,6,Gym,Treadmill,Credit Card
+B-26635,263,-49,1,Home Decor,Throw Blankets,COD
+B-26636,697,251,3,Food,Burrito,EMI
+B-26637,1337,564,6,Gym,Yoga Mat,UPI
+B-26638,374,-86,2,Home Decor,Artificial Plants,COD
+B-26639,1002,432,4,Food,Smoothie,Credit Card
+B-26640,1693,647,7,Gym,Dumbbells,EMI
+B-26641,502,-63,2,Home Decor,Photo Frames,UPI
+B-26642,217,94,1,Food,Dessert,COD
+B-26643,1094,453,4,Gym,Exercise Ball,Credit Card
+B-26644,485,-56,2,Home Decor,Rugs,COD
+B-26645,305,-49,1,Food,Salad,COD
+B-26646,1734,649,6,Gym,Rowing Machine,EMI
+B-26647,262,87,3,Home Decor,Table Lamps,UPI
+B-26648,713,-112,2,Food,Sandwich,UPI
+B-26649,1207,529,5,Gym,Home Gym Set,Credit Card
+B-26650,485,-56,2,Home Decor,Wall Art,COD
+B-26651,1100,498,5,Food,BBQ,Credit Card
+B-26652,1689,254,3,Gym,Exercise Mat,EMI
+B-26653,444,-77,2,Home Decor,Throw Pillows,UPI
+B-26654,798,132,3,Food,Burrito,COD
+B-26655,1582,374,4,Gym,Punching Bag,Credit Card
+B-26656,517,-71,2,Home Decor,Bookends,COD
+B-26657,963,387,4,Food,Pancakes,EMI
+B-26658,1033,129,3,Gym,Resistance Bands,UPI
+B-26659,336,-59,1,Home Decor,Wall Decor,COD
+B-26660,651,288,3,Food,Pizza,Credit Card
+B-26661,1849,732,7,Gym,Exercise Bike,EMI
+B-26662,488,-95,2,Home Decor,Planters,UPI
+B-26663,1189,481,5,Food,Burger,COD
+B-26664,1699,235,4,Gym,Skipping Rope,Credit Card
+B-26665,225,-67,1,Home Decor,Candles,COD
+B-26666,1011,308,3,Food,Tacos,EMI
+B-26667,796,312,3,Gym,Weight Plates,UPI
+B-26668,333,-74,1,Home Decor,Floor Lamps,COD
+B-26669,572,128,2,Food,Sushi,Credit Card
+B-26670,1299,642,5,Gym,Exercise Bench,EMI
+B-26671,397,-82,2,Home Decor,Curtains,UPI
+B-26672,917,372,4,Food,Salad,COD
+B-26673,1782,674,6,Gym,Treadmill,Credit Card
+B-26674,263,-49,1,Home Decor,Throw Blankets,COD
+B-26675,697,251,3,Food,Burrito,EMI
+B-26676,1337,564,6,Gym,Yoga Mat,UPI
+B-26677,374,-86,2,Home Decor,Artificial Plants,COD
+B-26678,1002,432,4,Food,Smoothie,Credit Card
+B-26679,1693,647,7,Gym,Dumbbells,EMI
+B-26680,502,-63,2,Home Decor,Photo Frames,UPI
+B-26681,217,94,1,Food,Dessert,COD
+B-26682,1094,453,4,Gym,Exercise Ball,Credit Card
+B-26683,485,-56,2,Home Decor,Rugs,COD
+B-26684,305,-49,1,Food,Salad,COD
+B-26685,1734,649,6,Gym,Rowing Machine,EMI
+B-26686,262,87,3,Home Decor,Table Lamps,UPI
+B-26687,713,-112,2,Food,Sandwich,UPI
+B-26688,1207,529,5,Gym,Home Gym Set,Credit Card
+B-26689,485,-56,2,Home Decor,Wall Art,COD
+B-26690,1100,498,5,Food,BBQ,Credit Card
+B-26691,1689,254,3,Gym,Exercise Mat,EMI
+B-26692,444,-77,2,Home Decor,Throw Pillows,UPI
+B-26693,798,132,3,Food,Burrito,COD
+B-26694,1582,374,4,Gym,Punching Bag,Credit Card
+B-26695,517,-71,2,Home Decor,Bookends,COD
+B-26696,963,387,4,Food,Pancakes,EMI
+B-26697,1033,129,3,Gym,Resistance Bands,UPI
+B-26698,336,-59,1,Home Decor,Wall Decor,COD
+B-26699,651,288,3,Food,Pizza,Credit Card
+B-26700,1849,732,7,Gym,Exercise Bike,EMI
+B-26701,488,-95,2,Home Decor,Planters,UPI
+B-26702,1189,481,5,Food,Burger,COD
+B-26703,1699,235,4,Gym,Skipping Rope,Credit Card
+B-26704,225,-67,1,Home Decor,Candles,COD
+B-26705,1011,308,3,Food,Tacos,EMI
+B-26706,796,312,3,Gym,Weight Plates,UPI
+B-26707,333,-74,1,Home Decor,Floor Lamps,COD
+B-26708,572,128,2,Food,Sushi,Credit Card
+B-26709,1299,642,5,Gym,Exercise Bench,EMI
+B-26710,397,-82,2,Home Decor,Curtains,UPI
+B-26711,917,372,4,Food,Salad,COD
+B-26712,1782,674,6,Gym,Treadmill,Credit Card
+B-26713,263,-49,1,Home Decor,Throw Blankets,COD
+B-26714,697,251,3,Food,Burrito,EMI
+B-26715,1337,564,6,Gym,Yoga Mat,UPI
+B-26716,374,-86,2,Home Decor,Artificial Plants,COD
+B-26717,1002,432,4,Food,Smoothie,Credit Card
+B-26718,1693,647,7,Gym,Dumbbells,EMI
+B-26719,502,-63,2,Home Decor,Photo Frames,UPI
+B-26720,217,94,1,Food,Dessert,COD
+B-26721,1094,453,4,Gym,Exercise Ball,Credit Card
+B-26722,485,-56,2,Home Decor,Rugs,COD
+B-26723,305,-49,1,Food,Salad,COD
+B-26724,1734,649,6,Gym,Rowing Machine,EMI
+B-26725,262,87,3,Home Decor,Table Lamps,UPI
+B-26726,713,-112,2,Food,Sandwich,UPI
+B-26727,1207,529,5,Gym,Home Gym Set,Credit Card
+B-26728,485,-56,2,Home Decor,Wall Art,COD
+B-26729,1100,498,5,Food,BBQ,Credit Card
+B-26730,1689,254,3,Gym,Exercise Mat,EMI
+B-26731,444,-77,2,Home Decor,Throw Pillows,UPI
+B-26732,798,132,3,Food,Burrito,COD
+B-26733,1582,374,4,Gym,Punching Bag,Credit Card
+B-26734,517,-71,2,Home Decor,Bookends,COD
+B-26735,963,387,4,Food,Pancakes,EMI
+B-26736,1033,129,3,Gym,Resistance Bands,UPI
+B-26737,336,-59,1,Home Decor,Wall Decor,COD
+B-26738,651,288,3,Food,Pizza,Credit Card
+B-26739,1849,732,7,Gym,Exercise Bike,EMI
+B-26740,488,-95,2,Home Decor,Planters,UPI
+B-26741,1189,481,5,Food,Burger,COD
+B-26742,1699,235,4,Gym,Skipping Rope,Credit Card
+B-26743,225,-67,1,Home Decor,Candles,COD
+B-26744,1011,308,3,Food,Tacos,EMI
+B-26745,796,312,3,Gym,Weight Plates,UPI
+B-26746,333,-74,1,Home Decor,Floor Lamps,COD
+B-26747,572,128,2,Food,Sushi,Credit Card
+B-26748,1299,642,5,Gym,Exercise Bench,EMI
+B-26749,397,-82,2,Home Decor,Curtains,UPI
+B-26750,917,372,4,Food,Salad,COD
+B-26751,1782,674,6,Gym,Treadmill,Credit Card
+B-26752,263,-49,1,Home Decor,Throw Blankets,COD
+B-26753,697,251,3,Food,Burrito,EMI
+B-26754,1337,564,6,Gym,Yoga Mat,UPI
+B-26755,374,-86,2,Home Decor,Artificial Plants,COD
+B-26756,1002,432,4,Food,Smoothie,Credit Card
+B-26757,1693,647,7,Gym,Dumbbells,EMI
+B-26758,502,-63,2,Home Decor,Photo Frames,UPI
+B-26759,217,94,1,Food,Dessert,COD
+B-26760,1094,453,4,Gym,Exercise Ball,Credit Card
+B-26761,485,-56,2,Home Decor,Rugs,COD
+B-26762,305,-49,1,Food,Salad,COD
+B-26763,1734,649,6,Gym,Rowing Machine,EMI
+B-26764,262,87,3,Home Decor,Table Lamps,UPI
+B-26765,713,-112,2,Food,Sandwich,UPI
+B-26766,1207,529,5,Gym,Home Gym Set,Credit Card
+B-26767,485,-56,2,Home Decor,Wall Art,COD
+B-26768,1100,498,5,Food,BBQ,Credit Card
+B-26769,1689,254,3,Gym,Exercise Mat,EMI
+B-26770,444,-77,2,Home Decor,Throw Pillows,UPI
+B-26771,798,132,3,Food,Burrito,COD
+B-26772,1582,374,4,Gym,Punching Bag,Credit Card
+B-26773,517,-71,2,Home Decor,Bookends,COD
+B-26774,963,387,4,Food,Pancakes,EMI
+B-26775,1033,129,3,Gym,Resistance Bands,UPI
+B-26776,336,-59,1,Home Decor,Wall Decor,COD
+B-26777,651,288,3,Food,Pizza,Credit Card
+B-26778,1849,732,7,Gym,Exercise Bike,EMI
+B-26779,488,-95,2,Home Decor,Planters,UPI
+B-26780,1189,481,5,Food,Burger,COD
+B-26781,1699,235,4,Gym,Skipping Rope,Credit Card
+B-26782,225,-67,1,Home Decor,Candles,COD
+B-26783,1011,308,3,Food,Tacos,EMI
+B-26784,796,312,3,Gym,Weight Plates,UPI
+B-26785,333,-74,1,Home Decor,Floor Lamps,COD
+B-26786,572,128,2,Food,Sushi,Credit Card
+B-26787,1299,642,5,Gym,Exercise Bench,EMI
+B-26788,397,-82,2,Home Decor,Curtains,UPI
+B-26789,917,372,4,Food,Salad,COD
+B-26790,1782,674,6,Gym,Treadmill,Credit Card
+B-26791,263,-49,1,Home Decor,Throw Blankets,COD
+B-26792,697,251,3,Food,Burrito,EMI
+B-26793,1337,564,6,Gym,Yoga Mat,UPI
+B-26794,374,-86,2,Home Decor,Artificial Plants,COD
+B-26795,1002,432,4,Food,Smoothie,Credit Card
+B-26796,1693,647,7,Gym,Dumbbells,EMI
+B-26797,502,-63,2,Home Decor,Photo Frames,UPI
+B-26798,217,94,1,Food,Dessert,COD
+B-26799,1094,453,4,Gym,Exercise Ball,Credit Card
+B-26800,485,-56,2,Home Decor,Rugs,COD
+B-26801,305,-49,1,Food,Salad,COD
+B-26802,1734,649,6,Gym,Rowing Machine,EMI
+B-26803,262,87,3,Home Decor,Table Lamps,UPI
+B-26804,713,-112,2,Food,Sandwich,UPI
+B-26805,1207,529,5,Gym,Home Gym Set,Credit Card
+B-26806,485,-56,2,Home Decor,Wall Art,COD
+B-26807,1100,498,5,Food,BBQ,Credit Card
+B-26808,1689,254,3,Gym,Exercise Mat,EMI
+B-26809,444,-77,2,Home Decor,Throw Pillows,UPI
+B-26810,798,132,3,Food,Burrito,COD
+B-26811,1582,374,4,Gym,Punching Bag,Credit Card
+B-26812,517,-71,2,Home Decor,Bookends,COD
+B-26813,963,387,4,Food,Pancakes,EMI
+B-26814,1033,129,3,Gym,Resistance Bands,UPI
+B-26815,336,-59,1,Home Decor,Wall Decor,COD
+B-26816,651,288,3,Food,Pizza,Credit Card
+B-26817,1849,732,7,Gym,Exercise Bike,EMI
+B-26818,488,-95,2,Home Decor,Planters,UPI
+B-26819,1189,481,5,Food,Burger,COD
+B-26820,1699,235,4,Gym,Skipping Rope,Credit Card
+B-26821,225,-67,1,Home Decor,Candles,COD
+B-26822,1011,308,3,Food,Tacos,EMI
+B-26823,796,312,3,Gym,Weight Plates,UPI
+B-26824,333,-74,1,Home Decor,Floor Lamps,COD
+B-26825,572,128,2,Food,Sushi,Credit Card
+B-26826,1299,642,5,Gym,Exercise Bench,EMI
+B-26827,397,-82,2,Home Decor,Curtains,UPI
+B-26828,917,372,4,Food,Salad,COD
+B-26829,1782,674,6,Gym,Treadmill,Credit Card
+B-26830,263,-49,1,Home Decor,Throw Blankets,COD
+B-26831,697,251,3,Food,Burrito,EMI
+B-26832,1337,564,6,Gym,Yoga Mat,UPI
+B-26833,374,-86,2,Home Decor,Artificial Plants,COD
+B-26834,1002,432,4,Food,Smoothie,Credit Card
+B-26835,1693,647,7,Gym,Dumbbells,EMI
+B-26836,502,-63,2,Home Decor,Photo Frames,UPI
+B-26837,217,94,1,Food,Dessert,COD
+B-26838,1094,453,4,Gym,Exercise Ball,Credit Card
+B-26839,485,-56,2,Home Decor,Rugs,COD
+B-26840,305,-49,1,Food,Salad,COD
+B-26841,1734,649,6,Gym,Rowing Machine,EMI
+B-26842,262,87,3,Home Decor,Table Lamps,UPI
+B-26843,713,-112,2,Food,Sandwich,UPI
+B-26844,1207,529,5,Gym,Home Gym Set,Credit Card
+B-26845,485,-56,2,Home Decor,Wall Art,COD
+B-26846,1100,498,5,Food,BBQ,Credit Card
+B-26847,1689,254,3,Gym,Exercise Mat,EMI
+B-26848,444,-77,2,Home Decor,Throw Pillows,UPI
+B-26849,798,132,3,Food,Burrito,COD
+B-26850,1582,374,4,Gym,Punching Bag,Credit Card
+B-26851,517,-71,2,Home Decor,Bookends,COD
+B-26852,963,387,4,Food,Pancakes,EMI
+B-26853,1033,129,3,Gym,Resistance Bands,UPI
+B-26854,336,-59,1,Home Decor,Wall Decor,COD
+B-26855,651,288,3,Food,Pizza,Credit Card
+B-26856,1849,732,7,Gym,Exercise Bike,EMI
+B-26857,488,-95,2,Home Decor,Planters,UPI
+B-26858,1189,481,5,Food,Burger,COD
+B-26859,1699,235,4,Gym,Skipping Rope,Credit Card
+B-26860,225,-67,1,Home Decor,Candles,COD
+B-26861,1011,308,3,Food,Tacos,EMI
+B-26862,796,312,3,Gym,Weight Plates,UPI
+B-26863,333,-74,1,Home Decor,Floor Lamps,COD
+B-26864,572,128,2,Food,Sushi,Credit Card
+B-26865,1299,642,5,Gym,Exercise Bench,EMI
+B-26866,397,-82,2,Home Decor,Curtains,UPI
+B-26867,917,372,4,Food,Salad,COD
+B-26868,1782,674,6,Gym,Treadmill,Credit Card
+B-26869,263,-49,1,Home Decor,Throw Blankets,COD
+B-26870,697,251,3,Food,Burrito,EMI
+B-26871,1337,564,6,Gym,Yoga Mat,UPI
+B-26872,374,-86,2,Home Decor,Artificial Plants,COD
+B-26873,1002,432,4,Food,Smoothie,Credit Card
+B-26874,1693,647,7,Gym,Dumbbells,EMI
+B-26875,502,-63,2,Home Decor,Photo Frames,UPI
+B-26876,217,94,1,Food,Dessert,COD
+B-26877,1094,453,4,Gym,Exercise Ball,Credit Card
+B-26878,485,-56,2,Home Decor,Rugs,COD
+B-26879,305,-49,1,Food,Salad,COD
+B-26880,1734,649,6,Gym,Rowing Machine,EMI
+B-26881,262,87,3,Home Decor,Table Lamps,UPI
+B-26882,713,-112,2,Food,Sandwich,UPI
+B-26883,1207,529,5,Gym,Home Gym Set,Credit Card
+B-26884,485,-56,2,Home Decor,Wall Art,COD
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-26464,2031,254,5,Food,Meat,EMI
+B-26465,1945,408,7,Gym,Yoga Mat,COD
+B-26466,3863,972,9,Home Decor,Rugs,EMI
+B-26467,239,37,8,Books,Non-Fiction,EMI
+B-26468,1506,604,10,Office Supplies,Pens,EMI
+B-26469,1849,642,9,Electronics,Headphones,Credit Card
+B-26470,2935,1398,5,Food,Seafood,COD
+B-26471,259,32,6,Gym,Exercise Bands,COD
+B-26472,379,84,2,Home Decor,Wall Art,EMI
+B-26473,2001,521,7,Books,Mystery,COD
+B-26474,2116,843,10,Office Supplies,Labels,EMI
+B-26475,366,92,4,Electronics,Batteries,Credit Card
+B-26476,1451,498,8,Food,Dairy,COD
+B-26477,2733,1091,10,Gym,Weights,COD
+B-26478,421,74,5,Home Decor,Lighting,EMI
+B-26479,1551,457,10,Books,Science Fiction,COD
+B-26480,1868,799,10,Office Supplies,Scissors,EMI
+B-26481,2316,1102,9,Electronics,Smart Home Devices,Credit Card
+B-26482,1382,585,3,Food,Beverages,COD
+B-26483,3948,1056,9,Gym,Exercise Machines,COD
+B-26484,450,78,3,Home Decor,Decorative Pillows,EMI
+B-26485,265,34,6,Books,Children's Books,EMI
+B-26486,1283,534,8,Office Supplies,Notebooks,EMI
+B-26487,1727,633,9,Electronics,Tablets,Credit Card
+B-26488,1778,737,7,Food,Fruits,COD
+B-26489,3475,1182,8,Gym,Cardio Equipment,COD
+B-26490,389,72,1,Home Decor,Home Fragrance,EMI
+B-26491,245,40,3,Books,History,COD
+B-26492,1832,729,7,Office Supplies,Binders,EMI
+B-26493,292,38,5,Electronics,Accessories,Credit Card
+B-26494,1653,678,9,Food,Bakery,COD
+B-26495,2104,946,4,Gym,Exercise Bikes,COD
+B-26496,334,56,2,Home Decor,Curtains,EMI
+B-26497,1499,472,9,Books,Art,COD
+B-26498,1574,605,8,Office Supplies,Desk Organizers,EMI
+B-26499,2799,1136,7,Electronics,Cameras,Credit Card
+B-26500,1197,394,2,Food,Snacks,COD
+B-26501,4236,1345,10,Gym,Gym Machines,COD
+B-26502,416,67,2,Home Decor,Clocks,EMI
+B-26503,244,33,5,Books,Literature,EMI
+B-26504,1395,569,8,Office Supplies,Staplers,EMI
+B-26505,1987,826,7,Electronics,Wearable Technology,Credit Card
+B-26506,1526,612,5,Food,Condiments,COD
+B-26507,3624,1228,9,Gym,Exercise Mats,COD
+B-26508,384,71,3,Home Decor,Throws,EMI
+B-26509,176,28,3,Books,Poetry,COD
+B-26510,1724,728,8,Office Supplies,Calculators,EMI
+B-26511,2975,1201,7,Electronics,Monitors,Credit Card
+B-26512,1295,538,4,Food,Canned Goods,COD
+B-26513,3274,1093,9,Gym,Rowing Machines,COD
+B-26514,341,60,2,Home Decor,Vases,EMI
+B-26515,268,36,5,Books,Biography,COD
+B-26516,1076,439,7,Office Supplies,Markers,EMI
+B-26517,2298,1012,6,Electronics,Printers,Credit Card
+B-26518,1665,693,3,Food,Meat,COD
+B-26519,3104,1209,9,Gym,Treadmills,COD
+B-26520,361,65,3,Home Decor,Wall Decor,EMI
+B-26521,231,31,5,Books,Travel,COD
+B-26522,1403,573,8,Office Supplies,Paper,EMI
+B-26523,2491,989,7,Electronics,Speakers,Credit Card
+B-26524,1376,557,4,Food,Seafood,COD
+B-26525,3298,1167,8,Gym,Exercise Benches,COD
+B-26526,316,54,2,Home Decor,Mirrors,EMI
+B-26527,139,21,3,Books,Self-Help,COD
+B-26528,1783,762,8,Office Supplies,Folders,EMI
+B-26529,2722,1053,6,Electronics,Smart Home Devices,Credit Card
+B-26530,1446,604,5,Food,Dairy,COD
+B-26531,2467,1035,9,Gym,Exercise Bands,COD
+B-26532,443,77,4,Home Decor,Lighting,EMI
+B-26533,180,29,6,Books,Philosophy,COD
+B-26534,1362,582,8,Office Supplies,Scissors,EMI
+B-26535,2307,1001,7,Electronics,Headphones,Credit Card
+B-26536,1235,520,4,Food,Beverages,COD
+B-26537,3691,1254,9,Gym,Exercise Machines,COD
+B-26538,395,79,2,Home Decor,Decorative Pillows,EMI
+B-26539,245,36,5,Books,Art,COD
+B-26540,1512,640,8,Office Supplies,Notebooks,EMI
+B-26541,2194,954,6,Electronics,Batteries,Credit Card
+B-26542,1408,588,3,Food,Fruits,COD
+B-26543,3357,1145,8,Gym,Cardio Equipment,COD
+B-26544,438,76,3,Home Decor,Home Fragrance,EMI
+B-26545,219,30,3,Books,History,COD
+B-26546,1674,701,8,Office Supplies,Binders,EMI
+B-26547,258,35,5,Electronics,Accessories,Credit Card
+B-26548,1593,655,5,Food,Bakery,COD
+B-26549,2025,863,4,Gym,Exercise Bikes,COD
+B-26550,381,70,2,Home Decor,Curtains,EMI
+B-26551,1783,755,9,Books,Science Fiction,COD
+B-26552,1756,743,8,Office Supplies,Desk Organizers,EMI
+B-26553,2999,1187,7,Electronics,Cameras,Credit Card
+B-26554,1284,517,2,Food,Snacks,COD
+B-26555,4278,1376,10,Gym,Gym Machines,COD
+B-26556,430,73,2,Home Decor,Clocks,EMI
+B-26557,252,32,5,Books,Literature,EMI
+B-26558,1346,551,8,Office Supplies,Staplers,EMI
+B-26559,1892,805,7,Electronics,Wearable Technology,Credit Card
+B-26560,1465,628,5,Food,Condiments,COD
+B-26561,3597,1204,9,Gym,Exercise Mats,COD
+B-26562,362,63,3,Home Decor,Throws,EMI
+B-26563,188,27,3,Books,Poetry,COD
+B-26564,1825,790,8,Office Supplies,Calculators,EMI
+B-26565,3113,1232,7,Electronics,Monitors,Credit Card
+B-26566,1304,542,4,Food,Canned Goods,COD
+B-26567,3365,1129,9,Gym,Rowing Machines,COD
+B-26568,365,67,2,Home Decor,Vases,EMI
+B-26569,258,34,5,Books,Biography,COD
+B-26570,1045,416,7,Office Supplies,Markers,EMI
+B-26571,2228,1003,6,Electronics,Printers,Credit Card
+B-26572,1725,711,3,Food,Meat,COD
+B-26573,3223,1278,9,Gym,Treadmills,COD
+B-26574,390,75,3,Home Decor,Wall Decor,EMI
+B-26575,258,31,5,Books,Travel,COD
+B-26576,1352,559,8,Office Supplies,Paper,EMI
+B-26577,2394,968,7,Electronics,Speakers,Credit Card
+B-26578,1336,545,4,Food,Seafood,COD
+B-26579,3387,1136,8,Gym,Exercise Benches,COD
+B-26580,326,57,2,Home Decor,Mirrors,EMI
+B-26581,146,22,3,Books,Self-Help,COD
+B-26582,1873,785,8,Office Supplies,Folders,EMI
+B-26583,2794,1097,6,Electronics,Smart Home Devices,Credit Card
+B-26584,1405,585,5,Food,Dairy,COD
+B-26585,2463,1042,9,Gym,Exercise Bands,COD
+B-26586,465,81,4,Home Decor,Lighting,EMI
+B-26587,179,28,6,Books,Philosophy,COD
+B-26588,1765,739,8,Office Supplies,Scissors,EMI
+B-26589,2354,1012,7,Electronics,Headphones,Credit Card
+B-26590,1185,510,4,Food,Beverages,COD
+B-26591,3722,1259,9,Gym,Exercise Machines,COD
+B-26592,398,80,2,Home Decor,Decorative Pillows,EMI
+B-26593,223,32,5,Books,Art,COD
+B-26594,1582,652,8,Office Supplies,Notebooks,EMI
+B-26595,2295,1004,6,Electronics,Batteries,Credit Card
+B-26596,1421,597,3,Food,Fruits,COD
+B-26597,3198,1178,8,Gym,Cardio Equipment,COD
+B-26598,464,75,3,Home Decor,Home Fragrance,EMI
+B-26599,226,29,3,Books,History,COD
+B-26600,1732,716,8,Office Supplies,Binders,EMI
+B-26601,267,33,5,Electronics,Accessories,Credit Card
+B-26602,1635,688,5,Food,Bakery,COD
+B-26603,2177,911,4,Gym,Exercise Bikes,COD
+B-26604,398,68,2,Home Decor,Curtains,EMI
+B-26605,1875,807,9,Books,Science Fiction,COD
+B-26606,1836,781,8,Office Supplies,Desk Organizers,EMI
+B-26607,3055,1205,7,Electronics,Cameras,Credit Card
+B-26608,1228,524,2,Food,Snacks,COD
+B-26609,4136,1342,10,Gym,Gym Machines,COD
+B-26610,422,74,2,Home Decor,Clocks,EMI
+B-26611,265,34,5,Books,Literature,EMI
+B-26612,1374,563,8,Office Supplies,Staplers,EMI
+B-26613,1932,816,7,Electronics,Wearable Technology,Credit Card
+B-26614,1495,612,5,Food,Condiments,COD
+B-26615,3675,1189,9,Gym,Exercise Mats,COD
+B-26616,387,70,3,Home Decor,Throws,EMI
+B-26617,188,27,3,Books,Poetry,COD
+B-26618,1775,740,8,Office Supplies,Calculators,EMI
+B-26619,3095,1223,7,Electronics,Monitors,Credit Card
+B-26620,1256,537,4,Food,Canned Goods,COD
+B-26621,3395,1128,9,Gym,Rowing Machines,COD
+B-26622,398,68,2,Home Decor,Vases,EMI
+B-26623,256,33,5,Books,Biography,COD
+B-26624,1023,408,7,Office Supplies,Markers,EMI
+B-26625,2178,999,6,Electronics,Printers,Credit Card
+B-26626,1685,698,3,Food,Meat,COD
+B-26627,3321,1294,9,Gym,Treadmills,COD
+B-26628,377,71,3,Home Decor,Wall Decor,EMI
+B-26629,254,32,5,Books,Travel,COD
+B-26630,1342,550,8,Office Supplies,Paper,EMI
+B-26631,2384,978,7,Electronics,Speakers,Credit Card
+B-26632,1316,525,4,Food,Seafood,COD
+B-26633,3197,1097,8,Gym,Exercise Benches,COD
+B-26634,306,54,2,Home Decor,Mirrors,EMI
+B-26635,126,21,3,Books,Self-Help,COD
+B-26636,1816,764,8,Office Supplies,Folders,EMI
+B-26637,2753,1086,6,Electronics,Smart Home Devices,Credit Card
+B-26638,1425,593,5,Food,Dairy,COD
+B-26639,2467,1042,9,Gym,Exercise Bands,COD
+B-26640,481,82,4,Home Decor,Lighting,EMI
+B-26641,172,29,6,Books,Philosophy,COD
+B-26642,1753,718,8,Office Supplies,Scissors,EMI
+B-26643,2315,1011,7,Electronics,Headphones,Credit Card
+B-26644,1198,516,4,Food,Beverages,COD
+B-26645,3771,1245,9,Gym,Exercise Machines,COD
+B-26646,410,76,2,Home Decor,Decorative Pillows,EMI
+B-26647,223,32,5,Books,Art,COD
+B-26648,1596,652,8,Office Supplies,Notebooks,EMI
+B-26649,2325,1004,6,Electronics,Batteries,Credit Card
+B-26650,1412,591,3,Food,Fruits,COD
+B-26651,3256,1112,8,Gym,Cardio Equipment,COD
+B-26652,440,76,3,Home Decor,Home Fragrance,EMI
+B-26653,245,34,5,Books,History,COD
+B-26654,1522,636,8,Office Supplies,Binders,EMI
+B-26655,277,34,5,Electronics,Accessories,Credit Card
+B-26656,1635,688,5,Food,Bakery,COD
+B-26657,2167,909,4,Gym,Exercise Bikes,COD
+B-26658,398,68,2,Home Decor,Curtains,EMI
+B-26659,1825,790,8,Books,Science Fiction,COD
+B-26660,1896,808,8,Office Supplies,Desk Organizers,EMI
+B-26661,3053,1195,7,Electronics,Cameras,Credit Card
+B-26662,1228,524,2,Food,Snacks,COD
+B-26663,4236,1376,10,Gym,Gym Machines,COD
+B-26664,462,74,2,Home Decor,Clocks,EMI
+B-26665,265,34,5,Books,Literature,EMI
+B-26666,1374,563,8,Office Supplies,Staplers,EMI
+B-26667,1913,802,7,Electronics,Wearable Technology,Credit Card
+B-26668,1495,612,5,Food,Condiments,COD
+B-26669,3685,1185,9,Gym,Exercise Mats,COD
+B-26670,397,73,3,Home Decor,Throws,EMI
+B-26671,178,26,3,Books,Poetry,COD
+B-26672,1795,748,8,Office Supplies,Calculators,EMI
+B-26673,3085,1221,7,Electronics,Monitors,Credit Card
+B-26674,1265,540,4,Food,Canned Goods,COD
+B-26675,3335,1125,9,Gym,Rowing Machines,COD
+B-26676,395,68,2,Home Decor,Vases,EMI
+B-26677,256,33,5,Books,Biography,COD
+B-26678,1065,422,7,Office Supplies,Markers,EMI
+B-26679,2178,999,6,Electronics,Printers,Credit Card
+B-26680,1725,711,3,Food,Meat,COD
+B-26681,3273,1291,9,Gym,Treadmills,COD
+B-26682,394,74,3,Home Decor,Wall Decor,EMI
+B-26683,252,32,5,Books,Travel,COD
+B-26684,1362,557,8,Office Supplies,Paper,EMI
+B-26685,2384,978,7,Electronics,Speakers,Credit Card
+B-26686,1296,526,4,Food,Seafood,COD
+B-26687,3197,1097,8,Gym,Exercise Benches,COD
+B-26688,306,54,2,Home Decor,Mirrors,EMI
+B-26689,126,21,3,Books,Self-Help,COD
+B-26690,1815,765,8,Office Supplies,Folders,EMI
+B-26691,2725,1081,6,Electronics,Smart Home Devices,Credit Card
+B-26692,1425,593,5,Food,Dairy,COD
+B-26693,2465,1042,9,Gym,Exercise Bands,COD
+B-26694,482,82,4,Home Decor,Lighting,EMI
+B-26695,176,28,6,Books,Philosophy,COD
+B-26696,1752,717,8,Office Supplies,Scissors,EMI
+B-26697,2315,1011,7,Electronics,Headphones,Credit Card
+B-26698,1185,510,4,Food,Beverages,COD
+B-26699,3775,1249,9,Gym,Exercise Machines,COD
+B-26700,416,76,2,Home Decor,Decorative Pillows,EMI
+B-26701,223,32,5,Books,Art,COD
+B-26702,1583,652,8,Office Supplies,Notebooks,EMI
+B-26703,2315,1011,7,Electronics,Batteries,Credit Card
+B-26704,1412,591,3,Food,Fruits,COD
+B-26705,3266,1112,8,Gym,Cardio Equipment,COD
+B-26706,442,77,3,Home Decor,Home Fragrance,EMI
+B-26707,245,34,5,Books,History,COD
+B-26708,1523,636,8,Office Supplies,Binders,EMI
+B-26709,277,34,5,Electronics,Accessories,Credit Card
+B-26710,1635,688,5,Food,Bakery,COD
+B-26711,2167,909,4,Gym,Exercise Bikes,COD
+B-26712,398,68,2,Home Decor,Curtains,EMI
+B-26713,1825,790,8,Books,Science Fiction,COD
+B-26714,1897,808,8,Office Supplies,Desk Organizers,EMI
+B-26715,3053,1195,7,Electronics,Cameras,Credit Card
+B-26716,1228,524,2,Food,Snacks,COD
+B-26717,4237,1376,10,Gym,Gym Machines,COD
+B-26718,462,74,2,Home Decor,Clocks,EMI
+B-26719,265,34,5,Books,Literature,EMI
+B-26720,1375,563,8,Office Supplies,Staplers,EMI
+B-26721,1913,802,7,Electronics,Wearable Technology,Credit Card
+B-26722,1496,612,5,Food,Condiments,COD
+B-26723,3685,1185,9,Gym,Exercise Mats,COD
+B-26724,397,73,3,Home Decor,Throws,EMI
+B-26725,178,26,3,Books,Poetry,COD
+B-26726,1795,748,8,Office Supplies,Calculators,EMI
+B-26727,3085,1221,7,Electronics,Monitors,Credit Card
+B-26728,1265,540,4,Food,Canned Goods,COD
+B-26729,3335,1125,9,Gym,Rowing Machines,COD
+B-26730,395,68,2,Home Decor,Vases,EMI
+B-26731,256,33,5,Books,Biography,COD
+B-26732,1065,422,7,Office Supplies,Markers,EMI
+B-26733,2178,999,6,Electronics,Printers,Credit Card
+B-26734,1725,711,3,Food,Meat,COD
+B-26735,3273,1291,9,Gym,Treadmills,COD
+B-26736,394,74,3,Home Decor,Wall Decor,EMI
+B-26737,252,32,5,Books,Travel,COD
+B-26738,1362,557,8,Office Supplies,Paper,EMI
+B-26739,2384,978,7,Electronics,Speakers,Credit Card
+B-26740,1296,526,4,Food,Seafood,COD
+B-26741,3197,1097,8,Gym,Exercise Benches,COD
+B-26742,306,54,2,Home Decor,Mirrors,EMI
+B-26743,126,21,3,Books,Self-Help,COD
+B-26744,1815,765,8,Office Supplies,Folders,EMI
+B-26745,2725,1081,6,Electronics,Smart Home Devices,Credit Card
+B-26746,1425,593,5,Food,Dairy,COD
+B-26747,2465,1042,9,Gym,Exercise Bands,COD
+B-26748,482,82,4,Home Decor,Lighting,EMI
+B-26749,176,28,6,Books,Philosophy,COD
+B-26750,1752,717,8,Office Supplies,Scissors,EMI
+B-26751,2315,1011,7,Electronics,Headphones,Credit Card
+B-26752,1185,510,4,Food,Beverages,COD
+B-26753,3775,1249,9,Gym,Exercise Machines,COD
+B-26754,416,76,2,Home Decor,Decorative Pillows,EMI
+B-26755,223,32,5,Books,Art,COD
+B-26756,1583,652,8,Office Supplies,Notebooks,EMI
+B-26757,2315,1011,7,Electronics,Batteries,Credit Card
+B-26758,1412,591,3,Food,Fruits,COD
+B-26759,3266,1112,8,Gym,Cardio Equipment,COD
+B-26760,442,77,3,Home Decor,Home Fragrance,EMI
+B-26761,245,34,5,Books,History,COD
+B-26762,1523,636,8,Office Supplies,Binders,EMI
+B-26763,277,34,5,Electronics,Accessories,Credit Card
+B-26764,1635,688,5,Food,Bakery,COD
+B-26765,2167,909,4,Gym,Exercise Bikes,COD
+B-26766,398,68,2,Home Decor,Curtains,EMI
+B-26767,1825,790,8,Books,Science Fiction,COD
+B-26768,1897,808,8,Office Supplies,Desk Organizers,EMI
+B-26769,3053,1195,7,Electronics,Cameras,Credit Card
+B-26770,1228,524,2,Food,Snacks,COD
+B-26771,4237,1376,10,Gym,Gym Machines,COD
+B-26772,462,74,2,Home Decor,Clocks,EMI
+B-26773,265,34,5,Books,Literature,EMI
+B-26774,1375,563,8,Office Supplies,Staplers,EMI
+B-26775,1913,802,7,Electronics,Wearable Technology,Credit Card
+B-26776,1496,612,5,Food,Condiments,COD
+B-26777,3685,1185,9,Gym,Exercise Mats,COD
+B-26778,397,73,3,Home Decor,Throws,EMI
+B-26779,178,26,3,Books,Poetry,COD
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-26464,218,28,5,Food,Seafood,COD
+B-26465,541,73,7,Furniture,Tables,EMI
+B-26466,104,12,3,Food,Fruits,Credit Card
+B-26467,397,45,6,Gym,Treadmills,Credit Card
+B-26468,805,159,9,Home Decor,Curtains,UPI
+B-26469,625,128,7,Food,Dairy Products,COD
+B-26470,334,61,4,Office Supplies,Pens,COD
+B-26471,718,145,8,Gym,Weights,EMI
+B-26472,926,216,10,Home Decor,Wall Art,COD
+B-26473,236,27,3,Food,Beverages,EMI
+B-26474,469,83,5,Home Decor,Lamps,COD
+B-26475,113,14,2,Office Supplies,Notebooks,Credit Card
+B-26476,648,128,6,Gym,Exercise Bikes,EMI
+B-26477,509,72,7,Home Decor,Rugs,COD
+B-26478,392,66,5,Food,Snacks,COD
+B-26479,171,28,3,Office Supplies,Staplers,UPI
+B-26480,285,49,4,Home Decor,Decorative Pillows,COD
+B-26481,573,112,6,Gym,Yoga Mats,COD
+B-26482,862,197,9,Home Decor,Clocks,EMI
+B-26483,418,81,5,Food,Canned Goods,EMI
+B-26484,194,39,3,Office Supplies,File Folders,Credit Card
+B-26485,754,145,8,Home Decor,Mirrors,COD
+B-26486,363,56,4,Food,Bakery,UPI
+B-26487,295,52,4,Office Supplies,Desk Organizers,COD
+B-26488,659,126,7,Gym,Gym Bags,COD
+B-26489,874,183,9,Home Decor,Throws,EMI
+B-26490,422,77,5,Food,Produce,COD
+B-26491,132,23,2,Office Supplies,Binders,Credit Card
+B-26492,581,115,6,Gym,Resistance Bands,EMI
+B-26493,963,224,10,Home Decor,Planters,COD
+B-26494,195,38,3,Food,Condiments,EMI
+B-26495,689,132,7,Office Supplies,Scissors,COD
+B-26496,324,47,4,Gym,Exercise Mats,UPI
+B-26497,539,102,6,Home Decor,Candles,COD
+B-26498,281,54,4,Food,Meat,COD
+B-26499,167,29,3,Office Supplies,Tape,Credit Card
+B-26500,717,140,8,Home Decor,Vases,EMI
+B-26501,416,77,5,Food,Frozen Foods,COD
+B-26502,121,19,2,Office Supplies,Markers,UPI
+B-26503,628,120,7,Gym,Jump Ropes,COD
+B-26504,955,218,10,Home Decor,Pillows,EMI
+B-26505,429,82,5,Food,Grains,COD
+B-26506,109,17,2,Office Supplies,Highlighters,Credit Card
+B-26507,584,110,6,Gym,Hand Grips,EMI
+B-26508,906,209,9,Home Decor,Statues,COD
+B-26509,289,50,4,Food,Sauces,COD
+B-26510,136,26,3,Office Supplies,Note Pads,Credit Card
+B-26511,735,139,8,Home Decor,Photo Frames,EMI
+B-26512,347,64,5,Food,Snacks,UPI
+B-26513,198,34,3,Office Supplies,Calculators,COD
+B-26514,683,131,7,Gym,Exercise Bands,COD
+B-26515,308,59,4,Home Decor,Shelves,COD
+B-26516,572,108,6,Food,Desserts,EMI
+B-26517,114,18,2,Office Supplies,Glue Sticks,Credit Card
+B-26518,616,118,7,Gym,Exercise Balls,COD
+B-26519,948,214,10,Home Decor,Frames,EMI
+B-26520,413,74,5,Food,Seafood,COD
+B-26521,123,20,2,Office Supplies,Scotch Tape,Credit Card
+B-26522,693,135,7,Gym,Weightlifting Belts,COD
+B-26523,354,67,5,Home Decor,Cushions,COD
+B-26524,185,31,3,Food,Nuts,COD
+B-26525,842,193,9,Office Supplies,Desk Chairs,EMI
+B-26526,239,41,4,Gym,Exercise Gloves,COD
+B-26527,498,89,6,Home Decor,Curtains,EMI
+B-26528,173,30,3,Food,Organic Foods,COD
+B-26529,745,142,8,Office Supplies,Desk Lamps,EMI
+B-26530,371,69,5,Gym,Water Bottles,COD
+B-26531,210,35,3,Home Decor,Wall Decor,COD
+B-26532,804,155,9,Food,Dairy Products,EMI
+B-26533,275,48,4,Office Supplies,Printer Paper,COD
+B-26534,589,112,6,Gym,Exercise Mats,COD
+B-26535,137,25,3,Home Decor,Artificial Plants,COD
+B-26536,629,121,7,Food,Beverages,COD
+B-26537,109,16,2,Office Supplies,Binders,Credit Card
+B-26538,711,134,8,Gym,Resistance Bands,EMI
+B-26539,324,60,5,Home Decor,Lamps,COD
+B-26540,597,114,6,Food,Snacks,EMI
+B-26541,124,21,2,Office Supplies,File Folders,Credit Card
+B-26542,698,133,7,Gym,Gym Bags,COD
+B-26543,352,66,5,Home Decor,Rugs,COD
+B-26544,194,33,3,Food,Canned Goods,COD
+B-26545,865,197,9,Office Supplies,Staplers,EMI
+B-26546,227,40,4,Gym,Exercise Bikes,COD
+B-26547,479,87,6,Home Decor,Throws,EMI
+B-26548,162,27,3,Food,Bakery,COD
+B-26549,795,154,8,Office Supplies,Notebooks,EMI
+B-26550,313,58,5,Gym,Yoga Mats,COD
+B-26551,568,107,6,Home Decor,Clocks,COD
+B-26552,128,22,2,Food,Produce,Credit Card
+B-26553,713,136,8,Office Supplies,Scissors,EMI
+B-26554,339,63,5,Gym,Exercise Mats,COD
+B-26555,216,36,3,Home Decor,Candles,COD
+B-26556,861,196,9,Food,Meat,EMI
+B-26557,248,43,4,Office Supplies,Binders,COD
+B-26558,574,109,6,Gym,Gym Bags,EMI
+B-26559,104,15,2,Home Decor,Throws,Credit Card
+B-26560,681,130,7,Food,Condiments,COD
+B-26561,302,56,5,Office Supplies,Desk Organizers,COD
+B-26562,655,126,7,Gym,Weights,EMI
+B-26563,138,24,3,Home Decor,Wall Art,COD
+B-26564,798,151,8,Food,Seafood,EMI
+B-26565,346,65,5,Office Supplies,Pens,COD
+B-26566,198,32,3,Gym,Treadmills,COD
+B-26567,937,212,10,Home Decor,Wall Art,EMI
+B-26568,442,79,5,Food,Fruits,COD
+B-26569,153,26,3,Office Supplies,Markers,Credit Card
+B-26570,722,138,8,Gym,Exercise Bands,EMI
+B-26571,383,72,5,Home Decor,Decorative Pillows,COD
+B-26572,185,32,3,Food,Dairy Products,COD
+B-26573,832,191,9,Office Supplies,File Folders,EMI
+B-26574,295,53,4,Gym,Exercise Gloves,COD
+B-26575,509,93,6,Home Decor,Planters,EMI
+B-26576,167,31,3,Food,Canned Goods,COD
+B-26577,759,145,8,Office Supplies,Desk Chairs,EMI
+B-26578,374,70,5,Gym,Water Bottles,COD
+B-26579,220,38,4,Home Decor,Wall Decor,COD
+B-26580,604,115,6,Food,Beverages,EMI
+B-26581,119,20,2,Office Supplies,Glue Sticks,Credit Card
+B-26582,673,128,7,Gym,Jump Ropes,COD
+B-26583,336,61,5,Home Decor,Frames,COD
+B-26584,197,34,3,Food,Snacks,COD
+B-26585,814,157,9,Office Supplies,Desk Lamps,EMI
+B-26586,289,52,4,Gym,Exercise Mats,COD
+B-26587,568,108,6,Home Decor,Shelves,COD
+B-26588,126,23,2,Food,Desserts,Credit Card
+B-26589,721,135,8,Office Supplies,Tape,EMI
+B-26590,347,64,5,Gym,Hand Grips,COD
+B-26591,184,31,3,Home Decor,Artificial Plants,COD
+B-26592,853,195,9,Food,Organic Foods,EMI
+B-26593,232,41,4,Office Supplies,Printer Paper,COD
+B-26594,478,86,6,Gym,Exercise Balls,EMI
+B-26595,173,29,3,Home Decor,Curtains,COD
+B-26596,145,25,2,Food,Nuts,Credit Card
+B-26597,798,152,8,Office Supplies,Desk Chairs,EMI
+B-26598,339,62,5,Gym,Exercise Gloves,COD
+B-26599,196,33,3,Home Decor,Curtains,COD
+B-26600,615,117,7,Food,Seafood,EMI
+B-26601,102,18,2,Office Supplies,Markers,Credit Card
+B-26602,693,134,7,Gym,Resistance Bands,COD
+B-26603,361,68,5,Home Decor,Decorative Pillows,COD
+B-26604,212,37,4,Food,Beverages,COD
+B-26605,849,194,9,Office Supplies,File Folders,EMI
+B-26606,246,44,4,Gym,Exercise Bikes,COD
+B-26607,569,110,6,Home Decor,Lamps,COD
+B-26608,129,22,2,Food,Snacks,Credit Card
+B-26609,781,149,8,Office Supplies,Pens,EMI
+B-26610,331,60,5,Gym,Yoga Mats,COD
+B-26611,199,34,3,Home Decor,Wall Art,COD
+B-26612,664,127,7,Food,Dairy Products,EMI
+B-26613,128,22,2,Office Supplies,Binders,Credit Card
+B-26614,732,139,8,Gym,Weights,EMI
+B-26615,356,66,5,Home Decor,Planters,COD
+B-26616,192,33,3,Food,Condiments,COD
+B-26617,875,200,9,Office Supplies,Desk Organizers,EMI
+B-26618,235,42,4,Gym,Gym Bags,COD
+B-26619,493,89,6,Home Decor,Curtains,EMI
+B-26620,179,31,3,Food,Produce,COD
+B-26621,735,140,8,Office Supplies,Note Pads,EMI
+B-26622,347,64,5,Gym,Exercise Mats,COD
+B-26623,207,35,3,Home Decor,Candles,COD
+B-26624,862,197,9,Food,Meat,EMI
+B-26625,283,49,4,Office Supplies,Binders,COD
+B-26626,576,110,6,Gym,Gym Bags,EMI
+B-26627,107,16,2,Home Decor,Throws,Credit Card
+B-26628,681,129,7,Food,Seafood,COD
+B-26629,302,57,5,Office Supplies,Scissors,COD
+B-26630,646,124,7,Gym,Exercise Bands,COD
+B-26631,313,59,4,Home Decor,Decorative Pillows,COD
+B-26632,184,31,3,Food,Canned Goods,COD
+B-26633,815,156,9,Office Supplies,Staplers,EMI
+B-26634,289,52,4,Gym,Exercise Gloves,COD
+B-26635,568,108,6,Home Decor,Planters,COD
+B-26636,126,22,2,Food,Snacks,Credit Card
+B-26637,719,137,8,Office Supplies,Desk Chairs,EMI
+B-26638,349,65,5,Gym,Water Bottles,COD
+B-26639,218,36,3,Home Decor,Wall Decor,COD
+B-26640,604,116,6,Food,Beverages,EMI
+B-26641,119,19,2,Office Supplies,Glue Sticks,Credit Card
+B-26642,679,131,7,Gym,Jump Ropes,COD
+B-26643,336,61,5,Home Decor,Frames,COD
+B-26644,197,33,3,Food,Desserts,COD
+B-26645,814,156,9,Office Supplies,Desk Lamps,EMI
+B-26646,289,52,4,Gym,Exercise Mats,COD
+B-26647,568,108,6,Home Decor,Shelves,COD
+B-26648,126,22,2,Food,Organic Foods,Credit Card
+B-26649,721,137,8,Office Supplies,Tape,EMI
+B-26650,347,64,5,Gym,Hand Grips,COD
+B-26651,184,31,3,Home Decor,Artificial Plants,COD
+B-26652,853,195,9,Food,Bakery,EMI
+B-26653,232,41,4,Office Supplies,Printer Paper,COD
+B-26654,478,86,6,Gym,Exercise Balls,EMI
+B-26655,173,29,3,Home Decor,Curtains,COD
+B-26656,145,25,2,Food,Nuts,Credit Card
+B-26657,798,152,8,Office Supplies,Desk Chairs,EMI
+B-26658,339,62,5,Gym,Exercise Gloves,COD
+B-26659,196,33,3,Home Decor,Decorative Pillows,COD
+B-26660,615,117,7,Food,Seafood,EMI
+B-26661,102,18,2,Office Supplies,Markers,Credit Card
+B-26662,693,134,7,Gym,Resistance Bands,COD
+B-26663,361,68,5,Home Decor,Candles,COD
+B-26664,212,37,4,Food,Beverages,COD
+B-26665,849,194,9,Office Supplies,File Folders,EMI
+B-26666,246,44,4,Gym,Exercise Bikes,COD
+B-26667,569,110,6,Home Decor,Lamps,COD
+B-26668,129,22,2,Food,Snacks,Credit Card
+B-26669,781,149,8,Office Supplies,Pens,EMI
+B-26670,331,60,5,Gym,Yoga Mats,COD
+B-26671,199,34,3,Home Decor,Wall Art,COD
+B-26672,664,127,7,Food,Dairy Products,EMI
+B-26673,128,22,2,Office Supplies,Binders,Credit Card
+B-26674,732,139,8,Gym,Weights,EMI
+B-26675,356,66,5,Home Decor,Planters,COD
+B-26676,192,33,3,Food,Condiments,COD
+B-26677,875,200,9,Office Supplies,Desk Organizers,EMI
+B-26678,235,42,4,Gym,Gym Bags,COD
+B-26679,493,89,6,Home Decor,Curtains,EMI
+B-26680,179,31,3,Food,Produce,COD
+B-26681,735,140,8,Office Supplies,Note Pads,EMI
+B-26682,347,64,5,Gym,Exercise Mats,COD
+B-26683,207,35,3,Home Decor,Candles,COD
+B-26684,862,197,9,Food,Meat,EMI
+B-26685,283,49,4,Office Supplies,Binders,COD
+B-26686,576,110,6,Gym,Gym Bags,EMI
+B-26687,107,16,2,Home Decor,Throws,Credit Card
+B-26688,681,129,7,Food,Seafood,COD
+B-26689,302,57,5,Office Supplies,Scissors,COD
+B-26690,646,124,7,Gym,Exercise Bands,COD
+B-26691,313,59,4,Home Decor,Decorative Pillows,COD
+B-26692,184,31,3,Food,Canned Goods,COD
+B-26693,815,156,9,Office Supplies,Staplers,EMI
+B-26694,289,52,4,Gym,Exercise Gloves,COD
+B-26695,568,108,6,Home Decor,Planters,COD
+B-26696,126,22,2,Food,Snacks,Credit Card
+B-26697,719,137,8,Office Supplies,Desk Chairs,EMI
+B-26698,349,65,5,Gym,Water Bottles,COD
+B-26699,218,36,3,Home Decor,Wall Decor,COD
+B-26700,604,116,6,Food,Beverages,EMI
+B-26701,119,19,2,Office Supplies,Glue Sticks,Credit Card
+B-26702,679,131,7,Gym,Jump Ropes,COD
+B-26703,336,61,5,Home Decor,Frames,COD
+B-26704,197,33,3,Food,Desserts,COD
+B-26705,814,156,9,Office Supplies,Desk Lamps,EMI
+B-26706,289,52,4,Gym,Exercise Mats,COD
+B-26707,568,108,6,Home Decor,Shelves,COD
+B-26708,126,22,2,Food,Organic Foods,Credit Card
+B-26709,721,137,8,Office Supplies,Tape,EMI
+B-26710,347,64,5,Gym,Hand Grips,COD
+B-26711,184,31,3,Home Decor,Artificial Plants,COD
+B-26712,853,195,9,Food,Bakery,EMI
+B-26713,232,41,4,Office Supplies,Printer Paper,COD
+B-26714,478,86,6,Gym,Exercise Balls,EMI
+B-26715,173,29,3,Home Decor,Curtains,COD
+B-26716,145,25,2,Food,Nuts,Credit Card
+B-26717,798,152,8,Office Supplies,Desk Chairs,EMI
+B-26718,339,62,5,Gym,Exercise Gloves,COD
+B-26719,196,33,3,Home Decor,Decorative Pillows,COD
+B-26720,615,117,7,Food,Seafood,EMI
+B-26721,102,18,2,Office Supplies,Markers,Credit Card
+B-26722,693,134,7,Gym,Resistance Bands,COD
+B-26723,361,68,5,Home Decor,Candles,COD
+B-26724,212,37,4,Food,Beverages,COD
+B-26725,849,194,9,Office Supplies,File Folders,EMI
+B-26726,246,44,4,Gym,Exercise Bikes,COD
+B-26727,569,110,6,Home Decor,Lamps,COD
+B-26728,129,22,2,Food,Snacks,Credit Card
+B-26729,781,149,8,Office Supplies,Pens,EMI
+B-26730,331,60,5,Gym,Yoga Mats,COD
+B-26731,199,34,3,Home Decor,Wall Art,COD
+B-26732,664,127,7,Food,Dairy Products,EMI
+B-26733,128,22,2,Office Supplies,Binders,Credit Card
+B-26734,732,139,8,Gym,Weights,EMI
+B-26735,356,66,5,Home Decor,Planters,COD
+B-26736,192,33,3,Food,Condiments,COD
+B-26737,875,200,9,Office Supplies,Desk Organizers,EMI
+B-26738,235,42,4,Gym,Gym Bags,COD
+B-26739,493,89,6,Home Decor,Curtains,EMI
+B-26740,179,31,3,Food,Produce,COD
+B-26741,735,140,8,Office Supplies,Note Pads,EMI
+B-26742,347,64,5,Gym,Exercise Mats,COD
+B-26743,207,35,3,Home Decor,Candles,COD
+B-26744,862,197,9,Food,Meat,EMI
+B-26745,283,49,4,Office Supplies,Binders,COD
+B-26746,576,110,6,Gym,Gym Bags,EMI
+B-26747,107,16,2,Home Decor,Throws,Credit Card
+B-26748,681,129,7,Food,Seafood,COD
+B-26749,302,57,5,Office Supplies,Scissors,COD
+B-26750,646,124,7,Gym,Exercise Bands,COD
+B-26751,313,59,4,Home Decor,Decorative Pillows,COD
+B-26752,184,31,3,Food,Canned Goods,COD
+B-26753,815,156,9,Office Supplies,Staplers,EMI
+B-26754,289,52,4,Gym,Exercise Gloves,COD
+B-26755,568,108,6,Home Decor,Planters,COD
+B-26756,126,22,2,Food,Snacks,Credit Card
+B-26757,719,137,8,Office Supplies,Desk Chairs,EMI
+B-26758,349,65,5,Gym,Water Bottles,COD
+B-26759,218,36,3,Home Decor,Wall Decor,COD
+B-26760,604,116,6,Food,Beverages,EMI
+B-26761,119,19,2,Office Supplies,Glue Sticks,Credit Card
+B-26762,679,131,7,Gym,Jump Ropes,COD
+B-26763,336,61,5,Home Decor,Frames,COD
+B-26764,197,33,3,Food,Desserts,COD
+B-26765,814,156,9,Office Supplies,Desk Lamps,EMI
+B-26766,289,52,4,Gym,Exercise Mats,COD
+B-26767,568,108,6,Home Decor,Shelves,COD
+B-26768,126,22,2,Food,Organic Foods,Credit Card
+B-26769,721,137,8,Office Supplies,Tape,EMI
+B-26770,347,64,5,Gym,Hand Grips,COD
+B-26771,184,31,3,Home Decor,Artificial Plants,COD
+B-26772,853,195,9,Food,Bakery,EMI
+B-26773,232,41,4,Office Supplies,Printer Paper,COD
+B-26774,478,86,6,Gym,Exercise Balls,EMI
+B-26775,173,29,3,Home Decor,Curtains,COD
+B-26776,145,25,2,Food,Nuts,Credit Card
+B-26777,798,152,8,Office Supplies,Desk Chairs,EMI
+B-26778,339,62,5,Gym,Exercise Gloves,COD
+B-26779,196,33,3,Home Decor,Decorative Pillows,COD
+B-26780,615,117,7,Food,Seafood,EMI
+B-26781,102,18,2,Office Supplies,Markers,Credit Card
+B-26782,693,134,7,Gym,Resistance Bands,COD
+B-26783,361,68,5,Home Decor,Candles,COD
+B-26784,212,37,4,Food,Beverages,COD
+B-26785,849,194,9,Office Supplies,File Folders,EMI
+B-26786,246,44,4,Gym,Exercise Bikes,COD
+B-26787,569,110,6,Home Decor,Lamps,COD
+B-26788,129,22,2,Food,Snacks,Credit Card
+B-26789,781,149,8,Office Supplies,Pens,EMI
+B-26790,331,60,5,Gym,Yoga Mats,COD
+B-26791,199,34,3,Home Decor,Wall Art,COD
+B-26792,664,127,7,Food,Dairy Products,EMI
+B-26793,128,22,2,Office Supplies,Binders,Credit Card
+B-26794,732,139,8,Gym,Weights,EMI
+B-26795,356,66,5,Home Decor,Planters,COD
+B-26796,192,33,3,Food,Condiments,COD
+B-26797,875,200,9,Office Supplies,Desk Organizers,EMI
+B-26798,235,42,4,Gym,Gym Bags,COD
+B-26799,493,89,6,Home Decor,Curtains,EMI
+B-26800,179,31,3,Food,Produce,COD
+B-26801,735,140,8,Office Supplies,Note Pads,EMI
+B-26802,347,64,5,Gym,Exercise Mats,COD
+B-26803,207,35,3,Home Decor,Candles,COD
+B-26804,862,197,9,Food,Meat,EMI
+B-26805,283,49,4,Office Supplies,Binders,COD
+B-26806,576,110,6,Gym,Gym Bags,EMI
+B-26807,107,16,2,Home Decor,Throws,Credit Card
+B-26808,681,129,7,Food,Seafood,COD
+B-26809,302,57,5,Office Supplies,Scissors,COD
+B-26810,646,124,7,Gym,Exercise Bands,COD
+B-26811,313,59,4,Home Decor,Decorative Pillows,COD
+B-26812,184,31,3,Food,Canned Goods,COD
+B-26813,815,156,9,Office Supplies,Staplers,EMI
+B-26814,289,52,4,Gym,Exercise Gloves,COD
+B-26815,568,108,6,Home Decor,Planters,COD
+B-26816,126,22,2,Food,Snacks,Credit Card
+B-26817,719,137,8,Office Supplies,Desk Chairs,EMI
+B-26818,349,65,5,Gym,Water Bottles,COD
+B-26819,218,36,3,Home Decor,Wall Decor,COD
+B-26820,604,116,6,Food,Beverages,EMI
+B-26821,119,19,2,Office Supplies,Glue Sticks,Credit Card
+B-26822,679,131,7,Gym,Jump Ropes,COD
+B-26823,336,61,5,Home Decor,Frames,COD
+B-26824,197,33,3,Food,Desserts,COD
+B-26825,814,156,9,Office Supplies,Desk Lamps,EMI
+B-26826,289,52,4,Gym,Exercise Mats,COD
+B-26827,568,108,6,Home Decor,Shelves,COD
+B-26828,126,22,2,Food,Organic Foods,Credit Card
+B-26829,721,137,8,Office Supplies,Tape,EMI
+B-26830,347,64,5,Gym,Hand Grips,COD
+B-26831,184,31,3,Home Decor,Artificial Plants,COD
+B-26832,853,195,9,Food,Bakery,EMI
+B-26833,232,41,4,Office Supplies,Printer Paper,COD
+B-26834,478,86,6,Gym,Exercise Balls,EMI
+B-26835,173,29,3,Home Decor,Curtains,COD
+B-26836,145,25,2,Food,Nuts,Credit Card
+B-26837,798,152,8,Office Supplies,Desk Chairs,EMI
+B-26838,339,62,5,Gym,Exercise Gloves,COD
+B-26839,196,33,3,Home Decor,Decorative Pillows,COD
+B-26840,615,117,7,Food,Seafood,EMI
+B-26841,102,18,2,Office Supplies,Markers,Credit Card
+B-26842,693,134,7,Gym,Resistance Bands,COD
+B-26843,361,68,5,Home Decor,Candles,COD
+B-26844,212,37,4,Food,Beverages,COD
+B-26845,849,194,9,Office Supplies,File Folders,EMI
+B-26846,246,44,4,Gym,Exercise Bikes,COD
+B-26847,569,110,6,Home Decor,Lamps,COD
+B-26848,129,22,2,Food,Snacks,Credit Card
+B-26849,781,149,8,Office Supplies,Pens,EMI
+B-26850,331,60,5,Gym,Yoga Mats,COD
+B-26851,199,34,3,Home Decor,Wall Art,COD
+B-26852,664,127,7,Food,Dairy Products,EMI
+B-26853,128,22,2,Office Supplies,Binders,Credit Card
+B-26854,732,139,8,Gym,Weights,EMI
+B-26855,356,66,5,Home Decor,Planters,COD
+B-26856,192,33,3,Food,Condiments,COD
+B-26857,875,200,9,Office Supplies,Desk Organizers,EMI
+B-26858,235,42,4,Gym,Gym Bags,COD
+B-26859,493,89,6,Home Decor,Curtains,EMI
+B-26860,179,31,3,Food,Produce,COD
+B-26861,735,140,8,Office Supplies,Note Pads,EMI
+B-26862,347,64,5,Gym,Exercise Mats,COD
+B-26863,207,35,3,Home Decor,Candles,COD
+B-26864,862,197,9,Food,Meat,EMI
+B-26865,283,49,4,Office Supplies,Binders,COD
+B-26866,576,110,6,Gym,Gym Bags,EMI
+B-26867,107,16,2,Home Decor,Throws,Credit Card
+B-26868,681,129,7,Food,Seafood,COD
+B-26869,302,57,5,Office Supplies,Scissors,COD
+B-26870,646,124,7,Gym,Exercise Bands,COD
+B-26871,313,59,4,Home Decor,Decorative Pillows,COD
+B-26872,184,31,3,Food,Canned Goods,COD
+B-26873,815,156,9,Office Supplies,Staplers,EMI
+B-26874,289,52,4,Gym,Exercise Gloves,COD
+B-26875,568,108,6,Home Decor,Planters,COD
+B-26876,126,22,2,Food,Snacks,Credit Card
+B-26877,719,137,8,Office Supplies,Desk Chairs,EMI
+B-26878,349,65,5,Gym,Water Bottles,COD
+B-26879,218,36,3,Home Decor,Wall Decor,COD
+B-26880,604,116,6,Food,Beverages,EMI
+B-26881,119,19,2,Office Supplies,Glue Sticks,Credit Card
+B-26882,679,131,7,Gym,Jump Ropes,COD
+B-26883,336,61,5,Home Decor,Frames,COD
+B-26884,197,33,3,Food,Desserts,COD
+B-26885,814,156,9,Office Supplies,Desk Lamps,EMI
+B-26886,289,52,4,Gym,Exercise Mats,COD
+B-26887,568,108,6,Home Decor,Shelves,COD
+B-26888,126,22,2,Food,Organic Foods,Credit Card
+B-26889,721,137,8,Office Supplies,Tape,EMI
+B-26890,347,64,5,Gym,Hand Grips,COD
+B-26891,184,31,3,Home Decor,Artificial Plants,COD
+B-26892,853,195,9,Food,Bakery,EMI
+B-26893,232,41,4,Office Supplies,Printer Paper,COD
+B-26894,478,86,6,Gym,Exercise Balls,EMI
+B-26895,173,29,3,Home Decor,Curtains,COD
+B-26896,145,25,2,Food,Nuts,Credit Card
+B-26897,798,152,8,Office Supplies,Desk Chairs,EMI
+B-26898,339,62,5,Gym,Exercise Gloves,COD
+B-26899,196,33,3,Home Decor,Decorative Pillows,COD
+B-26900,615,117,7,Food,Seafood,EMI
+B-26901,102,18,2,Office Supplies,Markers,Credit Card
+B-26902,693,134,7,Gym,Resistance Bands,COD
+B-26903,361,68,5,Home Decor,Candles,COD
+B-26904,212,37,4,Food,Beverages,COD
+B-26905,849,194,9,Office Supplies,File Folders,EMI
+B-26906,246,44,4,Gym,Exercise Bikes,COD
+B-26907,569,110,6,Home Decor,Lamps,COD
+B-26908,129,22,2,Food,Snacks,Credit Card
+B-26909,781,149,8,Office Supplies,Pens,EMI
+B-26910,331,60,5,Gym,Yoga Mats,COD
+B-26911,199,34,3,Home Decor,Wall Art,COD
+B-26912,664,127,7,Food,Dairy Products,EMI
+B-26913,128,22,2,Office Supplies,Binders,Credit Card
+B-26914,732,139,8,Gym,Weights,EMI
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-26464,1905,345,5,Furniture,Tables,COD
+B-26465,1274,198,7,Food,Fruits,EMI
+B-26466,1033,305,8,Home Decor,Rugs & Carpets,Credit Card
+B-26467,2955,1173,6,Gym,Dumbbells,COD
+B-26468,1982,384,9,Furniture,Sofas,EMI
+B-26469,1475,624,3,Electronics,Headphones,Credit Card
+B-26470,333,78,5,Food,Snacks,UPI
+B-26471,1798,628,7,Home Decor,Lamps,COD
+B-26472,1266,301,8,Gym,Yoga Mats,Credit Card
+B-26473,2115,843,4,Furniture,Beds,EMI
+B-26474,680,219,9,Electronics,Smartwatches,COD
+B-26475,1240,602,7,Home Decor,Wall Art,Credit Card
+B-26476,945,267,6,Gym,Exercise Bikes,UPI
+B-26477,1133,396,5,Furniture,Office Chairs,COD
+B-26478,515,203,4,Food,Dairy Products,Credit Card
+B-26479,2974,1134,8,Home Decor,Decorative Pillows,EMI
+B-26480,173,62,5,Gym,Resistance Bands,UPI
+B-26481,1892,735,9,Furniture,Dining Tables,COD
+B-26482,2609,1084,6,Electronics,Tablets,Credit Card
+B-26483,752,192,7,Home Decor,Curtains,EMI
+B-26484,394,98,4,Gym,Weight Plates,COD
+B-26485,880,416,5,Furniture,TV Stands,Credit Card
+B-26486,1277,421,6,Food,Canned Goods,EMI
+B-26487,615,253,7,Home Decor,Candles,COD
+B-26488,1123,307,8,Gym,Treadmills,Credit Card
+B-26489,1589,695,9,Furniture,Desks,EMI
+B-26490,416,107,4,Electronics,Earphones,COD
+B-26491,900,322,5,Home Decor,Throws & Blankets,Credit Card
+B-26492,1305,519,6,Gym,Exercise Balls,EMI
+B-26493,704,234,7,Furniture,Outdoor Furniture,COD
+B-26494,219,57,8,Food,Bakery Items,Credit Card
+B-26495,1360,478,9,Home Decor,Planters,EMI
+B-26496,543,132,4,Gym,Fitness Trackers,COD
+B-26497,1078,409,5,Furniture,Storage Cabinets,Credit Card
+B-26498,950,374,6,Electronics,Security Cameras,EMI
+B-26499,371,105,7,Home Decor,Picture Frames,COD
+B-26500,1722,597,8,Gym,Rowing Machines,Credit Card
+B-26501,1044,324,9,Furniture,Recliners,EMI
+B-26502,289,89,4,Electronics,USB Drives,COD
+B-26503,725,236,5,Home Decor,Wall Clocks,Credit Card
+B-26504,1385,571,6,Gym,Home Gyms,EMI
+B-26505,835,272,7,Food,Seafood,COD
+B-26506,1932,814,8,Home Decor,Mirrors,Credit Card
+B-26507,1120,419,9,Gym,Cardio Machines,EMI
+B-26508,405,126,4,Furniture,Bean Bags,COD
+B-26509,710,205,5,Electronics,Bluetooth Speakers,Credit Card
+B-26510,1323,467,6,Home Decor,Vases,EMI
+B-26511,882,301,7,Gym,Exercise Benches,COD
+B-26512,1714,616,8,Furniture,Shoe Racks,Credit Card
+B-26513,960,387,9,Electronics,External Hard Drives,EMI
+B-26514,348,104,4,Home Decor,Coasters,COD
+B-26515,615,176,5,Gym,Gym Bags,Credit Card
+B-26516,1196,471,6,Furniture,Accent Chairs,EMI
+B-26517,782,287,7,Electronics,Portable Chargers,COD
+B-26518,1357,506,8,Home Decor,Throw Pillows,Credit Card
+B-26519,1025,418,9,Gym,Weight Benches,EMI
+B-26520,260,67,4,Furniture,Folding Chairs,COD
+B-26521,640,199,5,Electronics,Smart Home Devices,Credit Card
+B-26522,1210,469,6,Home Decor,Area Rugs,EMI
+B-26523,975,345,7,Gym,Exercise Mats,COD
+B-26524,1675,724,8,Furniture,Coffee Tables,Credit Card
+B-26525,850,282,9,Electronics,VR Headsets,EMI
+B-26526,392,115,4,Home Decor,Desk Lamps,COD
+B-26527,695,209,5,Gym,Jump Ropes,Credit Card
+B-26528,1335,497,6,Furniture,Console Tables,EMI
+B-26529,720,263,7,Electronics,Power Banks,COD
+B-26530,1425,532,8,Home Decor,Wall Shelves,Credit Card
+B-26531,1090,414,9,Gym,Exercise Bands,EMI
+B-26532,295,92,4,Furniture,Bar Stools,COD
+B-26533,665,218,5,Electronics,Wireless Chargers,Credit Card
+B-26534,1253,493,6,Home Decor,Bookends,EMI
+B-26535,910,336,7,Gym,Hand Grips,COD
+B-26536,1580,621,8,Furniture,Patio Furniture,Credit Card
+B-26537,1050,402,9,Electronics,Drones,EMI
+B-26538,312,88,4,Home Decor,Artificial Plants,COD
+B-26539,725,228,5,Gym,Resistance Bands,Credit Card
+B-26540,1420,547,6,Furniture,Computer Desks,EMI
+B-26541,840,294,7,Electronics,Action Cameras,COD
+B-26542,1295,452,8,Home Decor,Table Lamps,Credit Card
+B-26543,990,385,9,Gym,Exercise Equipment,EMI
+B-26544,275,81,4,Furniture,Side Tables,COD
+B-26545,680,201,5,Electronics,Smart Speakers,Credit Card
+B-26546,1340,536,6,Home Decor,Coffee Mugs,EMI
+B-26547,805,271,7,Gym,Stationary Bikes,COD
+B-26548,1630,702,8,Furniture,Outdoor Dining Sets,Credit Card
+B-26549,1080,429,9,Electronics,Webcams,EMI
+B-26550,331,96,4,Home Decor,Wall Decals,COD
+B-26551,700,208,5,Gym,Fitness Watches,Credit Card
+B-26552,1385,527,6,Furniture,File Cabinets,EMI
+B-26553,880,311,7,Electronics,Soundbars,COD
+B-26554,1270,476,8,Home Decor,Throw Blankets,Credit Card
+B-26555,995,362,9,Gym,Home Exercise Equipment,EMI
+B-26556,298,83,4,Furniture,Plant Stands,COD
+B-26557,635,189,5,Electronics,Computer Monitors,Credit Card
+B-26558,1245,497,6,Home Decor,Decorative Bowls,EMI
+B-26559,820,301,7,Gym,Gym Gloves,COD
+B-26560,1550,628,8,Furniture,Bar Carts,Credit Card
+B-26561,1040,415,9,Electronics,Wireless Earbuds,EMI
+B-26562,310,97,4,Home Decor,Accent Tables,COD
+B-26563,685,204,5,Gym,Exercise Gloves,Credit Card
+B-26564,1355,518,6,Furniture,Living Room Sets,EMI
+B-26565,865,287,7,Electronics,Portable Speakers,COD
+B-26566,1390,495,8,Home Decor,Wall Mirrors,Credit Card
+B-26567,1010,397,9,Gym,Exercise Mats,EMI
+B-26568,321,95,4,Furniture,Chaise Lounges,COD
+B-26569,690,223,5,Electronics,Bluetooth Headphones,Credit Card
+B-26570,1285,463,6,Home Decor,Coat Racks,EMI
+B-26571,880,318,7,Gym,Resistance Bands,COD
+B-26572,1520,612,8,Furniture,Buffet Tables,Credit Card
+B-26573,1020,405,9,Electronics,Gaming Keyboards,EMI
+B-26574,308,86,4,Home Decor,Wall Sconces,COD
+B-26575,660,202,5,Gym,Jump Ropes,Credit Card
+B-26576,1265,488,6,Furniture,Entryway Benches,EMI
+B-26577,805,287,7,Electronics,Tablet Stands,COD
+B-26578,1295,512,8,Home Decor,Desk Organizers,Credit Card
+B-26579,980,379,9,Gym,Weight Plates,EMI
+B-26580,296,84,4,Furniture,Accent Cabinets,COD
+B-26581,645,195,5,Electronics,Smart Plugs,Credit Card
+B-26582,1240,503,6,Home Decor,Barware,EMI
+B-26583,830,292,7,Gym,Exercise Bands,COD
+B-26584,1565,617,8,Furniture,Counter Stools,Credit Card
+B-26585,1085,430,9,Electronics,Bluetooth Earbuds,EMI
+B-26586,333,98,4,Home Decor,Wall Hooks,COD
+B-26587,675,213,5,Gym,Gym Bags,Credit Card
+B-26588,1350,526,6,Furniture,Daybeds,EMI
+B-26589,855,308,7,Electronics,External SSDs,COD
+B-26590,1385,495,8,Home Decor,Throw Pillows,Credit Card
+B-26591,1000,392,9,Gym,Yoga Mats,EMI
+B-26592,313,88,4,Furniture,End Tables,COD
+B-26593,655,198,5,Electronics,Streaming Devices,Credit Card
+B-26594,1270,482,6,Home Decor,Desk Lamps,EMI
+B-26595,810,294,7,Gym,Exercise Mats,COD
+B-26596,1560,615,8,Furniture,Sectional Sofas,Credit Card
+B-26597,1060,425,9,Electronics,Computer Mice,EMI
+B-26598,320,92,4,Home Decor,Throw Blankets,COD
+B-26599,690,211,5,Gym,Resistance Bands,Credit Card
+B-26600,1340,518,6,Furniture,Coffee Tables,EMI
+B-26601,840,289,7,Electronics,Smart Home Devices,COD
+B-26602,1295,458,8,Home Decor,Table Lamps,Credit Card
+B-26603,985,381,9,Gym,Exercise Equipment,EMI
+B-26604,270,79,4,Furniture,Side Tables,COD
+B-26605,670,203,5,Electronics,Smart Speakers,Credit Card
+B-26606,1335,537,6,Home Decor,Coffee Mugs,EMI
+B-26607,800,273,7,Gym,Stationary Bikes,COD
+B-26608,1610,697,8,Furniture,Outdoor Dining Sets,Credit Card
+B-26609,1070,425,9,Electronics,Webcams,EMI
+B-26610,327,94,4,Home Decor,Wall Decals,COD
+B-26611,685,210,5,Gym,Fitness Watches,Credit Card
+B-26612,1375,528,6,Furniture,File Cabinets,EMI
+B-26613,870,316,7,Electronics,Soundbars,COD
+B-26614,1265,483,8,Home Decor,Throw Blankets,Credit Card
+B-26615,1005,368,9,Gym,Home Exercise Equipment,EMI
+B-26616,303,87,4,Furniture,Plant Stands,COD
+B-26617,630,188,5,Electronics,Computer Monitors,Credit Card
+B-26618,1225,489,6,Home Decor,Decorative Bowls,EMI
+B-26619,810,299,7,Gym,Gym Gloves,COD
+B-26620,1530,622,8,Furniture,Bar Carts,Credit Card
+B-26621,1030,412,9,Electronics,Wireless Earbuds,EMI
+B-26622,315,93,4,Home Decor,Accent Tables,COD
+B-26623,690,205,5,Gym,Exercise Gloves,Credit Card
+B-26624,1365,517,6,Furniture,Living Room Sets,EMI
+B-26625,855,283,7,Electronics,Portable Speakers,COD
+B-26626,1380,492,8,Home Decor,Wall Mirrors,Credit Card
+B-26627,1015,396,9,Gym,Exercise Mats,EMI
+B-26628,325,93,4,Furniture,Chaise Lounges,COD
+B-26629,670,219,5,Electronics,Bluetooth Headphones,Credit Card
+B-26630,1275,475,6,Home Decor,Coffee Mugs,EMI
+B-26631,815,290,7,Gym,Jump Ropes,COD
+B-26632,1585,620,8,Furniture,Console Tables,Credit Card
+B-26633,1085,429,9,Electronics,Portable Chargers,EMI
+B-26634,295,90,4,Home Decor,Desk Lamps,COD
+B-26635,615,183,5,Gym,Resistance Bands,Credit Card
+B-26636,1420,543,6,Furniture,Computer Desks,EMI
+B-26637,850,299,7,Electronics,Action Cameras,COD
+B-26638,1290,449,8,Home Decor,Table Lamps,Credit Card
+B-26639,995,386,9,Gym,Exercise Equipment,EMI
+B-26640,280,82,4,Furniture,Side Tables,COD
+B-26641,675,206,5,Electronics,Smart Speakers,Credit Card
+B-26642,1330,533,6,Home Decor,Coffee Mugs,EMI
+B-26643,795,268,7,Gym,Stationary Bikes,COD
+B-26644,1620,699,8,Furniture,Outdoor Dining Sets,Credit Card
+B-26645,1075,426,9,Electronics,Webcams,EMI
+B-26646,333,99,4,Home Decor,Wall Decals,COD
+B-26647,690,214,5,Gym,Fitness Watches,Credit Card
+B-26648,1375,531,6,Furniture,File Cabinets,EMI
+B-26649,875,312,7,Electronics,Soundbars,COD
+B-26650,1270,486,8,Home Decor,Throw Blankets,Credit Card
+B-26651,1005,371,9,Gym,Home Exercise Equipment,EMI
+B-26652,308,85,4,Furniture,Plant Stands,COD
+B-26653,635,192,5,Electronics,Computer Monitors,Credit Card
+B-26654,1240,499,6,Home Decor,Decorative Bowls,EMI
+B-26655,825,298,7,Gym,Gym Gloves,COD
+B-26656,1550,625,8,Furniture,Bar Carts,Credit Card
+B-26657,1040,417,9,Electronics,Wireless Earbuds,EMI
+B-26658,312,91,4,Home Decor,Accent Tables,COD
+B-26659,690,207,5,Gym,Exercise Gloves,Credit Card
+B-26660,1365,520,6,Furniture,Living Room Sets,EMI
+B-26661,865,285,7,Electronics,Portable Speakers,COD
+B-26662,1390,498,8,Home Decor,Wall Mirrors,Credit Card
+B-26663,1010,399,9,Gym,Exercise Mats,EMI
+B-26664,323,92,4,Furniture,Chaise Lounges,COD
+B-26665,660,215,5,Electronics,Bluetooth Headphones,Credit Card
+B-26666,1275,480,6,Home Decor,Coffee Mugs,EMI
+B-26667,810,288,7,Gym,Jump Ropes,COD
+B-26668,1565,623,8,Furniture,Console Tables,Credit Card
+B-26669,1085,434,9,Electronics,Portable Chargers,EMI
+B-26670,300,89,4,Home Decor,Desk Lamps,COD
+B-26671,620,185,5,Gym,Resistance Bands,Credit Card
+B-26672,1440,550,6,Furniture,Computer Desks,EMI
+B-26673,870,306,7,Electronics,Action Cameras,COD
+B-26674,1250,466,8,Home Decor,Table Lamps,Credit Card
+B-26675,1005,389,9,Gym,Exercise Equipment,EMI
+B-26676,283,81,4,Furniture,Side Tables,COD
+B-26677,650,205,5,Electronics,Smart Speakers,Credit Card
+B-26678,1320,526,6,Home Decor,Coffee Mugs,EMI
+B-26679,815,295,7,Gym,Stationary Bikes,COD
+B-26680,1610,695,8,Furniture,Outdoor Dining Sets,Credit Card
+B-26681,1070,430,9,Electronics,Webcams,EMI
+B-26682,330,96,4,Home Decor,Wall Decals,COD
+B-26683,680,208,5,Gym,Fitness Watches,Credit Card
+B-26684,1385,532,6,Furniture,File Cabinets,EMI
+B-26685,880,315,7,Electronics,Soundbars,COD
+B-26686,1265,485,8,Home Decor,Throw Blankets,Credit Card
+B-26687,1005,370,9,Gym,Home Exercise Equipment,EMI
+B-26688,310,87,4,Furniture,Plant Stands,COD
+B-26689,635,190,5,Electronics,Computer Monitors,Credit Card
+B-26690,1240,497,6,Home Decor,Decorative Bowls,EMI
+B-26691,820,300,7,Gym,Gym Gloves,COD
+B-26692,1550,628,8,Furniture,Bar Carts,Credit Card
+B-26693,1040,415,9,Electronics,Wireless Earbuds,EMI
+B-26694,315,90,4,Home Decor,Accent Tables,COD
+B-26695,690,208,5,Gym,Exercise Gloves,Credit Card
+B-26696,1365,518,6,Furniture,Living Room Sets,EMI
+B-26697,865,284,7,Electronics,Portable Speakers,COD
+B-26698,1390,497,8,Home Decor,Wall Mirrors,Credit Card
+B-26699,1010,398,9,Gym,Exercise Mats,EMI
+B-26700,323,91,4,Furniture,Chaise Lounges,COD
+B-26701,660,214,5,Electronics,Bluetooth Headphones,Credit Card
+B-26702,1275,479,6,Home Decor,Coffee Mugs,EMI
+B-26703,810,287,7,Gym,Jump Ropes,COD
+B-26704,1565,622,8,Furniture,Console Tables,Credit Card
+B-26705,1085,433,9,Electronics,Portable Chargers,EMI
+B-26706,300,88,4,Home Decor,Desk Lamps,COD
+B-26707,620,186,5,Gym,Resistance Bands,Credit Card
+B-26708,1440,549,6,Furniture,Computer Desks,EMI
+B-26709,870,305,7,Electronics,Action Cameras,COD
+B-26710,1250,465,8,Home Decor,Table Lamps,Credit Card
+B-26711,1005,388,9,Gym,Exercise Equipment,EMI
+B-26712,283,80,4,Furniture,Side Tables,COD
+B-26713,650,204,5,Electronics,Smart Speakers,Credit Card
+B-26714,1320,525,6,Home Decor,Coffee Mugs,EMI
+B-26715,815,294,7,Gym,Stationary Bikes,COD
+B-26716,1610,694,8,Furniture,Outdoor Dining Sets,Credit Card
+B-26717,1070,429,9,Electronics,Webcams,EMI
+B-26718,330,95,4,Home Decor,Wall Decals,COD
+B-26719,680,207,5,Gym,Fitness Watches,Credit Card
+B-26720,1385,531,6,Furniture,File Cabinets,EMI
+B-26721,880,314,7,Electronics,Soundbars,COD
+B-26722,1265,484,8,Home Decor,Throw Blankets,Credit Card
+B-26723,1005,369,9,Gym,Home Exercise Equipment,EMI
+B-26724,310,86,4,Furniture,Plant Stands,COD
+B-26725,635,189,5,Electronics,Computer Monitors,Credit Card
+B-26726,1240,496,6,Home Decor,Decorative Bowls,EMI
+B-26727,820,299,7,Gym,Gym Gloves,COD
+B-26728,1550,627,8,Furniture,Bar Carts,Credit Card
+B-26729,1040,414,9,Electronics,Wireless Earbuds,EMI
+B-26730,315,89,4,Home Decor,Accent Tables,COD
+B-26731,690,207,5,Gym,Exercise Gloves,Credit Card
+B-26732,1365,517,6,Furniture,Living Room Sets,EMI
+B-26733,865,283,7,Electronics,Portable Speakers,COD
+B-26734,1390,496,8,Home Decor,Wall Mirrors,Credit Card
+B-26735,1010,397,9,Gym,Exercise Mats,EMI
+B-26736,323,90,4,Furniture,Chaise Lounges,COD
+B-26737,660,213,5,Electronics,Bluetooth Headphones,Credit Card
+B-26738,1275,478,6,Home Decor,Coffee Mugs,EMI
+B-26739,810,286,7,Gym,Jump Ropes,COD
+B-26740,1565,621,8,Furniture,Console Tables,Credit Card
+B-26741,1085,432,9,Electronics,Portable Chargers,EMI
+B-26742,300,87,4,Home Decor,Desk Lamps,COD
+B-26743,620,185,5,Gym,Resistance Bands,Credit Card
+B-26744,1440,548,6,Furniture,Computer Desks,EMI
+B-26745,870,304,7,Electronics,Action Cameras,COD
+B-26746,1250,464,8,Home Decor,Table Lamps,Credit Card
+B-26747,1005,387,9,Gym,Exercise Equipment,EMI
+B-26748,283,79,4,Furniture,Side Tables,COD
+B-26749,650,203,5,Electronics,Smart Speakers,Credit Card
+B-26750,1320,524,6,Home Decor,Coffee Mugs,EMI
+B-26751,815,293,7,Gym,Stationary Bikes,COD
+B-26752,1610,693,8,Furniture,Outdoor Dining Sets,Credit Card
+B-26753,1070,428,9,Electronics,Webcams,EMI
+B-26754,330,94,4,Home Decor,Wall Decals,COD
+B-26755,680,206,5,Gym,Fitness Watches,Credit Card
+B-26756,1385,530,6,Furniture,File Cabinets,EMI
+B-26757,880,313,7,Electronics,Soundbars,COD
+B-26758,1265,482,8,Home Decor,Throw Blankets,Credit Card
+B-26759,1005,368,9,Gym,Home Exercise Equipment,EMI
+B-26760,310,85,4,Furniture,Plant Stands,COD
+B-26761,635,188,5,Electronics,Computer Monitors,Credit Card
+B-26762,1240,495,6,Home Decor,Decorative Bowls,EMI
+B-26763,820,298,7,Gym,Gym Gloves,COD
+B-26764,1550,626,8,Furniture,Bar Carts,Credit Card
+B-26765,1040,413,9,Electronics,Wireless Earbuds,EMI
+B-26766,315,88,4,Home Decor,Accent Tables,COD
+B-26767,690,206,5,Gym,Exercise Gloves,Credit Card
+B-26768,1365,516,6,Furniture,Living Room Sets,EMI
+B-26769,865,282,7,Electronics,Portable Speakers,COD
+B-26770,1390,495,8,Home Decor,Wall Mirrors,Credit Card
+B-26771,1010,396,9,Gym,Exercise Mats,EMI
+B-26772,323,89,4,Furniture,Chaise Lounges,COD
