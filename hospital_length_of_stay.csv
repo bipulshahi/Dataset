@@ -1,0 +1,1501 @@
+Patient_ID,Age,Gender,Admission_Type,Comorbidity_Score,Blood_Pressure,Heart_Rate,Previous_Admissions,BMI,Length_of_Stay
+P1963,27.0,Male,Urgent,3.5,169 mmHg,71,2,24.8 kg/m2,5.5
+P1960,85.0,Other,Emergency,5.5,169 mmHg,102,0,26.0 kg/m2,3.8
+P1491,0.0,Female,Elective,3.5,172 mmHg,96,5,19.3 kg/m2,6.1
+P1063,43.0,Male,Elective,3.7,106 mmHg,89,2,30.0 kg/m2,6.6
+P1199,26.0,Other,Emergency,3.6,131 mmHg,141,1,31.5 kg/m2,8.5
+P1402,1.0,Female,Elective,6.6,172 mmHg,113,5,17.7 kg/m2,7.4
+P2279,37.0,Other,Elective,2.9,172 mmHg,111,6,22.5 kg/m2,7.6
+P1384,31.0,Other,Emergency,3.6,140 mmHg,140,3,25.9 kg/m2,5.1
+P2231,59.0,Female,Elective,5.7,134 mmHg,128,6,21.9 kg/m2,8.6
+P1019,37.0,Other,Elective,3.4,171 mmHg,68,3,29.5 kg/m2,8.1
+P1081,43.0,Male,Emergency,2.7,161 mmHg,125,3,21.1 kg/m2,11.3
+P1382,62.0,Other,Elective,,140 mmHg,82,7,26.9 kg/m2,14.0
+P1397,46.0,Male,Emergency,3.1,134 mmHg,77,9,30.2 kg/m2,10.3
+P1420,56.0,Female,New Born,1.6,172 mmHg,75,0,25.5 kg/m2,3.7
+P1767,62.0,Other,Emergency,4.9,169 mmHg,115,0,27.3 kg/m2,5.6
+P2432,29.0,Other,New Born,1.1,161 mmHg,69,1,27.1 kg/m2,8.8
+P1723,20.0,Other,Elective,2.5,172 mmHg,96,9,28.2 kg/m2,6.8
+P2100,93.0,Other,Emergency,0.5,171 mmHg,105,1,26.3 kg/m2,10.7
+P2216,73.0,Female,Emergency,3.7,140 mmHg,79,0,30.5 kg/m2,7.8
+P1922,4.0,Female,Urgent,0.7,106 mmHg,89,6,27.7 kg/m2,2.7
+P1807,20.0,Female,Emergency,,134 mmHg,79,9,33.1 kg/m2,53.0
+P2167,63.0,Female,Elective,3.0,140 mmHg,90,5,27.7 kg/m2,6.0
+P2396,6.0,Other,New Born,2.9,140 mmHg,98,5,28.6 kg/m2,3.5
+P1163,93.0,Female,Elective,7.7,131 mmHg,129,8,27.8 kg/m2,7.1
+P1600,61.0,Male,New Born,3.1,169 mmHg,87,8,17.2 kg/m2,9.7
+P1268,70.0,Male,Elective,4.2,140 mmHg,135,6,11.5 kg/m2,7.0
+P2378,7.0,Male,Urgent,3.8,140 mmHg,95,9,24.8 kg/m2,4.6
+P2496,10.0,Male,New Born,2.8,171 mmHg,127,8,30.5 kg/m2,6.1
+P1687,60.0,Male,Urgent,2.5,134 mmHg,86,3,22.4 kg/m2,6.2
+P1657,8.0,Male,New Born,3.5,134 mmHg,133,3,21.4 kg/m2,10.2
+P2146,96.0,Female,Urgent,2.1,169 mmHg,149,1,32.5 kg/m2,5.4
+P1831,3.0,Other,Urgent,,140 mmHg,145,4,27.4 kg/m2,4.0
+P2368,,Male,New Born,4.8,166 mmHg,90,3,27.1 kg/m2,11.6
+P1260,58.0,Other,Urgent,2.2,106 mmHg,129,9,22.5 kg/m2,4.9
+P1898,42.0,Female,Urgent,3.9,172 mmHg,137,8,20.8 kg/m2,6.4
+P1553,50.0,Other,Emergency,5.1,172 mmHg,65,9,33.0 kg/m2,9.5
+P1448,51.0,Female,Urgent,4.9,166 mmHg,106,8,24.5 kg/m2,13.1
+P1633,98.0,Female,Urgent,2.6,166 mmHg,70,5,22.7 kg/m2,8.8
+P2190,30.0,Male,Elective,5.4,106 mmHg,74,1,19.2 kg/m2,7.0
+P1540,79.0,Male,Urgent,2.5,166 mmHg,72,0,24.6 kg/m2,9.2
+P1223,1.0,Other,Emergency,5.3,106 mmHg,105,2,21.4 kg/m2,6.1
+P2377,91.0,Other,New Born,-0.3,161 mmHg,85,2,26.0 kg/m2,9.5
+P1670,4.0,Other,Urgent,,161 mmHg,141,4,25.3 kg/m2,4.3
+P1891,87.0,Female,New Born,1.5,152 mmHg,113,3,26.2 kg/m2,11.3
+P1747,95.0,Female,New Born,3.6,166 mmHg,67,0,27.3 kg/m2,5.2
+P2243,28.0,Male,Elective,2.2,131 mmHg,125,7,37.6 kg/m2,1.8
+P1470,29.0,Female,Emergency,2.7,152 mmHg,96,4,31.3 kg/m2,2.8
+P1690,90.0,Other,Urgent,5.3,166 mmHg,99,9,20.0 kg/m2,10.0
+P1324,40.0,Male,Urgent,1.9,172 mmHg,116,1,,1.8
+P2235,67.0,Other,Elective,1.6,171 mmHg,114,1,38.3 kg/m2,11.8
+P1183,43.0,Other,New Born,4.0,152 mmHg,138,8,25.1 kg/m2,10.2
+P1668,26.0,Other,Elective,2.8,166 mmHg,81,6,27.2 kg/m2,7.3
+P1580,67.0,Female,New Born,1.4,140 mmHg,99,6,28.3 kg/m2,8.6
+P1403,89.0,Other,Urgent,3.6,171 mmHg,76,0,19.4 kg/m2,8.9
+P2189,12.0,Male,Elective,0.7,172 mmHg,134,4,30.7 kg/m2,4.3
+P1935,33.0,Female,Emergency,3.8,106 mmHg,91,4,29.9 kg/m2,8.6
+P2484,61.0,Male,Emergency,1.7,134 mmHg,79,3,24.4 kg/m2,5.1
+P1052,88.0,Female,Urgent,3.3,134 mmHg,61,1,38.4 kg/m2,4.5
+P1207,78.0,Male,Urgent,2.4,140 mmHg,60,3,,3.8
+P1970,58.0,Male,Urgent,2.5,171 mmHg,80,5,21.1 kg/m2,0.8
+P2178,26.0,Other,New Born,3.3,166 mmHg,69,1,21.0 kg/m2,6.3
+P1495,62.0,Female,New Born,4.4,106 mmHg,61,4,32.0 kg/m2,4.9
+P1381,96.0,Male,Elective,2.5,161 mmHg,76,9,23.4 kg/m2,7.2
+P1519,84.0,Female,Emergency,1.7,166 mmHg,135,0,26.6 kg/m2,6.1
+P1175,65.0,Other,Elective,2.1,166 mmHg,130,8,23.0 kg/m2,9.8
+P2200,28.0,Male,New Born,1.5,131 mmHg,147,4,23.4 kg/m2,6.4
+P1186,61.0,Other,New Born,4.0,166 mmHg,84,6,21.5 kg/m2,6.3
+P2350,54.0,Male,New Born,3.7,169 mmHg,81,2,23.9 kg/m2,2.6
+P2257,,Male,New Born,2.4,166 mmHg,101,2,20.4 kg/m2,12.1
+P1221,80.0,Male,New Born,4.7,140 mmHg,70,1,30.5 kg/m2,8.3
+P2020,69.0,Female,New Born,2.3,169 mmHg,136,7,18.8 kg/m2,2.4
+P1463,,Other,Urgent,2.7,106 mmHg,83,8,25.1 kg/m2,10.5
+P2307,80.0,Female,Urgent,2.4,131 mmHg,96,0,21.7 kg/m2,0.0
+P1204,50.0,Female,Elective,2.3,140 mmHg,70,3,19.1 kg/m2,5.4
+P1412,25.0,Female,New Born,1.7,171 mmHg,147,5,30.3 kg/m2,6.1
+P1379,98.0,Other,Urgent,7.5,169 mmHg,84,2,22.8 kg/m2,10.3
+P2478,9.0,Other,Elective,0.9,140 mmHg,105,8,,13.0
+P1676,64.0,Other,Emergency,,106 mmHg,65,2,,1.7
+P1082,33.0,Female,Emergency,2.0,134 mmHg,70,7,21.3 kg/m2,14.1
+P1011,99.0,Male,Urgent,3.3,106 mmHg,111,9,25.3 kg/m2,6.8
+P2406,59.0,Female,Emergency,1.3,172 mmHg,93,6,26.1 kg/m2,9.8
+P2284,,Female,Elective,3.4,171 mmHg,60,6,16.5 kg/m2,6.4
+P1171,70.0,Male,Elective,3.7,131 mmHg,81,0,25.4 kg/m2,4.0
+P1501,25.0,Other,New Born,2.0,140 mmHg,97,3,22.5 kg/m2,8.4
+P1366,43.0,Female,Elective,1.0,172 mmHg,149,1,24.9 kg/m2,8.8
+P2001,7.0,Other,Emergency,2.1,161 mmHg,61,0,21.1 kg/m2,7.6
+P2115,39.0,Female,Urgent,1.9,172 mmHg,87,9,28.0 kg/m2,7.8
+P1878,78.0,Male,New Born,4.8,140 mmHg,145,6,31.3 kg/m2,11.3
+P1914,26.0,Female,Emergency,2.2,134 mmHg,66,2,28.1 kg/m2,7.5
+P1782,24.0,Other,New Born,3.1,131 mmHg,115,0,29.3 kg/m2,4.2
+P1352,29.0,Female,Urgent,1.1,152 mmHg,74,2,,3.4
+P2012,55.0,Female,Emergency,1.4,169 mmHg,136,7,24.8 kg/m2,3.2
+P2290,53.0,Male,Emergency,3.8,166 mmHg,104,9,25.4 kg/m2,11.1
+P1699,57.0,Male,New Born,0.7,169 mmHg,94,0,27.5 kg/m2,6.7
+P2265,46.0,Other,Urgent,3.2,169 mmHg,135,3,30.6 kg/m2,1.0
+P1386,32.0,Male,New Born,6.1,161 mmHg,73,0,20.9 kg/m2,7.2
+P1592,98.0,Other,New Born,6.0,172 mmHg,130,4,25.2 kg/m2,6.9
+P2305,48.0,Female,Elective,1.8,152 mmHg,75,0,30.0 kg/m2,7.0
+P1681,44.0,Other,Emergency,0.9,152 mmHg,133,3,18.5 kg/m2,8.6
+P1055,8.0,Male,Emergency,3.0,172 mmHg,128,0,38.2 kg/m2,8.2
+P2205,1.0,Male,Urgent,5.4,166 mmHg,130,8,27.2 kg/m2,5.5
+P2325,61.0,Male,Emergency,3.2,166 mmHg,63,4,34.8 kg/m2,10.2
+P2337,0.0,Female,New Born,5.1,171 mmHg,142,5,25.5 kg/m2,5.8
+P1546,23.0,Other,Elective,4.1,134 mmHg,94,2,18.1 kg/m2,6.4
+P2029,,Female,Elective,3.9,166 mmHg,142,1,32.8 kg/m2,6.0
+P1873,97.0,Other,New Born,4.6,152 mmHg,141,7,20.8 kg/m2,11.9
+P1415,24.0,Male,Urgent,,166 mmHg,75,7,30.6 kg/m2,5.1
+P1515,15.0,Other,New Born,4.3,131 mmHg,133,0,18.6 kg/m2,6.9
+P1998,99.0,Male,New Born,4.3,161 mmHg,121,7,38.1 kg/m2,9.6
+P1778,5.0,Male,Elective,1.9,140 mmHg,139,4,23.1 kg/m2,11.9
+P1791,95.0,Female,Urgent,4.4,134 mmHg,136,5,10.9 kg/m2,7.5
+P2462,36.0,Female,Urgent,4.2,171 mmHg,129,9,27.9 kg/m2,7.5
+P1999,85.0,Male,Emergency,-0.2,106 mmHg,72,4,,7.9
+P1822,82.0,Female,Elective,4.8,169 mmHg,102,1,22.9 kg/m2,6.7
+P1518,47.0,Female,Urgent,1.2,134 mmHg,122,8,22.3 kg/m2,9.0
+P1066,34.0,Male,Urgent,2.5,131 mmHg,114,2,33.9 kg/m2,6.4
+P1915,92.0,Male,Elective,3.3,131 mmHg,148,5,22.1 kg/m2,5.2
+P1302,19.0,Male,New Born,2.2,171 mmHg,79,2,26.3 kg/m2,6.9
+P1383,84.0,Other,Urgent,3.7,134 mmHg,116,1,22.6 kg/m2,4.4
+P2430,80.0,Male,Emergency,3.5,169 mmHg,140,6,28.7 kg/m2,8.5
+P2125,29.0,Other,Elective,2.4,134 mmHg,123,6,24.9 kg/m2,7.7
+P1423,19.0,Male,Urgent,2.4,169 mmHg,71,4,25.4 kg/m2,11.5
+P1875,37.0,Other,New Born,-1.2,171 mmHg,67,4,28.3 kg/m2,6.1
+P1478,89.0,Female,New Born,4.1,161 mmHg,142,0,29.0 kg/m2,9.2
+P1000,51.0,Male,Elective,3.3,106 mmHg,123,3,22.4 kg/m2,5.4
+P2104,61.0,Male,Elective,3.7,134 mmHg,149,3,24.7 kg/m2,8.1
+P1801,48.0,Other,Emergency,2.7,171 mmHg,87,0,35.3 kg/m2,6.7
+P1274,0.0,Other,Urgent,3.8,140 mmHg,128,5,25.5 kg/m2,1.1
+P2334,39.0,Female,Emergency,4.5,169 mmHg,107,0,25.4 kg/m2,4.7
+P1264,66.0,Female,New Born,1.1,171 mmHg,76,0,32.0 kg/m2,6.9
+P2072,36.0,Other,New Born,4.1,131 mmHg,80,7,26.1 kg/m2,7.9
+P2256,86.0,Other,Elective,6.4,172 mmHg,98,7,23.8 kg/m2,7.2
+P1716,57.0,Female,Elective,4.8,134 mmHg,98,4,35.2 kg/m2,6.8
+P1037,61.0,Other,Urgent,3.0,171 mmHg,84,4,27.5 kg/m2,12.6
+P1997,17.0,Female,New Born,2.6,131 mmHg,90,6,19.8 kg/m2,3.8
+P1372,98.0,Other,Elective,2.8,161 mmHg,141,5,22.6 kg/m2,7.6
+P1813,94.0,Male,Emergency,5.6,131 mmHg,73,9,30.9 kg/m2,6.2
+P1505,56.0,Male,Emergency,0.9,172 mmHg,134,9,28.1 kg/m2,9.3
+P1044,2.0,Female,Elective,0.9,106 mmHg,68,2,20.7 kg/m2,7.8
+P2138,17.0,Other,Emergency,1.7,169 mmHg,65,2,31.4 kg/m2,9.1
+P1089,14.0,Male,Urgent,4.2,131 mmHg,81,3,21.4 kg/m2,11.1
+P1635,24.0,Male,Elective,2.6,169 mmHg,146,5,14.0 kg/m2,9.4
+P1520,38.0,Female,Urgent,3.9,166 mmHg,126,7,21.9 kg/m2,14.6
+P2399,32.0,Male,New Born,5.2,172 mmHg,74,1,26.4 kg/m2,6.2
+P2468,26.0,Female,Urgent,3.1,171 mmHg,60,9,22.2 kg/m2,5.9
+P1205,43.0,Male,New Born,1.7,131 mmHg,127,0,26.3 kg/m2,5.2
+P2211,42.0,Female,Urgent,3.1,106 mmHg,93,4,26.4 kg/m2,11.2
+P1680,88.0,Male,New Born,2.9,106 mmHg,61,4,23.5 kg/m2,15.7
+P1355,63.0,Female,New Born,2.6,140 mmHg,128,5,27.6 kg/m2,-0.1
+P2466,,Other,Elective,1.0,106 mmHg,75,9,28.2 kg/m2,9.8
+P1288,59.0,Male,New Born,3.8,140 mmHg,70,7,23.0 kg/m2,3.1
+P2451,,Female,Emergency,0.8,169 mmHg,84,5,23.9 kg/m2,7.1
+P1332,,Female,Emergency,3.5,134 mmHg,147,5,21.0 kg/m2,5.9
+P1141,64.0,Other,Urgent,1.5,140 mmHg,136,5,28.3 kg/m2,7.8
+P1001,92.0,Other,Urgent,3.4,166 mmHg,104,9,27.8 kg/m2,6.5
+P1342,21.0,Female,Emergency,2.2,131 mmHg,148,4,32.9 kg/m2,5.6
+P2285,90.0,Other,New Born,5.1,131 mmHg,132,5,23.4 kg/m2,8.4
+P2262,39.0,Female,Elective,3.7,140 mmHg,69,5,25.0 kg/m2,8.7
+P2157,50.0,Other,Elective,4.7,131 mmHg,135,0,23.1 kg/m2,3.6
+P1310,37.0,Female,Urgent,2.9,171 mmHg,60,6,24.7 kg/m2,2.5
+P2436,80.0,Female,New Born,,131 mmHg,118,4,18.6 kg/m2,8.0
+P1809,5.0,Female,Urgent,4.2,169 mmHg,71,1,25.8 kg/m2,5.4
+P1781,46.0,Male,Elective,2.9,166 mmHg,134,4,20.7 kg/m2,8.4
+P1535,0.0,Female,Elective,0.7,161 mmHg,145,2,22.4 kg/m2,4.9
+P1385,,Male,Urgent,3.9,169 mmHg,117,9,32.1 kg/m2,8.9
+P2282,,Female,Urgent,0.3,172 mmHg,93,5,19.8 kg/m2,3.3
+P1075,3.0,Other,Urgent,,161 mmHg,102,4,24.7 kg/m2,6.1
+P1308,71.0,Other,New Born,1.6,106 mmHg,100,3,24.0 kg/m2,12.7
+P2011,58.0,Other,Elective,2.4,106 mmHg,98,1,20.6 kg/m2,8.0
+P2379,33.0,Male,Elective,-0.7,166 mmHg,107,6,30.5 kg/m2,7.1
+P1874,51.0,Other,Emergency,0.7,131 mmHg,75,2,24.0 kg/m2,3.3
+P1493,60.0,Other,Emergency,4.6,166 mmHg,88,7,23.8 kg/m2,4.0
+P1441,62.0,Male,New Born,,140 mmHg,62,0,20.1 kg/m2,4.3
+P1516,89.0,Male,Emergency,3.3,106 mmHg,68,4,,2.2
+P1775,12.0,Female,Emergency,4.0,140 mmHg,146,6,22.9 kg/m2,4.6
+P2014,69.0,Other,New Born,1.1,161 mmHg,140,9,34.7 kg/m2,7.4
+P2394,47.0,Female,Elective,4.0,171 mmHg,141,7,11.6 kg/m2,9.7
+P2240,30.0,Other,Elective,,134 mmHg,83,6,,3.3
+P2051,74.0,Female,Urgent,2.1,131 mmHg,143,3,24.1 kg/m2,9.2
+P1890,83.0,Female,New Born,3.7,172 mmHg,139,9,42.8 kg/m2,3.4
+P1246,,Male,Urgent,4.3,140 mmHg,84,7,,8.8
+P1905,15.0,Other,Urgent,2.5,140 mmHg,90,0,22.3 kg/m2,3.0
+P1792,48.0,Other,Emergency,4.3,169 mmHg,114,1,29.5 kg/m2,8.2
+P1214,57.0,Female,New Born,2.4,171 mmHg,61,1,35.9 kg/m2,9.2
+P2042,3.0,Male,Elective,1.8,106 mmHg,132,9,31.2 kg/m2,9.6
+P2043,78.0,Male,New Born,5.0,106 mmHg,84,3,28.3 kg/m2,10.7
+P2087,39.0,Female,Urgent,2.9,172 mmHg,143,1,33.3 kg/m2,6.5
+P1474,18.0,Male,Elective,1.9,161 mmHg,131,0,19.6 kg/m2,8.6
+P1504,85.0,Other,Elective,2.4,152 mmHg,149,9,31.8 kg/m2,9.9
+P1248,69.0,Male,New Born,0.2,172 mmHg,124,2,25.9 kg/m2,11.7
+P2300,62.0,Female,Urgent,3.2,172 mmHg,142,6,31.6 kg/m2,8.8
+P1765,63.0,Other,Urgent,1.3,161 mmHg,115,0,25.2 kg/m2,9.0
+P2184,9.0,Female,Elective,3.0,131 mmHg,90,2,13.8 kg/m2,8.9
+P1461,95.0,Other,Elective,1.2,134 mmHg,95,6,17.0 kg/m2,4.6
+P1675,7.0,Male,New Born,3.6,172 mmHg,113,3,27.8 kg/m2,12.6
+P1237,69.0,Male,Urgent,3.4,171 mmHg,83,5,31.2 kg/m2,5.1
+P2384,31.0,Male,Urgent,2.7,166 mmHg,139,8,34.6 kg/m2,10.8
+P1872,62.0,Male,Elective,2.1,169 mmHg,128,9,27.5 kg/m2,-1.3
+P2236,4.0,Female,New Born,,161 mmHg,136,9,30.4 kg/m2,5.0
+P1067,77.0,Female,Urgent,3.0,161 mmHg,126,2,27.2 kg/m2,0.5
+P2464,75.0,Male,New Born,1.8,161 mmHg,125,0,27.6 kg/m2,11.0
+P1483,11.0,Female,Urgent,1.7,152 mmHg,90,3,23.7 kg/m2,8.2
+P2017,21.0,Male,Elective,3.5,169 mmHg,78,4,25.6 kg/m2,5.5
+P1820,73.0,Male,New Born,2.2,172 mmHg,72,2,25.3 kg/m2,6.8
+P1930,0.0,Other,Emergency,3.3,140 mmHg,121,8,21.1 kg/m2,2.4
+P1894,5.0,Male,Urgent,2.5,169 mmHg,123,2,21.1 kg/m2,6.3
+P1007,86.0,Other,Elective,0.5,161 mmHg,116,5,20.3 kg/m2,6.0
+P2201,46.0,Other,Urgent,4.8,172 mmHg,61,2,31.7 kg/m2,8.8
+P2082,22.0,Female,New Born,3.4,152 mmHg,140,5,30.7 kg/m2,6.7
+P1532,18.0,Other,Emergency,1.5,131 mmHg,74,9,29.6 kg/m2,3.2
+P1666,8.0,Male,Emergency,4.4,166 mmHg,142,9,27.6 kg/m2,6.7
+P1777,34.0,Male,Emergency,4.9,166 mmHg,111,7,,8.6
+P1517,89.0,Female,Elective,3.8,161 mmHg,70,8,32.8 kg/m2,3.2
+P1488,95.0,Female,New Born,3.4,172 mmHg,74,5,32.5 kg/m2,7.5
+P1191,96.0,Female,Urgent,2.5,161 mmHg,94,4,28.4 kg/m2,4.5
+P2106,49.0,Female,Elective,3.3,161 mmHg,86,9,21.0 kg/m2,5.9
+P1262,18.0,Female,Urgent,5.5,169 mmHg,87,3,28.7 kg/m2,11.5
+P1979,63.0,Female,Elective,2.1,152 mmHg,83,6,27.7 kg/m2,9.1
+P1910,24.0,Female,Urgent,2.6,171 mmHg,121,1,23.3 kg/m2,0.4
+P1503,50.0,Female,New Born,,172 mmHg,118,6,21.1 kg/m2,7.6
+P1640,22.0,Other,Emergency,1.2,169 mmHg,93,1,32.5 kg/m2,12.1
+P1631,15.0,Male,Urgent,0.7,152 mmHg,79,8,28.5 kg/m2,4.4
+P1634,11.0,Other,New Born,2.6,106 mmHg,126,7,27.5 kg/m2,3.5
+P1378,94.0,Male,Emergency,3.3,166 mmHg,92,9,22.4 kg/m2,4.0
+P2168,14.0,Female,New Born,1.2,131 mmHg,92,6,23.7 kg/m2,8.0
+P1407,42.0,Other,Urgent,6.1,171 mmHg,143,3,29.1 kg/m2,10.3
+P1098,52.0,Other,Urgent,3.2,172 mmHg,78,2,21.5 kg/m2,10.3
+P2403,18.0,Female,Elective,3.5,169 mmHg,79,2,20.3 kg/m2,13.6
+P1814,4.0,Female,Urgent,4.4,161 mmHg,84,8,27.7 kg/m2,9.3
+P2360,91.0,Other,Emergency,3.1,134 mmHg,122,1,24.6 kg/m2,2.1
+P1622,18.0,Other,Elective,3.4,172 mmHg,137,9,23.0 kg/m2,1.0
+P2271,56.0,Male,Emergency,1.8,131 mmHg,91,7,19.1 kg/m2,9.6
+P1879,29.0,Female,New Born,2.3,152 mmHg,90,7,33.5 kg/m2,3.1
+P1638,99.0,Male,Emergency,4.3,166 mmHg,120,1,18.3 kg/m2,9.0
+P1263,89.0,Female,Urgent,5.0,106 mmHg,104,0,26.2 kg/m2,5.2
+P1603,11.0,Other,New Born,2.6,134 mmHg,141,9,27.7 kg/m2,4.2
+P1289,1.0,Other,New Born,1.5,169 mmHg,146,4,27.4 kg/m2,7.7
+P1589,72.0,Other,New Born,5.5,172 mmHg,135,8,25.1 kg/m2,8.0
+P1918,60.0,Male,Elective,3.5,169 mmHg,97,9,29.1 kg/m2,5.1
+P2409,0.0,Female,Elective,0.6,152 mmHg,120,3,22.0 kg/m2,9.7
+P1729,18.0,Other,New Born,3.7,166 mmHg,106,8,23.4 kg/m2,9.7
+P2019,69.0,Male,Urgent,3.7,106 mmHg,67,6,26.0 kg/m2,6.5
+P1926,60.0,Male,New Born,3.3,172 mmHg,143,1,24.5 kg/m2,3.9
+P1364,48.0,Other,New Born,7.4,140 mmHg,66,5,21.7 kg/m2,6.2
+P2460,33.0,Male,New Born,6.1,171 mmHg,133,7,30.8 kg/m2,6.4
+P1750,75.0,Male,Urgent,4.2,161 mmHg,126,5,19.9 kg/m2,7.3
+P2383,77.0,Male,Elective,1.2,171 mmHg,121,4,18.7 kg/m2,13.2
+P2110,33.0,Other,New Born,4.0,106 mmHg,122,8,25.5 kg/m2,6.4
+P1944,,Male,Emergency,2.9,171 mmHg,135,7,34.7 kg/m2,4.9
+P1615,12.0,Male,Urgent,1.9,106 mmHg,85,7,,8.6
+P1277,56.0,Female,Emergency,1.0,166 mmHg,70,8,21.7 kg/m2,10.6
+P1345,50.0,Male,Elective,2.9,166 mmHg,106,8,16.5 kg/m2,2.7
+P2156,52.0,Female,Elective,1.3,131 mmHg,117,4,28.8 kg/m2,7.5
+P2034,35.0,Female,New Born,0.8,166 mmHg,127,9,23.6 kg/m2,6.9
+P1685,30.0,Male,Urgent,2.9,166 mmHg,65,2,32.8 kg/m2,4.7
+P1193,26.0,Other,Urgent,3.9,166 mmHg,118,2,,7.2
+P1078,62.0,Male,Emergency,2.5,169 mmHg,108,4,,8.6
+P1663,12.0,Male,Urgent,0.3,131 mmHg,137,8,26.4 kg/m2,5.3
+P1401,26.0,Other,Elective,2.5,161 mmHg,120,1,24.8 kg/m2,8.5
+P1527,99.0,Female,Urgent,3.9,169 mmHg,98,8,24.9 kg/m2,9.4
+P2044,5.0,Other,Elective,1.2,161 mmHg,124,0,26.0 kg/m2,8.0
+P1374,23.0,Female,Emergency,3.1,152 mmHg,82,7,20.6 kg/m2,7.4
+P1859,74.0,Female,Elective,1.7,172 mmHg,132,6,31.3 kg/m2,5.9
+P2150,96.0,Male,Elective,4.9,134 mmHg,107,8,,12.7
+P2461,16.0,Female,New Born,3.0,134 mmHg,81,5,20.3 kg/m2,12.6
+P1591,63.0,Female,Elective,1.7,131 mmHg,87,5,18.2 kg/m2,6.7
+P2299,28.0,Other,Emergency,2.1,131 mmHg,65,8,30.0 kg/m2,9.4
+P1477,,Female,Elective,5.2,131 mmHg,145,8,36.3 kg/m2,6.7
+P1574,,Female,Emergency,3.9,131 mmHg,65,4,15.9 kg/m2,1.4
+P2497,39.0,Male,Emergency,3.7,171 mmHg,120,1,29.3 kg/m2,6.4
+P1824,84.0,Other,Urgent,3.5,106 mmHg,106,1,27.2 kg/m2,5.2
+P2193,87.0,Female,New Born,1.0,169 mmHg,106,1,30.1 kg/m2,4.0
+P1006,82.0,Other,Elective,2.8,152 mmHg,148,0,18.9 kg/m2,7.3
+P2046,50.0,Female,Emergency,4.3,161 mmHg,77,0,17.4 kg/m2,8.5
+P1957,78.0,Female,Emergency,3.9,131 mmHg,77,1,18.6 kg/m2,1.9
+P1174,27.0,Male,Elective,4.3,161 mmHg,107,2,24.9 kg/m2,8.0
+P1173,85.0,Other,Emergency,3.6,166 mmHg,82,6,28.3 kg/m2,6.0
+P1140,,Other,New Born,4.8,106 mmHg,75,1,20.5 kg/m2,2.1
+P1701,91.0,Male,Urgent,1.2,172 mmHg,138,2,34.9 kg/m2,4.6
+P1735,13.0,Female,Emergency,2.0,152 mmHg,136,2,15.6 kg/m2,5.0
+P1131,47.0,Female,Emergency,3.1,169 mmHg,81,7,29.3 kg/m2,2.4
+P2314,60.0,Other,New Born,4.6,166 mmHg,121,0,29.4 kg/m2,5.8
+P1276,91.0,Other,Urgent,3.6,172 mmHg,144,8,25.3 kg/m2,11.5
+P1164,22.0,Female,Elective,3.9,140 mmHg,137,1,28.5 kg/m2,9.0
+P2009,63.0,Other,Elective,,172 mmHg,125,4,18.1 kg/m2,4.7
+P2456,41.0,Other,Elective,3.5,166 mmHg,135,8,14.2 kg/m2,5.0
+P1085,99.0,Female,Urgent,2.1,131 mmHg,144,3,24.7 kg/m2,9.1
+P1959,55.0,Female,Elective,4.3,172 mmHg,107,3,33.8 kg/m2,4.1
+P2177,96.0,Female,Elective,6.5,171 mmHg,114,4,20.5 kg/m2,4.1
+P2388,36.0,Female,Emergency,5.2,134 mmHg,110,2,21.5 kg/m2,5.9
+P1216,11.0,Other,Urgent,0.3,169 mmHg,104,3,32.3 kg/m2,5.2
+P2386,15.0,Male,New Born,0.3,161 mmHg,135,5,18.1 kg/m2,11.3
+P2113,34.0,Other,Emergency,3.2,166 mmHg,137,5,21.0 kg/m2,5.0
+P1337,32.0,Other,Elective,4.0,169 mmHg,143,8,,11.4
+P2297,32.0,Female,Urgent,3.4,169 mmHg,98,2,10.7 kg/m2,8.9
+P2440,39.0,Other,Emergency,5.9,106 mmHg,89,2,30.3 kg/m2,7.7
+P2342,93.0,Other,Urgent,1.5,161 mmHg,124,8,28.8 kg/m2,3.2
+P1521,99.0,Other,Emergency,1.6,140 mmHg,112,0,28.8 kg/m2,6.8
+P1380,59.0,Male,Urgent,3.6,172 mmHg,80,7,21.7 kg/m2,12.0
+P1122,4.0,Male,Urgent,4.0,134 mmHg,66,5,22.8 kg/m2,5.4
+P1601,95.0,Female,Urgent,3.8,166 mmHg,141,3,23.6 kg/m2,4.1
+P2435,95.0,Female,Emergency,2.0,161 mmHg,136,9,23.0 kg/m2,9.1
+P1982,73.0,Male,Urgent,2.8,171 mmHg,71,0,31.5 kg/m2,3.1
+P1988,43.0,Other,New Born,2.9,166 mmHg,82,4,29.7 kg/m2,1.2
+P1056,89.0,Other,New Born,2.0,171 mmHg,117,5,,2.3
+P1135,36.0,Other,Emergency,1.3,161 mmHg,92,3,19.2 kg/m2,8.3
+P1327,67.0,Female,Emergency,2.7,166 mmHg,62,9,24.6 kg/m2,6.6
+P1219,2.0,Other,New Born,1.0,166 mmHg,83,8,25.4 kg/m2,7.3
+P1704,38.0,Other,New Born,2.1,140 mmHg,143,8,28.1 kg/m2,8.3
+P1707,76.0,Female,Emergency,2.2,106 mmHg,121,9,26.2 kg/m2,10.8
+P1347,7.0,Male,Elective,0.1,172 mmHg,68,7,26.3 kg/m2,5.9
+P1534,95.0,Female,Elective,3.5,169 mmHg,107,0,30.5 kg/m2,6.6
+P1942,25.0,Other,Emergency,2.7,161 mmHg,76,8,37.3 kg/m2,11.8
+P1317,,Male,Elective,3.7,131 mmHg,84,9,15.8 kg/m2,10.2
+P2076,2.0,Male,New Born,1.9,134 mmHg,114,5,16.7 kg/m2,7.4
+P1127,71.0,Female,Emergency,2.9,166 mmHg,128,6,20.1 kg/m2,6.5
+P1755,35.0,Female,Emergency,5.6,161 mmHg,108,7,,4.6
+P2164,50.0,Other,Urgent,3.8,172 mmHg,70,8,21.7 kg/m2,9.9
+P1210,95.0,Other,Emergency,4.0,171 mmHg,141,9,28.2 kg/m2,6.5
+P1257,92.0,Female,Emergency,3.1,106 mmHg,124,6,28.6 kg/m2,2.5
+P1005,20.0,Female,Elective,1.8,131 mmHg,117,2,,14.6
+P1524,22.0,Other,Elective,4.3,171 mmHg,115,4,26.3 kg/m2,9.8
+P2335,18.0,Male,Emergency,-0.2,134 mmHg,92,6,24.3 kg/m2,8.6
+P2364,92.0,Female,Elective,3.5,131 mmHg,110,3,16.7 kg/m2,11.9
+P2276,24.0,Female,Elective,1.1,152 mmHg,140,4,32.6 kg/m2,8.7
+P1100,25.0,Female,Elective,6.0,131 mmHg,134,9,,5.6
+P1411,41.0,Other,New Born,3.6,152 mmHg,133,7,25.2 kg/m2,5.4
+P1856,84.0,Other,New Born,3.5,166 mmHg,135,3,22.7 kg/m2,11.7
+P2298,48.0,Male,Urgent,3.2,169 mmHg,132,7,27.4 kg/m2,8.3
+P2465,86.0,Other,New Born,4.6,169 mmHg,91,0,27.0 kg/m2,8.4
+P1408,47.0,Male,Urgent,0.6,140 mmHg,84,8,36.1 kg/m2,9.1
+P2452,,Other,New Born,4.9,140 mmHg,62,1,24.7 kg/m2,7.3
+P1733,46.0,Female,New Born,1.6,140 mmHg,92,3,,7.2
+P2295,69.0,Other,Emergency,1.1,166 mmHg,135,6,32.4 kg/m2,1.9
+P2002,39.0,Other,New Born,3.6,131 mmHg,74,8,24.3 kg/m2,9.2
+P2354,73.0,Male,Emergency,4.2,140 mmHg,130,6,28.4 kg/m2,11.7
+P1198,71.0,Male,Urgent,4.0,171 mmHg,126,0,15.0 kg/m2,6.4
+P2339,46.0,Female,Urgent,-0.9,166 mmHg,87,6,24.5 kg/m2,14.4
+P1876,96.0,Male,Elective,2.3,169 mmHg,148,6,26.7 kg/m2,5.9
+P1810,91.0,Female,Elective,3.7,171 mmHg,132,3,26.2 kg/m2,2.8
+P1544,,Female,Emergency,3.7,171 mmHg,131,3,,8.8
+P1774,28.0,Female,Urgent,2.7,166 mmHg,90,5,33.3 kg/m2,9.5
+P1071,3.0,Female,Elective,,106 mmHg,116,0,31.2 kg/m2,4.3
+P1090,71.0,Other,Emergency,0.0,152 mmHg,112,8,28.3 kg/m2,7.6
+P2217,37.0,Female,Emergency,1.5,131 mmHg,120,8,,5.9
+P1438,50.0,Female,Urgent,3.6,166 mmHg,112,3,25.0 kg/m2,14.9
+P1796,,Male,Emergency,0.5,140 mmHg,103,3,25.6 kg/m2,6.4
+P1275,10.0,Female,New Born,3.5,131 mmHg,68,9,24.1 kg/m2,6.0
+P1286,15.0,Other,Emergency,4.7,106 mmHg,119,0,21.0 kg/m2,10.2
+P1889,16.0,Other,Elective,2.0,166 mmHg,118,0,31.5 kg/m2,5.9
+P1599,22.0,Other,Urgent,3.7,134 mmHg,101,9,26.2 kg/m2,3.1
+P1285,6.0,Other,New Born,,166 mmHg,96,6,29.0 kg/m2,5.0
+P1578,33.0,Male,Urgent,5.9,166 mmHg,83,3,21.7 kg/m2,9.1
+P1212,51.0,Male,Elective,4.8,134 mmHg,136,3,28.9 kg/m2,8.3
+P2431,73.0,Female,Elective,3.3,172 mmHg,132,7,23.8 kg/m2,6.0
+P1244,37.0,Other,Urgent,2.7,140 mmHg,126,8,29.2 kg/m2,1.9
+P1871,,Other,Emergency,0.9,134 mmHg,121,5,26.6 kg/m2,3.4
+P1287,89.0,Male,Urgent,,166 mmHg,90,5,28.2 kg/m2,5.3
+P1325,99.0,Male,New Born,3.1,140 mmHg,106,6,26.2 kg/m2,7.8
+P2441,65.0,Other,Urgent,1.2,106 mmHg,76,3,28.6 kg/m2,4.6
+P1904,74.0,Female,Elective,4.7,171 mmHg,92,0,23.0 kg/m2,8.9
+P1293,68.0,Female,New Born,2.4,161 mmHg,80,3,33.0 kg/m2,7.5
+P2224,11.0,Male,Elective,2.2,169 mmHg,79,5,21.7 kg/m2,5.2
+P1282,93.0,Female,New Born,0.7,140 mmHg,92,4,27.7 kg/m2,2.3
+P1867,81.0,Other,Urgent,2.3,134 mmHg,65,4,19.0 kg/m2,8.6
+P2418,19.0,Female,Emergency,3.3,140 mmHg,74,7,12.6 kg/m2,5.0
+P1671,28.0,Male,Elective,2.5,161 mmHg,134,2,22.9 kg/m2,7.3
+P1485,57.0,Male,Urgent,4.0,171 mmHg,146,9,29.7 kg/m2,5.6
+P1760,49.0,Male,Urgent,2.1,172 mmHg,95,3,24.0 kg/m2,3.8
+P2112,98.0,Male,Elective,3.6,171 mmHg,122,8,22.8 kg/m2,9.9
+P1083,73.0,Female,New Born,5.0,161 mmHg,149,5,38.3 kg/m2,2.3
+P2270,51.0,Female,Urgent,6.0,131 mmHg,101,0,24.7 kg/m2,3.9
+P2223,45.0,Male,Emergency,5.9,161 mmHg,81,2,23.8 kg/m2,7.9
+P1660,16.0,Other,New Born,,134 mmHg,78,9,27.9 kg/m2,11.2
+P1464,98.0,Male,Elective,2.1,140 mmHg,122,1,22.0 kg/m2,5.9
+P1343,29.0,Female,Emergency,4.3,166 mmHg,105,3,18.0 kg/m2,4.9
+P1714,37.0,Female,Urgent,1.9,172 mmHg,107,2,13.1 kg/m2,15.4
+P2099,34.0,Other,Elective,7.3,140 mmHg,81,2,27.6 kg/m2,6.9
+P1318,81.0,Other,New Born,3.1,106 mmHg,116,9,25.8 kg/m2,4.2
+P1147,4.0,Female,Emergency,5.1,161 mmHg,97,1,24.7 kg/m2,7.7
+P2475,11.0,Male,Emergency,2.6,172 mmHg,103,5,21.8 kg/m2,4.9
+P1487,33.0,Male,New Born,2.3,169 mmHg,71,8,29.7 kg/m2,7.0
+P2493,25.0,Other,New Born,3.4,134 mmHg,132,4,21.2 kg/m2,7.2
+P2094,8.0,Male,Urgent,4.5,169 mmHg,125,7,25.7 kg/m2,4.4
+P1800,26.0,Male,Urgent,4.0,152 mmHg,90,0,28.6 kg/m2,10.4
+P2093,16.0,Female,Emergency,,152 mmHg,78,7,26.4 kg/m2,6.9
+P1577,89.0,Female,Urgent,3.2,106 mmHg,147,6,25.6 kg/m2,8.1
+P1410,92.0,Female,Emergency,5.8,140 mmHg,133,2,26.2 kg/m2,7.3
+P1128,11.0,Female,Urgent,3.5,134 mmHg,108,3,,5.8
+P1133,61.0,Female,New Born,1.4,131 mmHg,72,5,22.6 kg/m2,6.3
+P1843,2.0,Other,New Born,1.6,172 mmHg,79,8,17.4 kg/m2,4.8
+P1252,96.0,Other,New Born,2.9,140 mmHg,77,9,23.8 kg/m2,5.5
+P2196,14.0,Male,New Born,3.8,166 mmHg,130,6,29.2 kg/m2,6.0
+P2139,39.0,Male,Emergency,3.0,161 mmHg,124,6,24.0 kg/m2,6.1
+P2277,89.0,Other,Elective,2.2,152 mmHg,89,0,25.5 kg/m2,7.5
+P2469,56.0,Other,Elective,3.2,172 mmHg,131,2,20.5 kg/m2,12.3
+P1350,,Male,New Born,2.3,134 mmHg,136,0,30.2 kg/m2,4.9
+P2445,3.0,Male,New Born,1.6,140 mmHg,132,2,27.5 kg/m2,8.3
+P1865,49.0,Male,Urgent,,172 mmHg,77,7,31.4 kg/m2,2.6
+P1852,16.0,Male,New Born,1.6,106 mmHg,149,5,36.3 kg/m2,8.0
+P2455,84.0,Male,Elective,4.5,106 mmHg,146,8,25.6 kg/m2,1.0
+P2281,6.0,Male,Emergency,3.6,131 mmHg,81,3,15.2 kg/m2,8.5
+P1919,50.0,Other,New Born,2.5,161 mmHg,143,8,21.3 kg/m2,3.6
+P1460,5.0,Other,New Born,2.0,166 mmHg,73,5,29.4 kg/m2,15.2
+P2026,93.0,Male,Elective,2.9,166 mmHg,120,7,18.0 kg/m2,4.6
+P1072,1.0,Male,New Born,2.3,152 mmHg,83,2,28.8 kg/m2,14.0
+P2062,83.0,Female,Elective,1.6,140 mmHg,112,9,31.3 kg/m2,6.9
+P1840,25.0,Other,New Born,4.1,171 mmHg,67,9,24.0 kg/m2,7.4
+P2323,55.0,Female,New Born,1.0,169 mmHg,133,0,22.1 kg/m2,1.6
+P1362,34.0,Other,Urgent,1.4,134 mmHg,108,3,20.6 kg/m2,6.4
+P2261,54.0,Other,Elective,2.9,172 mmHg,62,3,25.4 kg/m2,10.4
+P2385,45.0,Other,Elective,6.1,161 mmHg,145,9,,10.0
+P1653,92.0,Male,Emergency,1.7,140 mmHg,98,6,23.1 kg/m2,8.2
+P2253,89.0,Male,Urgent,0.9,166 mmHg,140,7,28.2 kg/m2,-5.2
+P1625,70.0,Male,Elective,3.7,171 mmHg,141,6,23.5 kg/m2,3.5
+P2219,71.0,Female,Urgent,0.5,140 mmHg,80,9,28.1 kg/m2,5.0
+P1896,65.0,Male,New Born,1.6,131 mmHg,79,5,,7.6
+P1692,89.0,Female,Urgent,2.6,106 mmHg,128,7,29.4 kg/m2,12.3
+P1649,,Male,Emergency,2.2,171 mmHg,84,0,20.4 kg/m2,8.2
+P1476,57.0,Other,Urgent,3.7,169 mmHg,113,3,25.5 kg/m2,8.5
+P2407,81.0,Male,New Born,2.9,169 mmHg,107,8,18.5 kg/m2,3.3
+P2349,28.0,Female,Urgent,2.7,172 mmHg,128,6,,11.3
+P1934,45.0,Male,New Born,4.2,152 mmHg,146,6,25.2 kg/m2,7.7
+P1784,9.0,Female,Emergency,2.8,166 mmHg,123,3,25.4 kg/m2,10.5
+P1739,,Male,Emergency,-0.2,171 mmHg,128,8,16.4 kg/m2,5.3
+P2381,,Female,Emergency,5.4,169 mmHg,87,8,22.8 kg/m2,7.7
+P1748,15.0,Male,Elective,3.2,131 mmHg,69,0,27.6 kg/m2,6.8
+P1952,35.0,Male,Urgent,1.7,140 mmHg,142,1,24.8 kg/m2,5.5
+P1497,,Female,Emergency,3.6,172 mmHg,74,3,19.8 kg/m2,10.8
+P1903,94.0,Male,Urgent,-0.1,134 mmHg,134,1,31.2 kg/m2,11.8
+P1123,40.0,Female,Urgent,4.8,172 mmHg,85,0,,7.1
+P2373,53.0,Other,Emergency,3.7,140 mmHg,95,9,23.3 kg/m2,5.7
+P1786,29.0,Other,Elective,5.4,131 mmHg,66,1,25.6 kg/m2,9.4
+P2176,,Female,Urgent,4.7,172 mmHg,90,4,28.7 kg/m2,6.4
+P2486,63.0,Other,Elective,0.7,134 mmHg,80,8,19.1 kg/m2,2.9
+P2155,77.0,Male,Elective,,106 mmHg,95,5,31.1 kg/m2,3.2
+P2442,24.0,Male,Urgent,3.1,131 mmHg,134,9,28.2 kg/m2,1.3
+P1177,44.0,Male,New Born,1.3,171 mmHg,148,2,,6.0
+P1039,46.0,Female,Urgent,2.5,152 mmHg,72,0,19.0 kg/m2,7.1
+P1845,11.0,Male,Elective,3.1,161 mmHg,76,0,16.2 kg/m2,9.2
+P2183,65.0,Male,Elective,,131 mmHg,102,0,,9.4
+P1901,54.0,Male,Urgent,3.3,161 mmHg,109,8,24.8 kg/m2,8.2
+P1712,55.0,Male,Emergency,4.8,134 mmHg,81,0,26.0 kg/m2,9.6
+P1091,77.0,Female,Emergency,4.3,131 mmHg,118,9,26.3 kg/m2,6.4
+P1146,0.0,Male,Urgent,2.1,169 mmHg,124,8,29.7 kg/m2,13.0
+P2356,33.0,Other,New Born,2.7,140 mmHg,82,7,16.1 kg/m2,8.5
+P1036,14.0,Other,Urgent,6.0,171 mmHg,127,9,,6.0
+P2374,66.0,Male,Elective,,171 mmHg,95,4,30.2 kg/m2,9.0
+P1494,63.0,Female,Urgent,3.3,172 mmHg,85,5,25.2 kg/m2,6.9
+P1895,52.0,Female,Emergency,3.3,131 mmHg,67,4,28.6 kg/m2,6.1
+P1794,84.0,Male,Elective,2.1,106 mmHg,148,9,21.9 kg/m2,7.7
+P2457,99.0,Female,Emergency,2.7,171 mmHg,133,4,27.2 kg/m2,9.6
+P2192,99.0,Female,Emergency,5.1,106 mmHg,97,6,19.8 kg/m2,6.7
+P2343,37.0,Other,Emergency,2.2,166 mmHg,101,8,21.4 kg/m2,10.6
+P2331,92.0,Male,Emergency,1.4,106 mmHg,77,6,22.3 kg/m2,5.6
+P1447,48.0,Female,Elective,2.9,169 mmHg,104,7,24.9 kg/m2,4.3
+P1672,36.0,Female,Elective,5.7,172 mmHg,107,4,21.8 kg/m2,8.2
+P1480,61.0,Female,Urgent,3.1,131 mmHg,112,5,28.3 kg/m2,7.5
+P1964,86.0,Male,New Born,,171 mmHg,69,4,24.2 kg/m2,2.3
+P2268,8.0,Other,New Born,2.0,172 mmHg,91,9,20.1 kg/m2,4.9
+P1771,83.0,Female,Urgent,4.1,169 mmHg,94,2,29.3 kg/m2,6.1
+P1498,92.0,Female,New Born,5.7,134 mmHg,63,9,24.0 kg/m2,2.1
+P1943,46.0,Other,Emergency,3.5,169 mmHg,113,7,19.5 kg/m2,8.4
+P2098,37.0,Male,New Born,3.0,152 mmHg,141,7,20.8 kg/m2,8.0
+P1548,49.0,Male,Urgent,1.5,152 mmHg,117,1,25.0 kg/m2,4.2
+P1543,31.0,Other,Elective,3.5,152 mmHg,137,0,24.6 kg/m2,5.4
+P1192,0.0,Male,New Born,4.3,172 mmHg,62,8,31.0 kg/m2,0.7
+P1937,77.0,Male,New Born,2.6,166 mmHg,70,5,27.2 kg/m2,8.5
+P1292,11.0,Male,New Born,3.3,172 mmHg,61,5,26.0 kg/m2,5.5
+P1585,88.0,Female,Urgent,5.0,171 mmHg,83,5,28.2 kg/m2,7.1
+P1816,52.0,Female,Emergency,4.7,161 mmHg,144,2,24.4 kg/m2,4.7
+P1702,71.0,Male,New Born,,106 mmHg,112,4,35.6 kg/m2,0.6
+P1691,73.0,Female,Elective,2.6,152 mmHg,91,9,32.4 kg/m2,8.2
+P2363,6.0,Male,New Born,0.9,152 mmHg,108,6,29.9 kg/m2,3.7
+P1869,78.0,Other,Urgent,5.0,172 mmHg,94,0,23.9 kg/m2,5.8
+P2025,,Other,Emergency,3.2,134 mmHg,129,2,26.3 kg/m2,5.5
+P2063,96.0,Female,New Born,2.0,106 mmHg,76,4,35.2 kg/m2,11.3
+P2485,45.0,Female,Urgent,4.1,161 mmHg,79,4,17.4 kg/m2,9.2
+P2147,22.0,Female,Emergency,2.6,134 mmHg,131,5,25.2 kg/m2,9.3
+P1134,87.0,Other,Emergency,4.0,131 mmHg,87,8,32.0 kg/m2,12.7
+P1710,62.0,Other,New Born,1.3,172 mmHg,83,0,29.1 kg/m2,4.8
+P1881,80.0,Other,Elective,4.7,140 mmHg,115,8,15.5 kg/m2,11.0
+P1236,,Male,Elective,2.4,161 mmHg,61,8,26.2 kg/m2,5.6
+P1526,68.0,Female,New Born,3.8,106 mmHg,134,5,22.2 kg/m2,8.6
+P1513,68.0,Male,Emergency,4.3,106 mmHg,109,8,30.3 kg/m2,12.8
+P1188,91.0,Other,New Born,,169 mmHg,110,1,27.8 kg/m2,6.2
+P1280,22.0,Male,Elective,2.7,161 mmHg,147,0,19.6 kg/m2,8.8
+P1010,,Male,Emergency,3.0,134 mmHg,137,6,28.8 kg/m2,8.4
+P2389,53.0,Female,New Born,5.8,166 mmHg,101,7,28.2 kg/m2,3.7
+P2107,77.0,Male,New Born,0.2,169 mmHg,137,0,26.1 kg/m2,1.9
+P1058,1.0,Other,Elective,5.7,171 mmHg,133,7,,10.9
+P2292,24.0,Female,Emergency,6.4,134 mmHg,68,2,18.1 kg/m2,1.8
+P2059,25.0,Other,Emergency,,166 mmHg,114,4,20.8 kg/m2,8.7
+P1496,68.0,Other,Urgent,1.5,172 mmHg,143,1,11.1 kg/m2,12.6
+P2313,62.0,Male,New Born,6.1,152 mmHg,145,5,22.0 kg/m2,7.0
+P1189,88.0,Female,Urgent,2.9,140 mmHg,117,6,14.8 kg/m2,6.9
+P1652,,Male,Elective,3.0,131 mmHg,78,0,22.8 kg/m2,4.4
+P2289,50.0,Male,New Born,5.0,152 mmHg,99,2,30.9 kg/m2,5.3
+P1060,91.0,Male,New Born,4.1,140 mmHg,102,9,20.9 kg/m2,5.6
+P1798,85.0,Male,Emergency,4.5,152 mmHg,61,5,14.8 kg/m2,6.2
+P1711,24.0,Female,Emergency,3.3,166 mmHg,105,1,19.6 kg/m2,5.4
+P1167,28.0,Female,Elective,4.3,166 mmHg,85,0,16.4 kg/m2,12.7
+P1233,52.0,Male,Elective,5.2,106 mmHg,123,2,19.2 kg/m2,5.5
+P2395,81.0,Other,Emergency,1.8,106 mmHg,60,8,24.4 kg/m2,9.7
+P1396,31.0,Female,Urgent,1.1,166 mmHg,92,5,24.8 kg/m2,5.0
+P2005,40.0,Female,Urgent,1.9,152 mmHg,93,2,27.0 kg/m2,5.8
+P2035,23.0,Male,New Born,2.2,166 mmHg,117,8,22.2 kg/m2,7.9
+P1481,22.0,Female,Elective,5.1,172 mmHg,122,9,27.3 kg/m2,6.7
+P1472,16.0,Male,New Born,3.9,169 mmHg,68,6,31.4 kg/m2,6.6
+P1719,31.0,Other,Emergency,3.7,169 mmHg,105,3,31.7 kg/m2,10.2
+P2182,85.0,Other,Urgent,4.7,140 mmHg,62,6,21.7 kg/m2,3.6
+P2160,69.0,Male,Elective,3.3,169 mmHg,71,3,19.7 kg/m2,7.9
+P1475,91.0,Female,Elective,3.1,131 mmHg,79,7,28.3 kg/m2,6.3
+P2172,26.0,Female,Elective,2.5,161 mmHg,117,7,32.7 kg/m2,7.5
+P1607,88.0,Female,New Born,2.7,166 mmHg,131,6,27.5 kg/m2,7.0
+P2308,83.0,Other,Emergency,2.3,172 mmHg,142,0,26.3 kg/m2,3.5
+P1247,,Other,Urgent,4.6,172 mmHg,107,6,19.8 kg/m2,6.5
+P1181,27.0,Male,Urgent,5.5,166 mmHg,114,4,28.3 kg/m2,2.5
+P2151,24.0,Other,Urgent,3.5,106 mmHg,129,7,29.9 kg/m2,4.3
+P1900,22.0,Male,Elective,2.1,172 mmHg,96,0,23.8 kg/m2,5.7
+P2498,10.0,Male,Urgent,2.3,161 mmHg,120,6,27.1 kg/m2,10.3
+P1772,76.0,Female,New Born,4.0,172 mmHg,136,6,28.3 kg/m2,10.5
+P1360,18.0,Other,Elective,2.5,134 mmHg,83,8,20.0 kg/m2,8.4
+P1551,32.0,Male,Elective,2.8,169 mmHg,140,1,24.7 kg/m2,5.4
+P1389,24.0,Other,Emergency,1.6,152 mmHg,78,9,32.5 kg/m2,8.1
+P1626,27.0,Female,Emergency,2.2,171 mmHg,84,7,28.9 kg/m2,3.1
+P1309,35.0,Male,Emergency,1.8,106 mmHg,126,8,20.3 kg/m2,3.6
+P1426,15.0,Other,Urgent,4.3,140 mmHg,109,2,18.5 kg/m2,9.4
+P1713,32.0,Female,Elective,2.2,166 mmHg,70,5,30.7 kg/m2,8.4
+P1821,73.0,Male,New Born,1.4,152 mmHg,87,7,28.6 kg/m2,9.1
+P1196,2.0,Other,New Born,3.0,171 mmHg,123,5,19.9 kg/m2,8.1
+P1967,1.0,Male,Urgent,0.2,161 mmHg,60,6,18.0 kg/m2,8.4
+P1180,5.0,Male,Emergency,3.7,161 mmHg,69,3,28.7 kg/m2,2.6
+P1835,33.0,Other,New Born,1.7,161 mmHg,92,0,28.1 kg/m2,2.9
+P1646,57.0,Female,Emergency,2.3,171 mmHg,100,0,23.0 kg/m2,3.1
+P1499,,Female,Urgent,2.7,171 mmHg,145,4,20.0 kg/m2,4.6
+P1946,93.0,Other,Elective,0.1,172 mmHg,99,8,24.7 kg/m2,14.1
+P1538,15.0,Female,Urgent,4.0,161 mmHg,109,8,16.9 kg/m2,6.0
+P1469,12.0,Other,Emergency,1.3,106 mmHg,77,7,22.2 kg/m2,7.5
+P1118,7.0,Male,Elective,,172 mmHg,142,4,20.0 kg/m2,11.1
+P2078,5.0,Female,Emergency,1.4,172 mmHg,143,0,30.0 kg/m2,5.2
+P1259,19.0,Female,New Born,3.3,172 mmHg,86,4,21.5 kg/m2,3.4
+P1965,77.0,Other,Emergency,3.9,152 mmHg,130,2,27.4 kg/m2,4.5
+P1658,,Female,Urgent,,152 mmHg,122,3,22.0 kg/m2,0.6
+P1938,89.0,Male,New Born,4.8,166 mmHg,129,5,31.1 kg/m2,5.4
+P1253,72.0,Male,New Born,0.8,169 mmHg,68,2,30.6 kg/m2,2.3
+P1390,94.0,Female,Emergency,3.8,134 mmHg,112,8,18.8 kg/m2,5.2
+P2169,28.0,Other,Emergency,3.7,161 mmHg,72,8,19.3 kg/m2,6.0
+P1956,51.0,Other,New Born,2.8,169 mmHg,131,1,20.8 kg/m2,5.3
+P1333,7.0,Other,New Born,4.1,140 mmHg,92,9,18.4 kg/m2,10.1
+P2073,10.0,Female,Urgent,5.7,171 mmHg,136,5,22.1 kg/m2,5.8
+P1458,4.0,Female,New Born,0.2,152 mmHg,88,8,34.0 kg/m2,8.3
+P1307,74.0,Female,Urgent,2.0,134 mmHg,129,7,12.7 kg/m2,2.0
+P1793,10.0,Other,Urgent,,106 mmHg,95,9,19.8 kg/m2,16.2
+P2191,,Male,Elective,3.9,172 mmHg,69,0,14.1 kg/m2,8.6
+P2426,43.0,Other,Emergency,3.3,169 mmHg,101,0,,8.5
+P2161,5.0,Other,Urgent,1.5,134 mmHg,101,9,31.8 kg/m2,32.5
+P1395,23.0,Male,Urgent,4.4,169 mmHg,121,0,27.7 kg/m2,4.4
+P1422,44.0,Male,Emergency,1.7,106 mmHg,99,2,28.2 kg/m2,10.5
+P2458,40.0,Other,New Born,1.8,169 mmHg,93,2,23.7 kg/m2,10.3
+P1594,98.0,Other,Urgent,2.5,106 mmHg,144,4,19.2 kg/m2,11.7
+P1261,35.0,Male,Emergency,2.6,161 mmHg,103,0,13.5 kg/m2,9.8
+P2171,93.0,Male,New Born,1.5,106 mmHg,100,0,21.2 kg/m2,7.7
+P1298,18.0,Male,Elective,5.6,131 mmHg,144,9,27.1 kg/m2,6.2
+P1605,12.0,Other,New Born,1.3,166 mmHg,67,9,29.0 kg/m2,4.5
+P1850,93.0,Female,New Born,3.1,166 mmHg,97,8,31.9 kg/m2,4.5
+P1823,16.0,Male,New Born,2.6,166 mmHg,148,2,25.4 kg/m2,1.1
+P1311,,Other,Emergency,,166 mmHg,110,9,24.9 kg/m2,11.9
+P1043,63.0,Female,New Born,5.3,106 mmHg,146,3,23.9 kg/m2,7.8
+P2371,58.0,Female,Urgent,0.4,169 mmHg,117,9,23.4 kg/m2,9.4
+P2481,25.0,Female,New Born,3.1,169 mmHg,97,2,34.6 kg/m2,10.4
+P1912,95.0,Female,Elective,5.6,152 mmHg,105,1,28.2 kg/m2,2.7
+P2170,32.0,Male,Emergency,6.1,172 mmHg,77,6,25.1 kg/m2,2.5
+P1113,7.0,Female,New Born,3.5,161 mmHg,88,0,31.9 kg/m2,4.6
+P1556,66.0,Female,Emergency,3.9,169 mmHg,126,3,33.0 kg/m2,7.7
+P2180,32.0,Female,New Born,0.7,161 mmHg,61,9,25.2 kg/m2,10.0
+P1624,8.0,Other,Emergency,,169 mmHg,63,0,26.6 kg/m2,11.2
+P1744,74.0,Male,New Born,2.2,171 mmHg,79,2,25.9 kg/m2,8.3
+P1409,,Female,Elective,0.2,140 mmHg,127,4,25.9 kg/m2,8.2
+P2039,83.0,Female,Elective,3.8,134 mmHg,120,0,22.4 kg/m2,6.6
+P1923,81.0,Male,Elective,3.5,106 mmHg,76,7,21.7 kg/m2,4.5
+P1120,34.0,Female,Elective,4.9,169 mmHg,75,0,26.9 kg/m2,6.0
+P2056,43.0,Female,Elective,2.4,171 mmHg,137,3,23.8 kg/m2,3.4
+P1185,29.0,Other,Urgent,2.4,131 mmHg,61,8,26.8 kg/m2,6.9
+P1335,66.0,Male,Elective,5.2,166 mmHg,147,8,18.7 kg/m2,6.0
+P1467,51.0,Female,Urgent,4.9,169 mmHg,91,3,29.0 kg/m2,5.4
+P1009,74.0,Female,Elective,5.5,131 mmHg,127,7,27.0 kg/m2,0.9
+P1077,92.0,Other,Emergency,2.6,152 mmHg,117,2,22.0 kg/m2,2.6
+P2015,32.0,Other,Elective,3.2,131 mmHg,80,9,29.0 kg/m2,5.3
+P2315,48.0,Female,Urgent,2.4,171 mmHg,131,6,31.3 kg/m2,11.5
+P1218,1.0,Male,Emergency,1.5,134 mmHg,107,4,26.2 kg/m2,5.3
+P2227,61.0,Female,Urgent,3.2,171 mmHg,89,3,29.5 kg/m2,5.9
+P1087,94.0,Male,Elective,4.5,106 mmHg,105,3,31.1 kg/m2,9.4
+P1860,50.0,Female,New Born,2.4,152 mmHg,98,2,31.0 kg/m2,10.3
+P2214,19.0,Male,Emergency,3.1,152 mmHg,61,4,30.9 kg/m2,8.5
+P2148,62.0,Other,New Born,5.1,161 mmHg,110,7,17.4 kg/m2,7.5
+P1811,80.0,Male,New Born,5.3,131 mmHg,82,9,16.8 kg/m2,6.9
+P1031,58.0,Male,New Born,3.2,140 mmHg,85,8,26.6 kg/m2,13.8
+P1427,13.0,Female,Emergency,2.6,140 mmHg,102,3,17.5 kg/m2,0.4
+P1021,63.0,Other,Emergency,4.7,172 mmHg,92,8,27.8 kg/m2,1.7
+P2303,27.0,Male,New Born,1.3,106 mmHg,139,5,26.0 kg/m2,6.6
+P1571,80.0,Male,Elective,0.9,166 mmHg,91,9,18.4 kg/m2,8.2
+P1838,71.0,Other,Emergency,3.4,169 mmHg,135,3,20.2 kg/m2,9.8
+P1700,19.0,Female,New Born,5.2,166 mmHg,130,2,25.7 kg/m2,6.6
+P2359,54.0,Other,New Born,2.1,169 mmHg,93,5,29.4 kg/m2,5.6
+P2165,71.0,Other,New Born,3.5,140 mmHg,95,2,22.6 kg/m2,8.2
+P1387,66.0,Other,New Born,1.3,169 mmHg,79,3,22.8 kg/m2,4.8
+P1029,48.0,Male,New Born,2.9,106 mmHg,89,1,,7.0
+P1182,27.0,Male,Elective,3.0,106 mmHg,68,2,,12.3
+P2382,87.0,Female,Emergency,2.1,172 mmHg,127,8,,4.7
+P2081,4.0,Other,Emergency,4.0,169 mmHg,115,7,22.4 kg/m2,2.8
+P2142,13.0,Male,Emergency,0.7,106 mmHg,81,4,18.7 kg/m2,5.0
+P2209,35.0,Female,Urgent,2.5,166 mmHg,70,5,27.8 kg/m2,7.1
+P2174,28.0,Female,Emergency,,131 mmHg,83,8,21.7 kg/m2,8.1
+P2317,,Male,Emergency,1.2,152 mmHg,92,3,31.6 kg/m2,6.4
+P1582,74.0,Male,New Born,5.9,161 mmHg,138,3,19.4 kg/m2,8.2
+P2206,26.0,Other,Urgent,4.0,171 mmHg,97,3,31.3 kg/m2,11.8
+P1238,31.0,Female,New Born,1.6,161 mmHg,146,1,31.1 kg/m2,9.4
+P2118,59.0,Female,Emergency,,106 mmHg,76,1,20.5 kg/m2,2.2
+P1572,89.0,Other,New Born,3.6,131 mmHg,129,8,21.3 kg/m2,8.3
+P2033,39.0,Other,Elective,1.9,161 mmHg,78,0,23.0 kg/m2,6.6
+P1724,79.0,Female,Emergency,1.7,161 mmHg,99,8,25.4 kg/m2,8.3
+P1893,33.0,Female,Urgent,3.7,169 mmHg,81,0,23.3 kg/m2,7.8
+P2241,,Male,Elective,4.5,161 mmHg,113,9,19.3 kg/m2,3.3
+P1961,13.0,Male,Emergency,4.6,152 mmHg,98,7,29.1 kg/m2,9.8
+P1753,7.0,Female,Elective,8.9,134 mmHg,69,3,25.6 kg/m2,10.2
+P2259,62.0,Male,Urgent,3.9,166 mmHg,88,1,22.1 kg/m2,3.4
+P2136,41.0,Male,Emergency,3.1,166 mmHg,117,4,17.9 kg/m2,6.5
+P1951,25.0,Male,Urgent,3.6,106 mmHg,123,5,18.8 kg/m2,5.8
+P1417,12.0,Female,New Born,4.4,152 mmHg,120,6,17.0 kg/m2,8.5
+P1468,,Male,New Born,4.0,171 mmHg,141,1,14.6 kg/m2,5.8
+P1365,16.0,Male,Elective,4.9,140 mmHg,63,9,29.7 kg/m2,8.9
+P1584,35.0,Male,Urgent,4.5,152 mmHg,145,5,28.0 kg/m2,5.7
+P1215,51.0,Other,Elective,3.2,131 mmHg,96,4,13.5 kg/m2,9.8
+P2387,67.0,Other,Elective,1.4,106 mmHg,139,4,31.0 kg/m2,7.2
+P2181,67.0,Female,Emergency,3.4,106 mmHg,74,8,29.5 kg/m2,7.3
+P1291,47.0,Male,New Born,2.7,134 mmHg,86,9,30.6 kg/m2,3.9
+P1783,65.0,Male,Elective,3.4,106 mmHg,117,7,24.5 kg/m2,8.6
+P1400,65.0,Male,New Born,2.7,140 mmHg,91,8,18.9 kg/m2,5.9
+P1722,46.0,Male,Urgent,3.6,171 mmHg,113,4,30.1 kg/m2,1.3
+P2345,62.0,Female,Emergency,4.0,161 mmHg,68,0,27.4 kg/m2,1.9
+P1471,18.0,Other,New Born,3.0,161 mmHg,85,5,27.8 kg/m2,7.9
+P2494,28.0,Male,Urgent,2.5,140 mmHg,90,4,17.1 kg/m2,8.5
+P1888,73.0,Male,Emergency,-0.7,106 mmHg,117,7,24.0 kg/m2,2.1
+P1002,14.0,Other,Emergency,2.7,161 mmHg,141,6,22.4 kg/m2,9.3
+P1235,89.0,Other,Urgent,1.0,134 mmHg,123,6,25.7 kg/m2,11.4
+P1974,22.0,Female,New Born,2.7,171 mmHg,84,1,25.3 kg/m2,7.0
+P2130,82.0,Female,Urgent,4.3,152 mmHg,129,2,33.2 kg/m2,1.2
+P2060,67.0,Male,Elective,3.3,171 mmHg,95,6,23.2 kg/m2,12.4
+P1929,69.0,Other,Emergency,5.6,134 mmHg,118,1,19.6 kg/m2,12.8
+P2179,54.0,Male,Elective,1.6,166 mmHg,119,2,27.4 kg/m2,6.6
+P1630,82.0,Other,Elective,2.7,152 mmHg,126,6,25.2 kg/m2,11.4
+P1686,18.0,Other,Emergency,4.4,169 mmHg,78,4,21.3 kg/m2,10.9
+P1169,12.0,Male,Emergency,5.7,161 mmHg,71,0,25.5 kg/m2,4.5
+P2088,1.0,Male,Urgent,2.4,152 mmHg,88,5,24.0 kg/m2,9.1
+P1290,,Male,Emergency,3.0,106 mmHg,61,6,29.3 kg/m2,7.8
+P1933,89.0,Female,Elective,5.7,171 mmHg,122,8,,2.3
+P1138,85.0,Female,Elective,0.4,140 mmHg,89,8,28.0 kg/m2,0.6
+P1717,43.0,Male,Emergency,3.3,172 mmHg,94,8,22.3 kg/m2,1.2
+P2122,10.0,Female,Urgent,4.0,152 mmHg,116,7,20.6 kg/m2,5.9
+P2066,46.0,Female,Urgent,4.4,169 mmHg,61,9,22.5 kg/m2,8.0
+P1986,85.0,Female,New Born,3.1,140 mmHg,116,7,18.0 kg/m2,7.1
+P2453,69.0,Other,Elective,4.7,171 mmHg,68,2,29.3 kg/m2,7.4
+P1978,14.0,Female,Urgent,2.3,134 mmHg,130,0,21.0 kg/m2,3.6
+P2114,0.0,Female,New Born,1.7,152 mmHg,71,0,22.4 kg/m2,5.2
+P1720,44.0,Male,Urgent,1.3,131 mmHg,97,4,17.0 kg/m2,11.3
+P2128,36.0,Other,Urgent,2.7,171 mmHg,133,5,22.8 kg/m2,3.9
+P1479,89.0,Male,Emergency,4.2,169 mmHg,89,1,27.6 kg/m2,7.9
+P2330,44.0,Other,Urgent,3.1,140 mmHg,136,4,24.6 kg/m2,8.0
+P2296,87.0,Female,Emergency,1.1,131 mmHg,102,0,30.9 kg/m2,2.1
+P2085,1.0,Female,Urgent,4.9,169 mmHg,75,8,16.6 kg/m2,5.0
+P1020,1.0,Male,Urgent,3.7,166 mmHg,91,6,22.9 kg/m2,7.1
+P2250,0.0,Male,Urgent,2.9,131 mmHg,102,8,18.6 kg/m2,1.7
+P2346,3.0,Female,Emergency,1.6,106 mmHg,119,0,21.8 kg/m2,6.7
+P1819,36.0,Female,Elective,2.1,106 mmHg,64,9,30.9 kg/m2,5.9
+P1300,79.0,Male,Elective,1.1,166 mmHg,120,4,26.3 kg/m2,8.9
+P2434,86.0,Female,Elective,,134 mmHg,80,5,25.1 kg/m2,8.5
+P1176,41.0,Male,Elective,2.2,169 mmHg,109,7,16.9 kg/m2,13.1
+P1561,42.0,Other,New Born,4.5,131 mmHg,74,0,,5.2
+P1430,14.0,Other,Emergency,2.6,131 mmHg,100,7,24.0 kg/m2,5.2
+P2220,22.0,Male,Emergency,0.3,172 mmHg,147,2,27.4 kg/m2,11.0
+P2030,8.0,Male,Emergency,1.0,131 mmHg,129,0,25.4 kg/m2,3.0
+P1588,9.0,Female,Elective,4.8,152 mmHg,103,2,24.0 kg/m2,8.2
+P1770,32.0,Female,New Born,1.9,166 mmHg,71,7,30.1 kg/m2,3.6
+P1564,12.0,Other,Emergency,3.2,106 mmHg,140,8,17.6 kg/m2,5.6
+P1549,34.0,Male,Urgent,2.6,166 mmHg,77,3,22.8 kg/m2,5.8
+P2275,,Female,Emergency,3.3,134 mmHg,61,1,26.6 kg/m2,8.0
+P1950,80.0,Other,Urgent,,131 mmHg,112,8,20.9 kg/m2,2.2
+P2158,38.0,Female,New Born,3.5,161 mmHg,97,2,22.9 kg/m2,4.1
+P2162,66.0,Female,Elective,,140 mmHg,98,2,21.1 kg/m2,3.6
+P1234,43.0,Male,New Born,2.5,171 mmHg,91,2,21.6 kg/m2,7.7
+P1659,57.0,Male,New Born,7.0,161 mmHg,127,2,29.0 kg/m2,7.3
+P1211,87.0,Female,Urgent,1.0,131 mmHg,71,3,27.5 kg/m2,5.5
+P1016,1.0,Other,Elective,4.9,161 mmHg,128,9,24.4 kg/m2,3.8
+P1533,57.0,Male,Emergency,0.1,134 mmHg,142,2,21.2 kg/m2,9.4
+P2321,86.0,Male,Emergency,4.5,106 mmHg,119,3,24.5 kg/m2,3.7
+P2154,65.0,Other,Emergency,5.5,131 mmHg,105,2,24.8 kg/m2,14.6
+P1853,46.0,Female,Emergency,3.1,172 mmHg,90,0,30.7 kg/m2,-1.7
+P1715,5.0,Other,New Born,2.7,140 mmHg,67,6,28.9 kg/m2,2.1
+P2260,53.0,Female,Elective,3.3,152 mmHg,102,1,35.3 kg/m2,7.2
+P1847,53.0,Female,New Born,,172 mmHg,78,2,23.2 kg/m2,6.2
+P1281,30.0,Male,Urgent,2.9,131 mmHg,90,9,21.0 kg/m2,11.5
+P1473,62.0,Male,Elective,4.0,171 mmHg,123,9,28.8 kg/m2,8.2
+P1086,13.0,Other,New Born,0.2,106 mmHg,111,3,32.7 kg/m2,10.5
+P2437,80.0,Male,Elective,1.4,161 mmHg,109,9,28.3 kg/m2,9.8
+P1829,44.0,Female,Emergency,2.9,172 mmHg,98,1,27.7 kg/m2,7.4
+P1452,53.0,Other,Urgent,4.3,140 mmHg,113,7,37.9 kg/m2,5.7
+P1623,,Female,Elective,4.2,161 mmHg,112,8,18.9 kg/m2,32.0
+P1048,72.0,Other,New Born,0.6,140 mmHg,103,2,24.8 kg/m2,8.5
+P1490,88.0,Male,Urgent,3.3,106 mmHg,102,5,28.1 kg/m2,6.8
+P1339,75.0,Female,Urgent,5.6,106 mmHg,135,2,20.1 kg/m2,6.4
+P2140,71.0,Other,New Born,-0.2,171 mmHg,65,9,26.5 kg/m2,9.5
+P1746,73.0,Other,Emergency,2.4,171 mmHg,105,6,24.0 kg/m2,7.4
+P1139,,Other,Emergency,2.0,161 mmHg,85,2,27.9 kg/m2,3.1
+P1190,61.0,Male,Elective,0.7,169 mmHg,93,6,20.3 kg/m2,2.9
+P1725,84.0,Other,Urgent,1.7,161 mmHg,93,9,20.0 kg/m2,4.0
+P1096,79.0,Other,Urgent,2.4,152 mmHg,79,2,18.8 kg/m2,6.9
+P1399,22.0,Other,Emergency,1.1,166 mmHg,92,2,26.1 kg/m2,1.3
+P1142,98.0,Female,Elective,2.3,140 mmHg,98,3,23.1 kg/m2,6.1
+P1818,52.0,Male,Elective,1.8,140 mmHg,113,8,22.2 kg/m2,5.3
+P1696,44.0,Other,Elective,6.3,172 mmHg,101,2,17.2 kg/m2,9.0
+P1639,52.0,Male,Emergency,2.0,166 mmHg,130,1,23.4 kg/m2,7.1
+P1482,8.0,Male,Urgent,3.6,171 mmHg,70,0,27.2 kg/m2,10.9
+P1449,41.0,Male,Urgent,2.3,161 mmHg,138,9,25.1 kg/m2,5.0
+P1788,32.0,Male,Urgent,4.3,131 mmHg,121,0,22.4 kg/m2,10.0
+P1927,21.0,Female,Emergency,4.0,140 mmHg,77,4,26.2 kg/m2,5.2
+P1619,99.0,Female,New Born,1.8,161 mmHg,99,1,28.4 kg/m2,3.3
+P1367,91.0,Other,New Born,1.0,161 mmHg,128,6,20.9 kg/m2,7.0
+P1752,,Female,Urgent,3.8,169 mmHg,71,0,28.1 kg/m2,5.6
+P1150,26.0,Other,Emergency,3.1,134 mmHg,105,4,33.2 kg/m2,3.5
+P1953,0.0,Other,Urgent,4.9,106 mmHg,106,7,32.9 kg/m2,9.5
+P1985,16.0,Female,Urgent,5.0,172 mmHg,127,1,30.1 kg/m2,7.2
+P1842,53.0,Other,Emergency,0.5,134 mmHg,123,8,24.9 kg/m2,20.0
+P2204,44.0,Other,Elective,2.6,172 mmHg,85,3,23.8 kg/m2,10.6
+P2117,21.0,Other,Elective,5.2,106 mmHg,102,8,18.6 kg/m2,12.3
+P1758,57.0,Male,Elective,2.9,171 mmHg,70,2,,10.5
+P1346,53.0,Female,Elective,3.0,134 mmHg,103,2,19.3 kg/m2,8.9
+P2057,4.0,Male,Emergency,3.7,131 mmHg,90,2,23.8 kg/m2,6.6
+P2495,,Female,Emergency,3.6,106 mmHg,101,7,23.0 kg/m2,6.7
+P1799,58.0,Male,Urgent,2.3,106 mmHg,72,9,31.5 kg/m2,9.9
+P1940,26.0,Male,New Born,0.0,134 mmHg,106,0,36.2 kg/m2,3.5
+P1673,37.0,Female,Emergency,4.2,131 mmHg,61,3,19.3 kg/m2,4.6
+P1762,91.0,Male,Elective,0.7,171 mmHg,112,0,22.8 kg/m2,8.4
+P2018,20.0,Male,Urgent,2.1,131 mmHg,130,0,25.8 kg/m2,7.7
+P2401,84.0,Male,Urgent,1.4,134 mmHg,119,1,25.3 kg/m2,9.6
+P1754,91.0,Female,Urgent,-0.1,106 mmHg,84,9,28.0 kg/m2,3.2
+P1614,85.0,Male,Elective,,106 mmHg,106,0,25.6 kg/m2,6.0
+P2242,50.0,Other,New Born,4.7,161 mmHg,85,9,21.6 kg/m2,10.1
+P1414,49.0,Other,New Born,-1.0,106 mmHg,70,2,22.1 kg/m2,9.9
+P1144,77.0,Female,Urgent,4.2,152 mmHg,85,7,24.9 kg/m2,6.9
+P1920,18.0,Male,Emergency,2.9,172 mmHg,93,9,15.6 kg/m2,13.1
+P2023,74.0,Female,New Born,0.4,140 mmHg,134,6,21.4 kg/m2,8.9
+P1358,60.0,Male,Emergency,3.9,134 mmHg,100,5,15.1 kg/m2,13.0
+P1013,,Other,Urgent,2.1,152 mmHg,67,5,27.3 kg/m2,8.8
+P1728,98.0,Other,Urgent,2.0,166 mmHg,92,7,20.5 kg/m2,5.2
+P1641,15.0,Other,Urgent,,140 mmHg,78,0,28.3 kg/m2,10.1
+P1344,37.0,Other,New Born,2.4,140 mmHg,147,1,17.8 kg/m2,9.0
+P1805,98.0,Other,Elective,-1.5,140 mmHg,138,6,24.1 kg/m2,7.6
+P1057,52.0,Female,Emergency,3.7,169 mmHg,103,9,26.6 kg/m2,8.5
+P1240,54.0,Female,Emergency,3.5,169 mmHg,97,1,23.7 kg/m2,4.5
+P1738,0.0,Other,Elective,-0.4,172 mmHg,144,0,15.8 kg/m2,-0.7
+P1336,16.0,Female,Elective,1.0,161 mmHg,109,6,28.0 kg/m2,4.9
+P1157,50.0,Male,Urgent,0.7,166 mmHg,131,5,29.1 kg/m2,6.8
+P1834,31.0,Male,New Born,4.9,171 mmHg,111,5,19.3 kg/m2,4.9
+P1509,68.0,Other,Emergency,5.3,166 mmHg,88,0,29.2 kg/m2,6.7
+P1455,7.0,Male,Elective,3.3,166 mmHg,90,6,19.6 kg/m2,13.0
+P1015,52.0,Other,Urgent,,171 mmHg,64,2,29.2 kg/m2,9.0
+P1830,76.0,Female,Urgent,0.9,172 mmHg,96,6,30.6 kg/m2,7.8
+P1525,9.0,Other,Emergency,1.2,140 mmHg,87,7,,4.2
+P1334,6.0,Female,Elective,2.7,161 mmHg,131,8,24.8 kg/m2,8.9
+P1539,23.0,Other,Urgent,2.5,140 mmHg,82,7,14.1 kg/m2,7.5
+P1457,59.0,Female,Elective,2.3,169 mmHg,118,8,20.5 kg/m2,4.3
+P1068,80.0,Male,New Born,1.1,131 mmHg,72,5,23.3 kg/m2,2.3
+P2221,46.0,Male,Urgent,1.0,106 mmHg,127,1,26.1 kg/m2,3.0
+P1363,63.0,Male,New Born,1.8,169 mmHg,77,1,34.0 kg/m2,2.7
+P1628,94.0,Female,New Born,2.7,131 mmHg,87,3,21.7 kg/m2,-1.4
+P1194,61.0,Other,Urgent,3.8,134 mmHg,129,3,29.5 kg/m2,7.2
+P2398,6.0,Female,Urgent,3.5,140 mmHg,124,1,31.3 kg/m2,10.4
+P1136,98.0,Male,Emergency,4.0,106 mmHg,82,5,24.4 kg/m2,-0.6
+P1046,6.0,Male,Elective,2.4,166 mmHg,120,5,,5.7
+P1356,96.0,Female,New Born,4.2,152 mmHg,145,1,22.1 kg/m2,12.8
+P2450,86.0,Female,Urgent,6.5,161 mmHg,113,6,19.7 kg/m2,8.8
+P1610,16.0,Female,Elective,2.3,161 mmHg,108,0,31.9 kg/m2,4.5
+P2491,52.0,Female,New Born,4.1,161 mmHg,85,3,28.3 kg/m2,10.8
+P2375,50.0,Female,Emergency,3.6,131 mmHg,138,2,28.3 kg/m2,7.4
+P1913,66.0,Other,Elective,1.7,171 mmHg,115,0,26.9 kg/m2,8.3
+P2149,14.0,Other,Urgent,-0.7,161 mmHg,147,3,27.5 kg/m2,1.6
+P1573,7.0,Male,New Born,-0.2,131 mmHg,147,2,27.1 kg/m2,6.6
+P1206,23.0,Female,Elective,4.0,140 mmHg,128,7,27.6 kg/m2,4.2
+P1510,46.0,Female,Elective,3.8,152 mmHg,70,0,28.0 kg/m2,1.5
+P1643,38.0,Other,Elective,2.5,134 mmHg,68,6,30.0 kg/m2,1.4
+P2052,7.0,Other,Urgent,0.7,161 mmHg,124,6,31.8 kg/m2,8.5
+P2251,45.0,Other,New Born,2.9,140 mmHg,88,6,30.6 kg/m2,9.0
+P1841,33.0,Male,New Born,3.4,106 mmHg,82,4,27.5 kg/m2,5.7
+P2454,17.0,Other,New Born,1.5,166 mmHg,145,9,,11.2
+P1303,23.0,Other,Emergency,3.4,106 mmHg,84,1,35.1 kg/m2,2.1
+P1404,16.0,Male,New Born,0.9,161 mmHg,78,6,33.5 kg/m2,7.3
+P1609,,Female,Urgent,5.4,106 mmHg,64,7,22.7 kg/m2,4.4
+P1125,6.0,Male,Emergency,3.5,134 mmHg,131,6,26.5 kg/m2,12.1
+P2420,36.0,Male,Elective,-0.3,171 mmHg,82,3,24.0 kg/m2,8.1
+P2069,13.0,Female,Urgent,,152 mmHg,63,1,24.0 kg/m2,8.8
+P2397,73.0,Other,New Born,2.8,166 mmHg,80,4,29.3 kg/m2,9.1
+P1084,61.0,Other,New Born,5.1,161 mmHg,77,4,34.0 kg/m2,2.9
+P2369,87.0,Other,Emergency,1.7,171 mmHg,100,4,22.5 kg/m2,6.3
+P1966,87.0,Male,New Born,3.7,172 mmHg,114,6,28.3 kg/m2,10.0
+P1812,68.0,Other,Urgent,1.6,140 mmHg,131,0,30.5 kg/m2,6.9
+P1418,59.0,Other,Urgent,,169 mmHg,139,9,,8.3
+P1954,7.0,Other,Elective,4.6,169 mmHg,65,8,23.7 kg/m2,9.2
+P1111,87.0,Male,Elective,3.0,172 mmHg,109,7,24.5 kg/m2,-3.2
+P1053,59.0,Male,New Born,2.0,140 mmHg,141,3,29.0 kg/m2,5.9
+P2237,36.0,Other,New Born,1.9,161 mmHg,139,6,31.7 kg/m2,3.6
+P1877,87.0,Female,New Born,3.8,161 mmHg,149,0,17.2 kg/m2,10.7
+P1304,53.0,Other,New Born,3.4,161 mmHg,61,4,22.4 kg/m2,6.6
+P1616,58.0,Female,Urgent,1.3,152 mmHg,116,5,27.0 kg/m2,10.2
+P1857,13.0,Other,Urgent,2.8,131 mmHg,76,3,34.9 kg/m2,6.5
+P1740,2.0,Other,Urgent,2.1,166 mmHg,69,0,33.9 kg/m2,5.2
+P1604,54.0,Male,New Born,3.4,169 mmHg,83,0,27.8 kg/m2,9.9
+P1581,57.0,Female,Elective,5.2,171 mmHg,106,8,30.6 kg/m2,4.8
+P1569,34.0,Other,Urgent,5.3,134 mmHg,89,5,15.4 kg/m2,8.2
+P2278,74.0,Male,New Born,2.1,140 mmHg,130,8,21.4 kg/m2,7.6
+P1627,77.0,Other,Emergency,2.7,161 mmHg,66,2,17.0 kg/m2,8.9
+P2447,57.0,Other,New Born,2.4,134 mmHg,96,4,31.4 kg/m2,7.3
+P1921,20.0,Other,Urgent,2.2,152 mmHg,103,4,21.4 kg/m2,11.1
+P1647,38.0,Female,New Born,3.3,161 mmHg,107,9,29.9 kg/m2,4.7
+P1258,2.0,Other,Emergency,1.9,106 mmHg,80,3,,2.9
+P1751,23.0,Female,Emergency,3.3,152 mmHg,70,8,30.2 kg/m2,6.9
+P1667,49.0,Other,New Born,2.2,152 mmHg,89,3,21.8 kg/m2,5.6
+P2120,92.0,Other,Urgent,1.6,134 mmHg,108,1,24.7 kg/m2,9.7
+P1958,46.0,Female,Urgent,1.9,134 mmHg,111,6,27.3 kg/m2,7.0
+P1315,24.0,Female,Elective,3.4,140 mmHg,71,7,28.5 kg/m2,10.9
+P1557,64.0,Other,New Born,5.0,166 mmHg,71,5,26.6 kg/m2,7.5
+P1851,56.0,Male,Emergency,2.7,134 mmHg,112,9,33.2 kg/m2,9.1
+P2414,1.0,Other,New Born,4.0,106 mmHg,136,9,27.4 kg/m2,5.8
+P2283,90.0,Other,New Born,4.6,152 mmHg,108,2,26.1 kg/m2,5.2
+P1208,58.0,Male,New Born,4.6,152 mmHg,122,2,24.8 kg/m2,12.5
+P2477,70.0,Other,Emergency,4.3,134 mmHg,133,2,,6.4
+P2215,10.0,Male,Elective,-0.2,169 mmHg,144,5,23.5 kg/m2,7.2
+P2264,20.0,Other,Elective,4.0,171 mmHg,73,8,25.0 kg/m2,6.3
+P1949,60.0,Male,Emergency,4.1,172 mmHg,141,0,25.4 kg/m2,9.0
+P1038,61.0,Other,Elective,2.7,131 mmHg,110,8,,3.6
+P1255,69.0,Other,Emergency,1.5,140 mmHg,146,0,26.6 kg/m2,1.5
+P2187,96.0,Other,Elective,4.3,161 mmHg,115,8,22.7 kg/m2,10.3
+P2479,44.0,Other,Urgent,3.5,140 mmHg,128,8,20.0 kg/m2,4.6
+P1156,76.0,Other,Emergency,4.0,161 mmHg,100,0,26.6 kg/m2,8.5
+P1541,1.0,Male,New Born,4.1,161 mmHg,128,3,24.7 kg/m2,4.6
+P2031,2.0,Female,Urgent,4.2,106 mmHg,88,5,19.6 kg/m2,9.7
+P2463,24.0,Female,Emergency,1.8,172 mmHg,61,6,28.0 kg/m2,7.1
+P1073,5.0,Male,New Born,3.4,171 mmHg,112,8,19.3 kg/m2,9.1
+P1444,57.0,Female,Elective,1.0,169 mmHg,114,8,27.6 kg/m2,2.9
+P1047,20.0,Other,Elective,3.9,172 mmHg,100,0,31.0 kg/m2,12.5
+P1435,86.0,Female,New Born,4.5,169 mmHg,84,5,33.1 kg/m2,6.0
+P2213,68.0,Male,Emergency,2.8,171 mmHg,142,2,25.1 kg/m2,4.6
+P1973,2.0,Male,Urgent,3.4,152 mmHg,114,8,17.4 kg/m2,8.5
+P1587,35.0,Female,Urgent,2.3,152 mmHg,77,0,20.1 kg/m2,7.9
+P1827,0.0,Other,New Born,3.4,169 mmHg,126,7,11.6 kg/m2,9.5
+P2047,61.0,Other,Elective,5.7,131 mmHg,69,4,32.1 kg/m2,8.2
+P2410,46.0,Male,Elective,3.5,171 mmHg,69,8,28.9 kg/m2,3.3
+P1925,41.0,Male,Elective,3.0,171 mmHg,69,1,32.1 kg/m2,5.3
+P1968,25.0,Other,Urgent,1.3,166 mmHg,108,1,26.5 kg/m2,5.6
+P2327,29.0,Female,Urgent,2.7,134 mmHg,63,0,25.5 kg/m2,4.7
+P1069,35.0,Other,Elective,3.9,161 mmHg,62,0,,5.3
+P2143,31.0,Other,New Born,5.3,161 mmHg,147,6,19.6 kg/m2,12.0
+P1251,15.0,Male,New Born,2.0,166 mmHg,149,1,22.7 kg/m2,6.0
+P1145,2.0,Male,Elective,2.6,169 mmHg,107,8,17.6 kg/m2,6.3
+P1870,90.0,Female,Emergency,1.1,166 mmHg,113,3,12.3 kg/m2,12.3
+P2096,,Female,New Born,,140 mmHg,145,7,18.0 kg/m2,9.6
+P2470,30.0,Male,Emergency,2.7,140 mmHg,107,0,28.9 kg/m2,-0.4
+P1656,75.0,Male,Elective,2.5,172 mmHg,86,4,23.3 kg/m2,8.6
+P2045,93.0,Other,Urgent,4.3,131 mmHg,65,3,24.0 kg/m2,4.3
+P1642,56.0,Other,New Born,2.3,152 mmHg,117,0,,8.1
+P1886,55.0,Other,Emergency,2.2,134 mmHg,82,3,17.3 kg/m2,6.5
+P1632,68.0,Male,New Born,2.3,172 mmHg,142,2,20.4 kg/m2,3.9
+P1227,86.0,Female,New Born,4.9,106 mmHg,119,0,36.8 kg/m2,8.0
+P1621,60.0,Male,Elective,2.1,140 mmHg,121,7,18.2 kg/m2,6.8
+P2365,7.0,Other,New Born,2.9,166 mmHg,119,7,18.8 kg/m2,4.7
+P1439,24.0,Female,Emergency,3.6,166 mmHg,120,4,27.9 kg/m2,11.5
+P2004,41.0,Other,Urgent,1.9,134 mmHg,134,8,34.0 kg/m2,8.7
+P1338,47.0,Other,Emergency,2.1,161 mmHg,75,9,24.8 kg/m2,3.7
+P1637,84.0,Other,Emergency,3.7,161 mmHg,82,6,28.8 kg/m2,12.3
+P1250,10.0,Female,Elective,0.8,152 mmHg,126,1,30.2 kg/m2,11.0
+P2229,88.0,Male,New Born,1.2,106 mmHg,73,9,26.2 kg/m2,7.4
+P2055,,Other,Urgent,0.2,171 mmHg,141,5,28.4 kg/m2,0.6
+P1283,41.0,Other,Elective,3.8,106 mmHg,98,1,23.5 kg/m2,3.8
+P2000,33.0,Male,Emergency,2.9,169 mmHg,90,4,27.8 kg/m2,11.8
+P2428,85.0,Male,Elective,2.6,169 mmHg,123,2,,5.9
+P2258,0.0,Male,Urgent,3.7,131 mmHg,87,0,22.0 kg/m2,4.7
+P2329,48.0,Other,Urgent,2.9,172 mmHg,148,3,,5.2
+P1984,56.0,Other,Emergency,0.1,140 mmHg,122,3,24.6 kg/m2,8.2
+P2074,99.0,Male,Emergency,0.5,172 mmHg,148,1,15.1 kg/m2,6.7
+P2006,5.0,Female,New Born,2.8,171 mmHg,127,4,27.7 kg/m2,5.3
+P1433,65.0,Female,New Born,1.3,106 mmHg,86,6,24.0 kg/m2,4.4
+P1116,10.0,Other,Emergency,-0.9,106 mmHg,100,2,22.5 kg/m2,3.8
+P1768,16.0,Female,Emergency,2.2,134 mmHg,63,7,26.0 kg/m2,6.1
+P1928,20.0,Male,Emergency,1.1,106 mmHg,104,0,28.4 kg/m2,10.0
+P1689,38.0,Male,New Born,1.6,161 mmHg,92,2,31.8 kg/m2,5.2
+P2068,89.0,Female,New Born,4.8,106 mmHg,64,2,22.0 kg/m2,22.5
+P1465,54.0,Male,Urgent,-0.3,161 mmHg,84,7,24.2 kg/m2,7.0
+P1993,24.0,Female,Urgent,3.7,106 mmHg,71,3,14.7 kg/m2,8.7
+P1040,61.0,Male,Emergency,2.7,106 mmHg,103,8,21.2 kg/m2,3.8
+P1806,0.0,Female,New Born,2.7,166 mmHg,92,7,28.1 kg/m2,6.6
+P1597,,Female,Emergency,4.3,161 mmHg,145,3,29.0 kg/m2,5.2
+P1272,38.0,Female,New Born,4.5,134 mmHg,146,7,29.5 kg/m2,9.9
+P1708,91.0,Other,New Born,2.2,169 mmHg,114,9,30.0 kg/m2,9.3
+P1749,71.0,Male,Urgent,-0.2,169 mmHg,132,4,24.2 kg/m2,10.5
+P1231,18.0,Other,New Born,3.8,171 mmHg,133,4,25.0 kg/m2,9.9
+P2488,53.0,Other,New Born,3.9,152 mmHg,116,6,25.8 kg/m2,10.9
+P2097,23.0,Female,Elective,4.4,169 mmHg,133,9,29.7 kg/m2,2.1
+P2255,53.0,Other,New Born,5.2,166 mmHg,113,8,29.7 kg/m2,6.6
+P2202,67.0,Male,Elective,,106 mmHg,143,2,19.4 kg/m2,3.5
+P2341,91.0,Female,New Born,2.9,172 mmHg,69,5,23.0 kg/m2,7.9
+P1161,95.0,Other,Elective,3.4,152 mmHg,88,3,21.9 kg/m2,12.3
+P1612,83.0,Female,Elective,2.9,169 mmHg,131,4,23.7 kg/m2,7.0
+P2263,14.0,Other,New Born,-0.8,172 mmHg,118,3,29.4 kg/m2,7.1
+P1916,31.0,Other,Emergency,1.2,106 mmHg,120,7,21.5 kg/m2,12.5
+P1428,75.0,Female,Urgent,,134 mmHg,76,9,31.4 kg/m2,3.8
+P2134,3.0,Other,Emergency,4.8,172 mmHg,82,5,29.7 kg/m2,7.3
+P1790,17.0,Male,Emergency,,140 mmHg,132,4,23.6 kg/m2,9.3
+P2274,34.0,Female,Elective,4.3,131 mmHg,115,2,23.1 kg/m2,8.9
+P2141,38.0,Other,New Born,4.3,152 mmHg,109,2,22.1 kg/m2,13.2
+P1506,28.0,Other,Emergency,3.0,134 mmHg,87,1,,6.1
+P2090,64.0,Female,Emergency,1.4,171 mmHg,147,4,30.5 kg/m2,2.4
+P1197,69.0,Female,New Born,2.0,152 mmHg,78,3,24.0 kg/m2,5.3
+P1741,,Male,Urgent,3.7,134 mmHg,65,5,20.5 kg/m2,9.0
+P2306,70.0,Other,Urgent,2.4,131 mmHg,60,6,30.8 kg/m2,8.6
+P1314,98.0,Female,Emergency,2.1,134 mmHg,78,5,23.0 kg/m2,7.8
+P1648,13.0,Female,New Born,3.9,172 mmHg,104,5,24.1 kg/m2,3.9
+P1012,,Female,Emergency,1.1,140 mmHg,96,7,24.3 kg/m2,11.3
+P1779,81.0,Other,Urgent,4.1,152 mmHg,66,6,24.5 kg/m2,4.4
+P1489,47.0,Male,Emergency,3.7,172 mmHg,90,0,30.6 kg/m2,4.2
+P2133,61.0,Female,New Born,5.0,106 mmHg,102,5,25.8 kg/m2,7.8
+P1202,36.0,Female,Urgent,-0.2,131 mmHg,64,7,30.3 kg/m2,8.1
+P2291,23.0,Male,New Born,2.9,161 mmHg,127,0,33.9 kg/m2,12.7
+P1502,15.0,Female,Elective,1.4,166 mmHg,82,1,20.3 kg/m2,8.3
+P2188,37.0,Male,New Born,4.4,134 mmHg,122,7,24.5 kg/m2,5.9
+P1558,32.0,Female,New Born,3.6,131 mmHg,71,7,20.4 kg/m2,5.2
+P1908,3.0,Other,Urgent,0.9,166 mmHg,93,6,26.3 kg/m2,7.4
+P1618,48.0,Male,Emergency,3.9,172 mmHg,66,8,14.6 kg/m2,6.4
+P1854,22.0,Other,Emergency,3.4,166 mmHg,103,8,23.0 kg/m2,3.9
+P2499,35.0,Female,New Born,2.7,166 mmHg,129,0,24.1 kg/m2,6.2
+P1817,22.0,Male,Elective,1.3,106 mmHg,90,9,32.2 kg/m2,7.2
+P1017,87.0,Male,Urgent,3.8,171 mmHg,90,9,29.8 kg/m2,9.9
+P1590,23.0,Female,Emergency,3.8,152 mmHg,116,5,25.3 kg/m2,11.5
+P2287,42.0,Female,Elective,4.7,152 mmHg,112,4,29.4 kg/m2,4.6
+P1297,98.0,Other,Elective,0.6,106 mmHg,104,9,21.8 kg/m2,12.7
+P2336,17.0,Male,Emergency,4.7,131 mmHg,117,2,22.5 kg/m2,9.1
+P2316,70.0,Female,Emergency,3.0,140 mmHg,120,5,20.9 kg/m2,11.0
+P2302,25.0,Male,New Born,4.0,106 mmHg,66,7,28.0 kg/m2,7.3
+P1051,3.0,Male,Emergency,1.0,172 mmHg,106,2,22.5 kg/m2,7.8
+P2166,41.0,Other,Urgent,5.6,169 mmHg,111,5,,10.5
+P2070,63.0,Female,Emergency,5.5,140 mmHg,95,2,29.9 kg/m2,6.7
+P1757,7.0,Male,Elective,3.4,172 mmHg,148,8,27.8 kg/m2,7.6
+P2127,84.0,Male,New Born,4.0,131 mmHg,116,1,19.7 kg/m2,12.1
+P1108,88.0,Male,Urgent,2.8,106 mmHg,86,3,28.2 kg/m2,3.0
+P1732,17.0,Female,Elective,3.0,172 mmHg,68,0,25.1 kg/m2,4.9
+P2370,86.0,Other,New Born,5.6,152 mmHg,121,6,20.7 kg/m2,2.0
+P1284,98.0,Male,Emergency,3.9,106 mmHg,105,5,31.8 kg/m2,1.0
+P2293,70.0,Other,New Born,4.3,134 mmHg,81,2,33.1 kg/m2,6.0
+P2449,97.0,Female,Emergency,,172 mmHg,63,7,28.0 kg/m2,8.7
+P1392,57.0,Other,Urgent,2.4,106 mmHg,136,1,25.0 kg/m2,9.3
+P2079,49.0,Other,Emergency,4.1,152 mmHg,92,6,29.8 kg/m2,5.8
+P1267,95.0,Male,Elective,1.3,161 mmHg,135,6,19.7 kg/m2,8.4
+P1097,81.0,Female,Elective,4.0,169 mmHg,84,7,19.0 kg/m2,3.8
+P2159,50.0,Other,New Born,1.6,131 mmHg,70,0,,2.2
+P1024,32.0,Female,Emergency,1.8,106 mmHg,135,8,26.7 kg/m2,5.0
+P1445,57.0,Male,Urgent,2.7,171 mmHg,60,9,24.4 kg/m2,6.5
+P1165,14.0,Female,Elective,2.7,172 mmHg,81,2,26.5 kg/m2,7.9
+P2145,37.0,Male,Emergency,2.7,134 mmHg,138,9,29.2 kg/m2,11.2
+P1004,60.0,Female,Emergency,0.6,134 mmHg,79,2,23.3 kg/m2,6.2
+P1092,86.0,Other,New Born,1.2,161 mmHg,89,5,23.0 kg/m2,2.9
+P1734,48.0,Female,Elective,1.6,106 mmHg,119,5,31.7 kg/m2,7.7
+P2286,16.0,Male,Emergency,3.7,172 mmHg,143,8,22.6 kg/m2,11.8
+P1508,91.0,Other,New Born,1.6,152 mmHg,67,4,30.1 kg/m2,1.9
+P1665,,Male,Emergency,1.8,171 mmHg,69,6,17.3 kg/m2,5.4
+P1062,70.0,Other,Elective,1.6,169 mmHg,93,8,23.9 kg/m2,7.1
+P2472,90.0,Male,Urgent,4.0,166 mmHg,72,2,28.3 kg/m2,5.0
+P1241,74.0,Other,Urgent,2.9,172 mmHg,90,0,15.8 kg/m2,2.8
+P2119,63.0,Male,Elective,3.1,134 mmHg,99,5,21.4 kg/m2,9.2
+P1661,6.0,Male,Emergency,1.5,172 mmHg,87,7,22.5 kg/m2,7.7
+P2225,89.0,Male,Urgent,3.3,161 mmHg,141,1,17.4 kg/m2,1.0
+P1975,17.0,Male,Emergency,1.9,106 mmHg,66,6,,5.8
+P1351,,Female,Emergency,5.2,152 mmHg,119,3,27.7 kg/m2,5.7
+P1416,23.0,Male,Urgent,3.5,171 mmHg,149,9,22.7 kg/m2,7.3
+P1114,87.0,Other,New Born,4.3,131 mmHg,98,7,26.6 kg/m2,4.8
+P1837,94.0,Other,Urgent,3.3,169 mmHg,101,6,21.1 kg/m2,5.6
+P1195,76.0,Male,Emergency,3.1,166 mmHg,107,0,25.6 kg/m2,12.3
+P1530,94.0,Other,New Born,3.4,166 mmHg,69,0,21.2 kg/m2,5.2
+P1721,,Female,Elective,4.0,152 mmHg,67,4,,7.6
+P2126,,Other,Emergency,3.3,152 mmHg,134,0,22.7 kg/m2,11.8
+P2101,94.0,Male,Elective,4.6,140 mmHg,72,8,31.1 kg/m2,2.3
+P1413,98.0,Male,Emergency,3.8,140 mmHg,144,1,27.2 kg/m2,10.2
+P1931,4.0,Other,Urgent,5.4,161 mmHg,118,6,28.6 kg/m2,3.9
+P1545,83.0,Other,New Born,0.7,134 mmHg,68,1,25.8 kg/m2,7.3
+P2443,72.0,Female,Elective,1.1,166 mmHg,79,8,16.0 kg/m2,1.9
+P1559,39.0,Male,Emergency,4.6,161 mmHg,125,5,21.4 kg/m2,8.2
+P1014,21.0,Other,Emergency,2.4,166 mmHg,103,8,28.6 kg/m2,7.4
+P1924,91.0,Other,New Born,5.6,131 mmHg,118,2,26.7 kg/m2,4.6
+P2032,30.0,Male,Urgent,1.5,161 mmHg,125,7,19.0 kg/m2,7.8
+P2269,73.0,Other,Emergency,2.4,161 mmHg,91,9,34.3 kg/m2,5.6
+P1911,66.0,Male,Emergency,,134 mmHg,82,0,30.8 kg/m2,6.9
+P2480,16.0,Male,New Born,0.0,169 mmHg,78,0,21.5 kg/m2,2.0
+P1393,66.0,Other,Elective,2.6,171 mmHg,141,8,24.5 kg/m2,5.2
+P1459,67.0,Female,Emergency,3.9,161 mmHg,76,2,19.9 kg/m2,6.1
+P1989,24.0,Female,Elective,2.9,106 mmHg,142,5,26.3 kg/m2,10.0
+P1565,11.0,Other,Emergency,3.0,169 mmHg,66,5,29.3 kg/m2,7.8
+P2163,6.0,Male,Urgent,4.6,152 mmHg,130,3,27.5 kg/m2,9.6
+P2380,34.0,Other,New Born,1.6,171 mmHg,144,0,20.3 kg/m2,7.8
+P1018,29.0,Female,Elective,1.3,131 mmHg,104,8,12.7 kg/m2,3.0
+P2351,2.0,Male,Emergency,2.2,106 mmHg,123,1,25.2 kg/m2,4.8
+P2422,93.0,Other,Elective,4.4,152 mmHg,72,7,30.7 kg/m2,6.6
+P2429,23.0,Female,Emergency,5.0,169 mmHg,90,5,24.5 kg/m2,5.4
+P1130,32.0,Other,Emergency,2.0,134 mmHg,64,5,31.2 kg/m2,6.6
+P1104,28.0,Male,New Born,1.7,166 mmHg,146,5,,5.1
+P2444,,Other,Emergency,2.0,172 mmHg,107,3,24.4 kg/m2,0.4
+P2438,13.0,Male,Elective,6.2,172 mmHg,128,9,34.2 kg/m2,5.6
+P1536,68.0,Other,Emergency,3.1,172 mmHg,80,1,20.4 kg/m2,2.0
+P1269,51.0,Male,New Born,5.3,172 mmHg,125,3,24.5 kg/m2,6.2
+P2247,85.0,Other,Urgent,3.2,131 mmHg,134,1,19.9 kg/m2,11.2
+P1064,7.0,Female,New Born,5.2,161 mmHg,130,7,22.7 kg/m2,3.0
+P2332,29.0,Male,Emergency,1.9,166 mmHg,147,7,31.2 kg/m2,6.6
+P1213,61.0,Male,New Born,3.4,106 mmHg,100,8,23.5 kg/m2,10.6
+P2239,91.0,Male,Elective,4.8,172 mmHg,136,8,16.2 kg/m2,6.7
+P1321,34.0,Female,Elective,1.1,166 mmHg,64,0,25.9 kg/m2,9.9
+P1151,,Male,Emergency,1.8,106 mmHg,109,6,32.6 kg/m2,9.3
+P1376,45.0,Female,New Born,,140 mmHg,138,2,18.6 kg/m2,8.3
+P2013,58.0,Male,Urgent,0.6,134 mmHg,96,3,32.7 kg/m2,8.8
+P2246,40.0,Male,New Born,4.3,169 mmHg,124,9,13.2 kg/m2,7.3
+P1674,82.0,Female,Emergency,3.7,161 mmHg,135,1,21.9 kg/m2,6.8
+P1431,91.0,Male,Emergency,2.9,166 mmHg,65,1,39.9 kg/m2,7.6
+P2116,63.0,Male,New Born,4.8,169 mmHg,103,5,28.5 kg/m2,9.3
+P1361,3.0,Male,Elective,2.1,152 mmHg,141,4,20.6 kg/m2,9.7
+P1971,55.0,Other,Emergency,,161 mmHg,96,9,24.7 kg/m2,0.5
+P1703,60.0,Other,New Born,1.4,172 mmHg,113,2,21.9 kg/m2,10.7
+P2424,97.0,Female,New Born,,172 mmHg,70,8,24.5 kg/m2,9.5
+P2095,74.0,Female,Urgent,1.1,131 mmHg,138,4,10.9 kg/m2,10.9
+P2121,,Female,Urgent,4.8,172 mmHg,144,3,16.6 kg/m2,4.6
+P1316,92.0,Male,Emergency,3.7,169 mmHg,107,2,21.0 kg/m2,7.6
+P1124,27.0,Male,Elective,0.3,152 mmHg,71,1,,4.2
+P1880,50.0,Female,New Born,2.4,140 mmHg,69,7,22.4 kg/m2,11.1
+P1451,14.0,Female,Urgent,3.1,166 mmHg,73,0,29.0 kg/m2,9.2
+P1273,,Male,Elective,3.4,169 mmHg,89,7,31.0 kg/m2,4.7
+P2459,37.0,Female,Urgent,,161 mmHg,102,1,32.0 kg/m2,8.3
+P1323,60.0,Male,Urgent,4.3,169 mmHg,136,1,30.4 kg/m2,4.0
+P2208,35.0,Female,Emergency,2.2,131 mmHg,64,3,22.0 kg/m2,11.2
+P1143,46.0,Male,Emergency,3.7,140 mmHg,92,0,20.9 kg/m2,9.2
+P1613,88.0,Other,New Born,2.3,152 mmHg,122,1,24.1 kg/m2,7.2
+P1022,59.0,Female,Emergency,5.4,131 mmHg,126,1,21.8 kg/m2,7.2
+P1203,96.0,Other,New Born,4.6,152 mmHg,126,6,16.9 kg/m2,6.2
+P2132,25.0,Female,Emergency,1.6,166 mmHg,135,6,21.5 kg/m2,6.1
+P2195,55.0,Male,Urgent,2.8,166 mmHg,109,1,22.1 kg/m2,0.9
+P1593,48.0,Female,Emergency,2.2,134 mmHg,82,2,21.4 kg/m2,3.5
+P2108,74.0,Female,Elective,3.9,166 mmHg,83,3,28.1 kg/m2,10.6
+P1629,51.0,Male,Elective,,161 mmHg,128,2,25.0 kg/m2,8.1
+P1654,74.0,Male,Elective,3.9,152 mmHg,138,5,19.9 kg/m2,4.3
+P1129,33.0,Other,Urgent,2.3,161 mmHg,85,9,,6.9
+P1826,72.0,Other,New Born,0.3,172 mmHg,97,1,26.4 kg/m2,9.3
+P1033,91.0,Other,Elective,6.1,152 mmHg,121,5,22.0 kg/m2,4.4
+P2411,68.0,Female,Emergency,6.8,131 mmHg,113,1,28.3 kg/m2,7.3
+P1567,45.0,Male,Emergency,5.3,106 mmHg,73,8,23.7 kg/m2,10.3
+P1306,23.0,Female,Elective,1.8,134 mmHg,85,4,23.9 kg/m2,4.0
+P1849,93.0,Female,Urgent,3.9,166 mmHg,97,9,16.8 kg/m2,6.1
+P2230,96.0,Female,Elective,5.2,140 mmHg,95,8,24.4 kg/m2,12.2
+P2318,95.0,Female,Elective,5.5,106 mmHg,125,6,20.9 kg/m2,9.2
+P1170,31.0,Male,Elective,3.3,106 mmHg,73,8,31.3 kg/m2,3.9
+P1226,53.0,Female,Emergency,1.3,131 mmHg,74,0,15.4 kg/m2,7.4
+P1042,54.0,Female,Emergency,-0.3,131 mmHg,114,6,14.7 kg/m2,12.2
+P1899,74.0,Female,Elective,3.2,152 mmHg,98,8,23.2 kg/m2,6.4
+P1745,11.0,Other,Emergency,5.1,131 mmHg,116,5,24.9 kg/m2,6.8
+P1295,31.0,Other,Emergency,4.2,166 mmHg,64,9,25.7 kg/m2,5.1
+P2344,50.0,Other,Elective,5.3,166 mmHg,144,0,24.8 kg/m2,11.1
+P1862,63.0,Male,New Born,3.8,140 mmHg,107,9,17.7 kg/m2,6.4
+P2280,1.0,Male,Elective,3.6,106 mmHg,68,2,,8.4
+P1892,68.0,Male,Urgent,3.1,106 mmHg,105,3,16.8 kg/m2,5.9
+P1555,11.0,Female,Emergency,1.0,152 mmHg,137,6,22.9 kg/m2,5.7
+P1184,83.0,Female,New Born,1.4,131 mmHg,111,9,29.7 kg/m2,8.5
+P2367,56.0,Male,Urgent,2.2,152 mmHg,96,6,32.7 kg/m2,5.9
+P1500,75.0,Female,Urgent,1.7,131 mmHg,109,9,21.0 kg/m2,9.6
+P1319,65.0,Female,New Born,,166 mmHg,94,0,30.4 kg/m2,5.2
+P1602,36.0,Male,Urgent,-0.8,166 mmHg,137,2,27.3 kg/m2,10.5
+P1003,71.0,Other,Urgent,5.2,169 mmHg,117,0,23.2 kg/m2,10.0
+P1977,98.0,Male,Emergency,5.5,140 mmHg,130,5,20.2 kg/m2,10.0
+P2077,32.0,Other,Emergency,4.1,171 mmHg,98,6,23.5 kg/m2,4.5
+P2102,48.0,Female,Urgent,2.7,134 mmHg,92,1,18.2 kg/m2,13.2
+P1828,50.0,Female,Urgent,0.1,106 mmHg,121,8,22.0 kg/m2,10.3
+P2476,52.0,Other,Elective,4.8,166 mmHg,67,8,32.9 kg/m2,7.0
+P1466,39.0,Male,Elective,4.3,169 mmHg,118,6,24.2 kg/m2,3.9
+P1419,6.0,Other,Urgent,3.1,169 mmHg,66,5,24.0 kg/m2,8.3
+P1080,89.0,Female,New Born,4.1,140 mmHg,135,7,26.9 kg/m2,10.3
+P1375,92.0,Female,Urgent,-0.3,166 mmHg,73,2,19.0 kg/m2,11.0
+P2173,35.0,Male,Emergency,3.6,131 mmHg,115,4,23.7 kg/m2,6.9
+P1429,86.0,Other,Emergency,0.8,166 mmHg,91,6,13.8 kg/m2,6.7
+P2185,4.0,Other,New Born,2.1,171 mmHg,129,1,24.2 kg/m2,7.3
+P1331,47.0,Other,New Born,0.9,152 mmHg,128,6,12.0 kg/m2,4.7
+P2372,71.0,Other,Emergency,3.7,152 mmHg,73,2,31.1 kg/m2,11.6
+P1370,45.0,Other,New Born,3.8,172 mmHg,75,4,24.6 kg/m2,5.4
+P2054,50.0,Other,Emergency,4.1,161 mmHg,126,2,33.7 kg/m2,7.1
+P1906,7.0,Male,Elective,3.6,140 mmHg,113,5,18.3 kg/m2,8.7
+P1153,14.0,Female,New Born,3.8,131 mmHg,147,7,,11.7
+P1232,1.0,Female,Emergency,4.7,152 mmHg,108,8,18.6 kg/m2,10.2
+P1987,89.0,Female,Elective,2.4,140 mmHg,72,1,21.7 kg/m2,7.9
+P1079,17.0,Other,Elective,2.0,140 mmHg,101,3,25.0 kg/m2,0.9
+P1377,52.0,Male,Elective,1.7,161 mmHg,108,4,29.9 kg/m2,10.9
+P1354,27.0,Female,Urgent,2.6,140 mmHg,122,4,27.5 kg/m2,3.3
+P1803,32.0,Female,New Born,1.3,106 mmHg,86,3,17.7 kg/m2,7.3
+P1992,83.0,Other,Elective,3.1,161 mmHg,139,0,31.7 kg/m2,1.0
+P1421,35.0,Male,Elective,3.4,131 mmHg,75,8,29.8 kg/m2,3.5
+P1279,49.0,Male,Urgent,,171 mmHg,125,0,17.3 kg/m2,8.4
+P1844,49.0,Other,Urgent,2.8,169 mmHg,75,8,26.4 kg/m2,0.8
+P2252,20.0,Other,Emergency,6.0,171 mmHg,96,1,21.4 kg/m2,11.4
+P2040,91.0,Other,Urgent,1.3,171 mmHg,89,8,28.2 kg/m2,7.5
+P1152,78.0,Female,Elective,1.8,169 mmHg,97,8,31.8 kg/m2,9.1
+P1994,67.0,Other,Emergency,4.4,140 mmHg,93,4,28.2 kg/m2,8.7
+P1706,2.0,Other,Emergency,2.1,152 mmHg,126,3,21.1 kg/m2,9.2
+P2322,50.0,Other,Emergency,3.3,166 mmHg,141,2,20.9 kg/m2,13.0
+P1121,32.0,Male,Emergency,1.4,171 mmHg,82,2,25.3 kg/m2,10.6
+P1980,88.0,Other,Urgent,3.7,171 mmHg,70,5,33.3 kg/m2,7.4
+P1271,39.0,Male,Elective,1.6,131 mmHg,145,2,19.7 kg/m2,7.4
+P1795,25.0,Other,Emergency,2.7,161 mmHg,83,0,28.6 kg/m2,2.5
+P1154,89.0,Male,Elective,3.6,161 mmHg,77,5,19.4 kg/m2,8.4
+P2203,75.0,Other,New Born,5.4,161 mmHg,102,8,,5.9
+P2448,28.0,Female,New Born,,140 mmHg,60,3,19.8 kg/m2,6.5
+P2400,22.0,Male,Elective,4.3,161 mmHg,63,8,27.5 kg/m2,10.6
+P2482,84.0,Male,Emergency,5.8,161 mmHg,70,5,25.6 kg/m2,4.9
+P2390,84.0,Other,Emergency,2.8,161 mmHg,88,3,28.1 kg/m2,4.9
+P2186,73.0,Female,New Born,1.4,161 mmHg,126,0,21.9 kg/m2,9.8
+P1709,61.0,Female,Emergency,,152 mmHg,105,3,14.9 kg/m2,4.3
+P1694,38.0,Female,Emergency,5.9,171 mmHg,67,1,23.8 kg/m2,9.6
+P1456,52.0,Female,Elective,4.8,172 mmHg,147,9,33.0 kg/m2,5.6
+P1026,57.0,Male,Emergency,,171 mmHg,62,8,23.0 kg/m2,8.5
+P1442,61.0,Female,Emergency,4.6,166 mmHg,143,3,29.8 kg/m2,4.7
+P2490,50.0,Other,Elective,2.6,169 mmHg,133,3,24.9 kg/m2,10.2
+P1137,43.0,Male,Emergency,3.7,131 mmHg,77,7,22.7 kg/m2,3.2
+P1550,32.0,Other,New Born,2.9,172 mmHg,131,0,18.9 kg/m2,3.0
+P2086,12.0,Male,Elective,4.2,134 mmHg,75,9,19.1 kg/m2,7.6
+P1239,67.0,Male,Urgent,1.6,140 mmHg,125,0,30.1 kg/m2,8.9
+P1941,72.0,Female,Emergency,,140 mmHg,93,4,22.1 kg/m2,8.4
+P2408,1.0,Female,New Born,2.2,140 mmHg,92,1,21.8 kg/m2,7.5
+P1454,96.0,Male,New Born,2.1,161 mmHg,105,0,23.5 kg/m2,6.2
+P1296,8.0,Female,New Born,2.3,140 mmHg,111,8,23.5 kg/m2,4.6
+P1996,66.0,Female,Emergency,3.7,152 mmHg,134,6,30.2 kg/m2,5.1
+P1737,30.0,Female,New Born,2.7,152 mmHg,117,5,32.1 kg/m2,34.5
+P1230,0.0,Other,New Born,3.2,131 mmHg,139,4,18.8 kg/m2,7.6
+P2064,19.0,Male,Urgent,1.8,152 mmHg,145,6,26.4 kg/m2,6.5
+P1645,41.0,Other,New Born,1.1,166 mmHg,141,2,25.1 kg/m2,10.3
+P2319,12.0,Female,Urgent,5.8,172 mmHg,89,2,29.5 kg/m2,0.3
+P1736,14.0,Male,Urgent,3.4,134 mmHg,80,0,29.7 kg/m2,8.4
+P2007,51.0,Female,Urgent,1.7,171 mmHg,134,1,27.7 kg/m2,6.8
+P2084,43.0,Female,Urgent,1.7,171 mmHg,105,7,29.3 kg/m2,5.8
+P1897,,Other,Elective,2.7,134 mmHg,110,8,19.8 kg/m2,4.8
+P1514,75.0,Other,New Born,1.4,166 mmHg,73,9,22.4 kg/m2,8.0
+P2412,19.0,Male,New Born,,169 mmHg,143,9,25.4 kg/m2,10.0
+P1855,78.0,Male,Urgent,1.1,166 mmHg,119,5,22.9 kg/m2,0.8
+P1512,61.0,Female,New Born,2.0,106 mmHg,114,5,22.8 kg/m2,6.1
+P1677,85.0,Male,Emergency,0.1,166 mmHg,99,0,31.3 kg/m2,5.7
+P1105,14.0,Female,New Born,1.0,140 mmHg,86,9,,6.4
+P1095,84.0,Female,Urgent,1.6,134 mmHg,132,9,25.6 kg/m2,4.2
+P2199,4.0,Male,Urgent,2.6,172 mmHg,141,5,14.8 kg/m2,-4.3
+P2212,26.0,Other,Emergency,2.1,169 mmHg,60,0,18.7 kg/m2,3.4
+P1866,97.0,Female,Urgent,4.6,140 mmHg,138,0,25.1 kg/m2,7.3
+P1353,96.0,Other,Elective,4.2,152 mmHg,95,0,29.9 kg/m2,7.9
+P1507,77.0,Male,New Born,4.4,131 mmHg,125,0,24.8 kg/m2,3.4
+P1522,32.0,Other,Urgent,3.7,140 mmHg,98,7,27.7 kg/m2,7.5
+P2366,64.0,Male,Elective,3.8,140 mmHg,129,3,28.6 kg/m2,8.8
+P1391,53.0,Female,New Born,1.6,172 mmHg,115,2,16.5 kg/m2,7.6
+P1617,18.0,Male,Emergency,3.9,140 mmHg,96,4,22.6 kg/m2,8.7
+P1050,17.0,Male,New Born,6.0,169 mmHg,90,8,23.5 kg/m2,8.3
+P2421,37.0,Female,Elective,4.8,131 mmHg,76,1,27.8 kg/m2,11.4
+P1132,22.0,Female,New Born,1.4,131 mmHg,138,8,34.5 kg/m2,10.2
+P1902,79.0,Female,New Born,4.1,131 mmHg,93,7,25.2 kg/m2,5.7
+P1932,11.0,Other,Urgent,1.9,171 mmHg,108,5,25.2 kg/m2,7.6
+P1440,57.0,Other,Urgent,2.9,106 mmHg,97,8,24.3 kg/m2,2.3
+P1730,19.0,Female,Elective,-0.1,131 mmHg,111,6,26.8 kg/m2,9.0
+P2294,51.0,Female,Urgent,3.9,166 mmHg,77,6,22.9 kg/m2,-0.1
+P1861,37.0,Female,Elective,5.8,140 mmHg,101,1,25.9 kg/m2,9.6
+P1808,54.0,Female,Elective,4.8,169 mmHg,101,6,26.9 kg/m2,7.8
+P1305,32.0,Other,Urgent,2.6,140 mmHg,91,3,27.2 kg/m2,11.1
+P1598,23.0,Male,Emergency,3.6,152 mmHg,94,4,20.7 kg/m2,7.2
+P1041,50.0,Other,New Born,5.1,140 mmHg,94,9,26.9 kg/m2,5.4
+P2487,1.0,Other,Urgent,2.1,131 mmHg,141,5,30.9 kg/m2,-1.4
+P1531,9.0,Other,Elective,2.2,172 mmHg,102,9,23.4 kg/m2,12.0
+P1797,88.0,Male,Elective,2.4,152 mmHg,76,6,22.8 kg/m2,6.1
+P1759,59.0,Male,Urgent,2.4,134 mmHg,121,1,29.0 kg/m2,6.0
+P1341,85.0,Male,New Born,1.9,106 mmHg,98,0,34.5 kg/m2,10.6
+P2218,5.0,Male,Emergency,1.3,166 mmHg,146,2,24.9 kg/m2,3.4
+P2309,48.0,Male,Urgent,1.1,140 mmHg,96,8,25.2 kg/m2,9.9
+P1529,51.0,Female,New Born,3.9,161 mmHg,80,8,26.6 kg/m2,12.3
+P1242,55.0,Male,Elective,3.0,131 mmHg,85,9,15.7 kg/m2,7.6
+P2416,86.0,Other,Urgent,2.8,166 mmHg,64,8,22.3 kg/m2,10.9
+P1265,18.0,Male,Elective,4.2,161 mmHg,99,9,23.0 kg/m2,8.5
+P1245,23.0,Male,Emergency,1.6,171 mmHg,137,9,21.9 kg/m2,4.9
+P1802,76.0,Female,Urgent,3.5,161 mmHg,119,7,22.0 kg/m2,2.8
+P1887,16.0,Other,Elective,3.1,140 mmHg,68,3,21.0 kg/m2,8.8
+P1168,35.0,Male,Emergency,2.5,140 mmHg,98,6,24.3 kg/m2,8.6
+P1484,0.0,Male,Elective,5.1,106 mmHg,108,7,27.7 kg/m2,3.0
+P2467,84.0,Male,New Born,2.4,106 mmHg,135,1,32.5 kg/m2,10.2
+P2135,88.0,Female,Emergency,3.2,152 mmHg,86,0,21.5 kg/m2,8.1
+P2244,77.0,Other,New Born,1.8,166 mmHg,139,8,30.9 kg/m2,7.3
+P2067,0.0,Female,Urgent,3.7,166 mmHg,145,1,16.4 kg/m2,10.4
+P1437,85.0,Male,Emergency,5.6,134 mmHg,68,8,,7.0
+P1972,6.0,Male,New Born,3.6,140 mmHg,83,8,19.2 kg/m2,12.9
+P2234,99.0,Other,New Born,2.6,171 mmHg,119,4,27.6 kg/m2,7.5
+P1070,49.0,Other,New Born,4.3,169 mmHg,85,3,22.0 kg/m2,3.8
+P2483,91.0,Male,Emergency,1.6,134 mmHg,102,7,27.6 kg/m2,6.7
+P1620,11.0,Female,Urgent,4.3,161 mmHg,98,9,15.3 kg/m2,1.1
+P1596,81.0,Female,New Born,5.3,140 mmHg,70,2,24.4 kg/m2,7.7
+P2439,8.0,Male,Urgent,5.0,169 mmHg,129,6,29.9 kg/m2,9.1
+P2036,94.0,Female,New Born,4.5,140 mmHg,129,2,25.6 kg/m2,8.9
+P1249,85.0,Female,New Born,1.6,131 mmHg,112,7,25.9 kg/m2,0.7
+P2357,96.0,Other,Urgent,2.5,140 mmHg,84,5,25.1 kg/m2,5.0
+P2348,7.0,Male,Urgent,2.5,131 mmHg,116,9,19.6 kg/m2,14.2
+P1462,93.0,Female,Urgent,2.1,106 mmHg,117,9,22.8 kg/m2,12.2
+P2061,18.0,Female,Urgent,4.9,171 mmHg,85,5,25.9 kg/m2,7.2
+P1158,62.0,Male,Elective,4.6,152 mmHg,133,2,26.6 kg/m2,9.6
+P2198,7.0,Male,Urgent,4.1,166 mmHg,77,9,30.6 kg/m2,9.7
+P2320,93.0,Female,Elective,3.2,166 mmHg,79,0,31.6 kg/m2,10.3
+P1511,93.0,Male,Emergency,4.5,171 mmHg,77,0,21.7 kg/m2,7.8
+P1117,80.0,Other,Emergency,3.3,134 mmHg,92,3,21.7 kg/m2,6.4
+P2471,5.0,Other,Elective,3.6,166 mmHg,109,4,15.6 kg/m2,1.1
+P2473,39.0,Female,Urgent,4.1,166 mmHg,74,0,27.4 kg/m2,5.7
+P2003,82.0,Male,Elective,3.7,134 mmHg,116,5,24.5 kg/m2,10.5
+P1832,61.0,Other,New Born,4.4,161 mmHg,67,2,18.0 kg/m2,0.5
+P1394,45.0,Other,Urgent,4.5,166 mmHg,82,8,28.5 kg/m2,8.6
+P2027,94.0,Male,Elective,2.4,172 mmHg,85,2,29.4 kg/m2,2.0
+P1172,58.0,Female,New Born,4.0,171 mmHg,110,4,20.1 kg/m2,8.5
+P1884,3.0,Male,New Born,3.3,166 mmHg,79,1,27.7 kg/m2,10.1
+P1101,88.0,Other,New Born,0.7,171 mmHg,138,4,18.9 kg/m2,7.6
+P1074,53.0,Female,Elective,2.3,134 mmHg,129,4,25.4 kg/m2,-0.7
+P1222,58.0,Male,Elective,2.1,161 mmHg,117,8,24.8 kg/m2,11.9
+P1785,55.0,Female,Emergency,3.3,140 mmHg,71,3,,8.0
+P2423,8.0,Male,Emergency,3.1,169 mmHg,73,1,34.3 kg/m2,4.4
+P1294,36.0,Other,Urgent,2.8,106 mmHg,117,6,27.2 kg/m2,9.2
+P1761,27.0,Male,Emergency,3.5,161 mmHg,98,1,28.1 kg/m2,11.9
+P1583,28.0,Other,Elective,3.0,131 mmHg,134,3,19.9 kg/m2,7.1
+P1312,98.0,Other,Urgent,4.0,161 mmHg,64,6,26.9 kg/m2,3.4
+P2272,25.0,Male,Urgent,,166 mmHg,85,2,26.0 kg/m2,5.9
+P1955,98.0,Female,Elective,3.9,152 mmHg,75,8,29.7 kg/m2,6.6
+P1028,88.0,Male,Elective,4.5,131 mmHg,116,5,24.1 kg/m2,7.7
+P2405,28.0,Female,New Born,5.2,161 mmHg,146,3,20.9 kg/m2,9.9
+P1528,33.0,Female,New Born,2.0,166 mmHg,84,0,34.2 kg/m2,7.3
+P2048,56.0,Female,New Born,2.4,166 mmHg,70,4,21.6 kg/m2,4.0
+P1606,22.0,Female,Elective,3.6,166 mmHg,112,5,22.8 kg/m2,5.2
+P1340,58.0,Male,Emergency,6.0,134 mmHg,136,2,26.4 kg/m2,2.5
+P1278,88.0,Other,Urgent,4.6,131 mmHg,128,3,27.8 kg/m2,5.3
+P1883,28.0,Male,Urgent,,166 mmHg,129,5,21.6 kg/m2,9.8
+P2266,72.0,Other,Urgent,2.7,152 mmHg,106,5,23.1 kg/m2,8.8
+P2037,5.0,Male,New Born,3.8,169 mmHg,116,2,22.0 kg/m2,9.4
+P2415,66.0,Other,Urgent,3.2,134 mmHg,60,7,23.2 kg/m2,11.6
+P1858,65.0,Female,Emergency,0.1,171 mmHg,138,2,24.4 kg/m2,7.7
+P2071,37.0,Other,Urgent,5.3,169 mmHg,65,0,27.6 kg/m2,8.4
+P1025,75.0,Female,New Born,1.1,152 mmHg,88,2,17.5 kg/m2,4.0
+P2474,97.0,Other,Elective,1.5,140 mmHg,112,7,13.3 kg/m2,8.1
+P1348,26.0,Female,Urgent,3.0,172 mmHg,146,5,22.2 kg/m2,3.4
+P2324,82.0,Male,Urgent,2.4,134 mmHg,83,1,26.8 kg/m2,1.4
+P2131,77.0,Male,Urgent,4.1,172 mmHg,147,8,30.0 kg/m2,5.2
+P1217,38.0,Male,Emergency,3.6,171 mmHg,139,8,29.5 kg/m2,7.0
+P2210,25.0,Female,Emergency,3.6,171 mmHg,124,5,21.7 kg/m2,4.4
+P1434,31.0,Other,Elective,5.2,131 mmHg,79,7,16.6 kg/m2,7.2
+P1373,36.0,Female,Emergency,3.5,106 mmHg,88,9,22.5 kg/m2,4.8
+P1432,97.0,Male,Elective,6.9,152 mmHg,147,8,27.3 kg/m2,11.4
+P1450,69.0,Male,Urgent,2.9,140 mmHg,85,3,39.8 kg/m2,5.7
+P2419,4.0,Other,Emergency,1.9,172 mmHg,87,3,21.3 kg/m2,3.5
+P2111,75.0,Male,New Born,4.6,171 mmHg,107,3,22.5 kg/m2,13.9
+P2105,59.0,Male,Elective,1.9,169 mmHg,136,1,21.1 kg/m2,5.2
+P2222,89.0,Male,Emergency,1.9,131 mmHg,71,7,28.9 kg/m2,11.9
+P1743,56.0,Male,New Born,2.3,172 mmHg,124,6,16.0 kg/m2,2.0
+P2353,9.0,Female,Emergency,5.9,169 mmHg,146,2,18.9 kg/m2,8.1
+P1868,29.0,Other,Elective,2.9,140 mmHg,102,8,29.9 kg/m2,6.6
+P2254,35.0,Male,Urgent,3.8,172 mmHg,117,6,25.3 kg/m2,6.9
+P1027,21.0,Male,Emergency,3.7,169 mmHg,149,4,20.9 kg/m2,8.1
+P2310,,Female,Emergency,2.8,134 mmHg,140,9,23.8 kg/m2,5.0
+P1359,47.0,Other,New Born,4.5,161 mmHg,133,3,,3.9
+P1228,95.0,Female,Elective,2.8,134 mmHg,101,8,19.8 kg/m2,7.5
+P1562,43.0,Other,Emergency,3.4,172 mmHg,82,7,30.2 kg/m2,5.5
+P1322,,Other,Urgent,4.3,161 mmHg,81,8,31.3 kg/m2,8.3
+P1115,62.0,Other,Elective,2.4,140 mmHg,119,3,21.7 kg/m2,3.0
+P1329,13.0,Other,Urgent,6.5,166 mmHg,143,5,24.2 kg/m2,4.2
+P2175,37.0,Other,Urgent,1.5,172 mmHg,132,9,34.9 kg/m2,11.2
+P2301,21.0,Female,Elective,5.4,131 mmHg,107,6,19.1 kg/m2,8.5
+P2092,72.0,Other,Elective,1.1,134 mmHg,148,2,,6.5
+P2123,13.0,Other,Elective,5.9,166 mmHg,146,6,18.1 kg/m2,2.1
+P1270,32.0,Female,New Born,1.3,131 mmHg,105,1,22.2 kg/m2,2.7
+P1054,13.0,Other,New Born,,171 mmHg,136,1,19.7 kg/m2,13.8
+P2392,94.0,Female,Emergency,6.1,106 mmHg,69,2,22.3 kg/m2,5.4
+P1229,96.0,Male,Urgent,2.2,152 mmHg,102,7,20.2 kg/m2,5.5
+P2492,35.0,Other,New Born,3.6,161 mmHg,89,3,27.3 kg/m2,4.3
+P1651,34.0,Female,Emergency,1.6,106 mmHg,84,1,26.6 kg/m2,9.9
+P2075,76.0,Other,New Born,2.2,166 mmHg,85,7,,5.9
+P1187,74.0,Female,Elective,4.3,140 mmHg,72,9,24.0 kg/m2,5.0
+P2328,28.0,Female,Elective,2.9,134 mmHg,136,3,24.6 kg/m2,9.6
+P1155,41.0,Other,Urgent,5.1,106 mmHg,86,3,24.9 kg/m2,5.8
+P1119,34.0,Male,Emergency,3.6,172 mmHg,142,0,22.6 kg/m2,6.4
+P1436,62.0,Other,New Born,3.4,106 mmHg,125,5,31.1 kg/m2,7.4
+P1088,47.0,Other,Elective,2.0,134 mmHg,103,8,21.9 kg/m2,10.2
+P2361,31.0,Other,Urgent,3.1,171 mmHg,68,6,30.6 kg/m2,8.3
+P1595,35.0,Other,Elective,3.5,152 mmHg,93,0,24.9 kg/m2,2.5
+P1678,16.0,Female,Emergency,2.6,166 mmHg,61,9,25.7 kg/m2,7.8
+P1371,5.0,Female,Elective,2.6,172 mmHg,149,7,28.0 kg/m2,2.4
+P2022,93.0,Female,Emergency,1.3,134 mmHg,100,2,25.7 kg/m2,5.7
+P1766,26.0,Male,Elective,2.3,134 mmHg,60,1,29.9 kg/m2,7.8
+P2109,8.0,Male,Emergency,3.4,131 mmHg,126,8,25.3 kg/m2,6.2
+P2083,9.0,Female,New Born,1.5,171 mmHg,80,3,20.3 kg/m2,4.9
+P1102,59.0,Female,New Born,5.4,172 mmHg,131,1,27.4 kg/m2,3.7
+P1969,13.0,Female,New Born,2.6,134 mmHg,95,6,25.0 kg/m2,7.2
+P1492,15.0,Female,Urgent,5.5,171 mmHg,138,5,19.3 kg/m2,10.3
+P1023,20.0,Male,New Born,,152 mmHg,89,1,18.4 kg/m2,7.8
+P2228,81.0,Male,Urgent,2.9,171 mmHg,83,8,20.3 kg/m2,5.6
+P1731,56.0,Other,Elective,2.1,169 mmHg,139,2,,2.8
+P1684,69.0,Male,Urgent,4.9,172 mmHg,119,3,17.3 kg/m2,8.0
+P1776,45.0,Female,Elective,3.1,106 mmHg,127,1,30.0 kg/m2,1.6
+P2137,88.0,Other,Urgent,3.8,166 mmHg,96,9,16.0 kg/m2,9.9
+P1846,,Male,New Born,1.3,161 mmHg,139,1,20.6 kg/m2,11.2
+P2028,23.0,Female,New Born,1.6,161 mmHg,130,6,26.2 kg/m2,4.6
+P1008,74.0,Female,Emergency,2.7,106 mmHg,136,8,33.4 kg/m2,11.4
+P2080,9.0,Female,Emergency,5.1,131 mmHg,73,2,29.0 kg/m2,8.2
+P1939,44.0,Female,Elective,3.2,169 mmHg,121,3,33.0 kg/m2,6.5
+P1256,79.0,Other,New Born,3.3,134 mmHg,80,7,,9.5
+P1682,3.0,Other,Urgent,2.9,134 mmHg,114,9,34.6 kg/m2,3.9
+P1764,99.0,Male,Elective,,106 mmHg,137,6,20.1 kg/m2,6.4
+P1864,37.0,Female,Urgent,3.7,172 mmHg,148,3,,7.6
+P1962,89.0,Female,Elective,1.9,134 mmHg,108,1,32.5 kg/m2,9.5
+P1301,2.0,Female,Urgent,4.0,171 mmHg,97,6,27.4 kg/m2,1.6
+P2362,49.0,Other,Urgent,2.2,106 mmHg,119,9,26.0 kg/m2,7.0
+P1030,90.0,Male,Emergency,2.5,134 mmHg,68,7,22.6 kg/m2,5.3
+P1149,13.0,Male,New Born,4.5,166 mmHg,65,6,24.6 kg/m2,4.4
+P2417,11.0,Other,Emergency,1.1,171 mmHg,139,6,32.7 kg/m2,7.7
+P1947,62.0,Female,Emergency,,106 mmHg,78,2,25.1 kg/m2,7.7
+P2008,,Male,Emergency,4.3,161 mmHg,88,9,28.1 kg/m2,9.4
+P1126,72.0,Female,New Born,2.2,172 mmHg,64,0,24.3 kg/m2,50.5
+P2358,86.0,Female,New Born,4.8,172 mmHg,65,2,31.6 kg/m2,8.5
+P1398,85.0,Male,New Born,1.9,166 mmHg,132,7,21.6 kg/m2,8.8
+P1936,,Male,Emergency,3.4,131 mmHg,69,8,27.2 kg/m2,9.1
+P1159,95.0,Female,Emergency,1.5,152 mmHg,76,5,19.9 kg/m2,11.0
+P1547,11.0,Female,New Born,3.9,161 mmHg,80,8,19.4 kg/m2,7.1
+P2050,78.0,Other,Urgent,6.4,161 mmHg,136,7,26.7 kg/m2,5.4
+P2024,61.0,Female,New Born,2.4,106 mmHg,147,3,22.5 kg/m2,9.6
+P2338,77.0,Male,New Born,2.5,131 mmHg,132,7,34.2 kg/m2,2.4
+P1608,98.0,Other,Emergency,5.6,134 mmHg,63,9,34.3 kg/m2,4.5
+P1780,68.0,Other,New Born,2.7,171 mmHg,81,0,26.1 kg/m2,2.3
+P1266,19.0,Male,New Born,,166 mmHg,62,0,29.6 kg/m2,6.0
+P1945,55.0,Female,Emergency,4.8,140 mmHg,144,4,21.8 kg/m2,10.0
+P1697,12.0,Female,Emergency,2.8,131 mmHg,68,4,31.9 kg/m2,5.5
+P2311,85.0,Other,Elective,2.2,134 mmHg,123,6,24.3 kg/m2,2.8
+P2304,84.0,Other,New Born,2.8,134 mmHg,128,2,27.2 kg/m2,10.1
+P2207,94.0,Male,Elective,2.8,134 mmHg,101,1,,24.0
+P2041,74.0,Male,Urgent,2.5,106 mmHg,130,2,23.4 kg/m2,6.5
+P1076,53.0,Female,Elective,6.1,152 mmHg,119,3,26.6 kg/m2,6.7
+P2010,97.0,Male,Urgent,-1.4,169 mmHg,75,7,35.2 kg/m2,9.0
+P2326,31.0,Other,New Born,2.3,161 mmHg,96,7,16.5 kg/m2,8.9
+P1650,4.0,Female,Emergency,2.4,166 mmHg,137,8,22.3 kg/m2,9.9
+P1103,40.0,Other,Urgent,3.2,161 mmHg,142,9,32.5 kg/m2,4.0
+P1059,83.0,Other,New Born,2.7,169 mmHg,115,9,17.3 kg/m2,4.3
+P1243,16.0,Other,Urgent,1.9,172 mmHg,88,9,30.1 kg/m2,5.7
+P2197,,Female,Elective,5.7,106 mmHg,74,6,24.7 kg/m2,9.6
+P1611,61.0,Female,New Born,2.8,134 mmHg,89,3,29.4 kg/m2,8.0
+P2267,52.0,Other,Emergency,6.1,106 mmHg,101,5,22.6 kg/m2,9.1
+P1693,18.0,Male,Urgent,2.6,152 mmHg,76,6,21.0 kg/m2,6.4
+P2446,25.0,Female,Elective,4.9,171 mmHg,61,1,27.7 kg/m2,6.0
+P1773,91.0,Other,Elective,,161 mmHg,111,7,28.9 kg/m2,3.9
+P1981,27.0,Female,New Born,2.5,131 mmHg,132,3,28.9 kg/m2,6.8
+P1542,91.0,Male,Emergency,3.5,131 mmHg,63,0,26.3 kg/m2,12.3
+P2065,11.0,Other,Urgent,4.2,161 mmHg,84,5,26.0 kg/m2,4.0
+P2038,65.0,Male,New Born,4.5,106 mmHg,96,3,26.3 kg/m2,6.1
+P1201,61.0,Female,Elective,2.2,152 mmHg,135,8,22.3 kg/m2,8.7
+P2352,,Female,Elective,3.8,152 mmHg,100,3,29.1 kg/m2,4.3
+P2425,52.0,Female,Urgent,4.6,172 mmHg,87,3,24.9 kg/m2,7.5
+P1833,64.0,Male,Urgent,3.2,172 mmHg,140,8,30.2 kg/m2,2.7
+P1179,56.0,Female,Urgent,4.2,152 mmHg,144,6,20.0 kg/m2,12.4
+P1695,66.0,Other,Urgent,5.4,169 mmHg,116,0,32.6 kg/m2,9.6
+P1570,86.0,Other,Emergency,3.7,140 mmHg,140,9,28.2 kg/m2,6.2
+P1836,91.0,Other,Elective,3.8,169 mmHg,140,4,19.5 kg/m2,6.1
+P1909,,Other,Emergency,1.9,172 mmHg,130,4,16.4 kg/m2,4.8
+P1683,,Female,Urgent,5.6,172 mmHg,131,4,27.7 kg/m2,-0.0
+P1664,39.0,Male,Emergency,2.9,171 mmHg,92,0,21.5 kg/m2,11.1
+P2233,75.0,Male,New Born,1.5,169 mmHg,83,2,31.8 kg/m2,10.7
+P1065,46.0,Female,Urgent,3.5,161 mmHg,129,7,24.5 kg/m2,10.2
+P1644,52.0,Female,Urgent,1.8,169 mmHg,107,4,34.0 kg/m2,4.9
+P1552,60.0,Other,Elective,3.5,166 mmHg,102,4,24.8 kg/m2,5.6
+P1948,47.0,Female,Elective,0.3,161 mmHg,126,2,20.7 kg/m2,8.7
+P2248,10.0,Male,Elective,0.6,172 mmHg,110,1,22.2 kg/m2,4.5
+P1094,39.0,Male,Emergency,3.0,172 mmHg,116,6,17.8 kg/m2,6.6
+P2340,65.0,Female,Emergency,2.5,131 mmHg,94,9,20.8 kg/m2,7.1
+P1224,,Female,Urgent,2.2,166 mmHg,88,3,29.5 kg/m2,4.6
+P1537,3.0,Female,New Born,2.6,171 mmHg,119,1,22.5 kg/m2,6.2
+P1839,38.0,Male,Elective,4.9,169 mmHg,86,7,25.7 kg/m2,4.1
+P1160,51.0,Male,Emergency,2.4,140 mmHg,121,5,22.3 kg/m2,6.5
+P1563,28.0,Female,Emergency,4.6,161 mmHg,88,7,,9.8
+P2058,69.0,Female,Urgent,3.3,131 mmHg,76,8,13.9 kg/m2,11.6
+P2333,15.0,Other,Urgent,1.1,166 mmHg,125,5,31.7 kg/m2,4.3
+P2103,68.0,Male,Urgent,4.2,161 mmHg,64,8,27.0 kg/m2,4.5
+P2249,22.0,Male,Elective,1.8,140 mmHg,94,3,,11.2
+P2226,12.0,Male,Emergency,3.6,140 mmHg,60,6,23.3 kg/m2,1.4
+P2376,,Other,Emergency,4.9,134 mmHg,67,4,33.6 kg/m2,5.9
+P1756,89.0,Other,Emergency,2.6,169 mmHg,108,9,21.2 kg/m2,3.0
+P2153,96.0,Male,Urgent,,140 mmHg,119,6,23.8 kg/m2,5.1
+P2194,51.0,Male,Urgent,1.0,152 mmHg,116,0,16.8 kg/m2,7.5
+P1045,50.0,Other,Emergency,2.6,134 mmHg,61,9,30.6 kg/m2,4.2
+P1990,16.0,Female,Emergency,0.4,131 mmHg,98,7,20.2 kg/m2,29.5
+P2413,10.0,Male,Emergency,3.0,134 mmHg,124,0,27.3 kg/m2,10.2
+P1523,93.0,Other,Elective,0.9,171 mmHg,137,0,17.5 kg/m2,3.0
+P2053,25.0,Female,New Born,0.2,172 mmHg,111,3,18.9 kg/m2,7.7
+P1112,0.0,Other,New Born,1.1,106 mmHg,101,1,21.1 kg/m2,16.2
+P1443,21.0,Male,Urgent,2.1,134 mmHg,129,6,24.7 kg/m2,3.3
+P1357,,Other,Emergency,3.5,172 mmHg,139,2,24.1 kg/m2,7.6
+P1254,58.0,Male,New Born,1.6,166 mmHg,97,6,14.4 kg/m2,8.4
+P2129,4.0,Female,Elective,1.7,171 mmHg,133,6,22.2 kg/m2,11.4
+P1326,32.0,Other,Urgent,4.0,140 mmHg,113,1,26.5 kg/m2,12.0
+P1425,7.0,Other,Urgent,4.0,131 mmHg,80,6,25.1 kg/m2,6.9
+P1669,65.0,Female,Elective,2.0,166 mmHg,62,0,26.6 kg/m2,11.3
+P1349,26.0,Female,New Born,2.0,131 mmHg,109,4,20.8 kg/m2,4.0
+P2355,82.0,Male,Elective,,140 mmHg,115,9,23.1 kg/m2,7.3
+P1976,37.0,Other,Urgent,4.6,140 mmHg,140,4,23.3 kg/m2,1.7
+P1162,3.0,Male,Elective,6.0,161 mmHg,117,1,27.7 kg/m2,10.6
+P1991,12.0,Male,New Born,5.2,161 mmHg,147,0,16.8 kg/m2,10.5
+P1789,64.0,Other,Urgent,2.3,169 mmHg,149,8,19.5 kg/m2,7.1
+P1688,53.0,Male,Emergency,,172 mmHg,60,0,30.1 kg/m2,5.3
+P1576,73.0,Other,Emergency,2.1,166 mmHg,141,9,,6.6
+P1369,92.0,Other,New Born,3.8,166 mmHg,114,8,21.9 kg/m2,9.6
+P1848,4.0,Other,Emergency,5.3,106 mmHg,67,3,22.8 kg/m2,7.1
+P1209,31.0,Female,New Born,3.9,106 mmHg,88,8,31.3 kg/m2,7.4
+P2427,98.0,Female,Elective,,169 mmHg,120,3,22.3 kg/m2,5.4
+P1579,6.0,Male,New Born,2.2,131 mmHg,93,3,25.6 kg/m2,5.6
+P1727,35.0,Male,Emergency,,166 mmHg,76,5,25.2 kg/m2,3.2
+P1718,44.0,Male,New Born,2.2,131 mmHg,108,6,27.9 kg/m2,8.8
+P1320,53.0,Male,Elective,3.7,106 mmHg,135,5,28.4 kg/m2,0.7
+P1655,17.0,Other,Emergency,0.3,161 mmHg,139,5,32.2 kg/m2,6.4
+P2089,83.0,Male,Emergency,-0.0,131 mmHg,67,4,21.6 kg/m2,8.2
+P2091,62.0,Male,Urgent,5.9,152 mmHg,62,9,,4.1
+P1917,49.0,Female,Emergency,2.4,169 mmHg,62,2,31.4 kg/m2,3.3
+P1446,85.0,Other,Emergency,1.8,169 mmHg,129,5,27.3 kg/m2,4.8
+P1424,64.0,Male,Elective,1.5,152 mmHg,94,6,30.1 kg/m2,2.6
+P1388,17.0,Female,Elective,3.7,152 mmHg,89,3,28.2 kg/m2,8.9
+P1107,,Other,New Born,4.4,166 mmHg,85,0,22.6 kg/m2,7.4
+P2152,16.0,Male,New Born,1.2,106 mmHg,124,6,24.9 kg/m2,3.2
+P2016,52.0,Female,Emergency,5.0,106 mmHg,103,0,22.5 kg/m2,7.4
+P1698,91.0,Female,Emergency,3.4,140 mmHg,146,9,29.2 kg/m2,8.4
+P1405,32.0,Male,New Born,2.2,140 mmHg,129,2,15.9 kg/m2,6.6
+P1148,89.0,Male,Emergency,5.6,140 mmHg,61,8,24.8 kg/m2,6.8
+P1109,70.0,Female,Emergency,5.3,161 mmHg,121,0,24.5 kg/m2,6.8
+P2021,3.0,Male,Emergency,2.0,152 mmHg,125,2,31.3 kg/m2,6.6
+P1995,9.0,Female,Urgent,1.5,161 mmHg,130,8,22.3 kg/m2,2.5
+P1566,94.0,Male,Emergency,2.5,152 mmHg,87,0,25.8 kg/m2,3.2
+P1220,55.0,Female,Elective,0.7,161 mmHg,81,8,24.2 kg/m2,10.8
+P1705,0.0,Other,Emergency,1.7,106 mmHg,84,0,34.4 kg/m2,3.0
+P1328,32.0,Male,Emergency,4.6,171 mmHg,112,7,30.7 kg/m2,5.0
+P2347,0.0,Other,New Born,0.6,161 mmHg,74,7,16.2 kg/m2,6.5
+P1099,23.0,Other,Urgent,3.9,172 mmHg,64,0,26.8 kg/m2,8.3
+P2402,18.0,Female,New Born,,106 mmHg,120,1,28.5 kg/m2,3.2
+P2312,91.0,Male,New Born,-1.4,134 mmHg,149,3,26.0 kg/m2,8.9
+P2433,58.0,Male,Elective,3.4,161 mmHg,67,5,15.7 kg/m2,5.1
+P1035,79.0,Male,Elective,3.3,169 mmHg,105,7,31.8 kg/m2,6.5
+P1763,40.0,Male,Elective,4.1,134 mmHg,149,2,28.3 kg/m2,7.8
+P1882,4.0,Female,Emergency,0.2,169 mmHg,135,5,28.9 kg/m2,7.1
+P1049,38.0,Male,New Born,3.7,161 mmHg,123,1,,6.0
+P2144,50.0,Male,New Born,2.5,131 mmHg,84,2,18.3 kg/m2,5.2
+P2049,65.0,Female,Urgent,4.1,171 mmHg,124,6,25.5 kg/m2,8.1
+P1983,38.0,Female,Emergency,4.1,169 mmHg,94,8,19.8 kg/m2,3.1
+P1093,,Other,Elective,,140 mmHg,67,9,28.6 kg/m2,6.1
+P2391,13.0,Male,Urgent,1.1,106 mmHg,141,9,33.3 kg/m2,4.0
+P1368,29.0,Other,Emergency,3.7,152 mmHg,119,2,19.9 kg/m2,9.7
+P1061,59.0,Male,Elective,1.1,152 mmHg,148,1,33.2 kg/m2,11.4
+P1575,25.0,Male,New Born,4.3,131 mmHg,86,4,18.4 kg/m2,10.3
+P2238,71.0,Female,New Born,6.2,166 mmHg,83,7,16.3 kg/m2,1.0
+P1568,1.0,Female,New Born,1.8,106 mmHg,103,2,22.9 kg/m2,5.3
+P2124,59.0,Other,New Born,1.7,140 mmHg,143,8,27.0 kg/m2,5.5
+P2489,64.0,Female,Emergency,2.0,166 mmHg,109,6,21.1 kg/m2,7.7
+P1726,74.0,Female,Urgent,3.8,106 mmHg,138,2,32.0 kg/m2,6.2
+P1742,86.0,Female,New Born,-1.1,131 mmHg,72,0,40.5 kg/m2,9.1
+P1815,2.0,Female,Emergency,2.6,134 mmHg,136,2,17.4 kg/m2,2.9
+P1313,88.0,Female,Emergency,5.2,106 mmHg,72,7,22.3 kg/m2,11.9
+P1406,8.0,Other,New Born,4.5,166 mmHg,93,6,23.9 kg/m2,6.5
+P1034,59.0,Female,New Born,0.6,131 mmHg,62,5,22.0 kg/m2,7.2
+P2404,35.0,Female,New Born,4.0,169 mmHg,69,2,18.0 kg/m2,4.9
+P1299,47.0,Other,Elective,5.1,106 mmHg,79,6,25.5 kg/m2,7.7
+P1662,45.0,Other,Elective,2.9,166 mmHg,144,6,25.2 kg/m2,7.2
+P1166,42.0,Female,Emergency,3.8,106 mmHg,65,9,14.7 kg/m2,7.1
+P1787,4.0,Male,New Born,4.5,106 mmHg,114,4,32.8 kg/m2,9.4
+P1636,51.0,Male,Emergency,2.9,140 mmHg,66,1,26.9 kg/m2,3.7
+P2393,54.0,Male,Emergency,5.4,106 mmHg,98,5,21.3 kg/m2,7.8
+P2245,39.0,Male,Emergency,3.1,161 mmHg,97,5,20.3 kg/m2,6.8
+P1178,61.0,Other,New Born,3.7,106 mmHg,72,4,26.1 kg/m2,2.8
+P1486,0.0,Male,Emergency,2.3,131 mmHg,78,4,30.3 kg/m2,6.3
+P1225,91.0,Other,Elective,0.4,140 mmHg,94,0,32.9 kg/m2,8.5
+P2288,58.0,Female,Emergency,3.7,169 mmHg,142,3,23.7 kg/m2,9.6
+P1106,44.0,Other,Urgent,2.7,140 mmHg,99,8,32.0 kg/m2,7.4
+P1554,42.0,Female,Urgent,4.6,169 mmHg,145,0,20.4 kg/m2,6.0
+P1032,41.0,Male,Elective,1.7,152 mmHg,61,1,28.7 kg/m2,6.1
+P2232,42.0,Female,Elective,0.5,131 mmHg,134,7,15.7 kg/m2,6.6
+P1907,3.0,Female,Elective,4.8,171 mmHg,103,8,23.9 kg/m2,4.9
+P1863,97.0,Male,Urgent,1.0,106 mmHg,71,7,24.5 kg/m2,12.2
+P1110,8.0,Other,Elective,0.8,169 mmHg,142,0,30.3 kg/m2,4.5
+P1825,77.0,Other,Urgent,2.1,131 mmHg,130,0,19.6 kg/m2,8.5
+P1453,59.0,Male,Elective,-0.4,152 mmHg,130,1,25.0 kg/m2,3.5
+P1200,8.0,Male,New Born,3.7,169 mmHg,132,2,20.9 kg/m2,7.7
+P1586,20.0,Male,Emergency,1.9,166 mmHg,124,6,18.3 kg/m2,3.8
+P1330,20.0,Female,Emergency,1.8,171 mmHg,90,6,22.5 kg/m2,10.7
+P2273,40.0,Female,Emergency,2.8,166 mmHg,60,5,21.7 kg/m2,6.6
+P1560,73.0,Male,Urgent,6.0,172 mmHg,61,1,18.9 kg/m2,6.5
+P1885,9.0,Female,Emergency,3.7,131 mmHg,64,2,36.0 kg/m2,6.2
+P1804,97.0,Other,Emergency,3.1,152 mmHg,74,4,30.0 kg/m2,5.4
+P1679,70.0,Male,Emergency,4.3,152 mmHg,132,7,32.0 kg/m2,5.9
+P1769,72.0,Male,Urgent,3.5,161 mmHg,89,4,34.0 kg/m2,3.9

@@ -1,0 +1,1001 @@
+Drug_ID,Drug_Name,Category,Dosage,Manufacturing_Cost,Competitor_Price,Region,Brand_Recognition,Shelf_Life,Approval_Status,Target_Illness,Customer_Rating,Release_Year,Final_Price
+D0001,Drug_1,Antifungal,1g,7.8,7.97,N. America,67.0,12.0,Approved,Influenza,1.7397040750912698,2005,7.7
+D0002,Drug_2,Antidepressant,1g,6.85,9.57,South America,69.0,16.0,Pending,Pneumonia,,1995,10.53
+D0003,Drug_3,Antiviral,1g,5.12,7.62,Europe,55.0,31.0,Rejected,COVID-19,4.04510182540165,1992,14.18
+D0004,Drug_4,Antidepressant,1g,3.71,9.08,N. America,93.0,13.0,Pending,Skin Infection,3.2520517726866522,2010,20.57
+D0005,Drug_5,Antidepressant,1g,6.4,4.32,North America,45.0,18.0,Rejected,Influenza,4.878227500892741,2002,11.36
+D0006,Drug_6,Analgesic,500mg,5.79,10.64,Eurupe,64.0,11.0,Approved,Pneumonia,3.596915118163854,2007,4.9
+D0007,Drug_7,Antiviral,1g,6.79,10.0,Eurupe,96.0,30.0,Rejected,Skin Infection,1.0334626399365767,2013,8.84
+D0008,Drug_8,Antiviral,500mg,6.27,7.55,Europe,35.0,34.0,Rejected,COVID-19,1.642412585718596,2016,14.64
+D0009,Drug_9,Antiviral,1g,7.1,11.98,Africa,67.0,22.0,Approved,Depression,3.090291281047238,1993,8.12
+D0010,Drug_10,Antidepressant,250 mg,3.93,12.81,Eurupe,99.0,12.0,Rejected,Influenza,3.2165148648418254,2011,6.78
+D0011,Drug_11,Antifungal,0.5g,7.63,5.18,Europe,,7.0,Approved,Depression,1.4442532131266188,2013,14.61
+D0012,Drug_12,Antiviral,500mg,5.4,7.71,Eurupe,72.0,8.0,Pending,Pneumonia,2.4901098112111795,1999,13.86
+D0013,Drug_13,Antidepressant,1g,9.15,7.69,Eurupe,30.0,24.0,Approved,Depression,1.441637990706905,1991,6.11
+D0014,Drug_14,Analgesic,250 mg,3.62,7.18,South America,81.0,14.0,Approved,Depression,4.225611276986298,1995,8.42
+D0015,Drug_15,Antifungal,0.5g,8.47,12.49,North America,46.0,25.0,Rejected,Pneumonia,1.7120812971690813,2007,16.98
+D0016,Drug_16,Analgesic,500mg,5.4,9.42,South America,38.0,31.0,Pending,Pneumonia,4.46990809398389,2006,15.41
+D0017,Drug_17,Antifungal,0.5g,3.7,9.21,North America,66.0,22.0,Approved,Influenza,4.849211932697107,2050,7.21
+D0018,Drug_18,Antidepressant,250 mg,4.03,3.99,Eurupe,70.0,18.0,Pending,Depression,4.367722697917014,2012,4.04
+D0019,Drug_19,Antibiotic,500mg,100.0,11.91,N. America,35.0,19.0,Pending,Skin Infection,3.7918871636944544,2019,13.07
+D0020,Drug_20,Antifungal,0.5g,5.85,6.28,Africa,68.0,25.0,Rejected,Pneumonia,2.112194993333357,2010,10.82
+D0021,Drug_21,Analgesic,1g,6.05,10.18,Eurupe,74.0,23.0,Approved,COVID-19,4.428771814347223,1999,12.73
+D0022,Drug_22,Antidepressant,500mg,3.85,10.83,North America,87.0,19.0,Rejected,Depression,3.2165148648418254,2002,14.54
+D0023,Drug_23,Antifungal,0.5g,4.95,14.08,North America,97.0,19.0,Approved,Pneumonia,,2001,8.17
+D0024,Drug_24,Antibiotic,250 mg,9.28,6.07,North America,47.0,11.0,Pending,Skin Infection,3.6415473528035545,1998,10.27
+D0025,Drug_25,Antibiotic,250 mg,8.46,0.94,Eurupe,66.0,17.0,Approved,Influenza,1.1292930613043612,1993,8.4
+D0026,Drug_26,Antiviral,500mg,5.87,10.55,Europe,50.0,25.0,Approved,Depression,2.258326186184909,2013,8.55
+D0027,Drug_27,Antiviral,0.5g,5.08,15.4,N. America,94.0,22.0,Pending,Pneumonia,3.708425464785113,2023,14.26
+D0028,Drug_28,Analgesic,500mg,5.24,13.72,Europe,55.0,14.0,Pending,Pneumonia,1.6782540742844363,1994,12.58
+D0029,Drug_29,Antifungal,500mg,200.0,10.63,Africa,99.0,11.0,Approved,COVID-19,4.587976312742695,2004,5.75
+D0030,Drug_30,Antifungal,0.5g,2.95,8.53,Eurupe,47.0,9.0,Rejected,COVID-19,1.7397040750912698,1993,14.9
+D0031,Drug_31,Antiviral,0.5g,4.49,12.42,North America,69.0,31.0,Approved,Depression,1.9957159508583748,1997,10.6
+D0032,Drug_32,Antifungal,1g,1.66,7.08,N. America,32.0,11.0,Pending,Pneumonia,1.1623839412094936,2013,15.08
+D0033,Drug_33,Antifungal,0.5g,5.8,11.43,N. America,82.0,8.0,Rejected,Depression,2.2780858072299033,2017,7.94
+D0034,Drug_34,Antibiotic,250 mg,6.29,11.52,Asia,89.0,19.0,Pending,Pneumonia,2.2680038789372157,2016,8.3
+D0035,Drug_35,Antiviral,500mg,4.03,13.18,Africa,84.0,25.0,Pending,COVID-19,1.8604823881841637,1990,13.01
+D0036,Drug_36,Antidepressant,500mg,8.15,18.28,N. America,94.0,14.0,Rejected,Skin Infection,2.0540286140834274,2023,7.61
+D0037,Drug_37,Antiviral,250 mg,2.55,11.18,Eurupe,42.0,30.0,Pending,Headache,1.7397040750912698,2006,10.9
+D0038,Drug_38,Antidepressant,0.5g,2.07,8.47,North America,35.0,10.0,Pending,Headache,2.2660071170504814,1890,7.16
+D0039,Drug_39,Antibiotic,250 mg,5.45,9.92,North America,49.0,12.0,Pending,Pneumonia,4.042645368094426,2050,10.43
+D0040,Drug_40,Analgesic,250 mg,7.09,4.69,N. America,52.0,21.0,Pending,COVID-19,3.405547943927144,2015,11.87
+D0041,Drug_41,Antifungal,1g,8.37,7.92,Europe,74.0,25.0,Pending,Influenza,,2013,12.06
+D0042,Drug_42,Antibiotic,250 mg,4.08,8.77,Africa,64.0,26.0,Pending,Influenza,1.787733949763481,2010,10.54
+D0043,Drug_43,Antifungal,500mg,7.16,8.43,North America,,33.0,Pending,Headache,3.8117901944676262,2019,13.33
+D0044,Drug_44,Analgesic,250 mg,4.92,10.46,N. America,95.0,14.0,Pending,Skin Infection,2.178859387425875,2002,12.59
+D0045,Drug_45,Analgesic,500mg,4.65,7.53,North America,65.0,7.0,Pending,Headache,2.8752758320609653,1890,11.64
+D0046,Drug_46,Antibiotic,500mg,6.77,13.36,N. America,32.0,21.0,Approved,Pneumonia,3.7355734191107075,1992,9.5
+D0047,Drug_47,Analgesic,500mg,6.3,10.0,Africa,68.0,15.0,Approved,Skin Infection,2.6993229465732447,2021,16.27
+D0048,Drug_48,Antidepressant,0.5g,1.85,9.97,N. America,36.0,16.0,Pending,Influenza,4.54280765416191,2024,13.55
+D0049,Drug_49,Analgesic,1g,7.95,9.02,Asia,91.0,32.0,Approved,COVID-19,2.0720460020783893,2008,7.86
+D0050,Drug_50,Antifungal,500mg,7.76,10.47,N. America,72.0,23.0,Rejected,COVID-19,1.510272605457137,2003,14.6
+D0051,Drug_51,Antifungal,500mg,3.75,12.48,N. America,31.0,22.0,Approved,Pneumonia,2.8130467335268925,2011,15.5
+D0052,Drug_52,Antifungal,0.5g,5.79,7.4,Eurupe,55.0,35.0,Pending,Headache,4.623894654037041,2006,11.67
+D0053,Drug_53,Antifungal,500mg,5.99,8.03,Africa,81.0,15.0,Pending,Pneumonia,2.7294239685870587,1993,11.94
+D0054,Drug_54,Antidepressant,250 mg,5.52,9.09,Eurupe,90.0,29.0,Approved,COVID-19,3.885031631735299,2008,3.76
+D0055,Drug_55,Antiviral,250 mg,3.9,5.96,N. America,30.0,18.0,Pending,Influenza,1.9968150823651492,1890,8.63
+D0056,Drug_56,Antibiotic,1g,3.66,7.54,Africa,48.0,15.0,Rejected,COVID-19,2.747819444334791,1991,15.37
+D0057,Drug_57,Antifungal,500mg,4.95,8.57,Asia,37.0,23.0,Rejected,Skin Infection,1.82419424085156,2004,8.87
+D0058,Drug_58,Analgesic,0.5g,7.35,12.62,Africa,49.0,32.0,Pending,Depression,1.4681802908253045,1991,11.36
+D0059,Drug_59,Antifungal,250 mg,6.09,10.79,North America,64.0,23.0,Rejected,COVID-19,3.5533670023243586,2000,8.57
+D0060,Drug_60,Analgesic,0.5g,4.26,10.58,Eurupe,35.0,8.0,Rejected,COVID-19,,2012,12.92
+D0061,Drug_61,Analgesic,0.5g,6.54,12.55,Africa,67.0,17.0,Approved,Depression,3.0194992603812283,1999,13.57
+D0062,Drug_62,Antifungal,250 mg,-0.7,9.59,Asia,80.0,24.0,Rejected,Skin Infection,1.7397040750912698,1992,13.68
+D0063,Drug_63,Antidepressant,0.5g,7.3,11.17,South America,72.0,10.0,Approved,Headache,2.9503264135868643,1994,7.44
+D0064,Drug_64,Analgesic,250 mg,1.52,9.69,N. America,69.0,15.0,Pending,COVID-19,4.737013196385444,1992,12.43
+D0065,Drug_65,Analgesic,0.5g,4.28,10.8,Africa,36.0,10.0,Approved,Pneumonia,2.3994009443634194,2050,18.31
+D0066,Drug_66,Antifungal,250 mg,2.76,8.25,N. America,80.0,22.0,Pending,COVID-19,2.113861163661384,2002,14.99
+D0067,Drug_67,Analgesic,500mg,2.41,2.68,Europe,99.0,31.0,Pending,Pneumonia,3.99282847358051,2008,12.37
+D0068,Drug_68,Analgesic,1g,7.32,9.6,North America,52.0,15.0,Pending,Skin Infection,2.5402027168144667,2024,4.28
+D0069,Drug_69,Antifungal,250 mg,4.06,14.27,Eurupe,85.0,20.0,Pending,COVID-19,1.1231007130366404,2013,11.0
+D0070,Drug_70,Antifungal,250 mg,5.69,12.78,North America,88.0,24.0,Pending,Skin Infection,1.680521309534436,2013,18.59
+D0071,Drug_71,Antibiotic,1g,4.91,12.9,Europe,,24.0,Approved,Skin Infection,2.9042350780079875,2006,17.27
+D0072,Drug_72,Antidepressant,250 mg,5.95,13.71,Europe,72.0,19.0,Pending,Headache,2.1528107754001553,1999,13.85
+D0073,Drug_73,Antidepressant,250 mg,5.15,10.27,Eurupe,92.0,9.0,Rejected,COVID-19,3.75458020905756,1991,9.12
+D0074,Drug_74,Analgesic,0.5g,2.43,10.59,Africa,,11.0,Rejected,Pneumonia,4.878227500892741,2012,12.21
+D0075,Drug_75,Antidepressant,1g,6.99,8.15,Europe,80.0,8.0,Pending,Pneumonia,2.704461115323118,1995,15.09
+D0076,Drug_76,Analgesic,500mg,4.01,9.05,South America,43.0,23.0,Rejected,COVID-19,2.1044745297738325,1991,15.76
+D0077,Drug_77,Antibiotic,250 mg,1.89,11.85,N. America,71.0,16.0,Approved,Depression,,2010,13.25
+D0078,Drug_78,Antifungal,1g,4.14,13.61,N. America,99.0,15.0,Approved,Headache,2.9228938258758927,2024,15.42
+D0079,Drug_79,Antifungal,0.5g,8.0,9.58,Asia,64.0,11.0,Pending,Headache,3.3507605102392755,2018,11.77
+D0080,Drug_80,Antifungal,500mg,6.7,8.65,Europe,87.0,11.0,Pending,Headache,3.0697302392518524,1996,11.59
+D0081,Drug_81,Antidepressant,1g,4.3,10.0,Europe,,17.0,Pending,Pneumonia,4.02316497154121,2018,10.16
+D0082,Drug_82,Antibiotic,500mg,4.3,11.8,South America,58.0,20.0,Rejected,Skin Infection,2.04963129028298,1890,13.7
+D0083,Drug_83,Antidepressant,500mg,4.36,5.67,North America,80.0,35.0,Rejected,Depression,3.0941663754283266,2012,16.0
+D0084,Drug_84,Antidepressant,500mg,9.15,3.11,North America,77.0,23.0,Approved,Headache,2.676351014683864,2022,14.83
+D0085,Drug_85,Antibiotic,250 mg,5.76,8.35,N. America,71.0,9.0,Rejected,Pneumonia,3.1195811862157647,1997,7.13
+D0086,Drug_86,Antibiotic,250 mg,5.86,6.34,N. America,84.0,12.0,Approved,Pneumonia,,2001,7.34
+D0087,Drug_87,Antibiotic,0.5g,7.06,8.48,Africa,92.0,7.0,Rejected,Skin Infection,2.961785839683902,1999,16.41
+D0088,Drug_88,Antibiotic,0.5g,5.48,9.56,Eurupe,55.0,24.0,Approved,COVID-19,1.0979210632527998,2004,12.71
+D0089,Drug_89,Antifungal,1g,4.48,8.64,South America,38.0,9.0,Pending,COVID-19,3.936294124023512,2013,12.86
+D0090,Drug_90,Antiviral,0.5g,4.61,14.36,Eurupe,31.0,7.0,Rejected,Headache,3.7918871636944544,2015,12.77
+D0091,Drug_91,Antiviral,500mg,4.86,10.98,Eurupe,64.0,15.0,Approved,Headache,2.1927795115023954,1992,19.01
+D0092,Drug_92,Antibiotic,500mg,4.93,10.9,Asia,80.0,13.0,Rejected,Depression,2.109387046898517,1991,10.21
+D0093,Drug_93,Antiviral,250 mg,6.46,11.87,Eurupe,39.0,19.0,Pending,Skin Infection,3.431830810734437,1995,16.47
+D0094,Drug_94,Antiviral,500mg,5.1,6.58,Asia,91.0,12.0,Approved,Headache,4.01123597804404,2010,12.93
+D0095,Drug_95,Antibiotic,1g,6.47,13.12,Eurupe,47.0,16.0,Rejected,Skin Infection,4.764542339401789,1998,5.6
+D0096,Drug_96,Antiviral,500mg,4.84,9.77,South America,62.0,21.0,Rejected,Pneumonia,1.5876356360917079,1999,8.7
+D0097,Drug_97,Antidepressant,500mg,5.16,,Asia,95.0,32.0,Pending,Headache,1.7120812971690813,2025,9.57
+D0098,Drug_98,Analgesic,1g,1.0,,North America,98.0,32.0,Pending,Pneumonia,4.241457599037748,1992,16.37
+D0099,Drug_99,Analgesic,0.5g,6.83,5.34,Asia,38.0,15.0,Approved,Influenza,,2013,16.91
+D0100,Drug_100,Antibiotic,0.5g,5.69,12.45,Asia,93.0,15.0,Rejected,Skin Infection,2.7886420181226543,2011,13.42
+D0101,Drug_101,Antifungal,1g,7.0,11.13,South America,31.0,6.0,Rejected,Influenza,4.614471479194842,2003,9.91
+D0102,Drug_102,Antibiotic,250 mg,-0.79,7.29,South America,46.0,31.0,Pending,Headache,4.06682095198726,2016,8.36
+D0103,Drug_103,Antifungal,500mg,9.18,7.39,Asia,48.0,15.0,Pending,Pneumonia,2.9040828275204795,2022,16.55
+D0104,Drug_104,Analgesic,1g,4.72,13.38,Europe,70.0,7.0,Approved,Headache,4.594466163773883,2011,6.86
+D0105,Drug_105,Antibiotic,500mg,7.22,6.43,South America,58.0,10.0,Rejected,Influenza,2.951291349527524,2018,11.58
+D0106,Drug_106,Antidepressant,250 mg,2.92,14.93,Africa,73.0,19.0,Rejected,Headache,4.094589580221337,2008,21.46
+D0107,Drug_107,Antiviral,500mg,6.23,7.3,Africa,45.0,19.0,Approved,Depression,3.185684049440411,2008,9.92
+D0108,Drug_108,Antifungal,1g,2.89,11.92,North America,91.0,28.0,Approved,COVID-19,1.0979210632527998,1995,6.91
+D0109,Drug_109,Antiviral,500mg,3.75,9.01,Eurupe,87.0,24.0,Pending,Influenza,4.938577477493466,2008,4.94
+D0110,Drug_110,Antiviral,0.5g,8.83,11.81,Asia,82.0,22.0,Pending,Headache,1.504678360594947,2002,21.62
+D0111,Drug_111,Antibiotic,250 mg,4.62,8.37,Europe,70.0,22.0,Approved,Pneumonia,2.6619735867836574,2015,13.39
+D0112,Drug_112,Antiviral,250 mg,5.43,9.51,North America,41.0,23.0,Approved,Headache,3.780785838812845,2011,8.52
+D0113,Drug_113,Antidepressant,250 mg,6.74,,Asia,59.0,28.0,Rejected,Pneumonia,1.7226507956096375,2010,11.24
+D0114,Drug_114,Antiviral,1g,5.99,6.99,South America,52.0,26.0,Approved,COVID-19,3.8117901944676262,2025,9.35
+D0115,Drug_115,Antibiotic,250 mg,5.3,12.22,Africa,32.0,31.0,Approved,Headache,2.6993229465732447,1991,4.55
+D0116,Drug_116,Antidepressant,0.5g,5.73,8.46,N. America,71.0,15.0,Rejected,COVID-19,1.6682226778751428,2019,15.15
+D0117,Drug_117,Analgesic,1g,9.81,,Europe,66.0,31.0,Approved,Influenza,1.1850327570451356,2016,12.14
+D0118,Drug_118,Antiviral,0.5g,4.88,7.02,N. America,93.0,32.0,Pending,Pneumonia,3.1410109385172365,1996,14.82
+D0119,Drug_119,Antibiotic,500mg,5.4,2.31,Africa,69.0,30.0,Pending,Depression,3.793090374122186,2009,12.03
+D0120,Drug_120,Analgesic,500mg,7.1,9.43,Eurupe,73.0,24.0,Rejected,Influenza,1.7065721194818781,2020,12.52
+D0121,Drug_121,Analgesic,500mg,7.21,17.24,Eurupe,84.0,11.0,Approved,Pneumonia,4.217218851822067,2012,3.06
+D0122,Drug_122,Antifungal,500mg,7.37,12.35,N. America,84.0,25.0,Pending,COVID-19,1.8751774063068902,2002,15.63
+D0123,Drug_123,Antidepressant,0.5g,6.28,9.94,South America,56.0,19.0,Pending,Skin Infection,1.564438593330597,2006,7.65
+D0124,Drug_124,Antiviral,1g,2.71,9.21,Asia,57.0,8.0,Pending,Headache,2.8383981985528943,1993,8.67
+D0125,Drug_125,Antibiotic,1g,8.27,10.07,South America,46.0,14.0,Pending,COVID-19,3.6032107605735186,2003,9.89
+D0126,Drug_126,Antifungal,250 mg,2.71,11.64,N. America,41.0,35.0,Approved,Pneumonia,1.0063176843116475,2009,3.77
+D0127,Drug_127,Antidepressant,0.5g,5.61,6.46,South America,72.0,27.0,Approved,Pneumonia,1.0063385778653604,2002,9.67
+D0128,Drug_128,Antifungal,500mg,3.49,13.34,Africa,49.0,29.0,Approved,Pneumonia,3.688802654260449,1992,9.39
+D0129,Drug_129,Antidepressant,0.5g,4.87,12.15,Europe,,33.0,Approved,Pneumonia,3.7905855311188996,2015,10.49
+D0130,Drug_130,Antidepressant,250 mg,5.66,12.15,South America,42.0,30.0,Pending,Headache,2.2660071170504814,2015,5.2
+D0131,Drug_131,Antiviral,250 mg,5.64,11.32,Africa,72.0,29.0,Rejected,Influenza,2.3617643203976737,2007,15.71
+D0132,Drug_132,Antidepressant,0.5g,5.84,10.06,Europe,88.0,33.0,Rejected,Depression,3.6900896169525574,2021,13.59
+D0133,Drug_133,Antifungal,0.5g,8.23,12.02,Eurupe,69.0,18.0,Pending,Skin Infection,1.0290912307760371,2003,8.54
+D0134,Drug_134,Antidepressant,0.5g,5.91,11.78,Asia,55.0,9.0,Pending,Headache,2.4957114788271353,1992,9.67
+D0135,Drug_135,Antiviral,1g,4.51,8.94,N. America,94.0,23.0,Rejected,Pneumonia,3.99282847358051,1990,15.35
+D0136,Drug_136,Antiviral,500mg,6.93,8.28,Eurupe,54.0,6.0,Rejected,Headache,,2015,10.97
+D0137,Drug_137,Antifungal,0.5g,7.38,10.31,Asia,,6.0,Pending,COVID-19,4.46990809398389,2013,7.04
+D0138,Drug_138,Analgesic,0.5g,2.54,14.65,Eurupe,86.0,29.0,Pending,Depression,4.587976312742695,2024,11.67
+D0139,Drug_139,Analgesic,0.5g,6.19,6.28,North America,72.0,35.0,Approved,Pneumonia,1.6541827472965571,2003,7.65
+D0140,Drug_140,Antidepressant,250 mg,6.4,5.6,Eurupe,75.0,8.0,Approved,Skin Infection,3.326605330692027,1992,9.17
+D0141,Drug_141,Antibiotic,250 mg,4.4,10.49,Africa,98.0,19.0,Rejected,Pneumonia,3.1340857239239353,2002,11.8
+D0142,Drug_142,Antidepressant,1g,7.75,10.15,Europe,70.0,26.0,Pending,Depression,,2003,16.22
+D0143,Drug_143,Antifungal,500mg,4.7,10.52,Eurupe,32.0,26.0,Rejected,Skin Infection,1.611847482422975,2010,20.09
+D0144,Drug_144,Antifungal,1g,5.25,10.73,South America,31.0,6.0,Approved,Depression,4.810568523203445,2015,17.45
+D0145,Drug_145,Antifungal,500mg,4.65,9.33,Asia,78.0,31.0,Approved,Skin Infection,4.163092254928136,1992,11.71
+D0146,Drug_146,Antifungal,250 mg,5.03,14.47,Eurupe,54.0,35.0,Rejected,Influenza,2.95881612743142,1993,21.03
+D0147,Drug_147,Antifungal,250 mg,2.81,5.2,Europe,87.0,17.0,Approved,Influenza,2.5630119382680165,2025,14.23
+D0148,Drug_148,Antiviral,250 mg,100.0,7.51,Africa,78.0,8.0,Pending,Headache,2.1927795115023954,1990,8.08
+D0149,Drug_149,Analgesic,1g,8.19,9.69,North America,50.0,31.0,Rejected,Headache,1.8570217373727376,2022,12.38
+D0150,Drug_150,Antifungal,0.5g,3.31,5.07,Asia,61.0,30.0,Pending,Skin Infection,,1996,9.37
+D0151,Drug_151,Antibiotic,0.5g,3.02,9.47,N. America,55.0,13.0,Pending,Pneumonia,3.2367435199193935,2000,7.01
+D0152,Drug_152,Antibiotic,250 mg,0.69,14.98,Europe,37.0,26.0,Approved,COVID-19,4.247252427783114,2016,7.3
+D0153,Drug_153,Antibiotic,0.5g,3.72,10.06,N. America,33.0,33.0,Pending,COVID-19,4.998830551287324,2003,11.41
+D0154,Drug_154,Antibiotic,0.5g,2.35,10.69,Europe,33.0,24.0,Rejected,Pneumonia,1.510272605457137,2011,15.02
+D0155,Drug_155,Antiviral,1g,8.28,6.22,Europe,92.0,6.0,Pending,Pneumonia,1.5936067859448615,2005,16.27
+D0156,Drug_156,Antibiotic,500mg,7.02,,Africa,31.0,34.0,Pending,Influenza,1.111399110331023,2001,7.02
+D0157,Drug_157,Antifungal,250 mg,3.62,8.87,Africa,72.0,35.0,Pending,COVID-19,3.090291281047238,1999,10.79
+D0158,Drug_158,Antidepressant,250 mg,9.5,9.05,Africa,80.0,24.0,Pending,Skin Infection,3.780785838812845,2013,13.95
+D0159,Drug_159,Antibiotic,1g,6.96,13.84,Eurupe,84.0,31.0,Pending,Depression,4.824531425369476,2007,12.61
+D0160,Drug_160,Antiviral,1g,4.35,11.67,South America,69.0,24.0,Approved,Headache,3.126402996071574,2011,14.78
+D0161,Drug_161,Antiviral,0.5g,0.0,6.67,Europe,40.0,21.0,Rejected,Depression,1.4542581639101506,1998,10.26
+D0162,Drug_162,Antibiotic,250 mg,9.58,,Asia,91.0,18.0,Approved,Influenza,2.1279974107398867,2006,17.09
+D0163,Drug_163,Antidepressant,500mg,2.22,11.49,N. America,46.0,14.0,Rejected,COVID-19,4.5266980411474895,2050,11.98
+D0164,Drug_164,Antibiotic,1g,1.71,13.42,Africa,43.0,18.0,Rejected,Pneumonia,3.2495135215376085,2002,15.03
+D0165,Drug_165,Antiviral,500mg,7.05,14.74,Eurupe,45.0,27.0,Rejected,COVID-19,1.6544960008409353,1890,10.48
+D0166,Drug_166,Analgesic,500mg,9.88,6.95,Africa,31.0,23.0,Rejected,Skin Infection,4.857533675136151,1995,12.23
+D0167,Drug_167,Antifungal,250 mg,7.77,7.57,N. America,,13.0,Rejected,Influenza,1.1623839412094936,2010,5.62
+D0168,Drug_168,Antiviral,250 mg,6.13,6.23,N. America,85.0,29.0,Pending,Pneumonia,2.4275995486990194,2025,8.65
+D0169,Drug_169,Antibiotic,1g,6.19,9.3,Europe,,12.0,Approved,Depression,1.510272605457137,1996,11.17
+D0170,Drug_170,Antifungal,250 mg,6.71,11.4,Africa,76.0,26.0,Approved,Skin Infection,1.8437093444260477,2025,12.4
+D0171,Drug_171,Antibiotic,250 mg,6.52,12.96,N. America,81.0,29.0,Pending,Depression,3.6373125119360057,2014,22.72
+D0172,Drug_172,Antibiotic,250 mg,5.56,9.77,South America,75.0,31.0,Rejected,Headache,3.7905855311188996,2000,10.47
+D0173,Drug_173,Analgesic,500mg,5.21,9.04,South America,40.0,25.0,Approved,Influenza,1.5515797696583062,2003,6.49
+D0174,Drug_174,Antifungal,1g,4.87,10.46,Africa,,26.0,Pending,Skin Infection,4.22884398570167,2018,18.81
+D0175,Drug_175,Antifungal,0.5g,3.49,7.49,Eurupe,77.0,16.0,Pending,Skin Infection,1.4439792556872426,1999,16.32
+D0176,Drug_176,Analgesic,500mg,4.44,16.27,N. America,,30.0,Approved,Depression,4.750966619739288,1994,7.37
+D0177,Drug_177,Antiviral,250 mg,1.61,5.18,Europe,80.0,31.0,Approved,Pneumonia,2.4312531188104383,1997,13.86
+D0178,Drug_178,Antibiotic,500mg,4.8,10.55,Europe,,33.0,Rejected,Headache,3.8117901944676262,1994,15.34
+D0179,Drug_179,Antidepressant,250 mg,3.02,16.07,Eurupe,33.0,30.0,Rejected,Depression,3.569278603902977,2013,12.66
+D0180,Drug_180,Antibiotic,250 mg,2.79,,Europe,71.0,30.0,Approved,Skin Infection,3.75458020905756,2015,13.3
+D0181,Drug_181,Antibiotic,500mg,5.36,,North America,95.0,26.0,Rejected,Influenza,1.078010590442081,1995,9.47
+D0182,Drug_182,Antiviral,1g,7.78,8.93,Africa,,12.0,Pending,Skin Infection,3.1516781053169725,2005,14.02
+D0183,Drug_183,Antibiotic,250 mg,6.84,9.46,Europe,30.0,16.0,Rejected,COVID-19,4.707953899271182,2025,10.03
+D0184,Drug_184,Analgesic,1g,1.86,14.12,South America,56.0,29.0,Rejected,Influenza,2.253104044552715,2001,1.42
+D0185,Drug_185,Analgesic,0.5g,3.02,3.36,N. America,81.0,28.0,Pending,Influenza,3.544875314677379,2000,12.79
+D0186,Drug_186,Antifungal,250 mg,6.88,14.6,Asia,61.0,24.0,Rejected,Skin Infection,2.321230750227514,1992,5.3
+D0187,Drug_187,Antidepressant,1g,3.04,5.73,Eurupe,56.0,30.0,Pending,Pneumonia,4.737013196385444,1890,16.05
+D0188,Drug_188,Antibiotic,1g,4.55,9.2,Asia,60.0,6.0,Rejected,Influenza,2.064633544204706,1995,7.48
+D0189,Drug_189,Antibiotic,0.5g,6.1,,Europe,58.0,8.0,Approved,COVID-19,2.9521528971269997,2008,2.19
+D0190,Drug_190,Antiviral,1g,3.06,11.77,Asia,37.0,15.0,Rejected,Depression,4.385740705229228,2007,4.92
+D0191,Drug_191,Analgesic,1g,5.21,5.21,Asia,52.0,8.0,Approved,Pneumonia,4.490296077190578,2005,11.83
+D0192,Drug_192,Antidepressant,0.5g,2.33,11.39,North America,80.0,7.0,Approved,Pneumonia,4.125027815131409,2012,12.75
+D0193,Drug_193,Antifungal,250 mg,3.8,16.07,South America,52.0,19.0,Approved,Pneumonia,4.724481807773403,1890,6.35
+D0194,Drug_194,Analgesic,1g,5.64,5.91,Eurupe,38.0,21.0,Approved,Influenza,3.0941663754283266,1998,7.71
+D0195,Drug_195,Antifungal,1g,1.81,10.57,South America,57.0,17.0,Approved,Pneumonia,2.5779385253900213,1992,11.97
+D0196,Drug_196,Antiviral,1g,5.88,8.01,North America,72.0,33.0,Pending,Skin Infection,2.4312531188104383,1997,15.89
+D0197,Drug_197,Antiviral,500mg,4.96,11.28,North America,77.0,29.0,Pending,Pneumonia,2.95881612743142,2050,7.16
+D0198,Drug_198,Antibiotic,0.5g,6.1,10.06,Asia,55.0,33.0,Pending,COVID-19,3.2045653447789353,1993,13.52
+D0199,Drug_199,Antidepressant,500mg,5.45,8.08,Africa,44.0,6.0,Approved,Headache,2.049219725537758,2001,5.05
+D0200,Drug_200,Antifungal,0.5g,7.73,11.46,N. America,96.0,17.0,Rejected,COVID-19,2.341316029835742,2020,13.26
+D0201,Drug_201,Analgesic,250 mg,5.25,15.41,N. America,67.0,34.0,Pending,Influenza,4.681089475209631,2014,15.02
+D0202,Drug_202,Antiviral,250 mg,4.14,9.43,Asia,78.0,17.0,Rejected,Pneumonia,3.0822821771966935,2005,14.1
+D0203,Drug_203,Antibiotic,1g,5.24,12.16,N. America,78.0,33.0,Rejected,Pneumonia,3.8510150190503367,2003,15.98
+D0204,Drug_204,Antibiotic,0.5g,6.09,6.12,North America,91.0,13.0,Approved,Skin Infection,3.2520517726866522,2002,15.71
+D0205,Drug_205,Antifungal,250 mg,5.1,7.13,South America,31.0,31.0,Approved,Depression,1.8407033409356934,1996,19.39
+D0206,Drug_206,Antiviral,0.5g,5.08,11.42,N. America,48.0,8.0,Approved,Pneumonia,3.2414078960798474,2001,12.43
+D0207,Drug_207,Antidepressant,250 mg,3.6,14.45,Eurupe,37.0,6.0,Pending,COVID-19,4.721466631606118,1890,19.4
+D0208,Drug_208,Antiviral,500mg,3.67,11.07,Asia,32.0,8.0,Approved,Influenza,4.548426050074681,1993,8.22
+D0209,Drug_209,Antifungal,250 mg,2.19,9.06,Africa,58.0,30.0,Pending,Headache,1.3146482332570346,1991,11.18
+D0210,Drug_210,Antifungal,500mg,8.5,10.0,Asia,38.0,24.0,Pending,Pneumonia,1.8585518516177144,2024,11.54
+D0211,Drug_211,Antiviral,250 mg,2.51,6.25,Europe,94.0,15.0,Pending,Headache,3.9364343249236105,1992,7.83
+D0212,Drug_212,Antifungal,1g,3.61,11.81,Asia,95.0,33.0,Pending,Pneumonia,4.163092254928136,1993,2.56
+D0213,Drug_213,Antiviral,500mg,3.56,12.65,North America,30.0,25.0,Approved,Influenza,3.6415473528035545,2050,15.48
+D0214,Drug_214,Analgesic,250 mg,6.79,8.64,South America,73.0,10.0,Pending,Depression,2.3661043016854553,2001,8.28
+D0215,Drug_215,Antiviral,1g,4.41,8.59,South America,,18.0,Approved,COVID-19,1.5068509409369555,2008,10.4
+D0216,Drug_216,Antiviral,500mg,7.5,10.8,Eurupe,43.0,34.0,Approved,Influenza,,1999,18.34
+D0217,Drug_217,Antifungal,1g,3.65,8.69,N. America,44.0,26.0,Pending,Headache,1.5047803641049464,1990,14.29
+D0218,Drug_218,Antifungal,0.5g,5.56,9.8,North America,85.0,16.0,Approved,Pneumonia,1.148207974773971,2006,18.96
+D0219,Drug_219,Antibiotic,0.5g,3.33,16.3,Europe,76.0,10.0,Rejected,Headache,1.2121835247881134,2005,12.48
+D0220,Drug_220,Antibiotic,500mg,9.29,9.26,North America,99.0,21.0,Approved,COVID-19,2.8130467335268925,1998,14.22
+D0221,Drug_221,Analgesic,250 mg,2.62,8.92,Asia,88.0,32.0,Approved,Influenza,3.991694605245669,1998,11.04
+D0222,Drug_222,Antibiotic,500mg,5.62,8.06,North America,,32.0,Pending,Headache,2.6309568647663797,1998,8.61
+D0223,Drug_223,Antiviral,1g,6.27,12.23,North America,74.0,18.0,Pending,Headache,3.99282847358051,2001,14.21
+D0224,Drug_224,Antifungal,250 mg,5.83,9.46,Eurupe,50.0,35.0,Approved,COVID-19,4.776918317457024,2004,10.26
+D0225,Drug_225,Antibiotic,0.5g,4.63,8.05,Europe,75.0,25.0,Pending,Pneumonia,2.7022534628734065,1991,14.58
+D0226,Drug_226,Antibiotic,250 mg,4.74,13.96,Asia,49.0,9.0,Rejected,Headache,4.395165011103362,2000,9.72
+D0227,Drug_227,Analgesic,0.5g,5.09,14.26,Africa,38.0,29.0,Rejected,COVID-19,4.592495338851515,2000,11.3
+D0228,Drug_228,Analgesic,250 mg,4.71,8.2,Eurupe,33.0,6.0,Pending,Pneumonia,3.222819441567784,1997,11.62
+D0229,Drug_229,Antiviral,250 mg,6.93,4.4,Africa,80.0,15.0,Approved,Depression,3.603465581016563,2021,16.31
+D0230,Drug_230,Antifungal,250 mg,9.42,13.02,Eurupe,,31.0,Rejected,Pneumonia,3.011372247996347,1995,10.3
+D0231,Drug_231,Analgesic,1g,3.89,7.95,South America,38.0,32.0,Rejected,Depression,4.296719998501434,2009,16.75
+D0232,Drug_232,Antibiotic,1g,2.26,12.37,Eurupe,71.0,10.0,Approved,Influenza,,2024,8.38
+D0233,Drug_233,Antifungal,500mg,4.82,4.09,N. America,95.0,26.0,Pending,COVID-19,1.3457830126935941,1997,13.08
+D0234,Drug_234,Antifungal,500mg,10.16,12.68,North America,76.0,8.0,Rejected,Pneumonia,2.22400389433267,2023,9.25
+D0235,Drug_235,Antibiotic,0.5g,3.39,6.37,South America,58.0,14.0,Approved,Depression,1.2658925208366862,2008,16.46
+D0236,Drug_236,Analgesic,1g,8.28,12.19,Europe,54.0,23.0,Approved,Depression,3.2165148648418254,1996,8.73
+D0237,Drug_237,Antibiotic,0.5g,8.36,10.04,Africa,33.0,31.0,Rejected,Influenza,4.224046841953937,2020,9.13
+D0238,Drug_238,Antifungal,500mg,3.89,7.14,Eurupe,61.0,26.0,Pending,Skin Infection,1.5201050226005304,2007,6.97
+D0239,Drug_239,Antidepressant,0.5g,6.14,8.78,North America,46.0,23.0,Rejected,COVID-19,4.858491422468072,2003,12.41
+D0240,Drug_240,Antidepressant,500mg,8.26,12.06,Europe,85.0,11.0,Approved,Skin Infection,3.7569760798480925,2025,14.36
+D0241,Drug_241,Antiviral,1g,4.24,10.32,N. America,90.0,7.0,Rejected,Pneumonia,2.356658130100135,2006,13.93
+D0242,Drug_242,Antibiotic,250 mg,4.59,11.75,Europe,32.0,13.0,Pending,COVID-19,1.2121835247881134,1890,11.42
+D0243,Drug_243,Antibiotic,1g,3.84,15.93,North America,76.0,8.0,Approved,Influenza,3.6566110602179283,1998,9.36
+D0244,Drug_244,Antiviral,0.5g,2.97,5.31,N. America,54.0,20.0,Pending,Pneumonia,1.0811212595783233,2009,10.89
+D0245,Drug_245,Antiviral,0.5g,3.7,14.85,Europe,43.0,23.0,Rejected,COVID-19,2.3635320619694284,2017,11.04
+D0246,Drug_246,Antiviral,1g,2.55,10.31,N. America,71.0,9.0,Rejected,COVID-19,3.6664535463771397,2009,13.01
+D0247,Drug_247,Antifungal,1g,5.07,7.3,Eurupe,53.0,31.0,Pending,Skin Infection,,2025,12.74
+D0248,Drug_248,Antibiotic,500mg,3.46,6.01,Eurupe,71.0,12.0,Rejected,Pneumonia,3.5508114041677152,2016,18.96
+D0249,Drug_249,Antifungal,0.5g,5.47,9.43,North America,72.0,33.0,Pending,Influenza,3.885031631735299,1997,12.16
+D0250,Drug_250,Antiviral,0.5g,1.89,12.76,North America,76.0,11.0,Rejected,Influenza,3.4192070473758553,2021,13.44
+D0251,Drug_251,Antibiotic,1g,5.66,9.62,N. America,83.0,20.0,Pending,Pneumonia,,1990,12.29
+D0252,Drug_252,Antifungal,250 mg,6.67,14.53,Asia,64.0,34.0,Pending,Pneumonia,4.389624539716946,2006,10.69
+D0253,Drug_253,Antifungal,0.5g,1.01,5.65,South America,36.0,35.0,Approved,Depression,4.1753731714714455,1998,13.42
+D0254,Drug_254,Antiviral,250 mg,5.75,9.96,Europe,35.0,22.0,Approved,Headache,2.9228938258758927,2009,10.32
+D0255,Drug_255,Antibiotic,1g,7.46,,Europe,71.0,24.0,Pending,Skin Infection,3.23929915553116,2021,11.77
+D0256,Drug_256,Antiviral,1g,2.58,11.09,Asia,70.0,13.0,Rejected,Pneumonia,1.1051909067386743,1991,16.64
+D0257,Drug_257,Antibiotic,500mg,8.35,12.66,Asia,52.0,25.0,Rejected,Pneumonia,4.764542339401789,2021,10.06
+D0258,Drug_258,Antidepressant,0.5g,5.84,8.74,Asia,78.0,22.0,Rejected,Headache,4.3364463330653,1998,13.55
+D0259,Drug_259,Analgesic,250 mg,3.59,2.19,Africa,30.0,13.0,Pending,Headache,3.4698509916528852,2019,2.07
+D0260,Drug_260,Analgesic,500mg,4.89,10.6,Africa,62.0,20.0,Pending,COVID-19,4.46990809398389,2009,11.26
+D0261,Drug_261,Analgesic,0.5g,6.12,11.31,N. America,37.0,7.0,Pending,Influenza,4.137632466472815,2050,10.03
+D0262,Drug_262,Antiviral,500mg,5.15,11.21,Africa,49.0,11.0,Pending,Skin Infection,4.147874593746969,1990,12.48
+D0263,Drug_263,Antidepressant,1g,6.08,13.71,Eurupe,84.0,21.0,Approved,COVID-19,4.243312453449084,1994,11.06
+D0264,Drug_264,Antibiotic,0.5g,3.16,6.79,Eurupe,50.0,21.0,Pending,Pneumonia,1.7828310065551514,2024,12.57
+D0265,Drug_265,Antifungal,500mg,5.34,12.04,North America,90.0,24.0,Rejected,Headache,4.135678339470159,2025,10.49
+D0266,Drug_266,Antibiotic,500mg,2.17,13.58,N. America,91.0,15.0,Approved,Depression,1.0745863456591316,1990,13.55
+D0267,Drug_267,Antifungal,250 mg,4.78,4.66,Europe,94.0,15.0,Rejected,Influenza,3.640475611984696,2003,5.14
+D0268,Drug_268,Antibiotic,500mg,3.19,10.96,South America,75.0,33.0,Pending,COVID-19,1.967842542697984,1998,12.45
+D0269,Drug_269,Antidepressant,0.5g,3.53,8.49,North America,72.0,20.0,Approved,Depression,2.22400389433267,2019,8.25
+D0270,Drug_270,Antifungal,0.5g,7.47,9.76,Europe,64.0,35.0,Pending,Influenza,3.2865464718965303,2013,16.67
+D0271,Drug_271,Antiviral,250 mg,7.18,11.04,Europe,72.0,8.0,Approved,Depression,4.359058896154412,1993,8.19
+D0272,Drug_272,Antibiotic,0.5g,6.22,8.54,N. America,58.0,23.0,Rejected,Headache,2.9565361268636288,2003,15.98
+D0273,Drug_273,Antibiotic,1g,2.82,7.97,Asia,63.0,6.0,Pending,COVID-19,3.7355734191107075,2014,11.95
+D0274,Drug_274,Antifungal,0.5g,4.37,10.1,Asia,81.0,17.0,Pending,COVID-19,1.6225919710463632,1993,4.68
+D0275,Drug_275,Antiviral,0.5g,7.43,6.74,North America,,19.0,Approved,Influenza,2.0649339780712057,2014,8.49
+D0276,Drug_276,Antiviral,500mg,5.28,6.74,Asia,51.0,6.0,Approved,Depression,4.988527576633464,1999,15.39
+D0277,Drug_277,Antidepressant,500mg,9.64,12.04,Europe,97.0,10.0,Pending,Headache,1.423662758515094,2024,15.16
+D0278,Drug_278,Antiviral,0.5g,5.79,6.55,Asia,70.0,18.0,Approved,Pneumonia,2.9228938258758927,1996,6.8
+D0279,Drug_279,Antiviral,250 mg,5.38,12.0,Africa,54.0,12.0,Pending,COVID-19,,2002,18.25
+D0280,Drug_280,Antiviral,500mg,4.38,11.39,Asia,41.0,7.0,Approved,Pneumonia,2.940527630857339,1993,11.9
+D0281,Drug_281,Analgesic,250 mg,5.27,4.82,Europe,31.0,23.0,Rejected,Headache,4.820971073149375,2025,15.54
+D0282,Drug_282,Antidepressant,0.5g,4.7,7.97,N. America,46.0,27.0,Approved,COVID-19,1.6729233728147324,2003,7.15
+D0283,Drug_283,Antibiotic,0.5g,200.0,13.58,North America,53.0,28.0,Rejected,COVID-19,3.5533670023243586,2007,10.18
+D0284,Drug_284,Antifungal,1g,6.91,7.06,South America,98.0,23.0,Approved,Depression,4.138146074739581,1997,13.66
+D0285,Drug_285,Antibiotic,500mg,3.43,8.61,Asia,87.0,10.0,Approved,Pneumonia,3.640475611984696,2021,10.75
+D0286,Drug_286,Antidepressant,0.5g,2.34,11.39,Eurupe,35.0,15.0,Pending,Depression,1.1231007130366404,2016,0.32
+D0287,Drug_287,Antifungal,1g,1.33,12.35,Eurupe,69.0,35.0,Approved,Skin Infection,2.429878582006966,1890,11.24
+D0288,Drug_288,Antidepressant,500mg,6.02,9.25,Europe,,20.0,Approved,Pneumonia,2.666779358693867,2012,4.14
+D0289,Drug_289,Antiviral,0.5g,2.79,8.21,South America,74.0,17.0,Rejected,Pneumonia,4.6115065882519835,1996,7.72
+D0290,Drug_290,Antifungal,0.5g,0.69,,South America,80.0,21.0,Approved,Skin Infection,1.6225919710463632,2001,6.39
+D0291,Drug_291,Antiviral,500mg,5.78,15.22,Africa,84.0,32.0,Pending,Headache,1.4215877393165601,2014,16.53
+D0292,Drug_292,Antibiotic,500mg,9.99,12.94,South America,52.0,6.0,Rejected,Headache,1.1018907669404285,1992,17.79
+D0293,Drug_293,Antibiotic,500mg,4.99,10.26,Eurupe,46.0,8.0,Pending,COVID-19,2.1957909123191213,2015,13.37
+D0294,Drug_294,Antifungal,0.5g,6.68,7.58,N. America,35.0,25.0,Pending,Influenza,4.948329456023881,1993,11.08
+D0295,Drug_295,Antifungal,0.5g,5.16,7.51,Europe,91.0,22.0,Pending,Depression,2.431139703367065,2025,12.11
+D0296,Drug_296,Antidepressant,1g,4.8,11.57,Europe,87.0,23.0,Pending,Influenza,2.2561760120705765,2004,16.53
+D0297,Drug_297,Antidepressant,250 mg,6.84,11.26,Asia,68.0,34.0,Rejected,COVID-19,1.6542201536552725,2021,4.07
+D0298,Drug_298,Antiviral,500mg,4.42,14.2,Asia,72.0,29.0,Approved,Influenza,3.9673308549146387,2018,7.7
+D0299,Drug_299,Antifungal,0.5g,5.53,11.95,Asia,73.0,31.0,Pending,Pneumonia,2.454232621393191,1999,16.02
+D0300,Drug_300,Antibiotic,0.5g,5.64,5.49,Eurupe,52.0,20.0,Rejected,Pneumonia,1.5341723580222046,2010,16.85
+D0301,Drug_301,Antidepressant,500mg,3.66,13.16,Eurupe,,11.0,Pending,Skin Infection,4.623894654037041,2005,14.36
+D0302,Drug_302,Antidepressant,250 mg,6.98,7.01,Eurupe,65.0,23.0,Approved,Skin Infection,2.3627416942992063,2008,7.82
+D0303,Drug_303,Antibiotic,500mg,4.65,8.85,Eurupe,89.0,35.0,Rejected,COVID-19,1.651104404101475,2018,15.96
+D0304,Drug_304,Antidepressant,250 mg,3.49,10.75,Eurupe,64.0,17.0,Rejected,COVID-19,2.763060990701476,2007,17.45
+D0305,Drug_305,Antiviral,0.5g,6.07,15.99,Eurupe,99.0,30.0,Approved,COVID-19,1.4292048414826901,2005,14.87
+D0306,Drug_306,Antifungal,250 mg,3.2,19.33,N. America,44.0,21.0,Rejected,Pneumonia,2.6264234121843826,1990,2.02
+D0307,Drug_307,Antibiotic,1g,5.06,11.82,Eurupe,78.0,28.0,Approved,Influenza,1.546941610916941,1991,12.5
+D0308,Drug_308,Antifungal,0.5g,4.98,9.45,South America,63.0,34.0,Rejected,Depression,1.2667292014520983,2004,14.34
+D0309,Drug_309,Antidepressant,1g,7.17,11.6,South America,93.0,34.0,Rejected,COVID-19,2.049219725537758,2017,9.94
+D0310,Drug_310,Antidepressant,500mg,5.95,12.66,Africa,58.0,10.0,Approved,COVID-19,2.870355793995067,1990,12.75
+D0311,Drug_311,Antibiotic,500mg,4.95,9.04,N. America,61.0,16.0,Approved,Pneumonia,1.7171849410401938,1994,9.95
+D0312,Drug_312,Antiviral,500mg,6.64,15.39,Asia,42.0,20.0,Rejected,Depression,1.4681802908253045,2011,8.55
+D0313,Drug_313,Analgesic,250 mg,7.78,10.69,North America,98.0,25.0,Rejected,Pneumonia,1.0811212595783233,2025,18.04
+D0314,Drug_314,Antibiotic,0.5g,6.12,11.49,Eurupe,48.0,8.0,Approved,Depression,1.246226710399997,2002,12.86
+D0315,Drug_315,Analgesic,500mg,5.02,12.0,Africa,39.0,28.0,Approved,Pneumonia,4.247252427783114,1990,7.58
+D0316,Drug_316,Analgesic,500mg,2.38,11.26,North America,45.0,35.0,Rejected,Influenza,4.710068062831298,2005,6.49
+D0317,Drug_317,Antiviral,0.5g,2.87,12.52,South America,30.0,21.0,Rejected,COVID-19,1.933006765065568,2011,8.56
+D0318,Drug_318,Analgesic,500mg,4.39,8.15,Africa,,30.0,Rejected,Headache,4.3828343268669085,2021,8.58
+D0319,Drug_319,Analgesic,1g,3.78,8.33,Africa,59.0,7.0,Approved,Headache,1.5201050226005304,2005,12.59
+D0320,Drug_320,Antiviral,0.5g,4.63,6.7,Europe,96.0,17.0,Rejected,COVID-19,1.111399110331023,2004,13.94
+D0321,Drug_321,Analgesic,0.5g,5.11,11.32,South America,49.0,29.0,Pending,COVID-19,2.126038483089502,2001,13.94
+D0322,Drug_322,Analgesic,0.5g,6.06,12.34,South America,69.0,30.0,Approved,COVID-19,3.7529331093425977,1990,9.0
+D0323,Drug_323,Analgesic,1g,4.86,,N. America,49.0,7.0,Rejected,COVID-19,3.6604807124544627,2006,15.68
+D0324,Drug_324,Antibiotic,0.5g,5.97,15.02,Africa,67.0,24.0,Approved,Depression,4.858491422468072,2017,16.91
+D0325,Drug_325,Antibiotic,1g,5.13,9.98,Eurupe,67.0,17.0,Pending,Influenza,2.2680038789372157,1996,10.96
+D0326,Drug_326,Antibiotic,0.5g,1.05,12.01,South America,47.0,18.0,Approved,Headache,4.998830551287324,1998,7.87
+D0327,Drug_327,Antiviral,250 mg,3.12,6.72,Africa,53.0,11.0,Rejected,Skin Infection,1.6153036980296438,2011,12.4
+D0328,Drug_328,Antidepressant,500mg,4.71,8.84,N. America,69.0,8.0,Pending,Headache,3.1285309583294096,2015,20.64
+D0329,Drug_329,Analgesic,250 mg,2.58,12.09,Eurupe,90.0,19.0,Pending,Headache,3.462904213780691,2001,7.77
+D0330,Drug_330,Analgesic,500mg,6.2,,N. America,82.0,22.0,Rejected,Pneumonia,1.4043543766968596,1996,9.9
+D0331,Drug_331,Antiviral,1g,8.06,9.12,Europe,73.0,7.0,Rejected,COVID-19,3.7115796739843514,2004,12.23
+D0332,Drug_332,Analgesic,250 mg,100.0,9.79,Eurupe,66.0,23.0,Rejected,COVID-19,4.5266980411474895,2050,14.17
+D0333,Drug_333,Antibiotic,0.5g,4.57,5.45,Africa,42.0,6.0,Approved,COVID-19,2.341352953392841,2010,4.06
+D0334,Drug_334,Antidepressant,500mg,7.98,8.93,South America,81.0,20.0,Approved,Pneumonia,1.7065721194818781,2003,17.22
+D0335,Drug_335,Antifungal,500mg,5.3,12.67,South America,85.0,11.0,Approved,Influenza,3.4876576851355128,1991,17.17
+D0336,Drug_336,Analgesic,250 mg,4.33,11.73,Africa,42.0,34.0,Rejected,Influenza,3.045924187153533,1997,10.3
+D0337,Drug_337,Antibiotic,1g,3.77,11.5,Africa,44.0,17.0,Rejected,Skin Infection,2.2780858072299033,1995,22.83
+D0338,Drug_338,Antifungal,250 mg,4.4,10.15,Africa,86.0,17.0,Approved,Influenza,3.8917226889544145,1890,16.91
+D0339,Drug_339,Antidepressant,1g,4.22,10.02,Asia,93.0,35.0,Pending,Influenza,,1890,16.7
+D0340,Drug_340,Antifungal,1g,5.34,8.02,Eurupe,90.0,30.0,Approved,COVID-19,1.4542581639101506,2022,16.75
+D0341,Drug_341,Antibiotic,500mg,5.32,12.1,South America,78.0,12.0,Pending,Depression,1.4441396920954381,1995,16.63
+D0342,Drug_342,Antifungal,250 mg,5.01,11.26,Eurupe,32.0,30.0,Rejected,Headache,3.18361023706723,2015,11.91
+D0343,Drug_343,Antiviral,250 mg,5.87,11.48,N. America,35.0,29.0,Rejected,Influenza,4.220059520472281,1890,11.52
+D0344,Drug_344,Antifungal,1g,7.38,8.42,South America,84.0,19.0,Approved,Influenza,3.6047078429744728,2003,8.23
+D0345,Drug_345,Analgesic,250 mg,6.9,3.54,Asia,47.0,17.0,Approved,Pneumonia,,1890,9.69
+D0346,Drug_346,Analgesic,0.5g,2.03,13.29,Africa,95.0,27.0,Rejected,Skin Infection,1.0901968861203457,1997,10.76
+D0347,Drug_347,Antiviral,0.5g,-0.11,8.56,Europe,87.0,24.0,Approved,Depression,2.8081751063192066,2002,12.26
+D0348,Drug_348,Antibiotic,250 mg,6.87,7.41,Africa,67.0,10.0,Rejected,Pneumonia,1.680521309534436,2002,18.39
+D0349,Drug_349,Analgesic,250 mg,2.27,12.08,Africa,65.0,35.0,Rejected,COVID-19,3.9466075008991517,2017,3.59
+D0350,Drug_350,Antidepressant,1g,4.55,8.82,Asia,69.0,17.0,Pending,Headache,4.385149345945841,2007,17.38
+D0351,Drug_351,Analgesic,0.5g,2.66,13.18,Eurupe,42.0,16.0,Approved,Skin Infection,4.293074612459089,2008,7.95
+D0352,Drug_352,Analgesic,0.5g,1.4,11.85,South America,47.0,10.0,Rejected,Pneumonia,2.771059827447578,2050,11.58
+D0353,Drug_353,Antibiotic,500mg,6.08,12.05,Africa,53.0,26.0,Approved,Influenza,3.9466075008991517,2021,9.1
+D0354,Drug_354,Antifungal,1g,6.52,5.9,South America,81.0,9.0,Pending,Influenza,4.96679784407425,2011,19.42
+D0355,Drug_355,Analgesic,500mg,3.85,13.64,North America,,17.0,Pending,Skin Infection,4.971323301778789,1991,10.0
+D0356,Drug_356,Antiviral,0.5g,-0.18,10.78,N. America,74.0,13.0,Approved,Influenza,1.0523061366984594,2002,14.09
+D0357,Drug_357,Antifungal,1g,3.91,8.89,Eurupe,86.0,31.0,Approved,Pneumonia,1.1966105148988415,2012,14.29
+D0358,Drug_358,Antidepressant,250 mg,5.78,10.43,South America,96.0,7.0,Rejected,Pneumonia,3.9264173620778733,2014,7.36
+D0359,Drug_359,Antibiotic,1g,2.04,4.67,Europe,38.0,13.0,Pending,Influenza,2.1383831781436737,2017,11.61
+D0360,Drug_360,Antidepressant,250 mg,5.37,11.23,N. America,99.0,33.0,Pending,Influenza,1.1370444911740174,2000,16.82
+D0361,Drug_361,Antifungal,250 mg,4.97,6.91,Europe,91.0,23.0,Pending,COVID-19,4.602664336434513,2022,8.51
+D0362,Drug_362,Antifungal,1g,6.16,5.94,Africa,40.0,19.0,Approved,Headache,4.595261499225387,2013,15.32
+D0363,Drug_363,Antifungal,250 mg,5.24,5.43,N. America,46.0,7.0,Rejected,Skin Infection,1.576671263272198,1991,10.68
+D0364,Drug_364,Antidepressant,500mg,3.05,13.34,South America,64.0,10.0,Approved,Pneumonia,2.2660071170504814,2019,16.65
+D0365,Drug_365,Antifungal,0.5g,7.39,8.11,N. America,74.0,34.0,Approved,Skin Infection,2.4785724704900858,2006,18.99
+D0366,Drug_366,Antidepressant,250 mg,4.68,14.6,Africa,,28.0,Approved,COVID-19,2.332348525353908,2023,3.97
+D0367,Drug_367,Antifungal,500mg,4.95,8.39,Asia,59.0,8.0,Rejected,Pneumonia,3.431837403329368,2050,6.65
+D0368,Drug_368,Antiviral,250 mg,3.13,4.88,Eurupe,69.0,24.0,Approved,COVID-19,2.680289181008657,2011,10.25
+D0369,Drug_369,Antifungal,0.5g,4.11,6.65,Europe,50.0,16.0,Pending,COVID-19,2.616593727108225,1994,17.86
+D0370,Drug_370,Antidepressant,500mg,3.23,13.71,Africa,83.0,25.0,Pending,Depression,,2005,14.13
+D0371,Drug_371,Analgesic,0.5g,4.65,9.53,Asia,75.0,13.0,Pending,Influenza,1.2667292014520983,2002,7.02
+D0372,Drug_372,Antifungal,0.5g,8.42,8.36,N. America,91.0,19.0,Rejected,Depression,2.354106538907343,2015,14.72
+D0373,Drug_373,Analgesic,500mg,2.26,10.48,N. America,34.0,31.0,Approved,Skin Infection,4.103907399260969,2020,8.35
+D0374,Drug_374,Antiviral,500mg,1.77,11.51,Africa,63.0,33.0,Rejected,Skin Infection,2.8130467335268925,2012,15.48
+D0375,Drug_375,Antibiotic,500mg,7.94,13.35,South America,62.0,34.0,Approved,Influenza,,2001,14.16
+D0376,Drug_376,Antiviral,1g,4.58,14.35,N. America,97.0,30.0,Pending,Depression,3.3084890796577686,2003,8.33
+D0377,Drug_377,Antifungal,500mg,3.66,,South America,88.0,25.0,Approved,Skin Infection,3.8645951155027785,2007,11.74
+D0378,Drug_378,Analgesic,500mg,7.08,6.02,South America,71.0,7.0,Approved,Depression,3.0480725067018763,2016,16.9
+D0379,Drug_379,Analgesic,500mg,3.79,8.76,Eurupe,64.0,9.0,Approved,Influenza,4.7088258591633245,2017,4.43
+D0380,Drug_380,Antidepressant,500mg,8.65,10.78,South America,79.0,7.0,Rejected,Pneumonia,1.3483281983657145,2007,13.2
+D0381,Drug_381,Analgesic,250 mg,6.36,7.11,North America,82.0,28.0,Approved,COVID-19,3.152270202939291,2005,7.57
+D0382,Drug_382,Antidepressant,1g,4.02,7.13,Eurupe,46.0,29.0,Approved,COVID-19,1.967842542697984,2005,11.94
+D0383,Drug_383,Antibiotic,0.5g,9.31,11.03,Asia,99.0,30.0,Approved,Depression,2.0402509921687626,2002,13.83
+D0384,Drug_384,Antifungal,500mg,3.79,9.85,Asia,,35.0,Rejected,Skin Infection,2.8689653776353485,2018,20.05
+D0385,Drug_385,Antidepressant,250 mg,6.48,10.1,N. America,98.0,16.0,Rejected,Depression,3.6047078429744728,1998,11.89
+D0386,Drug_386,Antibiotic,250 mg,5.6,7.72,N. America,38.0,6.0,Rejected,Depression,3.6374012123970005,2015,17.86
+D0387,Drug_387,Analgesic,250 mg,7.6,9.31,South America,70.0,15.0,Approved,Headache,2.95931224218689,2017,8.64
+D0388,Drug_388,Analgesic,0.5g,8.12,7.23,Eurupe,76.0,19.0,Pending,COVID-19,3.696233811014783,2002,10.02
+D0389,Drug_389,Antibiotic,500mg,5.06,12.67,Eurupe,51.0,7.0,Pending,Influenza,1.4810039462829385,2025,14.35
+D0390,Drug_390,Analgesic,1g,3.49,13.11,North America,79.0,33.0,Pending,Depression,1.5940696970284698,1998,12.81
+D0391,Drug_391,Antibiotic,1g,5.92,4.46,South America,56.0,35.0,Approved,Headache,1.4653937994296151,2003,10.69
+D0392,Drug_392,Antidepressant,250 mg,3.64,7.21,North America,37.0,24.0,Pending,Headache,4.501485053308933,2001,10.58
+D0393,Drug_393,Antidepressant,0.5g,9.03,5.51,South America,62.0,30.0,Pending,COVID-19,3.735372122581446,2021,17.33
+D0394,Drug_394,Antibiotic,0.5g,5.27,8.05,Europe,35.0,10.0,Pending,COVID-19,3.1979582940472815,2050,10.85
+D0395,Drug_395,Antidepressant,0.5g,4.27,9.75,Europe,62.0,35.0,Approved,COVID-19,3.234917774098156,1992,7.92
+D0396,Drug_396,Antidepressant,1g,5.37,5.65,Africa,67.0,11.0,Pending,Influenza,4.162811614984455,2005,8.58
+D0397,Drug_397,Antidepressant,250 mg,2.31,7.23,South America,65.0,11.0,Pending,Headache,1.6412818854677376,2009,14.68
+D0398,Drug_398,Antiviral,500mg,3.06,6.99,Eurupe,51.0,9.0,Approved,Skin Infection,1.4135120288078395,2021,21.03
+D0399,Drug_399,Antifungal,1g,7.4,,N. America,59.0,6.0,Rejected,Influenza,,2012,9.9
+D0400,Drug_400,Analgesic,250 mg,3.69,10.21,Asia,39.0,6.0,Pending,Pneumonia,2.578640351799783,2006,20.59
+D0401,Drug_401,Antiviral,250 mg,2.91,7.83,Africa,69.0,23.0,Rejected,Depression,3.7569760798480925,2005,11.96
+D0402,Drug_402,Antidepressant,500mg,6.07,10.53,N. America,80.0,20.0,Pending,COVID-19,2.4312531188104383,2050,10.88
+D0403,Drug_403,Antibiotic,500mg,7.37,8.36,Europe,44.0,35.0,Approved,Headache,4.042645368094426,1997,8.36
+D0404,Drug_404,Antidepressant,500mg,6.44,9.19,South America,32.0,16.0,Rejected,Depression,2.431139703367065,2008,11.21
+D0405,Drug_405,Antifungal,0.5g,6.99,15.02,Africa,92.0,31.0,Rejected,Influenza,3.5533670023243586,2019,8.98
+D0406,Drug_406,Antidepressant,500mg,3.49,14.02,South America,92.0,33.0,Rejected,Pneumonia,3.430836447327709,2023,8.65
+D0407,Drug_407,Antibiotic,250 mg,2.16,,Europe,46.0,28.0,Rejected,Influenza,1.2096227458447952,2003,5.39
+D0408,Drug_408,Antifungal,500mg,8.0,12.49,Africa,52.0,23.0,Pending,Influenza,2.9521528971269997,2011,19.06
+D0409,Drug_409,Antidepressant,250 mg,4.35,12.43,Europe,,8.0,Pending,Skin Infection,1.1370444911740174,2006,16.26
+D0410,Drug_410,Antifungal,1g,4.5,6.56,North America,,24.0,Rejected,Depression,2.960017003057374,2004,13.09
+D0411,Drug_411,Analgesic,0.5g,7.66,12.46,Europe,41.0,30.0,Pending,Skin Infection,1.6153036980296438,2021,11.42
+D0412,Drug_412,Analgesic,1g,6.11,14.61,Eurupe,33.0,15.0,Rejected,Influenza,1.2121835247881134,2002,11.98
+D0413,Drug_413,Antidepressant,1g,5.91,6.63,Eurupe,41.0,11.0,Rejected,Pneumonia,2.5402027168144667,2010,8.89
+D0414,Drug_414,Antifungal,250 mg,9.33,7.25,South America,46.0,17.0,Approved,Headache,1.7955668117520696,2022,7.46
+D0415,Drug_415,Antibiotic,1g,3.71,13.05,Asia,84.0,35.0,Rejected,Headache,4.162411859079022,2016,14.87
+D0416,Drug_416,Antidepressant,250 mg,6.86,10.81,Europe,90.0,35.0,Pending,Depression,4.568611667479844,2024,10.95
+D0417,Drug_417,Analgesic,500mg,5.11,11.65,N. America,75.0,27.0,Rejected,COVID-19,3.2882185567255258,2005,13.3
+D0418,Drug_418,Analgesic,500mg,5.54,11.02,Eurupe,90.0,20.0,Approved,COVID-19,2.1414455439914186,2017,5.35
+D0419,Drug_419,Antidepressant,250 mg,8.06,11.17,Asia,74.0,7.0,Pending,Headache,1.5515797696583062,2023,10.74
+D0420,Drug_420,Antifungal,500mg,6.02,6.02,North America,,12.0,Approved,Influenza,4.355551596503098,1990,7.39
+D0421,Drug_421,Analgesic,0.5g,6.08,13.14,Africa,73.0,23.0,Approved,Influenza,1.4326775502030373,2020,13.94
+D0422,Drug_422,Antifungal,1g,7.15,13.51,Africa,45.0,14.0,Rejected,Skin Infection,4.162811614984455,2025,15.98
+D0423,Drug_423,Analgesic,0.5g,4.27,9.31,Eurupe,53.0,34.0,Approved,Depression,1.5936067859448615,2022,17.84
+D0424,Drug_424,Analgesic,1g,3.32,9.87,Asia,66.0,28.0,Approved,Skin Infection,1.642412585718596,2022,9.48
+D0425,Drug_425,Antiviral,500mg,2.91,5.41,Eurupe,48.0,31.0,Pending,COVID-19,4.296719998501434,2007,7.49
+D0426,Drug_426,Analgesic,0.5g,1.07,11.54,Africa,35.0,21.0,Approved,Headache,1.407018114004063,2012,10.33
+D0427,Drug_427,Antibiotic,500mg,9.11,11.72,Europe,92.0,31.0,Rejected,Influenza,1.393738836179959,2012,9.2
+D0428,Drug_428,Antidepressant,1g,2.79,9.81,Asia,59.0,8.0,Rejected,Headache,2.9565361268636288,2004,13.72
+D0429,Drug_429,Antidepressant,250 mg,4.56,13.37,South America,46.0,7.0,Rejected,Pneumonia,3.793090374122186,2015,6.39
+D0430,Drug_430,Antifungal,250 mg,4.45,9.0,Europe,56.0,18.0,Approved,Headache,1.642412585718596,2019,4.98
+D0431,Drug_431,Analgesic,0.5g,5.61,11.69,Europe,84.0,16.0,Pending,Pneumonia,2.2387278332518057,2014,10.61
+D0432,Drug_432,Antibiotic,500mg,6.63,6.94,Europe,83.0,34.0,Rejected,Skin Infection,4.359058896154412,2005,14.91
+D0433,Drug_433,Antifungal,500mg,6.72,9.93,South America,58.0,17.0,Approved,Skin Infection,2.2680038789372157,2003,7.89
+D0434,Drug_434,Antiviral,0.5g,3.83,9.48,North America,64.0,22.0,Rejected,COVID-19,4.190169915946639,2006,15.4
+D0435,Drug_435,Antifungal,250 mg,4.67,10.68,N. America,53.0,22.0,Rejected,Headache,3.7136770068548492,2001,13.46
+D0436,Drug_436,Antifungal,1g,5.57,8.89,Eurupe,76.0,7.0,Pending,Headache,4.199050971180959,2018,18.19
+D0437,Drug_437,Analgesic,0.5g,4.5,9.61,Africa,52.0,10.0,Rejected,Pneumonia,2.1709661943326397,2021,8.79
+D0438,Drug_438,Antiviral,1g,8.21,12.48,Eurupe,49.0,34.0,Pending,Skin Infection,1.4810039462829385,2013,5.57
+D0439,Drug_439,Antifungal,250 mg,5.98,8.69,Asia,31.0,30.0,Approved,Pneumonia,3.170191449202584,2002,14.39
+D0440,Drug_440,Antibiotic,500mg,6.47,5.18,North America,46.0,14.0,Rejected,Skin Infection,2.113861163661384,2009,13.12
+D0441,Drug_441,Antibiotic,250 mg,6.33,15.25,Asia,81.0,29.0,Approved,Pneumonia,4.330732894480205,2004,12.81
+D0442,Drug_442,Antidepressant,0.5g,7.35,14.14,Eurupe,81.0,27.0,Approved,Skin Infection,1.5407322166857202,1993,7.81
+D0443,Drug_443,Antiviral,500mg,5.36,6.12,Africa,37.0,34.0,Approved,Pneumonia,1.0063176843116475,2023,15.1
+D0444,Drug_444,Antiviral,0.5g,2.41,12.07,South America,96.0,13.0,Rejected,Skin Infection,,2017,9.47
+D0445,Drug_445,Antidepressant,0.5g,5.8,8.49,Eurupe,79.0,31.0,Pending,Depression,2.9521528971269997,1991,12.81
+D0446,Drug_446,Antifungal,250 mg,3.7,10.79,Europe,61.0,22.0,Rejected,Pneumonia,4.359058896154412,2019,10.16
+D0447,Drug_447,Antiviral,0.5g,3.94,10.88,Eurupe,53.0,23.0,Approved,Headache,3.0497590749755368,2015,13.42
+D0448,Drug_448,Antibiotic,250 mg,6.17,9.3,Europe,67.0,33.0,Pending,COVID-19,4.267830749577049,2015,7.22
+D0449,Drug_449,Antibiotic,500mg,7.48,7.65,South America,71.0,21.0,Approved,Depression,3.8917226889544145,2009,14.0
+D0450,Drug_450,Analgesic,250 mg,5.04,,Eurupe,74.0,6.0,Pending,Depression,1.5350427803080087,2017,14.63
+D0451,Drug_451,Antiviral,500mg,5.62,7.25,North America,77.0,22.0,Rejected,Pneumonia,3.688802654260449,2009,12.46
+D0452,Drug_452,Antifungal,250 mg,8.4,7.5,North America,48.0,8.0,Pending,COVID-19,,2000,18.58
+D0453,Drug_453,Antidepressant,1g,5.48,9.8,Asia,83.0,7.0,Rejected,Headache,3.696233811014783,1999,12.83
+D0454,Drug_454,Antidepressant,1g,10.2,7.85,South America,45.0,6.0,Approved,Depression,3.7569760798480925,2012,15.68
+D0455,Drug_455,Antifungal,0.5g,6.13,,North America,69.0,19.0,Pending,Headache,1.6730417773520165,1890,12.37
+D0456,Drug_456,Analgesic,250 mg,1.48,14.46,Eurupe,36.0,8.0,Approved,Skin Infection,2.666779358693867,2008,15.32
+D0457,Drug_457,Antidepressant,250 mg,6.51,8.26,South America,45.0,10.0,Pending,COVID-19,4.714917477109342,2007,5.87
+D0458,Drug_458,Antiviral,500mg,5.76,10.72,Africa,89.0,7.0,Rejected,Influenza,2.440648612855166,2016,12.13
+D0459,Drug_459,Analgesic,0.5g,7.58,11.5,Europe,84.0,24.0,Pending,Skin Infection,4.403113961330642,1995,7.49
+D0460,Drug_460,Antiviral,250 mg,6.35,11.42,Eurupe,83.0,6.0,Pending,COVID-19,2.0453135837636074,1999,12.56
+D0461,Drug_461,Antibiotic,0.5g,4.72,10.23,Europe,69.0,16.0,Rejected,Pneumonia,1.651104404101475,1991,13.54
+D0462,Drug_462,Analgesic,1g,2.55,12.23,Europe,58.0,11.0,Rejected,Pneumonia,4.399950372676042,2013,15.23
+D0463,Drug_463,Antidepressant,250 mg,4.58,11.45,South America,59.0,12.0,Rejected,Headache,2.9981966490703305,2050,13.96
+D0464,Drug_464,Analgesic,250 mg,3.3,6.29,South America,63.0,17.0,Pending,Depression,3.8123756150377313,2017,10.65
+D0465,Drug_465,Analgesic,0.5g,3.84,12.61,Asia,33.0,27.0,Approved,Influenza,1.933006765065568,2017,8.99
+D0466,Drug_466,Analgesic,250 mg,6.18,,Europe,87.0,22.0,Pending,Pneumonia,3.5925869721959116,1991,2.63
+D0467,Drug_467,Analgesic,0.5g,8.34,7.71,Asia,94.0,12.0,Pending,COVID-19,1.9957159508583748,1994,12.28
+D0468,Drug_468,Antiviral,250 mg,5.79,10.11,Europe,78.0,34.0,Approved,Depression,2.272749917825555,2000,16.55
+D0469,Drug_469,Antibiotic,500mg,2.61,12.05,Asia,44.0,19.0,Rejected,Depression,1.6639488864155054,1999,12.43
+D0470,Drug_470,Antifungal,0.5g,5.89,9.37,Asia,37.0,20.0,Pending,COVID-19,4.225611276986298,1991,11.66
+D0471,Drug_471,Analgesic,250 mg,50.0,13.22,Africa,40.0,9.0,Approved,Depression,2.42590668339115,2004,12.57
+D0472,Drug_472,Antidepressant,1g,3.78,17.09,Asia,41.0,22.0,Rejected,Pneumonia,4.788161112577437,1890,10.45
+D0473,Drug_473,Analgesic,250 mg,4.73,7.64,South America,88.0,33.0,Rejected,COVID-19,3.6551935681706733,1996,12.78
+D0474,Drug_474,Antidepressant,1g,5.03,5.86,Asia,41.0,32.0,Pending,COVID-19,1.82419424085156,2009,10.38
+D0475,Drug_475,Antiviral,1g,3.43,10.91,Europe,63.0,32.0,Rejected,Headache,1.4987897884944128,2023,8.4
+D0476,Drug_476,Antidepressant,500mg,6.3,,Asia,63.0,34.0,Rejected,Influenza,2.6682128148116826,2024,11.7
+D0477,Drug_477,Antifungal,0.5g,4.76,9.31,North America,47.0,35.0,Approved,Headache,4.037714819825946,2023,11.61
+D0478,Drug_478,Antibiotic,250 mg,5.84,14.36,N. America,,6.0,Approved,Influenza,3.11122945423532,2011,19.5
+D0479,Drug_479,Antidepressant,500mg,3.23,5.98,Europe,64.0,20.0,Rejected,COVID-19,,2020,8.78
+D0480,Drug_480,Antidepressant,250 mg,4.13,12.08,North America,61.0,33.0,Approved,Depression,4.500483969529977,2012,11.36
+D0481,Drug_481,Antibiotic,1g,6.44,8.18,Europe,35.0,34.0,Rejected,Influenza,3.7424122661794974,2008,10.97
+D0482,Drug_482,Antifungal,0.5g,4.25,15.16,South America,57.0,11.0,Pending,COVID-19,3.2446045866878244,1993,10.21
+D0483,Drug_483,Analgesic,250 mg,8.45,15.98,N. America,90.0,34.0,Approved,COVID-19,2.951291349527524,2013,14.05
+D0484,Drug_484,Antidepressant,250 mg,4.2,7.7,N. America,49.0,18.0,Rejected,Headache,1.7120812971690813,2009,20.95
+D0485,Drug_485,Antibiotic,1g,5.45,8.35,South America,30.0,23.0,Rejected,Headache,4.595261499225387,2017,10.72
+D0486,Drug_486,Antiviral,250 mg,6.87,12.58,N. America,93.0,35.0,Approved,Depression,4.240501710875428,2006,14.06
+D0487,Drug_487,Antibiotic,250 mg,2.16,8.84,South America,45.0,8.0,Approved,Skin Infection,2.2780858072299033,2008,4.35
+D0488,Drug_488,Antiviral,1g,1.48,9.86,North America,98.0,23.0,Pending,Pneumonia,2.467992589072883,2024,10.43
+D0489,Drug_489,Antifungal,500mg,1.95,10.08,Africa,31.0,33.0,Rejected,Skin Infection,3.7494898630312266,2021,18.22
+D0490,Drug_490,Analgesic,1g,7.53,4.24,Europe,42.0,7.0,Pending,Skin Infection,3.3106457468786545,2024,11.78
+D0491,Drug_491,Antibiotic,500mg,50.0,9.96,South America,96.0,22.0,Pending,Depression,1.8570217373727376,2019,14.01
+D0492,Drug_492,Antidepressant,0.5g,10.12,7.93,Europe,62.0,28.0,Pending,Influenza,1.1292930613043612,2006,9.51
+D0493,Drug_493,Antifungal,500mg,3.87,8.52,North America,87.0,9.0,Approved,Depression,2.034002270798376,2018,13.03
+D0494,Drug_494,Antibiotic,500mg,5.37,14.33,Africa,72.0,29.0,Pending,Depression,3.1340857239239353,1995,18.53
+D0495,Drug_495,Antidepressant,0.5g,8.08,6.23,North America,77.0,17.0,Approved,COVID-19,1.1067070504354901,2006,7.36
+D0496,Drug_496,Antibiotic,500mg,9.01,12.44,N. America,33.0,34.0,Approved,COVID-19,3.6415473528035545,2006,20.75
+D0497,Drug_497,Antiviral,1g,9.12,9.16,Europe,90.0,14.0,Pending,COVID-19,1.1264801529498558,2003,5.82
+D0498,Drug_498,Antibiotic,500mg,7.42,9.16,Eurupe,93.0,19.0,Pending,Pneumonia,,2013,10.06
+D0499,Drug_499,Antibiotic,0.5g,7.05,12.37,Africa,91.0,11.0,Rejected,Influenza,4.623894654037041,1890,8.66
+D0500,Drug_500,Antibiotic,1g,6.19,11.02,N. America,79.0,9.0,Pending,Influenza,1.1966105148988415,2021,10.91
+D0501,Drug_501,Antifungal,0.5g,6.56,11.71,Africa,67.0,7.0,Rejected,COVID-19,3.8123756150377313,2025,8.6
+D0502,Drug_502,Antibiotic,0.5g,3.9,12.9,N. America,89.0,34.0,Pending,Skin Infection,1.12151831981785,1890,8.3
+D0503,Drug_503,Antidepressant,250 mg,3.36,9.01,North America,46.0,23.0,Pending,Pneumonia,2.1142718128226377,2003,7.25
+D0504,Drug_504,Antiviral,250 mg,4.99,8.16,South America,31.0,17.0,Pending,Skin Infection,4.263421022982762,2016,14.58
+D0505,Drug_505,Antiviral,0.5g,4.66,6.74,Europe,87.0,8.0,Pending,Headache,,2008,11.05
+D0506,Drug_506,Antibiotic,0.5g,4.09,,Asia,77.0,16.0,Rejected,Influenza,1.708485830409678,2020,10.0
+D0507,Drug_507,Antifungal,0.5g,6.39,18.85,Asia,54.0,32.0,Rejected,Influenza,4.042645368094426,1998,13.13
+D0508,Drug_508,Antifungal,250 mg,6.91,,North America,40.0,22.0,Pending,Skin Infection,3.7918871636944544,2050,6.02
+D0509,Drug_509,Antidepressant,250 mg,5.18,5.95,Europe,94.0,17.0,Pending,Pneumonia,2.013011267862865,2006,13.23
+D0510,Drug_510,Antibiotic,500mg,7.96,6.03,Europe,99.0,35.0,Rejected,Influenza,4.267830749577049,2008,11.62
+D0511,Drug_511,Antiviral,500mg,2.72,11.45,North America,60.0,6.0,Approved,Skin Infection,2.5953656477878826,1993,11.75
+D0512,Drug_512,Antifungal,0.5g,4.61,11.64,Europe,91.0,15.0,Approved,Depression,2.8224654958673625,2000,14.08
+D0513,Drug_513,Antibiotic,1g,3.57,11.65,South America,80.0,12.0,Approved,Depression,1.0063385778653604,2011,18.57
+D0514,Drug_514,Antifungal,1g,1.27,9.24,North America,77.0,26.0,Rejected,Pneumonia,1.9957159508583748,1993,13.29
+D0515,Drug_515,Antifungal,250 mg,4.83,9.62,South America,99.0,7.0,Rejected,Skin Infection,4.174529657022324,2006,11.2
+D0516,Drug_516,Antiviral,250 mg,4.76,10.98,Europe,74.0,24.0,Approved,Depression,3.8944377510318056,1997,7.27
+D0517,Drug_517,Analgesic,250 mg,8.03,10.26,North America,63.0,11.0,Approved,Pneumonia,4.490296077190578,2023,2.44
+D0518,Drug_518,Antidepressant,0.5g,6.26,3.34,Europe,40.0,24.0,Pending,COVID-19,4.519241742878741,2000,12.51
+D0519,Drug_519,Antidepressant,1g,2.95,9.31,North America,44.0,10.0,Rejected,Pneumonia,3.7529331093425977,2020,6.96
+D0520,Drug_520,Antiviral,500mg,8.71,7.45,Europe,62.0,16.0,Rejected,Headache,2.258326186184909,2000,1.84
+D0521,Drug_521,Antifungal,0.5g,7.44,10.53,South America,87.0,14.0,Approved,COVID-19,2.312278737942631,2050,10.6
+D0522,Drug_522,Antibiotic,500mg,6.16,18.96,Eurupe,91.0,35.0,Approved,Skin Infection,1.9229371064244751,2010,12.96
+D0523,Drug_523,Antifungal,500mg,4.55,11.1,South America,79.0,10.0,Rejected,COVID-19,1.4514326597747886,2019,14.98
+D0524,Drug_524,Antiviral,0.5g,3.08,9.06,Europe,82.0,30.0,Pending,COVID-19,1.9229371064244751,1999,16.25
+D0525,Drug_525,Antidepressant,500mg,4.26,12.77,North America,33.0,21.0,Approved,Skin Infection,3.4698509916528852,2015,15.5
+D0526,Drug_526,Antifungal,1g,7.18,11.45,Asia,89.0,13.0,Rejected,Skin Infection,4.838504615158925,2016,15.61
+D0527,Drug_527,Antidepressant,500mg,8.77,11.26,South America,43.0,31.0,Rejected,Depression,2.044114661173797,1997,6.13
+D0528,Drug_528,Antibiotic,1g,8.09,11.82,South America,54.0,32.0,Pending,Headache,4.162811614984455,1997,11.4
+D0529,Drug_529,Antidepressant,1g,4.02,16.17,N. America,78.0,18.0,Pending,Skin Infection,,1997,14.32
+D0530,Drug_530,Antidepressant,1g,2.76,6.61,Asia,55.0,27.0,Approved,Influenza,2.951291349527524,2023,12.19
+D0531,Drug_531,Analgesic,250 mg,5.28,11.42,Europe,38.0,8.0,Approved,Influenza,4.32876460923023,2005,11.38
+D0532,Drug_532,Analgesic,500mg,50.0,7.22,Eurupe,34.0,32.0,Approved,Headache,2.9907518381910885,2002,12.11
+D0533,Drug_533,Analgesic,0.5g,5.65,11.67,North America,48.0,22.0,Rejected,Pneumonia,2.0384425009328466,2012,12.98
+D0534,Drug_534,Antidepressant,0.5g,4.7,7.24,N. America,76.0,20.0,Approved,Pneumonia,4.984354909058049,2001,11.69
+D0535,Drug_535,Antiviral,500mg,4.07,8.75,Europe,73.0,29.0,Rejected,Influenza,1.4996792429625336,2016,8.61
+D0536,Drug_536,Antidepressant,250 mg,1.81,9.11,Africa,66.0,18.0,Approved,Skin Infection,1.3483281983657145,2011,5.19
+D0537,Drug_537,Antiviral,250 mg,6.03,12.93,Eurupe,61.0,11.0,Pending,Headache,4.345536942524903,2021,11.18
+D0538,Drug_538,Antiviral,1g,3.93,12.76,South America,84.0,8.0,Pending,Pneumonia,2.610846598606801,2016,12.23
+D0539,Drug_539,Analgesic,500mg,2.66,6.26,Africa,63.0,9.0,Rejected,Pneumonia,2.922680449220307,1991,12.19
+D0540,Drug_540,Antifungal,500mg,-0.74,10.16,South America,47.0,17.0,Pending,COVID-19,,2022,15.81
+D0541,Drug_541,Antibiotic,0.5g,4.94,7.87,South America,92.0,23.0,Rejected,Influenza,1.8169544822794577,2015,16.52
+D0542,Drug_542,Analgesic,500mg,8.54,6.22,Africa,85.0,29.0,Rejected,Skin Infection,2.178859387425875,2017,11.58
+D0543,Drug_543,Analgesic,250 mg,50.0,9.35,Eurupe,52.0,21.0,Pending,Headache,3.344832664762036,2008,11.61
+D0544,Drug_544,Antifungal,500mg,4.09,9.07,Africa,45.0,28.0,Rejected,Pneumonia,1.2514299498895238,1994,14.29
+D0545,Drug_545,Antibiotic,0.5g,3.8,17.28,Europe,42.0,12.0,Pending,COVID-19,2.920504916056837,2022,13.71
+D0546,Drug_546,Antidepressant,1g,5.94,11.3,N. America,35.0,23.0,Approved,Influenza,4.638907351736788,2009,10.23
+D0547,Drug_547,Antidepressant,0.5g,3.0,5.87,N. America,,21.0,Approved,Influenza,4.594466163773883,2019,14.64
+D0548,Drug_548,Analgesic,0.5g,5.6,8.31,Africa,71.0,32.0,Pending,Headache,1.423662758515094,1997,11.41
+D0549,Drug_549,Antibiotic,1g,50.0,13.06,Europe,78.0,28.0,Pending,Pneumonia,1.4996792429625336,2050,11.5
+D0550,Drug_550,Analgesic,0.5g,7.45,16.27,N. America,38.0,6.0,Pending,Headache,2.1502138256836996,2006,13.73
+D0551,Drug_551,Antiviral,0.5g,4.8,5.24,Europe,95.0,27.0,Pending,Headache,2.170161713926279,1990,10.8
+D0552,Drug_552,Analgesic,500mg,4.59,4.36,Europe,82.0,22.0,Approved,Depression,1.0979210632527998,1992,12.38
+D0553,Drug_553,Analgesic,500mg,3.24,15.61,South America,72.0,19.0,Rejected,COVID-19,2.2959170988403983,2015,13.19
+D0554,Drug_554,Antidepressant,1g,3.35,11.17,N. America,49.0,30.0,Rejected,Influenza,4.094589580221337,2020,15.27
+D0555,Drug_555,Antidepressant,500mg,4.55,7.4,N. America,46.0,7.0,Approved,Depression,1.7171849410401938,1997,14.99
+D0556,Drug_556,Antidepressant,500mg,5.73,11.6,South America,34.0,19.0,Rejected,Skin Infection,3.424809014441328,1997,13.07
+D0557,Drug_557,Antiviral,0.5g,6.83,2.09,Africa,55.0,6.0,Approved,Influenza,1.3167456364345034,2024,1.56
+D0558,Drug_558,Antidepressant,250 mg,3.39,10.01,South America,46.0,21.0,Rejected,Influenza,4.100643714115748,2017,12.97
+D0559,Drug_559,Antibiotic,500mg,7.99,10.98,N. America,47.0,23.0,Pending,COVID-19,,1993,13.59
+D0560,Drug_560,Antifungal,250 mg,4.46,12.77,N. America,45.0,21.0,Pending,Skin Infection,4.872083844910513,2005,14.4
+D0561,Drug_561,Antibiotic,500mg,4.96,6.96,Eurupe,35.0,26.0,Pending,Pneumonia,1.1892981205456854,2002,8.18
+D0562,Drug_562,Antibiotic,500mg,3.51,10.26,Africa,64.0,35.0,Approved,Skin Infection,1.064432874197348,2009,3.51
+D0563,Drug_563,Antidepressant,1g,0.15,7.22,South America,74.0,19.0,Approved,Pneumonia,2.3002305735672612,1994,15.22
+D0564,Drug_564,Antifungal,1g,6.77,10.77,North America,52.0,8.0,Rejected,Skin Infection,1.0290912307760371,1890,7.1
+D0565,Drug_565,Antifungal,1g,6.47,7.31,North America,89.0,25.0,Rejected,Headache,2.458559964055132,2009,16.89
+D0566,Drug_566,Antifungal,250 mg,4.44,8.78,Africa,80.0,16.0,Rejected,Skin Infection,1.82419424085156,2013,9.69
+D0567,Drug_567,Antiviral,0.5g,5.13,,South America,52.0,27.0,Approved,Depression,3.0697302392518524,2025,7.89
+D0568,Drug_568,Antidepressant,500mg,6.03,11.95,South America,87.0,22.0,Rejected,Depression,2.1825533271185447,2023,13.4
+D0569,Drug_569,Antifungal,500mg,1.87,12.58,Europe,30.0,8.0,Pending,COVID-19,3.0480725067018763,2023,14.46
+D0570,Drug_570,Antiviral,500mg,3.94,9.3,N. America,95.0,33.0,Rejected,Pneumonia,2.4636777416543016,2008,14.23
+D0571,Drug_571,Analgesic,250 mg,6.59,10.11,Asia,49.0,21.0,Pending,Influenza,1.4331574259316673,2006,14.01
+D0572,Drug_572,Analgesic,1g,2.49,5.65,Eurupe,86.0,9.0,Approved,COVID-19,3.58159469724994,1994,9.17
+D0573,Drug_573,Antiviral,0.5g,5.59,9.1,Africa,85.0,10.0,Pending,Depression,1.7397040750912698,2014,5.89
+D0574,Drug_574,Antiviral,250 mg,2.29,9.85,Asia,54.0,31.0,Pending,Depression,2.940527630857339,2007,10.44
+D0575,Drug_575,Antidepressant,1g,5.93,17.86,Asia,51.0,22.0,Pending,Pneumonia,2.7153560611895626,1997,7.42
+D0576,Drug_576,Antidepressant,250 mg,4.93,6.66,Africa,99.0,8.0,Approved,Depression,2.3617643203976737,2016,13.73
+D0577,Drug_577,Analgesic,0.5g,1.77,14.39,South America,63.0,21.0,Approved,Depression,1.5801309349995538,2004,15.5
+D0578,Drug_578,Antifungal,1g,7.33,12.99,Africa,58.0,21.0,Approved,Pneumonia,2.1528107754001553,2002,12.69
+D0579,Drug_579,Analgesic,250 mg,3.53,10.84,Asia,93.0,17.0,Approved,Depression,3.758806569458493,2005,12.0
+D0580,Drug_580,Antifungal,0.5g,3.38,15.28,N. America,88.0,18.0,Rejected,Influenza,1.078902985852702,2011,10.76
+D0581,Drug_581,Antifungal,500mg,5.4,11.12,Eurupe,35.0,21.0,Approved,Headache,1.0869553522548294,2009,15.92
+D0582,Drug_582,Antidepressant,0.5g,7.3,11.17,Eurupe,31.0,22.0,Pending,COVID-19,3.424809014441328,2002,4.68
+D0583,Drug_583,Antibiotic,500mg,2.97,9.84,N. America,32.0,6.0,Approved,Influenza,1.4463756990666687,2009,7.18
+D0584,Drug_584,Antibiotic,250 mg,5.12,13.67,N. America,50.0,15.0,Rejected,Influenza,1.0180179239211546,1991,19.31
+D0585,Drug_585,Antiviral,1g,5.86,13.29,South America,81.0,21.0,Rejected,Headache,4.714917477109342,2024,6.98
+D0586,Drug_586,Antidepressant,1g,6.39,8.12,North America,47.0,20.0,Rejected,COVID-19,,2008,14.12
+D0587,Drug_587,Antifungal,250 mg,5.35,6.04,Africa,69.0,10.0,Pending,Influenza,1.3483281983657145,1890,14.95
+D0588,Drug_588,Antibiotic,1g,4.27,9.39,Eurupe,44.0,32.0,Approved,Depression,1.6814690031261246,1995,4.29
+D0589,Drug_589,Antifungal,1g,3.34,7.6,N. America,34.0,12.0,Approved,Headache,4.138146074739581,2003,5.06
+D0590,Drug_590,Antibiotic,500mg,5.17,9.81,Africa,41.0,17.0,Approved,COVID-19,1.078010590442081,1993,17.06
+D0591,Drug_591,Antibiotic,250 mg,2.86,13.71,Eurupe,57.0,35.0,Pending,Skin Infection,3.758806569458493,2011,8.11
+D0592,Drug_592,Antibiotic,0.5g,-0.84,8.63,N. America,79.0,26.0,Pending,Pneumonia,4.045835333744634,2025,8.22
+D0593,Drug_593,Antidepressant,500mg,5.87,9.87,Eurupe,80.0,25.0,Rejected,Depression,2.7022534628734065,2023,9.92
+D0594,Drug_594,Analgesic,250 mg,6.81,10.17,South America,67.0,28.0,Rejected,Headache,3.234489347464758,2016,8.12
+D0595,Drug_595,Antifungal,500mg,0.27,12.55,North America,80.0,8.0,Approved,Pneumonia,3.213961080795296,1996,14.11
+D0596,Drug_596,Antidepressant,0.5g,2.98,,North America,65.0,32.0,Pending,Skin Infection,,1992,7.27
+D0597,Drug_597,Antidepressant,0.5g,6.24,8.18,N. America,54.0,8.0,Pending,Influenza,4.403113961330642,2022,4.14
+D0598,Drug_598,Antidepressant,250 mg,9.11,10.63,Eurupe,39.0,28.0,Approved,Influenza,1.9769348014563142,1991,16.63
+D0599,Drug_599,Antidepressant,0.5g,5.04,,South America,61.0,32.0,Approved,COVID-19,4.222819169924814,2005,7.47
+D0600,Drug_600,Antidepressant,500mg,3.54,8.52,Europe,43.0,29.0,Rejected,Headache,2.0649339780712057,2014,8.99
+D0601,Drug_601,Antiviral,0.5g,4.63,4.37,Africa,45.0,16.0,Rejected,Headache,1.4441396920954381,2004,15.32
+D0602,Drug_602,Antifungal,500mg,7.75,11.86,Africa,,15.0,Rejected,COVID-19,,2013,12.28
+D0603,Drug_603,Antidepressant,500mg,3.71,8.09,Asia,80.0,27.0,Approved,Pneumonia,3.2651845748963497,2004,16.45
+D0604,Drug_604,Antifungal,0.5g,3.4,6.43,South America,54.0,11.0,Approved,Influenza,1.393738836179959,2020,15.38
+D0605,Drug_605,Antiviral,250 mg,4.03,,Eurupe,96.0,9.0,Rejected,Influenza,3.719243566405321,2003,10.19
+D0606,Drug_606,Antiviral,1g,3.09,9.45,Asia,85.0,6.0,Rejected,Headache,4.500483969529977,2003,16.09
+D0607,Drug_607,Antifungal,0.5g,5.25,8.19,N. America,95.0,22.0,Pending,Headache,1.9612492411866977,1995,12.67
+D0608,Drug_608,Antibiotic,500mg,8.25,3.38,Eurupe,42.0,18.0,Pending,COVID-19,1.1966105148988415,2003,9.61
+D0609,Drug_609,Analgesic,500mg,5.65,,Asia,90.0,25.0,Rejected,Skin Infection,3.4351918407215742,2006,13.16
+D0610,Drug_610,Antibiotic,0.5g,4.5,,North America,87.0,21.0,Rejected,Pneumonia,1.148207974773971,2007,6.76
+D0611,Drug_611,Antibiotic,250 mg,4.42,11.95,Africa,41.0,10.0,Pending,Depression,2.3818446058730753,2009,15.34
+D0612,Drug_612,Antibiotic,250 mg,1.87,6.59,Eurupe,38.0,23.0,Rejected,Skin Infection,1.5876356360917079,2006,14.82
+D0613,Drug_613,Antidepressant,500mg,6.77,9.4,Asia,31.0,22.0,Pending,Skin Infection,3.247925366505517,2005,12.48
+D0614,Drug_614,Antiviral,500mg,4.84,9.98,North America,50.0,8.0,Pending,Headache,3.666544289644968,2021,4.33
+D0615,Drug_615,Antibiotic,250 mg,4.64,11.8,South America,58.0,19.0,Pending,Headache,,1998,16.62
+D0616,Drug_616,Antiviral,1g,11.39,12.01,Asia,63.0,29.0,Approved,Headache,2.402949193617235,2016,13.75
+D0617,Drug_617,Antifungal,0.5g,5.6,7.8,N. America,72.0,10.0,Approved,Skin Infection,3.1865025837729846,2022,11.91
+D0618,Drug_618,Analgesic,500mg,3.5,10.25,N. America,39.0,24.0,Rejected,Pneumonia,2.235142633410344,1999,11.28
+D0619,Drug_619,Antifungal,500mg,4.15,11.37,N. America,62.0,19.0,Pending,Headache,3.971595256393728,2006,9.85
+D0620,Drug_620,Antifungal,250 mg,7.3,14.37,Eurupe,32.0,31.0,Approved,Influenza,1.5407322166857202,2025,10.62
+D0621,Drug_621,Antidepressant,0.5g,5.23,12.11,Africa,35.0,9.0,Rejected,Pneumonia,4.036112192204811,2006,15.08
+D0622,Drug_622,Analgesic,250 mg,2.12,12.37,Asia,30.0,13.0,Rejected,Influenza,3.1410109385172365,2007,9.93
+D0623,Drug_623,Antifungal,0.5g,6.84,10.25,South America,86.0,7.0,Rejected,Pneumonia,4.65971974651713,2012,10.9
+D0624,Drug_624,Antifungal,0.5g,3.66,,Asia,96.0,24.0,Rejected,Headache,,2023,11.49
+D0625,Drug_625,Analgesic,0.5g,8.75,11.23,Africa,78.0,34.0,Rejected,Depression,1.679959252070549,1997,11.6
+D0626,Drug_626,Analgesic,500mg,7.16,7.42,North America,52.0,11.0,Pending,COVID-19,3.344832664762036,2002,9.53
+D0627,Drug_627,Antifungal,1g,4.11,14.21,Africa,59.0,12.0,Rejected,Headache,1.7388556382795328,2012,11.32
+D0628,Drug_628,Analgesic,250 mg,7.56,12.09,N. America,34.0,10.0,Pending,Skin Infection,2.7919818186754726,2009,13.37
+D0629,Drug_629,Antifungal,1g,5.14,8.67,Eurupe,97.0,10.0,Approved,Depression,4.342886386591485,2011,8.38
+D0630,Drug_630,Antifungal,250 mg,6.71,8.56,North America,,34.0,Rejected,Skin Infection,3.90668187703285,2012,11.34
+D0631,Drug_631,Antidepressant,0.5g,5.97,10.89,Eurupe,96.0,15.0,Approved,Pneumonia,3.5092683134318583,2024,19.72
+D0632,Drug_632,Antibiotic,500mg,3.31,11.39,N. America,44.0,8.0,Pending,Skin Infection,3.662861741028562,1992,11.75
+D0633,Drug_633,Antifungal,1g,3.71,10.59,Europe,41.0,29.0,Pending,Depression,3.7569760798480925,2023,8.28
+D0634,Drug_634,Antiviral,500mg,7.06,10.93,Africa,83.0,10.0,Approved,Depression,2.341352953392841,2022,7.81
+D0635,Drug_635,Antibiotic,250 mg,4.33,15.1,Africa,42.0,0.0,Rejected,Headache,2.678054837350068,2006,6.94
+D0636,Drug_636,Antibiotic,500mg,4.19,13.21,South America,77.0,35.0,Rejected,Influenza,3.4308392329080184,2008,18.51
+D0637,Drug_637,Antibiotic,500mg,3.09,10.57,Asia,55.0,33.0,Approved,Headache,4.224046841953937,2019,16.03
+D0638,Drug_638,Antidepressant,1g,5.85,12.82,North America,54.0,30.0,Approved,Pneumonia,3.0697302392518524,2012,6.84
+D0639,Drug_639,Antifungal,0.5g,9.13,6.9,Eurupe,,31.0,Approved,Skin Infection,3.640475611984696,2004,12.85
+D0640,Drug_640,Antidepressant,500mg,2.86,11.19,North America,55.0,24.0,Rejected,Influenza,3.2367435199193935,2003,16.9
+D0641,Drug_641,Antifungal,0.5g,5.05,15.43,South America,42.0,15.0,Rejected,COVID-19,2.432579124783222,1991,11.84
+D0642,Drug_642,Antidepressant,250 mg,7.82,9.35,South America,52.0,24.0,Rejected,Depression,4.706191123003902,2007,10.03
+D0643,Drug_643,Antidepressant,500mg,4.84,7.46,Eurupe,32.0,32.0,Approved,Influenza,1.4681802908253045,1995,20.96
+D0644,Drug_644,Antiviral,1g,5.9,,Asia,94.0,8.0,Rejected,Influenza,1.0811212595783233,2021,4.38
+D0645,Drug_645,Antidepressant,250 mg,2.88,6.73,Eurupe,71.0,6.0,Pending,Headache,3.0480725067018763,2010,22.53
+D0646,Drug_646,Analgesic,250 mg,5.86,7.65,Eurupe,80.0,18.0,Approved,COVID-19,4.877444979983104,2017,12.24
+D0647,Drug_647,Antiviral,1g,4.63,8.89,N. America,32.0,10.0,Rejected,Depression,3.39425740063324,2016,17.16
+D0648,Drug_648,Antidepressant,500mg,6.97,5.78,Asia,96.0,35.0,Approved,Pneumonia,3.662861741028562,1991,7.2
+D0649,Drug_649,Antibiotic,500mg,100.0,10.05,Africa,78.0,12.0,Pending,Pneumonia,3.39425740063324,2022,9.1
+D0650,Drug_650,Analgesic,250 mg,10.18,12.71,N. America,72.0,31.0,Pending,Influenza,2.7294239685870587,2005,7.68
+D0651,Drug_651,Analgesic,500mg,6.16,7.28,Europe,57.0,19.0,Approved,Influenza,2.5416843989195144,2011,11.6
+D0652,Drug_652,Analgesic,0.5g,5.65,14.56,Asia,54.0,16.0,Approved,Skin Infection,4.084153480979419,2002,13.23
+D0653,Drug_653,Antiviral,1g,5.39,11.53,South America,75.0,15.0,Pending,COVID-19,2.230896757457484,1991,16.27
+D0654,Drug_654,Antidepressant,0.5g,4.29,13.09,N. America,49.0,22.0,Approved,Depression,2.9040828275204795,2003,5.15
+D0655,Drug_655,Antidepressant,500mg,5.68,8.03,Asia,,6.0,Pending,Influenza,2.426487195304208,2050,12.63
+D0656,Drug_656,Antibiotic,250 mg,4.41,12.56,North America,38.0,11.0,Pending,Skin Infection,3.6218138259742565,2017,15.58
+D0657,Drug_657,Antibiotic,1g,5.34,,Eurupe,89.0,27.0,Rejected,COVID-19,4.631263431109618,1996,16.33
+D0658,Drug_658,Analgesic,500mg,7.64,12.67,Europe,44.0,14.0,Approved,Depression,4.163398710532716,2007,10.24
+D0659,Drug_659,Antibiotic,500mg,2.99,10.52,Africa,90.0,33.0,Approved,Pneumonia,3.2367435199193935,2025,10.29
+D0660,Drug_660,Antiviral,250 mg,7.28,11.66,Eurupe,76.0,14.0,Rejected,Skin Infection,1.5530613755074842,2025,11.63
+D0661,Drug_661,Antidepressant,250 mg,7.63,6.47,North America,79.0,7.0,Pending,COVID-19,3.719243566405321,1993,12.74
+D0662,Drug_662,Analgesic,0.5g,4.76,,North America,56.0,19.0,Approved,Skin Infection,2.0649827975760138,2019,17.21
+D0663,Drug_663,Antibiotic,1g,0.76,11.79,Europe,,19.0,Rejected,Influenza,2.4901098112111795,2013,7.16
+D0664,Drug_664,Antiviral,1g,100.0,7.15,Africa,,28.0,Rejected,Headache,4.0502844511662115,2009,8.85
+D0665,Drug_665,Antiviral,250 mg,7.59,11.39,South America,87.0,24.0,Approved,Pneumonia,1.0745863456591316,2020,6.67
+D0666,Drug_666,Antibiotic,0.5g,4.95,5.9,N. America,62.0,16.0,Rejected,Influenza,4.856216520525957,2013,13.71
+D0667,Drug_667,Antidepressant,1g,3.0,12.54,Africa,78.0,32.0,Pending,Influenza,2.9888096142262124,1996,16.41
+D0668,Drug_668,Antibiotic,250 mg,3.99,6.3,Asia,75.0,30.0,Rejected,COVID-19,,2015,6.32
+D0669,Drug_669,Analgesic,500mg,6.68,11.66,North America,59.0,27.0,Pending,Skin Infection,3.2045653447789353,2002,12.35
+D0670,Drug_670,Antibiotic,1g,6.09,11.88,Asia,58.0,29.0,Pending,Pneumonia,3.2367435199193935,1997,16.12
+D0671,Drug_671,Antiviral,0.5g,4.52,7.91,South America,47.0,24.0,Approved,Influenza,3.7462971682991366,1994,15.14
+D0672,Drug_672,Antibiotic,0.5g,4.27,11.75,Asia,69.0,11.0,Rejected,COVID-19,4.385740705229228,2002,15.09
+D0673,Drug_673,Antidepressant,0.5g,4.22,10.78,Africa,48.0,12.0,Pending,Pneumonia,4.844083743060853,2018,7.24
+D0674,Drug_674,Antifungal,500mg,3.16,8.38,Asia,35.0,33.0,Pending,Skin Infection,2.578640351799783,2009,15.08
+D0675,Drug_675,Antibiotic,1g,8.23,,South America,84.0,31.0,Rejected,Influenza,2.9883572374031884,2003,11.26
+D0676,Drug_676,Antidepressant,1g,4.36,4.11,South America,45.0,6.0,Pending,Depression,3.985017380585153,2021,16.28
+D0677,Drug_677,Antidepressant,500mg,7.43,11.05,South America,35.0,22.0,Rejected,Influenza,2.049219725537758,2016,13.8
+D0678,Drug_678,Antiviral,1g,8.04,5.31,Africa,80.0,18.0,Approved,Influenza,2.1927795115023954,2014,8.74
+D0679,Drug_679,Antidepressant,500mg,7.0,10.29,South America,47.0,19.0,Pending,Pneumonia,4.501485053308933,1993,13.12
+D0680,Drug_680,Antidepressant,500mg,4.14,9.21,North America,51.0,22.0,Pending,Pneumonia,2.698716049673834,2010,15.27
+D0681,Drug_681,Antidepressant,500mg,5.81,12.04,Eurupe,32.0,11.0,Rejected,Pneumonia,1.441637990706905,2007,9.97
+D0682,Drug_682,Antidepressant,0.5g,4.95,9.09,South America,56.0,26.0,Rejected,Pneumonia,4.630465544900909,2004,12.52
+D0683,Drug_683,Analgesic,1g,3.19,9.01,Asia,72.0,22.0,Rejected,COVID-19,1.2515704898099473,2050,6.65
+D0684,Drug_684,Analgesic,500mg,5.65,12.2,N. America,,28.0,Rejected,Headache,3.6182647648943926,2013,14.2
+D0685,Drug_685,Antiviral,1g,2.64,11.01,Asia,61.0,10.0,Pending,COVID-19,1.7226507956096375,1997,11.77
+D0686,Drug_686,Antibiotic,0.5g,7.38,10.95,N. America,65.0,20.0,Approved,Influenza,1.7673444584040423,2017,15.66
+D0687,Drug_687,Antidepressant,500mg,4.07,11.41,Asia,82.0,23.0,Approved,COVID-19,,2010,14.08
+D0688,Drug_688,Antibiotic,250 mg,5.4,5.39,Africa,,24.0,Approved,Skin Infection,3.522544762118602,2005,10.37
+D0689,Drug_689,Antibiotic,0.5g,5.57,12.27,Asia,43.0,10.0,Approved,Depression,2.170161713926279,2005,8.61
+D0690,Drug_690,Antiviral,250 mg,4.48,11.84,Africa,58.0,14.0,Rejected,Pneumonia,3.6150580123729448,2024,7.69
+D0691,Drug_691,Antidepressant,1g,6.17,6.95,Africa,78.0,17.0,Pending,Skin Infection,4.486028853962539,2006,9.97
+D0692,Drug_692,Antidepressant,1g,4.05,9.27,South America,84.0,14.0,Pending,Depression,3.985017380585153,1998,15.55
+D0693,Drug_693,Antifungal,0.5g,6.74,9.88,North America,51.0,7.0,Pending,Skin Infection,4.823480173074078,2024,4.97
+D0694,Drug_694,Antibiotic,1g,2.31,9.6,N. America,84.0,31.0,Rejected,Influenza,2.4636777416543016,2018,7.86
+D0695,Drug_695,Antibiotic,250 mg,5.25,11.0,South America,71.0,28.0,Pending,Pneumonia,,2007,15.44
+D0696,Drug_696,Analgesic,500mg,8.88,14.29,South America,35.0,23.0,Rejected,Skin Infection,1.2872583350556628,2001,17.32
+D0697,Drug_697,Antifungal,500mg,3.0,,Eurupe,35.0,19.0,Pending,Influenza,1.0236962618160095,2008,8.07
+D0698,Drug_698,Analgesic,500mg,3.64,6.06,Africa,52.0,23.0,Approved,Pneumonia,3.610453606989414,2011,7.81
+D0699,Drug_699,Analgesic,0.5g,6.03,11.87,Africa,73.0,11.0,Rejected,Headache,3.036890153308312,2004,17.63
+D0700,Drug_700,Analgesic,1g,5.36,13.99,N. America,59.0,29.0,Pending,Influenza,2.112194993333357,1990,11.51
+D0701,Drug_701,Antiviral,250 mg,5.7,11.16,Asia,73.0,33.0,Approved,COVID-19,2.4679730683277894,1991,8.42
+D0702,Drug_702,Antiviral,1g,5.98,13.27,Asia,58.0,33.0,Approved,Pneumonia,4.988681005702897,1997,16.18
+D0703,Drug_703,Analgesic,1g,6.27,16.04,South America,45.0,25.0,Approved,Skin Infection,4.428771814347223,2011,14.01
+D0704,Drug_704,Antifungal,1g,7.22,13.07,Europe,72.0,26.0,Rejected,Depression,1.7416472713086968,2014,14.95
+D0705,Drug_705,Antibiotic,500mg,5.82,10.75,Europe,72.0,24.0,Rejected,Skin Infection,2.258326186184909,1991,8.63
+D0706,Drug_706,Antifungal,250 mg,4.52,13.14,Asia,99.0,17.0,Pending,COVID-19,,1998,13.5
+D0707,Drug_707,Antidepressant,250 mg,6.35,10.43,Europe,63.0,33.0,Approved,COVID-19,4.838504615158925,1998,16.99
+D0708,Drug_708,Antiviral,1g,8.8,10.07,Eurupe,98.0,12.0,Pending,Skin Infection,2.178859387425875,2002,14.56
+D0709,Drug_709,Antibiotic,500mg,4.73,8.95,Asia,33.0,17.0,Pending,Depression,3.5092683134318583,1995,15.68
+D0710,Drug_710,Antibiotic,500mg,3.05,14.69,Africa,66.0,30.0,Approved,Pneumonia,,2019,17.61
+D0711,Drug_711,Antidepressant,250 mg,7.21,7.54,South America,39.0,33.0,Pending,Influenza,3.0950339862113996,2004,13.71
+D0712,Drug_712,Antidepressant,500mg,4.76,14.6,North America,35.0,20.0,Rejected,COVID-19,1.504678360594947,2004,9.74
+D0713,Drug_713,Analgesic,500mg,0.65,11.5,South America,59.0,31.0,Pending,COVID-19,4.594466163773883,1996,15.51
+D0714,Drug_714,Antiviral,500mg,6.69,5.8,Asia,86.0,28.0,Approved,COVID-19,1.7120812971690813,2000,7.58
+D0715,Drug_715,Antiviral,0.5g,3.93,11.1,Eurupe,69.0,17.0,Rejected,Depression,1.4043543766968596,2050,11.11
+D0716,Drug_716,Antifungal,1g,4.82,,Asia,73.0,14.0,Rejected,Headache,2.4275995486990194,1991,14.35
+D0717,Drug_717,Analgesic,250 mg,5.66,,South America,84.0,23.0,Pending,Depression,3.7753815450890653,1999,-0.87
+D0718,Drug_718,Analgesic,250 mg,5.38,12.66,Eurupe,32.0,35.0,Pending,Pneumonia,1.0063176843116475,2006,13.01
+D0719,Drug_719,Analgesic,0.5g,6.42,8.22,Eurupe,47.0,27.0,Rejected,Pneumonia,2.7153560611895626,1996,13.2
+D0720,Drug_720,Analgesic,1g,4.13,10.37,Eurupe,87.0,25.0,Pending,Pneumonia,1.5571867576284033,1993,7.46
+D0721,Drug_721,Antiviral,250 mg,6.03,15.86,N. America,71.0,31.0,Approved,Pneumonia,3.640475611984696,2024,13.3
+D0722,Drug_722,Antiviral,500mg,4.48,8.48,Asia,42.0,23.0,Pending,Pneumonia,4.02316497154121,2025,12.76
+D0723,Drug_723,Analgesic,250 mg,6.48,6.82,Europe,47.0,35.0,Pending,Skin Infection,2.013011267862865,2020,12.14
+D0724,Drug_724,Antifungal,500mg,6.23,14.44,Europe,96.0,23.0,Rejected,COVID-19,2.003193340447851,2014,16.76
+D0725,Drug_725,Antibiotic,0.5g,3.13,15.89,Asia,68.0,21.0,Pending,Depression,3.080731742929575,2002,15.52
+D0726,Drug_726,Antibiotic,500mg,7.17,10.01,Asia,32.0,23.0,Pending,Skin Infection,4.988681005702897,2007,14.56
+D0727,Drug_727,Antifungal,250 mg,3.93,13.03,N. America,83.0,15.0,Pending,Depression,2.5416843989195144,2010,7.9
+D0728,Drug_728,Analgesic,250 mg,6.62,14.02,Europe,45.0,24.0,Approved,Headache,3.1979582940472815,1990,11.93
+D0729,Drug_729,Antiviral,250 mg,5.73,7.77,Asia,34.0,22.0,Pending,Influenza,4.721466631606118,2025,16.74
+D0730,Drug_730,Antibiotic,0.5g,8.68,8.54,Asia,75.0,29.0,Approved,COVID-19,4.385149345945841,1997,11.14
+D0731,Drug_731,Antidepressant,0.5g,4.55,13.69,N. America,72.0,28.0,Approved,Headache,4.147874593746969,2010,18.22
+D0732,Drug_732,Antidepressant,1g,4.3,15.06,N. America,44.0,25.0,Approved,Skin Infection,3.7753815450890653,2010,14.68
+D0733,Drug_733,Antifungal,250 mg,4.96,11.69,South America,71.0,19.0,Approved,Influenza,3.462904213780691,2016,18.84
+D0734,Drug_734,Analgesic,500mg,4.39,7.36,N. America,,7.0,Rejected,Headache,3.7918871636944544,2008,7.73
+D0735,Drug_735,Antibiotic,0.5g,6.6,15.96,North America,81.0,11.0,Approved,Depression,4.6176057460678095,2012,11.38
+D0736,Drug_736,Analgesic,250 mg,1.77,8.41,Europe,60.0,26.0,Pending,Influenza,1.6412818854677376,2024,11.76
+D0737,Drug_737,Antibiotic,250 mg,2.89,8.99,South America,45.0,17.0,Approved,Depression,4.241457599037748,1994,14.42
+D0738,Drug_738,Antifungal,0.5g,2.86,11.03,North America,55.0,16.0,Pending,Headache,1.564438593330597,1997,9.05
+D0739,Drug_739,Antifungal,1g,6.9,,Asia,74.0,15.0,Approved,Skin Infection,4.65971974651713,2000,5.57
+D0740,Drug_740,Antidepressant,0.5g,8.42,12.56,Asia,38.0,17.0,Rejected,Depression,3.344832664762036,2005,13.51
+D0741,Drug_741,Analgesic,0.5g,4.79,11.24,South America,36.0,22.0,Approved,Influenza,3.6047078429744728,2013,10.53
+D0742,Drug_742,Antidepressant,500mg,4.66,11.39,N. America,85.0,27.0,Approved,Headache,1.4987897884944128,2010,10.12
+D0743,Drug_743,Analgesic,500mg,5.14,10.13,Eurupe,83.0,22.0,Rejected,Depression,3.2165148648418254,2012,9.23
+D0744,Drug_744,Antidepressant,1g,7.32,11.67,Eurupe,97.0,31.0,Approved,Skin Infection,4.389624539716946,2050,12.5
+D0745,Drug_745,Antiviral,250 mg,3.15,2.41,Asia,55.0,34.0,Pending,COVID-19,2.3002305735672612,1997,7.69
+D0746,Drug_746,Antiviral,0.5g,5.48,9.11,Eurupe,62.0,24.0,Approved,Skin Infection,4.138146074739581,1996,11.22
+D0747,Drug_747,Antiviral,1g,6.95,10.72,Africa,35.0,8.0,Approved,Skin Infection,2.341352953392841,1991,8.69
+D0748,Drug_748,Antiviral,500mg,6.0,6.55,South America,75.0,28.0,Approved,COVID-19,4.54280765416191,2019,9.56
+D0749,Drug_749,Antibiotic,0.5g,5.38,11.16,North America,77.0,28.0,Rejected,Skin Infection,4.501485053308933,2002,13.42
+D0750,Drug_750,Antiviral,250 mg,7.0,9.39,South America,99.0,8.0,Approved,COVID-19,2.467992589072883,2012,14.61
+D0751,Drug_751,Antifungal,500mg,-0.41,15.27,Europe,47.0,19.0,Approved,COVID-19,2.8130467335268925,2018,10.78
+D0752,Drug_752,Antifungal,500mg,6.36,14.72,N. America,35.0,32.0,Pending,Depression,,2050,15.87
+D0753,Drug_753,Antibiotic,500mg,3.69,8.6,N. America,43.0,32.0,Approved,Depression,2.109387046898517,1890,8.11
+D0754,Drug_754,Antiviral,1g,1.34,9.55,South America,73.0,30.0,Approved,COVID-19,2.3617643203976737,2009,5.92
+D0755,Drug_755,Antiviral,250 mg,6.02,9.78,Asia,94.0,22.0,Approved,Headache,4.824983823478669,2022,6.65
+D0756,Drug_756,Antiviral,0.5g,7.75,8.65,Asia,49.0,8.0,Approved,Influenza,2.6264234121843826,2018,7.7
+D0757,Drug_757,Antidepressant,1g,4.73,10.59,Africa,57.0,18.0,Pending,Headache,3.8261992091313077,2004,6.75
+D0758,Drug_758,Analgesic,1g,6.91,7.73,Africa,70.0,30.0,Pending,COVID-19,3.8347233540476204,2012,20.08
+D0759,Drug_759,Antidepressant,1g,8.22,6.61,N. America,60.0,33.0,Rejected,Influenza,2.763060990701476,1992,5.8
+D0760,Drug_760,Analgesic,500mg,7.63,11.87,Africa,87.0,34.0,Approved,Depression,1.1264801529498558,1890,15.75
+D0761,Drug_761,Antiviral,250 mg,8.28,11.89,North America,52.0,16.0,Rejected,Influenza,4.089643998509137,2018,11.9
+D0762,Drug_762,Antiviral,1g,6.48,7.59,Africa,71.0,20.0,Rejected,COVID-19,1.686803346201236,1997,12.9
+D0763,Drug_763,Antidepressant,0.5g,5.15,12.69,North America,37.0,14.0,Approved,Depression,3.3294298202558634,2011,8.38
+D0764,Drug_764,Antidepressant,250 mg,1.8,8.11,Africa,62.0,17.0,Pending,Influenza,3.5495699917405394,2018,13.3
+D0765,Drug_765,Analgesic,0.5g,4.51,10.76,N. America,89.0,12.0,Pending,Influenza,2.4672235405600227,1991,8.34
+D0766,Drug_766,Antifungal,250 mg,3.31,12.46,N. America,62.0,22.0,Approved,Headache,3.4876576851355128,1990,15.69
+D0767,Drug_767,Analgesic,0.5g,9.34,9.9,North America,96.0,7.0,Approved,Influenza,3.0497590749755368,2009,16.02
+D0768,Drug_768,Antidepressant,500mg,4.65,11.36,South America,67.0,23.0,Pending,COVID-19,,2010,11.46
+D0769,Drug_769,Antidepressant,1g,5.25,8.45,N. America,73.0,25.0,Approved,Pneumonia,1.4135120288078395,1890,11.72
+D0770,Drug_770,Antibiotic,0.5g,6.1,9.41,South America,47.0,28.0,Approved,Pneumonia,2.2389127349101274,1997,13.73
+D0771,Drug_771,Antidepressant,250 mg,5.09,9.38,Asia,76.0,9.0,Approved,Pneumonia,4.094589580221337,2016,13.53
+D0772,Drug_772,Antibiotic,1g,8.39,7.76,North America,95.0,27.0,Pending,COVID-19,1.4135120288078395,2024,16.1
+D0773,Drug_773,Antifungal,1g,3.75,9.47,Eurupe,89.0,33.0,Rejected,Pneumonia,2.985595686708337,1995,15.98
+D0774,Drug_774,Analgesic,250 mg,5.39,5.35,N. America,52.0,21.0,Rejected,Headache,1.4223935841045638,2008,11.88
+D0775,Drug_775,Analgesic,0.5g,3.52,8.53,Europe,74.0,6.0,Approved,COVID-19,3.991694605245669,2007,10.09
+D0776,Drug_776,Antibiotic,500mg,2.36,9.15,Asia,97.0,15.0,Pending,Depression,4.133267560877446,1990,15.25
+D0777,Drug_777,Analgesic,500mg,3.78,9.23,South America,65.0,26.0,Approved,COVID-19,4.355551596503098,2014,11.37
+D0778,Drug_778,Antidepressant,0.5g,4.93,9.28,N. America,55.0,10.0,Pending,COVID-19,1.967842542697984,2016,12.45
+D0779,Drug_779,Antiviral,1g,4.14,9.81,North America,71.0,27.0,Approved,Influenza,3.170191449202584,1996,14.12
+D0780,Drug_780,Antibiotic,1g,3.62,11.44,Eurupe,,11.0,Pending,Influenza,4.3732118646086455,2018,15.9
+D0781,Drug_781,Analgesic,1g,2.19,12.62,Africa,81.0,20.0,Pending,Influenza,4.813297059548553,2020,13.04
+D0782,Drug_782,Antibiotic,1g,4.83,,Eurupe,59.0,32.0,Rejected,Skin Infection,4.501485053308933,2025,9.65
+D0783,Drug_783,Antibiotic,0.5g,1.99,6.39,Europe,80.0,27.0,Approved,Headache,2.5792030738518124,2008,19.19
+D0784,Drug_784,Antiviral,1g,50.0,6.87,South America,97.0,23.0,Rejected,COVID-19,,1995,18.12
+D0785,Drug_785,Antidepressant,250 mg,5.16,8.54,Asia,78.0,12.0,Rejected,COVID-19,3.696233811014783,2014,7.93
+D0786,Drug_786,Antibiotic,1g,2.08,,Eurupe,,31.0,Pending,Influenza,4.02316497154121,2020,8.35
+D0787,Drug_787,Analgesic,500mg,4.38,7.69,North America,41.0,12.0,Approved,COVID-19,4.810568523203445,1998,8.86
+D0788,Drug_788,Antifungal,1g,3.5,6.11,Europe,31.0,24.0,Pending,Depression,,2009,15.39
+D0789,Drug_789,Antibiotic,0.5g,5.64,8.63,North America,41.0,28.0,Pending,COVID-19,2.3818446058730753,1999,19.34
+D0790,Drug_790,Antibiotic,500mg,7.68,10.54,N. America,66.0,19.0,Pending,Pneumonia,,1890,9.97
+D0791,Drug_791,Antiviral,0.5g,1.25,11.79,Africa,61.0,17.0,Approved,Depression,4.0502844511662115,2016,12.68
+D0792,Drug_792,Antidepressant,0.5g,5.23,8.33,Asia,57.0,30.0,Approved,Depression,2.253104044552715,2002,8.99
+D0793,Drug_793,Antifungal,500mg,4.68,8.76,North America,96.0,28.0,Pending,COVID-19,1.3306681519461692,1991,18.8
+D0794,Drug_794,Analgesic,0.5g,200.0,,South America,72.0,31.0,Approved,Skin Infection,4.428771814347223,2010,15.3
+D0795,Drug_795,Antifungal,0.5g,5.43,9.91,N. America,45.0,29.0,Pending,Influenza,1.3306681519461692,2022,8.7
+D0796,Drug_796,Analgesic,1g,3.5,7.45,N. America,45.0,8.0,Approved,Headache,3.8123756150377313,2013,3.59
+D0797,Drug_797,Antidepressant,250 mg,4.36,11.72,Asia,67.0,25.0,Approved,Headache,3.5941081072968113,2023,16.15
+D0798,Drug_798,Analgesic,0.5g,3.41,4.64,N. America,38.0,12.0,Rejected,Pneumonia,2.321230750227514,1998,9.71
+D0799,Drug_799,Antiviral,0.5g,7.15,8.92,South America,76.0,6.0,Pending,Headache,2.881486269539466,1991,15.37
+D0800,Drug_800,Antiviral,0.5g,5.04,10.9,North America,59.0,19.0,Rejected,Headache,4.035555400561787,2019,13.17
+D0801,Drug_801,Antiviral,1g,8.8,10.55,Asia,43.0,30.0,Rejected,Influenza,4.133267560877446,2011,4.66
+D0802,Drug_802,Antiviral,250 mg,4.88,18.08,N. America,74.0,6.0,Pending,Influenza,3.4348917687128653,2000,8.77
+D0803,Drug_803,Antifungal,500mg,3.58,11.05,N. America,83.0,23.0,Pending,Skin Infection,1.8310825177589134,2006,10.58
+D0804,Drug_804,Antidepressant,1g,1.97,6.99,South America,57.0,8.0,Approved,Pneumonia,,2025,9.3
+D0805,Drug_805,Analgesic,1g,100.0,,Africa,71.0,11.0,Pending,Headache,1.6541827472965571,2002,12.46
+D0806,Drug_806,Analgesic,250 mg,1.83,4.67,Africa,56.0,25.0,Rejected,Skin Infection,1.0054220979917954,1996,13.61
+D0807,Drug_807,Antiviral,250 mg,5.53,9.76,Eurupe,31.0,14.0,Rejected,Pneumonia,4.824983823478669,2005,19.16
+D0808,Drug_808,Antiviral,1g,6.02,7.5,N. America,80.0,18.0,Pending,Depression,3.922736389683106,2022,13.89
+D0809,Drug_809,Antibiotic,500mg,1.84,12.75,North America,72.0,28.0,Rejected,Headache,,1990,17.96
+D0810,Drug_810,Antidepressant,1g,6.79,8.35,Asia,52.0,12.0,Approved,Headache,4.02316497154121,2000,10.09
+D0811,Drug_811,Antifungal,250 mg,4.03,9.65,N. America,98.0,27.0,Rejected,Influenza,4.613204509555038,1995,16.66
+D0812,Drug_812,Analgesic,500mg,50.0,8.09,Europe,73.0,33.0,Approved,COVID-19,4.861642797474446,2009,10.48
+D0813,Drug_813,Antibiotic,250 mg,8.22,15.22,Asia,74.0,11.0,Rejected,Pneumonia,2.23538909912648,2024,8.33
+D0814,Drug_814,Antibiotic,500mg,6.79,9.04,Eurupe,64.0,12.0,Approved,Headache,4.196952376813833,1890,8.16
+D0815,Drug_815,Analgesic,0.5g,4.46,15.5,Africa,58.0,34.0,Approved,Pneumonia,3.1516781053169725,2015,1.43
+D0816,Drug_816,Antifungal,250 mg,3.22,12.44,N. America,34.0,8.0,Pending,Skin Infection,4.667226312299105,2001,15.42
+D0817,Drug_817,Antibiotic,250 mg,0.7,11.45,South America,79.0,35.0,Approved,Skin Infection,3.1741585863003032,2019,6.84
+D0818,Drug_818,Antibiotic,1g,3.56,11.11,Europe,54.0,13.0,Pending,COVID-19,3.5457149750113963,2017,17.63
+D0819,Drug_819,Antidepressant,250 mg,4.58,11.18,N. America,46.0,8.0,Rejected,Headache,4.501485053308933,2016,11.3
+D0820,Drug_820,Antifungal,250 mg,3.03,4.22,Eurupe,53.0,24.0,Rejected,Influenza,2.064633544204706,2008,5.78
+D0821,Drug_821,Antibiotic,0.5g,4.74,9.16,North America,55.0,27.0,Rejected,Headache,2.513095574731492,1994,7.53
+D0822,Drug_822,Antifungal,250 mg,5.15,12.54,Europe,74.0,23.0,Approved,Pneumonia,3.719243566405321,1994,12.76
+D0823,Drug_823,Analgesic,0.5g,4.55,9.85,Eurupe,56.0,19.0,Rejected,Depression,4.240071112185053,2016,4.48
+D0824,Drug_824,Antiviral,0.5g,3.7,,N. America,58.0,15.0,Rejected,Skin Infection,1.111399110331023,2017,14.36
+D0825,Drug_825,Antibiotic,0.5g,5.34,9.84,North America,49.0,31.0,Pending,Pneumonia,,2015,5.93
+D0826,Drug_826,Antidepressant,0.5g,5.88,15.11,Europe,77.0,6.0,Pending,COVID-19,1.0413823858907998,2016,9.04
+D0827,Drug_827,Analgesic,500mg,2.82,13.74,North America,82.0,29.0,Rejected,Skin Infection,3.99282847358051,2010,12.79
+D0828,Drug_828,Antifungal,1g,7.82,9.81,North America,90.0,15.0,Rejected,Influenza,4.133267560877446,1990,13.87
+D0829,Drug_829,Analgesic,500mg,4.8,12.85,Europe,51.0,16.0,Approved,Skin Infection,3.080731742929575,2017,15.19
+D0830,Drug_830,Antibiotic,250 mg,5.04,8.9,Europe,90.0,26.0,Approved,Depression,1.049702375175729,2004,6.77
+D0831,Drug_831,Antifungal,500mg,6.42,4.89,North America,80.0,14.0,Rejected,Headache,1.7388556382795328,2006,10.77
+D0832,Drug_832,Antiviral,500mg,5.47,7.23,Eurupe,96.0,12.0,Pending,Depression,2.3152072183138146,2015,16.37
+D0833,Drug_833,Analgesic,250 mg,6.91,14.69,Africa,97.0,28.0,Rejected,Depression,2.426487195304208,2009,10.77
+D0834,Drug_834,Antibiotic,250 mg,5.57,9.18,Europe,,9.0,Approved,Headache,2.6835089989728247,2014,13.18
+D0835,Drug_835,Antidepressant,250 mg,3.78,9.27,N. America,71.0,22.0,Pending,Skin Infection,3.49976910042958,2002,12.65
+D0836,Drug_836,Antifungal,500mg,5.72,9.1,Asia,73.0,29.0,Pending,COVID-19,4.691720312402426,2022,17.2
+D0837,Drug_837,Analgesic,500mg,2.71,15.71,South America,72.0,33.0,Approved,Headache,1.933006765065568,2014,10.14
+D0838,Drug_838,Analgesic,250 mg,5.22,14.88,North America,72.0,8.0,Rejected,Headache,3.983569060261929,1997,6.44
+D0839,Drug_839,Antiviral,1g,4.93,16.66,North America,90.0,23.0,Rejected,Influenza,3.6415473528035545,1994,8.13
+D0840,Drug_840,Antiviral,1g,4.58,9.52,South America,65.0,24.0,Rejected,Skin Infection,3.4876576851355128,1995,12.76
+D0841,Drug_841,Antidepressant,0.5g,4.74,10.89,Africa,72.0,31.0,Approved,Headache,3.2086433078840497,2012,5.72
+D0842,Drug_842,Antidepressant,250 mg,1.24,5.45,South America,57.0,23.0,Pending,COVID-19,,2019,9.82
+D0843,Drug_843,Antibiotic,0.5g,3.9,,Europe,51.0,23.0,Approved,Pneumonia,1.2436489074861083,2003,12.3
+D0844,Drug_844,Antibiotic,1g,5.19,6.5,South America,80.0,18.0,Rejected,Skin Infection,2.034002270798376,2012,8.93
+D0845,Drug_845,Antidepressant,0.5g,5.32,10.65,North America,42.0,21.0,Approved,Influenza,3.0950339862113996,2000,13.31
+D0846,Drug_846,Antidepressant,250 mg,2.94,6.71,South America,83.0,31.0,Pending,Depression,1.6153036980296438,2020,14.9
+D0847,Drug_847,Antifungal,250 mg,7.53,8.23,Asia,65.0,30.0,Approved,Headache,2.003193340447851,1995,13.82
+D0848,Drug_848,Antiviral,250 mg,3.27,7.49,N. America,71.0,30.0,Rejected,COVID-19,2.2423080622031493,2000,5.81
+D0849,Drug_849,Antibiotic,500mg,6.94,8.18,Europe,,9.0,Pending,Skin Infection,1.5068509409369555,2002,12.32
+D0850,Drug_850,Antiviral,0.5g,5.85,8.38,South America,,33.0,Approved,COVID-19,4.590114489507458,2001,12.63
+D0851,Drug_851,Antiviral,1g,3.71,8.36,North America,79.0,8.0,Approved,COVID-19,2.003193340447851,1991,10.48
+D0852,Drug_852,Antidepressant,1g,8.55,12.5,Eurupe,62.0,16.0,Pending,Depression,1.6639488864155054,2024,13.25
+D0853,Drug_853,Antifungal,1g,100.0,6.69,N. America,79.0,29.0,Pending,Influenza,3.0822821771966935,2025,13.11
+D0854,Drug_854,Analgesic,500mg,6.84,10.66,Europe,45.0,13.0,Rejected,Skin Infection,3.1865025837729846,2006,11.64
+D0855,Drug_855,Antifungal,500mg,7.0,13.65,North America,59.0,32.0,Pending,Headache,4.723592577485718,2017,7.98
+D0856,Drug_856,Antifungal,250 mg,3.66,8.46,Africa,90.0,16.0,Rejected,Influenza,2.1528107754001553,2017,11.89
+D0857,Drug_857,Antiviral,1g,7.78,7.85,Asia,65.0,9.0,Approved,Headache,2.3994009443634194,2011,19.47
+D0858,Drug_858,Antifungal,500mg,4.5,9.31,Africa,48.0,35.0,Rejected,Pneumonia,1.483118089730315,2050,10.43
+D0859,Drug_859,Antibiotic,250 mg,5.58,13.54,Asia,93.0,8.0,Approved,COVID-19,,1996,16.19
+D0860,Drug_860,Antiviral,1g,5.52,10.58,South America,90.0,33.0,Pending,Pneumonia,3.234917774098156,2004,12.16
+D0861,Drug_861,Antibiotic,0.5g,4.73,8.41,Europe,39.0,24.0,Approved,COVID-19,4.1877910223009,2021,8.8
+D0862,Drug_862,Analgesic,250 mg,100.0,,South America,82.0,14.0,Pending,Depression,3.6119709261668707,2000,10.81
+D0863,Drug_863,Antiviral,500mg,6.59,6.69,Asia,,32.0,Approved,Influenza,1.8751774063068902,2013,11.93
+D0864,Drug_864,Analgesic,500mg,1.5,12.04,Asia,,26.0,Approved,Headache,1.0113686146558898,1992,14.62
+D0865,Drug_865,Antiviral,250 mg,7.61,11.23,Asia,80.0,25.0,Approved,Depression,1.7955668117520696,2019,21.52
+D0866,Drug_866,Antidepressant,250 mg,1.68,9.08,N. America,69.0,29.0,Approved,Headache,2.5819201121266273,1995,12.22
+D0867,Drug_867,Antifungal,500mg,7.07,7.48,North America,,35.0,Rejected,Influenza,2.7409228720376957,1991,7.08
+D0868,Drug_868,Antidepressant,0.5g,7.25,,Europe,93.0,21.0,Approved,Skin Infection,2.170161713926279,2003,5.38
+D0869,Drug_869,Analgesic,1g,2.82,11.6,South America,78.0,28.0,Rejected,Pneumonia,1.504678360594947,2007,10.31
+D0870,Drug_870,Antifungal,0.5g,4.18,13.69,South America,42.0,31.0,Pending,Pneumonia,1.5068509409369555,2020,7.49
+D0871,Drug_871,Antiviral,250 mg,50.0,8.09,Africa,38.0,8.0,Pending,Headache,1.8083326600316947,2002,14.23
+D0872,Drug_872,Antifungal,0.5g,4.57,11.38,Asia,35.0,34.0,Rejected,Headache,,2015,14.26
+D0873,Drug_873,Antibiotic,500mg,4.38,3.74,Eurupe,67.0,17.0,Pending,Headache,4.294637003935895,2001,11.42
+D0874,Drug_874,Antifungal,250 mg,6.56,8.25,Asia,,10.0,Pending,Influenza,2.22400389433267,2007,14.63
+D0875,Drug_875,Antibiotic,1g,7.62,9.91,Asia,47.0,25.0,Approved,Skin Infection,4.582611678332707,1998,12.26
+D0876,Drug_876,Antifungal,500mg,7.79,7.27,Eurupe,32.0,20.0,Approved,Pneumonia,1.0063176843116475,2010,19.47
+D0877,Drug_877,Antibiotic,500mg,3.88,7.19,South America,69.0,12.0,Approved,Depression,,2013,14.5
+D0878,Drug_878,Analgesic,1g,4.58,8.0,Africa,42.0,23.0,Rejected,COVID-19,3.1516781053169725,2023,15.58
+D0879,Drug_879,Antidepressant,1g,1.63,10.88,North America,52.0,12.0,Rejected,Influenza,4.199050971180959,1997,6.21
+D0880,Drug_880,Antiviral,0.5g,3.39,9.44,Eurupe,69.0,32.0,Pending,Pneumonia,4.810568523203445,2022,7.32
+D0881,Drug_881,Antifungal,250 mg,6.93,3.29,N. America,97.0,21.0,Approved,Skin Infection,1.787733949763481,2012,13.92
+D0882,Drug_882,Antidepressant,1g,8.23,3.64,Europe,58.0,,Rejected,Influenza,4.6115065882519835,2002,5.8
+D0883,Drug_883,Antiviral,1g,2.53,8.18,Eurupe,73.0,19.0,Rejected,Depression,3.1259437092180193,2003,9.5
+D0884,Drug_884,Antiviral,250 mg,3.82,11.37,North America,85.0,30.0,Approved,Pneumonia,2.429878582006966,2003,16.72
+D0885,Drug_885,Antibiotic,1g,4.95,1.76,South America,99.0,10.0,Rejected,Influenza,4.5266980411474895,2005,9.42
+D0886,Drug_886,Analgesic,1g,5.56,8.5,N. America,92.0,9.0,Approved,Pneumonia,2.678054837350068,2050,7.16
+D0887,Drug_887,Analgesic,0.5g,3.38,8.42,N. America,,14.0,Pending,Pneumonia,,2015,14.67
+D0888,Drug_888,Antidepressant,500mg,5.85,14.17,N. America,36.0,26.0,Pending,Skin Infection,2.467992589072883,2015,20.29
+D0889,Drug_889,Analgesic,500mg,4.05,8.84,Asia,51.0,6.0,Pending,COVID-19,1.7921237865243747,1990,8.77
+D0890,Drug_890,Antifungal,500mg,4.97,11.15,Europe,92.0,17.0,Approved,Skin Infection,4.681089475209631,2021,16.9
+D0891,Drug_891,Analgesic,500mg,6.09,10.42,South America,47.0,24.0,Rejected,Pneumonia,3.4476163390692967,2004,8.27
+D0892,Drug_892,Antidepressant,1g,5.01,3.61,South America,40.0,19.0,Pending,Influenza,4.331726593571659,2010,11.55
+D0893,Drug_893,Analgesic,250 mg,4.13,12.3,N. America,,28.0,Pending,Depression,3.234489347464758,2007,11.72
+D0894,Drug_894,Antifungal,250 mg,4.78,10.65,South America,77.0,20.0,Pending,Skin Infection,4.6176057460678095,2019,8.87
+D0895,Drug_895,Antibiotic,0.5g,4.82,11.52,Europe,72.0,31.0,Rejected,COVID-19,1.7171849410401938,2002,15.5
+D0896,Drug_896,Antidepressant,0.5g,4.26,21.78,Europe,45.0,16.0,Rejected,Pneumonia,1.4314130582492366,2013,5.84
+D0897,Drug_897,Antibiotic,1g,4.48,3.75,Africa,39.0,12.0,Approved,Depression,2.960017003057374,2019,12.78
+D0898,Drug_898,Antibiotic,250 mg,8.2,15.17,Eurupe,35.0,12.0,Pending,Skin Infection,3.227522360591863,1991,16.3
+D0899,Drug_899,Antibiotic,250 mg,6.12,9.14,Eurupe,47.0,13.0,Rejected,Skin Infection,1.0475913289806225,2008,15.17
+D0900,Drug_900,Antiviral,500mg,4.41,10.86,Africa,81.0,31.0,Approved,Skin Infection,1.0237128613475126,2014,13.96
+D0901,Drug_901,Antiviral,1g,6.39,9.86,North America,64.0,34.0,Pending,Skin Infection,,2003,18.34
+D0902,Drug_902,Antibiotic,1g,4.33,8.73,Eurupe,66.0,17.0,Rejected,Depression,1.0072481354770066,1995,11.12
+D0903,Drug_903,Antidepressant,500mg,7.35,8.29,Europe,63.0,34.0,Rejected,Influenza,3.0009259157032075,2001,5.9
+D0904,Drug_904,Antifungal,1g,5.74,10.99,Europe,46.0,25.0,Approved,COVID-19,1.4987897884944128,2009,12.54
+D0905,Drug_905,Antifungal,1g,4.79,5.45,Eurupe,58.0,25.0,Pending,COVID-19,4.036112192204811,2012,11.5
+D0906,Drug_906,Analgesic,0.5g,5.9,12.25,Europe,85.0,14.0,Pending,Pneumonia,3.510224095482586,2019,3.54
+D0907,Drug_907,Antidepressant,250 mg,1.86,8.75,Africa,51.0,15.0,Rejected,Headache,3.7115796739843514,2019,7.5
+D0908,Drug_908,Antiviral,1g,2.75,6.61,N. America,46.0,10.0,Pending,Influenza,3.268049301680689,2050,6.99
+D0909,Drug_909,Antibiotic,0.5g,2.61,,N. America,55.0,34.0,Approved,Pneumonia,4.721466631606118,2019,8.74
+D0910,Drug_910,Analgesic,250 mg,5.29,13.77,South America,54.0,26.0,Rejected,Pneumonia,4.089643998509137,2019,10.6
+D0911,Drug_911,Antifungal,500mg,8.47,8.39,N. America,83.0,17.0,Rejected,Skin Infection,2.150200157701773,2025,10.75
+D0912,Drug_912,Antiviral,0.5g,9.46,11.08,Asia,83.0,23.0,Approved,Headache,3.0243323829620437,2023,8.88
+D0913,Drug_913,Antiviral,0.5g,6.28,7.81,Africa,45.0,30.0,Rejected,Headache,3.922736389683106,2005,6.98
+D0914,Drug_914,Antibiotic,250 mg,6.0,12.27,Europe,64.0,12.0,Pending,Influenza,3.97088598874567,2013,13.51
+D0915,Drug_915,Antifungal,500mg,1.4,12.06,Eurupe,73.0,26.0,Pending,Headache,2.5819201121266273,2003,12.47
+D0916,Drug_916,Antidepressant,0.5g,3.91,15.55,N. America,32.0,25.0,Rejected,Pneumonia,1.632506278532273,2015,12.59
+D0917,Drug_917,Antiviral,1g,3.42,9.47,Africa,44.0,12.0,Approved,Headache,,1997,19.12
+D0918,Drug_918,Antibiotic,1g,3.76,12.01,N. America,59.0,33.0,Approved,Headache,1.0063176843116475,2003,12.65
+D0919,Drug_919,Antidepressant,1g,4.66,10.29,North America,56.0,17.0,Pending,COVID-19,4.137632466472815,2020,10.53
+D0920,Drug_920,Antifungal,500mg,4.06,13.89,Europe,93.0,32.0,Approved,Pneumonia,4.519241742878741,1991,11.58
+D0921,Drug_921,Antiviral,0.5g,1.04,7.84,North America,54.0,15.0,Rejected,Depression,,1993,12.4
+D0922,Drug_922,Antidepressant,1g,6.5,12.24,Europe,76.0,30.0,Rejected,Headache,3.68911531789632,1990,14.46
+D0923,Drug_923,Antidepressant,500mg,2.85,9.42,Africa,92.0,31.0,Pending,Headache,4.517587973223538,2009,11.82
+D0924,Drug_924,Antidepressant,1g,5.48,9.81,South America,70.0,27.0,Pending,Skin Infection,2.175845505641193,2003,4.23
+D0925,Drug_925,Antiviral,250 mg,9.15,10.28,N. America,84.0,16.0,Pending,Headache,1.0890898202688954,2014,10.25
+D0926,Drug_926,Antiviral,0.5g,3.16,10.76,N. America,71.0,29.0,Approved,Headache,1.049702375175729,2014,12.01
+D0927,Drug_927,Analgesic,0.5g,-0.06,9.65,Asia,43.0,31.0,Rejected,COVID-19,3.087739856258308,1992,17.22
+D0928,Drug_928,Antifungal,500mg,4.43,10.64,Eurupe,53.0,30.0,Rejected,Pneumonia,3.0009259157032075,1994,8.86
+D0929,Drug_929,Antibiotic,500mg,7.2,14.73,North America,33.0,32.0,Rejected,Influenza,1.7416472713086968,2050,5.46
+D0930,Drug_930,Antidepressant,0.5g,8.92,12.96,N. America,97.0,14.0,Pending,Pneumonia,3.5598255404582817,2015,12.26
+D0931,Drug_931,Analgesic,1g,2.54,12.61,Africa,52.0,34.0,Rejected,Skin Infection,4.719434002002243,2050,15.46
+D0932,Drug_932,Antibiotic,1g,5.99,8.63,South America,49.0,18.0,Approved,Pneumonia,4.428771814347223,2050,10.43
+D0933,Drug_933,Analgesic,250 mg,4.07,7.33,Eurupe,71.0,14.0,Approved,Headache,3.431837403329368,1993,21.53
+D0934,Drug_934,Antiviral,1g,4.79,12.87,Africa,36.0,25.0,Rejected,Skin Infection,1.0890898202688954,1996,20.59
+D0935,Drug_935,Antidepressant,500mg,10.29,12.63,North America,33.0,15.0,Pending,Pneumonia,4.243312453449084,2019,11.71
+D0936,Drug_936,Antibiotic,500mg,1.99,14.42,Asia,78.0,26.0,Rejected,Skin Infection,2.4672235405600227,2019,12.75
+D0937,Drug_937,Antibiotic,1g,5.51,8.19,N. America,75.0,10.0,Approved,Influenza,2.128622336144557,2008,17.47
+D0938,Drug_938,Antibiotic,500mg,5.94,9.31,Africa,86.0,28.0,Approved,Pneumonia,1.7471232286494827,2024,11.64
+D0939,Drug_939,Antibiotic,0.5g,7.17,5.08,Eurupe,46.0,13.0,Approved,Depression,3.9084177962340276,2022,8.78
+D0940,Drug_940,Antibiotic,0.5g,5.2,8.82,Europe,35.0,21.0,Rejected,Headache,2.7630632057461653,2022,15.56
+D0941,Drug_941,Analgesic,1g,5.62,12.99,South America,72.0,23.0,Approved,Skin Infection,3.603465581016563,2003,13.86
+D0942,Drug_942,Antidepressant,0.5g,4.22,8.6,Eurupe,45.0,30.0,Pending,Depression,2.321230750227514,2050,8.77
+D0943,Drug_943,Antiviral,0.5g,5.54,11.92,Africa,42.0,18.0,Rejected,Depression,,1999,13.12
+D0944,Drug_944,Antiviral,250 mg,4.31,9.43,South America,49.0,12.0,Rejected,COVID-19,2.610846598606801,2017,11.36
+D0945,Drug_945,Antiviral,250 mg,6.24,10.97,N. America,36.0,30.0,Approved,Skin Infection,1.2508886856578352,2003,10.46
+D0946,Drug_946,Antiviral,0.5g,4.26,6.56,Europe,35.0,23.0,Approved,Depression,4.430641588169026,2025,8.86
+D0947,Drug_947,Analgesic,1g,5.75,10.26,Asia,94.0,23.0,Pending,COVID-19,4.356769371486154,2050,12.49
+D0948,Drug_948,Antifungal,250 mg,4.94,1.03,Eurupe,83.0,12.0,Rejected,Depression,4.147874593746969,2005,10.94
+D0949,Drug_949,Antidepressant,500mg,7.25,9.44,Asia,99.0,7.0,Approved,Headache,1.078902985852702,2010,13.14
+D0950,Drug_950,Antibiotic,500mg,4.9,5.11,Europe,51.0,29.0,Pending,Influenza,2.5145695336163763,2017,15.28
+D0951,Drug_951,Antifungal,500mg,1.45,13.62,South America,82.0,29.0,Approved,COVID-19,3.75458020905756,2022,12.93
+D0952,Drug_952,Antiviral,1g,7.52,12.33,N. America,36.0,8.0,Rejected,Influenza,3.050330507388546,1995,12.99
+D0953,Drug_953,Antifungal,0.5g,3.19,11.4,Africa,77.0,16.0,Approved,Skin Infection,4.877444979983104,2004,9.84
+D0954,Drug_954,Antidepressant,500mg,3.69,14.56,Europe,96.0,30.0,Rejected,Headache,3.9472204268839963,1992,16.7
+D0955,Drug_955,Antibiotic,1g,3.81,7.15,North America,48.0,18.0,Approved,COVID-19,4.91461632535186,2024,8.61
+D0956,Drug_956,Antibiotic,250 mg,7.75,15.24,South America,33.0,20.0,Rejected,Skin Infection,2.128622336144557,2003,5.55
+D0957,Drug_957,Antidepressant,0.5g,0.73,12.8,Asia,65.0,31.0,Pending,Depression,1.7226507956096375,1991,7.72
+D0958,Drug_958,Antidepressant,250 mg,11.28,9.29,Eurupe,78.0,18.0,Rejected,Pneumonia,2.1528107754001553,2018,16.14
+D0959,Drug_959,Antiviral,1g,7.11,,Europe,65.0,15.0,Pending,Skin Infection,4.813280321737022,1993,13.84
+D0960,Drug_960,Antibiotic,500mg,5.45,6.68,Asia,72.0,28.0,Rejected,Influenza,3.9108254802438682,2015,17.25
+D0961,Drug_961,Antifungal,500mg,4.89,7.53,South America,80.0,26.0,Pending,Headache,4.3862446798451415,2001,6.71
+D0962,Drug_962,Analgesic,1g,5.57,8.17,Asia,52.0,26.0,Approved,Headache,2.1383831781436737,1991,21.28
+D0963,Drug_963,Analgesic,500mg,6.04,8.41,Europe,81.0,29.0,Rejected,Skin Infection,3.213961080795296,2006,10.87
+D0964,Drug_964,Antidepressant,0.5g,6.29,,South America,76.0,13.0,Approved,Depression,3.8917226889544145,2024,4.96
+D0965,Drug_965,Antiviral,1g,6.11,13.67,North America,81.0,19.0,Pending,Pneumonia,4.878227500892741,1999,20.78
+D0966,Drug_966,Analgesic,250 mg,5.18,9.22,Europe,90.0,17.0,Rejected,Influenza,2.809098049156556,2011,6.76
+D0967,Drug_967,Antibiotic,1g,4.61,11.06,Africa,59.0,8.0,Rejected,Skin Infection,3.807788800479227,2010,10.41
+D0968,Drug_968,Antidepressant,0.5g,4.7,8.29,N. America,32.0,32.0,Approved,Skin Infection,,2004,11.18
+D0969,Drug_969,Antifungal,0.5g,4.61,4.54,Europe,93.0,30.0,Rejected,Headache,3.662861741028562,2024,13.78
+D0970,Drug_970,Antidepressant,1g,7.27,,South America,74.0,21.0,Rejected,Influenza,1.8970335326049268,2010,8.83
+D0971,Drug_971,Antifungal,1g,6.19,4.26,Eurupe,46.0,30.0,Approved,Pneumonia,2.4672235405600227,2010,16.16
+D0972,Drug_972,Antidepressant,500mg,-0.88,9.79,N. America,,8.0,Rejected,Headache,3.88595669252669,2010,15.01
+D0973,Drug_973,Antidepressant,0.5g,6.31,5.9,Europe,44.0,28.0,Approved,Skin Infection,3.307869241873484,2021,12.08
+D0974,Drug_974,Antidepressant,1g,5.39,15.96,North America,67.0,22.0,Approved,Headache,2.4672235405600227,1994,17.3
+D0975,Drug_975,Antifungal,1g,4.96,12.73,Eurupe,86.0,6.0,Approved,Headache,2.5677647591537496,1998,11.73
+D0976,Drug_976,Antifungal,0.5g,4.22,10.32,North America,36.0,27.0,Approved,COVID-19,3.2086433078840497,2007,10.9
+D0977,Drug_977,Antidepressant,1g,7.25,13.79,Africa,63.0,35.0,Approved,Headache,1.3146482332570346,2010,19.99
+D0978,Drug_978,Analgesic,500mg,6.9,7.46,Eurupe,54.0,26.0,Pending,Depression,4.872083844910513,1997,13.18
+D0979,Drug_979,Antiviral,0.5g,3.45,11.63,Asia,65.0,24.0,Pending,Headache,1.258143535378705,2023,8.06
+D0980,Drug_980,Antiviral,500mg,5.81,10.6,Eurupe,97.0,12.0,Approved,Depression,1.407018114004063,1999,8.6
+D0981,Drug_981,Antiviral,500mg,3.06,10.79,N. America,33.0,30.0,Pending,Influenza,4.179191019283106,2013,12.08
+D0982,Drug_982,Antifungal,500mg,2.24,13.82,Eurupe,55.0,11.0,Pending,Headache,4.7088258591633245,2013,2.41
+D0983,Drug_983,Antifungal,500mg,50.0,12.2,South America,,10.0,Rejected,Pneumonia,1.2256054310431619,2021,9.47
+D0984,Drug_984,Analgesic,0.5g,6.72,10.87,South America,69.0,13.0,Approved,Depression,2.1927795115023954,2022,11.6
+D0985,Drug_985,Antiviral,500mg,6.91,5.04,Asia,,19.0,Pending,Depression,2.321230750227514,2050,11.33
+D0986,Drug_986,Antiviral,500mg,6.03,7.12,Eurupe,51.0,21.0,Rejected,Skin Infection,,2023,6.97
+D0987,Drug_987,Antidepressant,1g,6.45,9.63,North America,80.0,32.0,Rejected,Influenza,3.087739856258308,2000,10.21
+D0988,Drug_988,Antifungal,0.5g,6.03,10.28,North America,,28.0,Approved,Headache,3.3106457468786545,2020,16.72
+D0989,Drug_989,Antiviral,0.5g,3.72,6.61,Europe,86.0,34.0,Approved,Pneumonia,4.199050971180959,2007,15.89
+D0990,Drug_990,Analgesic,250 mg,5.86,17.24,Africa,49.0,17.0,Rejected,Skin Infection,1.064432874197348,2012,12.38
+D0991,Drug_991,Analgesic,0.5g,6.6,14.55,N. America,92.0,33.0,Approved,Influenza,1.546941610916941,2011,11.72
+D0992,Drug_992,Antiviral,0.5g,6.51,11.81,Africa,37.0,19.0,Approved,Depression,1.2508886856578352,2007,11.35
+D0993,Drug_993,Antifungal,250 mg,7.38,10.22,Eurupe,52.0,17.0,Rejected,Pneumonia,2.1044745297738325,2009,12.95
+D0994,Drug_994,Analgesic,0.5g,6.42,,Africa,52.0,31.0,Rejected,Headache,1.5068509409369555,2002,12.41
+D0995,Drug_995,Antidepressant,0.5g,5.7,7.14,Europe,58.0,18.0,Approved,COVID-19,3.09316985155598,1990,13.3
+D0996,Drug_996,Analgesic,0.5g,7.14,10.23,Africa,73.0,33.0,Pending,COVID-19,4.162411859079022,1993,14.01
+D0997,Drug_997,Antibiotic,0.5g,4.95,10.77,Asia,88.0,7.0,Approved,Influenza,4.135678339470159,2013,7.16
+D0998,Drug_998,Antibiotic,250 mg,3.24,6.27,Europe,78.0,29.0,Pending,Pneumonia,3.46584351291519,2025,10.76
+D0999,Drug_999,Antifungal,0.5g,4.67,11.0,Asia,59.0,6.0,Rejected,Skin Infection,4.654043867324965,2025,12.79
+D1000,Drug_1000,Antiviral,0.5g,3.51,9.53,Eurupe,57.0,10.0,Pending,Pneumonia,3.7309091911812464,1991,8.14
